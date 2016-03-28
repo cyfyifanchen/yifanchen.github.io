@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-03-27T19:35:31-06:00</updated>
+<updated>2016-03-27T19:40:56-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
 <entry>
@@ -140,8 +140,9 @@ With good softwares, be creative with your own mappings.&lt;/p&gt;
 
 &lt;p&gt;最后，这个post的目的是分享快捷键的小技巧，当然你可以按自己的方式来。&lt;/p&gt;
 </content>
-<category term="markdown" />
-<category term="elements" />
+<category term="keymapping" />
+<category term="karabiner" />
+<category term="shotcuts" />
 <summary>advanced-keymapping</summary>
 </entry>
 <entry>

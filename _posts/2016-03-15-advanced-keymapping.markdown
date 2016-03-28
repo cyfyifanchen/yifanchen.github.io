@@ -3,8 +3,9 @@ title: "Advanced Keymapping"
 layout: post
 date: 2016-03-20 22:44
 tag:
-- markdown
-- elements
+- keymapping
+- karabiner
+- shotcuts
 blog: true
 star: true
 ---
