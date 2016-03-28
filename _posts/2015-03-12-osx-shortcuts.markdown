@@ -3,7 +3,7 @@ title: "OSX Shortcuts You Might Not know"
 layout: post
 date: 2016-03-15 
 tag:
-- markdown
+- shortcuts 
 - keymapping
 - OSX
 blog: true
@@ -183,6 +183,3 @@ Read [advanced-keymapping](https://github.com/yifanchen/advanced-keymapping), an
 `control` + `l`: 清除窗口.
 
 `-`: 上一个目录。（这个很有用）
-
-
-

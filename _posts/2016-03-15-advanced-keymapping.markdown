@@ -38,7 +38,7 @@ going through lists in Slack, etc.
 
 The screen shot is my setting. You are welcome to play with it, map anyway you like. I am going to use my mapping as an example.
 
-![Karabiner key mapping](https://github.com/yifanchen/advanced-keymapping/blob/master/imgs/karabiner1.jpg) 
+![Karabiner key mapping](http://www.cyfyifanchen.com/assets/images/karabiner-setting.jpg) 
 
 After you map it the way like I do, the beautiful part happens:
 
@@ -125,5 +125,3 @@ With good softwares, be creative with your own mappings.
 ### 总结
 
 最后，这个post的目的是分享快捷键的小技巧，当然你可以按自己的方式来。
-
-

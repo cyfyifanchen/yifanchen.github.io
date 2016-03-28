@@ -31,8 +31,8 @@ twitter: cyfyifanchen
 # pinterest: mypinterest
 linkedin: cyfyifanchen
 #youtube: cyfyifanchen
-spotify: cyfyifanchen
-github: cyfyifanchen
+#spotify: cyfyifanchen
+github: yifanchen
 medium: cyfyifanchen
 email: cyfyifanchen@gmail.com
 
@@ -59,10 +59,10 @@ read-time: true
 show-tags: true
 
 # related posts inside a post?
-related: true
+#related: true
 
 # do you want some animations?
-animation: true
+animation: true 
 
 gems:
   - jemoji

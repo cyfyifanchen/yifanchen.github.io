@@ -3,22 +3,15 @@
     {
       "title"    : "Advanced Keymapping",
       "tags"     : "markdown and elements",
-      "url"      : "/Advanced-Keymapping/",
+      "url"      : "/advanced-keymapping/",
       "date"     : "20 Mar 2016"
     } ,
   
     {
       "title"    : "OSX Shortcuts You Might Not know",
-      "tags"     : "markdown, keymapping, and OSX",
-      "url"      : "/OSX-Shortcuts-You-Might-Now-Know/",
+      "tags"     : "shortcuts, keymapping, and OSX",
+      "url"      : "/osx-shortcuts/",
       "date"     : "15 Mar 2016"
-    } ,
-  
-    {
-      "title"    : "Markdown Common Elements",
-      "tags"     : "markdown and elements",
-      "url"      : "/markdown-common-elements/",
-      "date"     : "24 Feb 2016"
     } 
   
 ]

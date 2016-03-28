@@ -3,16 +3,16 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-03-27T18:33:01-06:00</updated>
+<updated>2016-03-27T19:35:31-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
 <entry>
 <title>Advanced Keymapping</title>
-<link href="http://localhost:3000/Advanced-Keymapping/" rel="alternate" type="text/html" title="Advanced Keymapping" />
+<link href="http://localhost:3000/advanced-keymapping/" rel="alternate" type="text/html" title="Advanced Keymapping" />
 <published>2016-03-20T22:44:00-06:00</published>
 <updated>2016-03-20T22:44:00-06:00</updated>
-<id>http://localhost:3000/Advanced-Keymapping</id>
-<content type="html" xml:base="http://localhost:3000/Advanced-Keymapping/">&lt;h1 id=&quot;advanced-keymapping&quot;&gt;advanced-keymapping&lt;/h1&gt;
+<id>http://localhost:3000/advanced-keymapping</id>
+<content type="html" xml:base="http://localhost:3000/advanced-keymapping/">&lt;h1 id=&quot;advanced-keymapping&quot;&gt;advanced-keymapping&lt;/h1&gt;
 
 &lt;p&gt;In order to get most of this post, please read &lt;a href=&quot;https://github.com/yifanchen/OSX-shortcuts-you-might-not-know&quot;&gt;OSX-shortcuts-you-might-not-know&lt;/a&gt; first.&lt;/p&gt;
 
@@ -46,7 +46,7 @@ going through lists in Slack, etc.&lt;/p&gt;
 
 &lt;p&gt;The screen shot is my setting. You are welcome to play with it, map anyway you like. I am going to use my mapping as an example.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://github.com/yifanchen/advanced-keymapping/blob/master/imgs/karabiner1.jpg&quot; alt=&quot;Karabiner key mapping&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.cyfyifanchen.com/assets/images/karabiner-setting.jpg&quot; alt=&quot;Karabiner key mapping&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;After you map it the way like I do, the beautiful part happens:&lt;/p&gt;
 
@@ -139,7 +139,6 @@ With good softwares, be creative with your own mappings.&lt;/p&gt;
 &lt;h3 id=&quot;section-2&quot;&gt;总结&lt;/h3&gt;
 
 &lt;p&gt;最后，这个post的目的是分享快捷键的小技巧，当然你可以按自己的方式来。&lt;/p&gt;
-
 </content>
 <category term="markdown" />
 <category term="elements" />
@@ -147,11 +146,11 @@ With good softwares, be creative with your own mappings.&lt;/p&gt;
 </entry>
 <entry>
 <title>OSX Shortcuts You Might Not know</title>
-<link href="http://localhost:3000/OSX-Shortcuts-You-Might-Now-Know/" rel="alternate" type="text/html" title="OSX Shortcuts You Might Not know" />
+<link href="http://localhost:3000/osx-shortcuts/" rel="alternate" type="text/html" title="OSX Shortcuts You Might Not know" />
 <published>2016-03-15T00:00:00-06:00</published>
 <updated>2016-03-15T00:00:00-06:00</updated>
-<id>http://localhost:3000/OSX-Shortcuts-You-Might-Now-Know</id>
-<content type="html" xml:base="http://localhost:3000/OSX-Shortcuts-You-Might-Now-Know/">&lt;p&gt;As programmers who live on keyboards 24/7, we should be aware of any kinds of shortcuts that will benefit productivities.&lt;/p&gt;
+<id>http://localhost:3000/osx-shortcuts</id>
+<content type="html" xml:base="http://localhost:3000/osx-shortcuts/">&lt;p&gt;As programmers who live on keyboards 24/7, we should be aware of any kinds of shortcuts that will benefit productivities.&lt;/p&gt;
 
 &lt;p&gt;Between Win and OSX, I arguably think OSX has better combination of shortcuts, with powerful key mapping tools, it is better than ever.&lt;/p&gt;
 
@@ -324,22 +323,10 @@ With good softwares, be creative with your own mappings.&lt;/p&gt;
 &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;l&lt;/code&gt;: 清除窗口.&lt;/p&gt;
 
 &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;-&lt;/code&gt;: 上一个目录。（这个很有用）&lt;/p&gt;
-
 </content>
-<category term="markdown" />
+<category term="shortcuts" />
 <category term="keymapping" />
 <category term="OSX" />
 <summary>As programmers who live on keyboards 24/7, we should be aware of any kinds of shortcuts that will benefit productivities.</summary>
-</entry>
-<entry>
-<title>Markdown Common Elements</title>
-<link href="http://localhost:3000/markdown-common-elements/" rel="alternate" type="text/html" title="Markdown Common Elements" />
-<published>2016-02-24T22:44:00-07:00</published>
-<updated>2016-02-24T22:44:00-07:00</updated>
-<id>http://localhost:3000/markdown-common-elements</id>
-<content type="html" xml:base="http://localhost:3000/markdown-common-elements/">
-</content>
-<category term="markdown" />
-<category term="elements" />
 </entry>
 </feed>
