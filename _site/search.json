@@ -1,6 +1,13 @@
 [
   
     {
+      "title"    : "陆续总结一下githubs上面好的中文教程",
+      "tags"     : "github, 中文, and 教程",
+      "url"      : "/github-chinese/",
+      "date"     : "27 Mar 2016"
+    } ,
+  
+    {
       "title"    : "Advanced Keymapping",
       "tags"     : "keymapping, karabiner, and shotcuts",
       "url"      : "/advanced-keymapping/",

@@ -13,12 +13,13 @@ star: false
 每天都会去github逛逛，找找新鲜的东西看。无意间发现上面有很多非常棒的中文教程，书籍。这绝对是一个很好的现象。今后的几天我会陆续贴
 一些好的中文教程，对那些想学写码的人来说，能少走点弯路就少走点。
 
-https://github.com/AutumnsWind/Front-end-tutorial
+[front end totuorial](https://github.com/AutumnsWind/Front-end-tutorial){:target="_blank"}
 
-https://github.com/jsfront/src
+[jsfront](https://github.com/jsfront/src){:target="_blank"}
 
-https://github.com/jsfront/src
+[front end collect](https://github.com/jsfront/front-end-collect){:target="_blank"}
 
-https://github.com/jsfront/front-end-collect
+[javascript tips](https://github.com/sunyuhui/JavaScript-Tips){:target="_blank"}
 
-https://github.com/sunyuhui/JavaScript-Tips
+
+

@@ -3,9 +3,32 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-03-27T22:33:12-06:00</updated>
+<updated>2016-03-27T23:18:53-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
+<entry>
+<title>陆续总结一下githubs上面好的中文教程</title>
+<link href="http://localhost:3000/github-chinese/" rel="alternate" type="text/html" title="陆续总结一下githubs上面好的中文教程" />
+<published>2016-03-27T22:44:00-06:00</published>
+<updated>2016-03-27T22:44:00-06:00</updated>
+<id>http://localhost:3000/github-chinese</id>
+<content type="html" xml:base="http://localhost:3000/github-chinese/">&lt;p&gt;每天都会去github逛逛，找找新鲜的东西看。无意间发现上面有很多非常棒的中文教程，书籍。这绝对是一个很好的现象。今后的几天我会陆续贴
+一些好的中文教程，对那些想学写码的人来说，能少走点弯路就少走点。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/AutumnsWind/Front-end-tutorial&quot; target=&quot;_blank&quot;&gt;front end totuorial&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/jsfront/src&quot; target=&quot;_blank&quot;&gt;jsfront&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/jsfront/front-end-collect&quot; target=&quot;_blank&quot;&gt;front end collect&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/sunyuhui/JavaScript-Tips&quot; target=&quot;_blank&quot;&gt;javascript tips&lt;/a&gt;&lt;/p&gt;
+
+</content>
+<category term="github" />
+<category term="中文" />
+<category term="教程" />
+<summary>每天都会去github逛逛，找找新鲜的东西看。无意间发现上面有很多非常棒的中文教程，书籍。这绝对是一个很好的现象。今后的几天我会陆续贴一些好的中文教程，对那些想学写码的人来说，能少走点弯路就少走点。</summary>
+</entry>
 <entry>
 <title>Advanced Keymapping</title>
 <link href="http://localhost:3000/advanced-keymapping/" rel="alternate" type="text/html" title="Advanced Keymapping" />
