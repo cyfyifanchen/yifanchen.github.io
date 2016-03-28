@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-03-28T00:17:05-06:00</updated>
+<updated>2016-03-28T00:18:59-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
 <entry>
@@ -12,14 +12,13 @@
 <published>2016-03-28T00:00:00-06:00</published>
 <updated>2016-03-28T00:00:00-06:00</updated>
 <id>http://localhost:3000/vim-config</id>
-<content type="html" xml:base="http://localhost:3000/vim-config/">&lt;p&gt;I like shortcuts, that might be the reason why I attached to vim so bad. Here are the settings of my vim and dotfiles. 
-&lt;code class=&quot;highlighter-rouge&quot;&gt;.onerror&lt;/code&gt;&lt;/p&gt;
+<content type="html" xml:base="http://localhost:3000/vim-config/">&lt;p&gt;I like shortcuts, that might be the reason why I attached to vim so bad. Here are the settings of my vim and dotfiles.&lt;/p&gt;
 
 </content>
 <category term="vim" />
 <category term="tmux" />
 <category term="zsh" />
-<summary>I like shortcuts, that might be the reason why I attached to vim so bad. Here are the settings of my vim and dotfiles. .onerror</summary>
+<summary>I like shortcuts, that might be the reason why I attached to vim so bad. Here are the settings of my vim and dotfiles.</summary>
 </entry>
 <entry>
 <title>陆续总结一下githubs上面好的中文教程</title>
