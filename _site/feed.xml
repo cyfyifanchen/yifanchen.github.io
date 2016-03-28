@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-03-27T19:40:56-06:00</updated>
+<updated>2016-03-27T19:46:06-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
 <entry>
@@ -14,7 +14,7 @@
 <id>http://localhost:3000/advanced-keymapping</id>
 <content type="html" xml:base="http://localhost:3000/advanced-keymapping/">&lt;h1 id=&quot;advanced-keymapping&quot;&gt;advanced-keymapping&lt;/h1&gt;
 
-&lt;p&gt;In order to get most of this post, please read &lt;a href=&quot;https://github.com/yifanchen/OSX-shortcuts-you-might-not-know&quot;&gt;OSX-shortcuts-you-might-not-know&lt;/a&gt; first.&lt;/p&gt;
+&lt;p&gt;In order to get most of this post, please read &lt;a href=&quot;http://www.cyfyifanchen.com/osx-shortcuts/&quot;&gt;OSX-shortcuts-you-might-not-know&lt;/a&gt; first.&lt;/p&gt;
 
 &lt;p&gt;I am going to talk about how and why I map &lt;code class=&quot;highlighter-rouge&quot;&gt;hjkl&lt;/code&gt; as &lt;code class=&quot;highlighter-rouge&quot;&gt;arrow&lt;/code&gt; keys. For the mapping to work, you will need to use either of the following tools.&lt;/p&gt;
 
@@ -155,7 +155,7 @@ With good softwares, be creative with your own mappings.&lt;/p&gt;
 
 &lt;p&gt;Between Win and OSX, I arguably think OSX has better combination of shortcuts, with powerful key mapping tools, it is better than ever.&lt;/p&gt;
 
-&lt;p&gt;Read &lt;a href=&quot;https://github.com/yifanchen/advanced-keymapping&quot;&gt;advanced-keymapping&lt;/a&gt;, and take keymapping to the next level.&lt;/p&gt;
+&lt;p&gt;Read &lt;a href=&quot;http://www.cyfyifanchen.com/advanced-keymapping/&quot;&gt;advanced-keymapping&lt;/a&gt;, and take keymapping to the next level.&lt;/p&gt;
 
 &lt;h4 id=&quot;editing&quot;&gt;Editing&lt;/h4&gt;
 

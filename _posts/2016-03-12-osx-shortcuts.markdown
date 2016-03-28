@@ -14,7 +14,7 @@ As programmers who live on keyboards 24/7, we should be aware of any kinds of sh
 
 Between Win and OSX, I arguably think OSX has better combination of shortcuts, with powerful key mapping tools, it is better than ever.
 
-Read [advanced-keymapping](https://github.com/yifanchen/advanced-keymapping), and take keymapping to the next level.
+Read [advanced-keymapping](http://www.cyfyifanchen.com/advanced-keymapping/), and take keymapping to the next level.
 
 #### Editing
 
