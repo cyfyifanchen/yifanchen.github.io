@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-03-28T00:18:59-06:00</updated>
+<updated>2016-03-28T14:51:25-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
 <entry>
@@ -49,13 +49,13 @@
 <published>2016-03-20T22:44:00-06:00</published>
 <updated>2016-03-20T22:44:00-06:00</updated>
 <id>http://localhost:3000/advanced-keymapping</id>
-<content type="html" xml:base="http://localhost:3000/advanced-keymapping/">&lt;h1 id=&quot;advanced-keymapping&quot;&gt;advanced-keymapping&lt;/h1&gt;
+<content type="html" xml:base="http://localhost:3000/advanced-keymapping/">&lt;h1 id=&quot;advanced-keymapping&quot;&gt;Advanced Keymapping&lt;/h1&gt;
 
 &lt;p&gt;In order to get most of this post, please read &lt;a href=&quot;http://www.cyfyifanchen.com/osx-shortcuts/&quot;&gt;OSX-shortcuts-you-might-not-know&lt;/a&gt; first.&lt;/p&gt;
 
 &lt;p&gt;I am going to talk about how and why I map &lt;code class=&quot;highlighter-rouge&quot;&gt;hjkl&lt;/code&gt; as &lt;code class=&quot;highlighter-rouge&quot;&gt;arrow&lt;/code&gt; keys. For the mapping to work, you will need to use either of the following tools.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://pqrs.org/osx/karabiner/&quot;&gt;Karabiner&lt;/a&gt;: The most powerful key mapping tool. Capable of doing all sorts of crazy key mappings, they come in options,
+&lt;p&gt;&lt;a href=&quot;https://pqrs.org/osx/karabiner/&quot;&gt;Karabiner&lt;/a&gt;: The most powerful key mapping tool. Capable of doing all sorts of crazy key mappings, preference come in options,
 just check the boxes of the ones you like. Honestly, I drop my jaw every time I browse through the option list, there are too much options even including Dota2, LOL, Starcraft, etc.
 Still unsatisfied? Then make your own &lt;code class=&quot;highlighter-rouge&quot;&gt;private.xml&lt;/code&gt; and import it in. Yes, it is just this amazing. On top of that, 
 it comes with a great customer service.(I got responds within 8 hours when I sent emails to ask questions) Most importantly, it is free.&lt;/p&gt;
@@ -180,7 +180,7 @@ With good softwares, be creative with your own mappings.&lt;/p&gt;
 <category term="keymapping" />
 <category term="karabiner" />
 <category term="shotcuts" />
-<summary>advanced-keymapping</summary>
+<summary>Advanced Keymapping</summary>
 </entry>
 <entry>
 <title>OSX Shortcuts You Might Not know</title>
@@ -188,7 +188,9 @@ With good softwares, be creative with your own mappings.&lt;/p&gt;
 <published>2016-03-15T00:00:00-06:00</published>
 <updated>2016-03-15T00:00:00-06:00</updated>
 <id>http://localhost:3000/osx-shortcuts</id>
-<content type="html" xml:base="http://localhost:3000/osx-shortcuts/">&lt;p&gt;As programmers who live on keyboards 24/7, we should be aware of any kinds of shortcuts that will benefit productivities.&lt;/p&gt;
+<content type="html" xml:base="http://localhost:3000/osx-shortcuts/">&lt;h1 id=&quot;osx-shortcuts-you-might-not-know&quot;&gt;OSX Shortcuts You Might Not Know&lt;/h1&gt;
+
+&lt;p&gt;As programmers who live on keyboards 24/7, we should be aware of any kinds of shortcuts that will benefit productivities.&lt;/p&gt;
 
 &lt;p&gt;Between Win and OSX, I arguably think OSX has better combination of shortcuts, with powerful key mapping tools, it is better than ever.&lt;/p&gt;
 
@@ -365,6 +367,6 @@ With good softwares, be creative with your own mappings.&lt;/p&gt;
 <category term="shortcuts" />
 <category term="keymapping" />
 <category term="OSX" />
-<summary>As programmers who live on keyboards 24/7, we should be aware of any kinds of shortcuts that will benefit productivities.</summary>
+<summary>OSX Shortcuts You Might Not Know</summary>
 </entry>
 </feed>
