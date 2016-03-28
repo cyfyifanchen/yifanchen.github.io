@@ -7,7 +7,7 @@ tag:
 - keymapping
 - OSX
 blog: true
-star: true
+star: false
 ---
 
 As programmers who live on keyboards 24/7, we should be aware of any kinds of shortcuts that will benefit productivities.
