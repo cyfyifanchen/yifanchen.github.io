@@ -1,9 +1,16 @@
 [
   
     {
-      "title"    : "OSX Shoortcuts You Might Not know",
-      "tags"     : "markdown, components, and extra",
-      "url"      : "/markdown-extra-components/",
+      "title"    : "Advanced Keymapping",
+      "tags"     : "markdown and elements",
+      "url"      : "/Advanced-Keymapping/",
+      "date"     : "20 Mar 2016"
+    } ,
+  
+    {
+      "title"    : "OSX Shortcuts You Might Not know",
+      "tags"     : "markdown, keymapping, and OSX",
+      "url"      : "/OSX-Shortcuts-You-Might-Now-Know/",
       "date"     : "15 Mar 2016"
     } ,
   
@@ -12,13 +19,6 @@
       "tags"     : "markdown and elements",
       "url"      : "/markdown-common-elements/",
       "date"     : "24 Feb 2016"
-    } ,
-  
-    {
-      "title"    : "Indigo, minimalist jekyll theme",
-      "tags"     : "jekyll",
-      "url"      : "/indigo-jekyll-theme/",
-      "date"     : "23 Jan 2016"
     } 
   
 ]

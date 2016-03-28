@@ -1,6 +1,6 @@
 # main text of home
 name: Yifan Chen
-bio: 'a man from far east, where dragon was born'
+bio: 'a software developer'
 
 # if it's an external image, update below for true
 external-image: false
@@ -21,7 +21,7 @@ highlighter: rouge
 # analytics-piwik-id: 1
 
 # if you don't want comments in your posts, set to false
-disqus: mydisqus
+disqus: false
 
 # if you don't have any of social below, comment the line
 #facebook: cyfyifanchen

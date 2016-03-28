@@ -1,20 +1,20 @@
 ---
-title: "OSX Shoortcuts You Might Not know"
+title: "OSX Shortcuts You Might Not know"
 layout: post
 date: 2016-03-15 
 tag:
 - markdown
-- components
-- extra
+- keymapping
+- OSX
 blog: true
+star: true
 ---
 
-# OSX-shortcuts-you-might-not-know
 As programmers who live on keyboards 24/7, we should be aware of any kinds of shortcuts that will benefit productivities.
 
 Between Win and OSX, I arguably think OSX has better combination of shortcuts, with powerful key mapping tools, it is better than ever.
 
-Read my post 2 [advanced-keymapping](https://github.com/yifanchen/advanced-keymapping), and take shortcuts to the next level.
+Read [advanced-keymapping](https://github.com/yifanchen/advanced-keymapping), and take keymapping to the next level.
 
 #### Editing
 
@@ -56,9 +56,9 @@ Read my post 2 [advanced-keymapping](https://github.com/yifanchen/advanced-keyma
 
 #### Chrome
 
-`control` + `tab` or `contorl` + `shift` + `tab`: navigating through tabs.
+`control` + `tab` or `control` + `shift` + `tab`: navigating through tabs.
 
-`cmd` + `shfit` + `b`: toggle bookmark bar.
+`cmd` + `shift` + `b`: toggle bookmark bar.
 
 `cmd` + `shift` + `c`: inspect element ready.
 
@@ -146,7 +146,7 @@ Read my post 2 [advanced-keymapping](https://github.com/yifanchen/advanced-keyma
 
 #### Chrome 浏览器
 
-`control` + `tab` or `contorl` + `shift` + `tab`: 前后切换tab。
+`control` + `tab` or `control` + `shift` + `tab`: 前后切换tab。
 
 `cmd` + `shift` + `c`: 直接打开 developer tool, 并且 inspect element。
 
