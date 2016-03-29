@@ -10,6 +10,8 @@ blog: true
 star: false
 ---
 
-I like shortcuts, that might be the reason why I attached to vim so bad. Here are the settings of my vim and dotfiles. 
+I like vim. Here are the settings of my vim and dotfiles. 
+
+
 
 
