@@ -10,7 +10,7 @@ blog: true
 star: false
 ---
 
-# Advanced Keymapping
+## Advanced Keymapping
 
 In order to get most of this post, please read [OSX-shortcuts-you-might-not-know](http://www.cyfyifanchen.com/osx-shortcuts/) first. 
 
@@ -83,7 +83,7 @@ With good softwares, be creative with your own mappings.
 
 # 中文
 
-可能是原来玩魔兽的原因，一直喜欢玩快捷键，能用快捷键的地方尽量不用鼠标点击。现在所有工作一个MacBook Pro来完成，不需要任何外接显示器。熟知快捷键工作效率高，同时乐趣也多。
+可能是原来玩魔兽的原因，一直喜欢玩快捷键，能用快捷键的地方尽量不用鼠标点击。现在所有工作用一个MacBook Pro来完成，不需要任何外接显示器。熟知快捷键工作效率高，同时乐趣也多。
 玩vim有感，觉得`hjkl`做为方向键再合适不过了。编辑的时候，光标可以左右移动，无论是拷贝复制，还是整段的代码选择，都会方便非常多。试过之后，是如此好用。
 这里简单介绍两个快捷键编辑器：
 

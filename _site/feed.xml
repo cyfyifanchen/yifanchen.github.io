@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-03-28T14:51:25-06:00</updated>
+<updated>2016-03-28T20:40:46-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
 <entry>
@@ -49,16 +49,15 @@
 <published>2016-03-20T22:44:00-06:00</published>
 <updated>2016-03-20T22:44:00-06:00</updated>
 <id>http://localhost:3000/advanced-keymapping</id>
-<content type="html" xml:base="http://localhost:3000/advanced-keymapping/">&lt;h1 id=&quot;advanced-keymapping&quot;&gt;Advanced Keymapping&lt;/h1&gt;
+<content type="html" xml:base="http://localhost:3000/advanced-keymapping/">&lt;h2 id=&quot;advanced-keymapping&quot;&gt;Advanced Keymapping&lt;/h2&gt;
 
 &lt;p&gt;In order to get most of this post, please read &lt;a href=&quot;http://www.cyfyifanchen.com/osx-shortcuts/&quot;&gt;OSX-shortcuts-you-might-not-know&lt;/a&gt; first.&lt;/p&gt;
 
 &lt;p&gt;I am going to talk about how and why I map &lt;code class=&quot;highlighter-rouge&quot;&gt;hjkl&lt;/code&gt; as &lt;code class=&quot;highlighter-rouge&quot;&gt;arrow&lt;/code&gt; keys. For the mapping to work, you will need to use either of the following tools.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://pqrs.org/osx/karabiner/&quot;&gt;Karabiner&lt;/a&gt;: The most powerful key mapping tool. Capable of doing all sorts of crazy key mappings, preference come in options,
-just check the boxes of the ones you like. Honestly, I drop my jaw every time I browse through the option list, there are too much options even including Dota2, LOL, Starcraft, etc.
-Still unsatisfied? Then make your own &lt;code class=&quot;highlighter-rouge&quot;&gt;private.xml&lt;/code&gt; and import it in. Yes, it is just this amazing. On top of that, 
-it comes with a great customer service.(I got responds within 8 hours when I sent emails to ask questions) Most importantly, it is free.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://pqrs.org/osx/karabiner/&quot;&gt;Karabiner&lt;/a&gt;: The most powerful key mapping tool. Capable of doing all sorts of crazy key mappings. Preferences come in options,
+simply checking option makes configuration even easier. Still unsatisfied? Then make your own &lt;code class=&quot;highlighter-rouge&quot;&gt;private.xml&lt;/code&gt; and import in. Yes, it is just this amazing. On top of that, 
+it comes with a great customer service.(I got responds within 8 hours when I sent emails, not to mention the maintainer is in Japan) Most importantly, it is free.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.boastr.net/&quot;&gt;BetterTouchTool&lt;/a&gt;: BTT is well known, almost everyone likes the Snap feature, settings are very intuitive. It is no longer free, however spending few bucks to have it 24/7.
 I am totally down. In this post, I am not going to show how BTT works, it’s very easy to figure out.&lt;/p&gt;
@@ -97,7 +96,7 @@ going through lists in Slack, etc.&lt;/p&gt;
 
 &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;shift&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;k&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;j&lt;/code&gt;: select entire file from either top or bottom.&lt;/p&gt;
 
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;j&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;k&lt;/code&gt;: going through intellisense in IDE or up and down when search in google.&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;j&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;k&lt;/code&gt;: going through intellisense in IDE or up and down when search in Google.&lt;/p&gt;
 
 &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;l&lt;/code&gt;: very useful to attach parameters to the end of a url.&lt;/p&gt;
 
@@ -114,7 +113,7 @@ going through lists in Slack, etc.&lt;/p&gt;
 &lt;h5 id=&quot;what-if-i-already-mapped-control--hjkl-in-vim&quot;&gt;What if I already mapped &lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;hjkl&lt;/code&gt; in Vim?&lt;/h5&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;I suggest to disable Karabiner when iTerm is running. Why? Becuase Vim comes with powerful shortcuts, we should learn them.&lt;/li&gt;
+  &lt;li&gt;I suggest to disable Karabiner when iTerm is running. Why? Because Vim comes with powerful shortcuts, we should learn them.&lt;/li&gt;
   &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;fn&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;hjkl&lt;/code&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
@@ -130,7 +129,7 @@ With good softwares, be creative with your own mappings.&lt;/p&gt;
 
 &lt;h1 id=&quot;section&quot;&gt;中文&lt;/h1&gt;
 
-&lt;p&gt;可能是原来玩魔兽的原因，一直喜欢玩快捷键，能用快捷键的地方尽量不用鼠标点击。现在所有工作一个MacBook Pro来完成，不需要任何外接显示器。熟知快捷键工作效率高，同时乐趣也多。
+&lt;p&gt;可能是原来玩魔兽的原因，一直喜欢玩快捷键，能用快捷键的地方尽量不用鼠标点击。现在所有工作用一个MacBook Pro来完成，不需要任何外接显示器。熟知快捷键工作效率高，同时乐趣也多。
 玩vim有感，觉得&lt;code class=&quot;highlighter-rouge&quot;&gt;hjkl&lt;/code&gt;做为方向键再合适不过了。编辑的时候，光标可以左右移动，无论是拷贝复制，还是整段的代码选择，都会方便非常多。试过之后，是如此好用。
 这里简单介绍两个快捷键编辑器：&lt;/p&gt;
 
@@ -188,7 +187,7 @@ With good softwares, be creative with your own mappings.&lt;/p&gt;
 <published>2016-03-15T00:00:00-06:00</published>
 <updated>2016-03-15T00:00:00-06:00</updated>
 <id>http://localhost:3000/osx-shortcuts</id>
-<content type="html" xml:base="http://localhost:3000/osx-shortcuts/">&lt;h1 id=&quot;osx-shortcuts-you-might-not-know&quot;&gt;OSX Shortcuts You Might Not Know&lt;/h1&gt;
+<content type="html" xml:base="http://localhost:3000/osx-shortcuts/">&lt;h2 id=&quot;osx-shortcuts-you-might-not-know&quot;&gt;OSX Shortcuts You Might Not Know&lt;/h2&gt;
 
 &lt;p&gt;As programmers who live on keyboards 24/7, we should be aware of any kinds of shortcuts that will benefit productivities.&lt;/p&gt;
 
