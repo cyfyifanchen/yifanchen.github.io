@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-03-28T20:40:46-06:00</updated>
+<updated>2016-03-29T09:49:59-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
 <entry>
@@ -21,27 +21,43 @@
 <summary>I like shortcuts, that might be the reason why I attached to vim so bad. Here are the settings of my vim and dotfiles.</summary>
 </entry>
 <entry>
-<title>陆续总结一下githubs上面好的中文教程</title>
-<link href="http://localhost:3000/github-chinese/" rel="alternate" type="text/html" title="陆续总结一下githubs上面好的中文教程" />
+<title>陆续总结一下github上好的前端教程</title>
+<link href="http://localhost:3000/github-chinese/" rel="alternate" type="text/html" title="陆续总结一下github上好的前端教程" />
 <published>2016-03-27T22:44:00-06:00</published>
 <updated>2016-03-27T22:44:00-06:00</updated>
 <id>http://localhost:3000/github-chinese</id>
-<content type="html" xml:base="http://localhost:3000/github-chinese/">&lt;p&gt;每天都会去github逛逛，找找新鲜的东西看。无意间发现上面有很多非常棒的中文教程，书籍。这绝对是一个很好的现象。今后的几天我会陆续贴
-一些好的中文教程，对那些想学写码的人来说，能少走点弯路就少走点。&lt;/p&gt;
+<content type="html" xml:base="http://localhost:3000/github-chinese/">&lt;h2 id=&quot;github&quot;&gt;陆续总结一下github上好的前端教程&lt;/h2&gt;
+
+&lt;p&gt;自己是做前端的，就是front end。一直觉得前端相对来说比较容易学。随着各种框架的出现和语言一点一点的完善，如果用心的话，
+半年可以达到一个很不错的水平。在美国中部地区找到一个5万－6万的工作，也绝对不难。我们公司有300+的程序员，前端大概占了5/1，
+而其中不少都是从code camp过来的，也就是说经验少于半年。所以，如果你目前没有工作，或者不喜欢自己的工作，而且又对电脑比较
+感兴趣的话，前端是个非常棒的选择。&lt;/p&gt;
+
+&lt;p&gt;每天都会去github逛逛，找找新鲜的东西看。无意间发现上面有很多非常棒的中文教程，书籍。这绝对是一个很好的现象。今后的几天我会陆续贴
+一些好的中文教程，对那些想学前端的人来说，能少走点弯路就少走点。&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://github.com/AutumnsWind/Front-end-tutorial&quot; target=&quot;_blank&quot;&gt;front end totuorial&lt;/a&gt;&lt;/p&gt;
 
+&lt;p&gt;这绝对是个神贴，里面归结了非常多，非常棒的学习材料。有必须要读的，也有在闲暇时间没事看两眼的。总之，你如果想学习front end，这个必须有。
+强烈建议把所有东西都过一遍，惭愧啊，我很多东西都还没读。&lt;/p&gt;
+
 &lt;p&gt;&lt;a href=&quot;https://github.com/jsfront/src&quot; target=&quot;_blank&quot;&gt;jsfront&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;jsfront有自己的网络群，当然上面也有很多javascript常用函数和常见模式。&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://github.com/jsfront/front-end-collect&quot; target=&quot;_blank&quot;&gt;front end collect&lt;/a&gt;&lt;/p&gt;
 
+&lt;p&gt;front end collect和front end toturial很像，但是内容方面来讲，后者更强。&lt;/p&gt;
+
 &lt;p&gt;&lt;a href=&quot;https://github.com/sunyuhui/JavaScript-Tips&quot; target=&quot;_blank&quot;&gt;javascript tips&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;javasctip tips是个很棒的想法，每天更新个小tip，每天一步，慢慢学习，但是目前maintainer好像不再maintain了。希望有一天能被人中心拾起。&lt;/p&gt;
 
 </content>
 <category term="github" />
 <category term="中文" />
 <category term="教程" />
-<summary>每天都会去github逛逛，找找新鲜的东西看。无意间发现上面有很多非常棒的中文教程，书籍。这绝对是一个很好的现象。今后的几天我会陆续贴一些好的中文教程，对那些想学写码的人来说，能少走点弯路就少走点。</summary>
+<summary>陆续总结一下github上好的前端教程</summary>
 </entry>
 <entry>
 <title>Advanced Keymapping</title>
