@@ -549,7 +549,7 @@ pre {
   margin-bottom: 6rem;
 }
 .about img {
-  width: 50%;
+  width: 33%;
   margin: 0 auto;
   display: block;
 }
@@ -780,6 +780,11 @@ pre {
   font-weight: 300;
   text-align: center;
   position: relative;
+}
+.footer-main img {
+  display: inline;
+  margin: 0 5px -2px 0;
+  width: 15px;
 }
 .footer-main:before {
   display: block;
