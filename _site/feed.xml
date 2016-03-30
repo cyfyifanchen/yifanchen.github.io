@@ -3,22 +3,40 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-03-29T16:15:18-06:00</updated>
+<updated>2016-03-29T19:03:38-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
 <entry>
-<title>My vim and dotfiles</title>
-<link href="http://localhost:3000/vim-config/" rel="alternate" type="text/html" title="My vim and dotfiles" />
+<title>Why I use vim</title>
+<link href="http://localhost:3000/vim-config/" rel="alternate" type="text/html" title="Why I use vim" />
 <published>2016-03-28T00:00:00-06:00</published>
 <updated>2016-03-28T00:00:00-06:00</updated>
 <id>http://localhost:3000/vim-config</id>
-<content type="html" xml:base="http://localhost:3000/vim-config/">&lt;p&gt;I like vim. Here are the settings of my vim and dotfiles.&lt;/p&gt;
+<content type="html" xml:base="http://localhost:3000/vim-config/">&lt;h2 id=&quot;why-use-vim&quot;&gt;Why use vim&lt;/h2&gt;
+
+&lt;p&gt;Don’t try to fit in. One day, it will occur to us life is much more rewarding when choose the rode not taken, a life not patterned after
+someone else’s, the editor, only you know how to use.&lt;/p&gt;
+
+&lt;p&gt;I like vim, tmux and zsh. I spend a lot of time to config, maintain and perfect my dotfiles. Knowing vim makes coding productive and enjoyable.
+I don’t buy the shit when people say, oh coding is 90% thinking and 10% writing. I spend 90% of my time fix code rather than writing code, when I 
+want to reach the specific part of a file, I want it happen as quick as possible. To me, vim is a state of art, quickly navigating through lines of code,
+creatively combining shortcuts, endlessly learning mind blowing tricks, all of these make vim irresistible to me.&lt;/p&gt;
+
+&lt;p&gt;Vim has massive shortcuts, there is always a better way of doing same thing with less keystrokes. Additionally, vim brings me creative thinking. 
+I wrote both &lt;a href=&quot;http://www.cyfyifanchen.com/osx-shortcuts/&quot;&gt;OSX-shortcuts-you-might-not-know&lt;/a&gt; and
+&lt;a href=&quot;http://www.cyfyifanchen.com/advanced-keymapping/&quot;&gt;advanced-keymapping&lt;/a&gt; after I got additced to vim shortcuts.&lt;/p&gt;
+
+&lt;p&gt;After all, vim may not necessarily makes me a good developer, but definitely makes me a motivated developer.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/yifanchen/dotfiles&quot;&gt;my dotfiles&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;{{ site }}&quot; alt=&quot;my vim&quot; /&gt;&lt;/p&gt;
 
 </content>
 <category term="vim" />
 <category term="tmux" />
 <category term="zsh" />
-<summary>I like vim. Here are the settings of my vim and dotfiles.</summary>
+<summary>Why use vim</summary>
 </entry>
 <entry>
 <title>陆续总结一下github上好的前端教程</title>

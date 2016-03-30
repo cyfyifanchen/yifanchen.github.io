@@ -1,7 +1,7 @@
 [
   
     {
-      "title"    : "My vim and dotfiles",
+      "title"    : "Why I use vim",
       "tags"     : "vim, tmux, and zsh",
       "url"      : "/vim-config/",
       "date"     : "28 Mar 2016"
