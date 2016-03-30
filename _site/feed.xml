@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-03-29T22:28:54-06:00</updated>
+<updated>2016-03-29T23:09:09-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
 <entry>
@@ -14,18 +14,13 @@
 <id>http://localhost:3000/why-I-use-vim</id>
 <content type="html" xml:base="http://localhost:3000/why-I-use-vim/">&lt;h2 id=&quot;why-i-use-vim&quot;&gt;Why I use vim&lt;/h2&gt;
 
-&lt;p&gt;Don’t try to fit in. One day, it will occur to us life is much more rewarding when choose the rode not taken, a life not patterned after someone else’s, the editor, only you know how to use.&lt;/p&gt;
+&lt;p&gt;Don’t try to fit in. One day, it will occur to us life is much more rewarding when choosing the road not taken, a life not patterned after someone else’s, the editor, only you know how to use.&lt;/p&gt;
 
-&lt;p&gt;I like vim, tmux and zsh. I spend a lot of time to config, maintain and perfect my dotfiles. Knowing vim makes coding productive and enjoyable.  I don’t buy the shit when people say that don’t need it
-because coding is 90% thinking and 10% writing. I spend 90% of my time fix code rather than writing code, when I want to reach the specific part of a file, I want it happen as quick as possible. To
-me, vim is a state of art, quickly navigating through lines of code, creatively combining shortcuts, endlessly learning mind blowing tricks, all of these make vim irresistible to me.&lt;/p&gt;
+&lt;p&gt;I like vim, tmux and zsh. I spend a lot of time to config, maintain and perfect my dotfiles. Knowing vim makes coding productive and enjoyable. I don’t buy the shit when people say that they don’t need it because coding is 90% thinking and 10% writing. I spend 90% of my time fix code rather than writing code. When I want to reach the specific part of a file, I want it to happen as quick as possible. To me, vim is a state of the art, quickly navigating through lines of code, creatively combining shortcuts, endlessly learning mind blowing tricks, all of these make vim irresistible to me.&lt;/p&gt;
 
-&lt;p&gt;Vim has massive shortcuts, there is always a better way of doing same thing with less keystrokes. The intention is clear: keep learning, don’t be contented, find the fastest and most convenient way to
-make a change.  Additionally, vim brings me creative thinking.  I wanted to apply the idea of using &lt;code class=&quot;highlighter-rouge&quot;&gt;hjkl&lt;/code&gt; as &lt;code class=&quot;highlighter-rouge&quot;&gt;arrow&lt;/code&gt; keys in any applications, I found a approach and practised it.  It worked out even
-better than I expected. Soon, I got addicted.  So, I wrote both &lt;a href=&quot;http://www.cyfyifanchen.com/osx-shortcuts/&quot;&gt;OSX-shortcuts-you-might-not-know&lt;/a&gt; and
-&lt;a href=&quot;http://www.cyfyifanchen.com/advanced-keymapping/&quot;&gt;advanced-keymapping&lt;/a&gt;, hopefully spreading a little to have others will adopt the concept.&lt;/p&gt;
+&lt;p&gt;Vim has massive shortcuts, there is always a better way of doing the same thing with fewer keystrokes. The intention is clear: keep learning, don’t be contented, find the fastest and most convenient way to make a change. Additionally, vim brings me creative thinking. I wanted to apply the idea of using &lt;code class=&quot;highlighter-rouge&quot;&gt;hjkl&lt;/code&gt; as &lt;code class=&quot;highlighter-rouge&quot;&gt;arrow&lt;/code&gt; keys in any applications, I found an approach and practised it. It worked out much better than I expected. Soon, I got addicted. So, I wrote both &lt;a href=&quot;http://www.cyfyifanchen.com/osx-shortcuts/&quot;&gt;OSX-shortcuts-you-might-not-know&lt;/a&gt; and &lt;a href=&quot;http://www.cyfyifanchen.com/advanced-keymapping/&quot;&gt;advanced-keymapping&lt;/a&gt;, hopefully spreading a little to have others will adopt the concept.&lt;/p&gt;
 
-&lt;p&gt;After all, vim may not necessarily makes me a good developer, but definitely makes me a motivated developer.&lt;/p&gt;
+&lt;p&gt;After all, vim may not necessarily make me a good developer, but definitely makes me a motivated developer.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://github.com/yifanchen/dotfiles&quot;&gt;my dotfiles&lt;/a&gt;&lt;/p&gt;
 
@@ -90,7 +85,7 @@ better than I expected. Soon, I got addicted.  So, I wrote both &lt;a href=&quot
 
 &lt;p&gt;&lt;a href=&quot;https://pqrs.org/osx/karabiner/&quot;&gt;Karabiner&lt;/a&gt;: The most powerful key mapping tool. Capable of doing all sorts of crazy key mappings. Preferences come in options,
 simply checking option makes configuration even easier. Still unsatisfied? Then make your own &lt;code class=&quot;highlighter-rouge&quot;&gt;private.xml&lt;/code&gt; and import in. Yes, it is just this amazing. On top of that, 
-it comes with a great customer service.(I got responds within 8 hours when I sent emails, not to mention the maintainer is in Japan) Most importantly, it is free.&lt;/p&gt;
+it comes with a great customer service.(I got response within 8 hours when I sent emails, not to mention the maintainer is in Japan) Most importantly, it is free.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.boastr.net/&quot;&gt;BetterTouchTool&lt;/a&gt;: BTT is well known, almost everyone likes the Snap feature, settings are very intuitive. It is no longer free, however spending few bucks to have it 24/7.
 I am totally down. In this post, I am not going to show how BTT works, it’s very easy to figure out.&lt;/p&gt;
@@ -113,7 +108,7 @@ which could be annoying. Luckily, Karabiner fixes this problem.&lt;/p&gt;
 I wanted to apply the idea to the entire system. It turned out better than I thought. Now I use it for everything, checking out emails in Mail, browsing files in Finder,
 going through lists in Slack, etc.&lt;/p&gt;
 
-&lt;p&gt;The screen shot is my setting. You are welcome to play with it, map anyway you like. I am going to use my mapping as an example.&lt;/p&gt;
+&lt;p&gt;The screen shot is my setting. You are welcome to play with it, map any way you like. I am going to use my mapping as an example.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://www.cyfyifanchen.com/assets/images/karabiner-setting.jpg&quot; alt=&quot;Karabiner key mapping&quot; /&gt;&lt;/p&gt;
 
@@ -152,13 +147,13 @@ going through lists in Slack, etc.&lt;/p&gt;
 
 &lt;h5 id=&quot;map-caps-lock-to-control-smartly&quot;&gt;Map &lt;code class=&quot;highlighter-rouge&quot;&gt;caps lock&lt;/code&gt; to &lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; smartly&lt;/h5&gt;
 
-&lt;p&gt;Instead of mapping &lt;code class=&quot;highlighter-rouge&quot;&gt;caps lock&lt;/code&gt; to &lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; permanently, why don’t just map it only when &lt;code class=&quot;highlighter-rouge&quot;&gt;caps lock&lt;/code&gt; is holding down with other keys.
+&lt;p&gt;Instead of mapping &lt;code class=&quot;highlighter-rouge&quot;&gt;caps lock&lt;/code&gt; to &lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; permanently, why don’t just map it only when &lt;code class=&quot;highlighter-rouge&quot;&gt;caps lock&lt;/code&gt; is holding down with other keys?
 Use &lt;a href=&quot;https://pqrs.org/osx/karabiner/seil.html.en&quot;&gt;Seil&lt;/a&gt; to do it.&lt;/p&gt;
 
 &lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
 
 &lt;p&gt;This post is meant to share my key mappings, shortcuts and how I benefit from them, I am sure there are far more than I know.
-With good softwares, be creative with your own mappings.&lt;/p&gt;
+With good software, be creative with your own mappings.&lt;/p&gt;
 
 &lt;h1 id=&quot;section&quot;&gt;中文&lt;/h1&gt;
 

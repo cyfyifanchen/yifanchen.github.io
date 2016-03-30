@@ -18,7 +18,7 @@ I am going to talk about how and why I map `hjkl` as `arrow` keys. For the mappi
 
 [Karabiner](https://pqrs.org/osx/karabiner/): The most powerful key mapping tool. Capable of doing all sorts of crazy key mappings. Preferences come in options,
 simply checking option makes configuration even easier. Still unsatisfied? Then make your own `private.xml` and import in. Yes, it is just this amazing. On top of that, 
-it comes with a great customer service.(I got responds within 8 hours when I sent emails, not to mention the maintainer is in Japan) Most importantly, it is free.
+it comes with a great customer service.(I got response within 8 hours when I sent emails, not to mention the maintainer is in Japan) Most importantly, it is free.
 
 [BetterTouchTool](https://www.boastr.net/): BTT is well known, almost everyone likes the Snap feature, settings are very intuitive. It is no longer free, however spending few bucks to have it 24/7.
 I am totally down. In this post, I am not going to show how BTT works, it's very easy to figure out.
@@ -36,7 +36,7 @@ I started to use Vim last year. I absolutely like model editing and the idea of 
 I wanted to apply the idea to the entire system. It turned out better than I thought. Now I use it for everything, checking out emails in Mail, browsing files in Finder,
 going through lists in Slack, etc. 
 
-The screen shot is my setting. You are welcome to play with it, map anyway you like. I am going to use my mapping as an example.
+The screen shot is my setting. You are welcome to play with it, map any way you like. I am going to use my mapping as an example.
 
 ![Karabiner key mapping](http://www.cyfyifanchen.com/assets/images/karabiner-setting.jpg) 
 
@@ -73,13 +73,13 @@ Now, you can navigate through lines of code without moving right hand to `arrow`
 
 ##### Map `caps lock` to `control` smartly
 
-Instead of mapping `caps lock` to `control` permanently, why don't just map it only when `caps lock` is holding down with other keys.
+Instead of mapping `caps lock` to `control` permanently, why don't just map it only when `caps lock` is holding down with other keys?
 Use [Seil](https://pqrs.org/osx/karabiner/seil.html.en) to do it.
 
 ### Conclusion 
 
 This post is meant to share my key mappings, shortcuts and how I benefit from them, I am sure there are far more than I know.
-With good softwares, be creative with your own mappings.
+With good software, be creative with your own mappings.
 
 # 中文
 
