@@ -3,7 +3,7 @@
     {
       "title"    : "Why I use vim",
       "tags"     : "vim, tmux, and zsh",
-      "url"      : "/vim-config/",
+      "url"      : "/why-I-use-vim/",
       "date"     : "28 Mar 2016"
     } ,
   
@@ -24,7 +24,7 @@
     {
       "title"    : "OSX Shortcuts You Might Not know",
       "tags"     : "shortcuts, keymapping, and OSX",
-      "url"      : "/osx-shortcuts/",
+      "url"      : "/osx-shortcuts-you-may-not-know/",
       "date"     : "15 Mar 2016"
     } 
   

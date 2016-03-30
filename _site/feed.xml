@@ -3,30 +3,26 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-03-29T20:18:13-06:00</updated>
+<updated>2016-03-29T22:28:54-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
 <entry>
 <title>Why I use vim</title>
-<link href="http://localhost:3000/vim-config/" rel="alternate" type="text/html" title="Why I use vim" />
+<link href="http://localhost:3000/why-I-use-vim/" rel="alternate" type="text/html" title="Why I use vim" />
 <published>2016-03-28T00:00:00-06:00</published>
 <updated>2016-03-28T00:00:00-06:00</updated>
-<id>http://localhost:3000/vim-config</id>
-<content type="html" xml:base="http://localhost:3000/vim-config/">&lt;h2 id=&quot;why-use-vim&quot;&gt;Why use vim&lt;/h2&gt;
+<id>http://localhost:3000/why-I-use-vim</id>
+<content type="html" xml:base="http://localhost:3000/why-I-use-vim/">&lt;h2 id=&quot;why-i-use-vim&quot;&gt;Why I use vim&lt;/h2&gt;
 
-&lt;p&gt;Don’t try to fit in. One day, it will occur to us life is much more rewarding when choose the rode not taken, a life not patterned after
-someone else’s, the editor, only you know how to use.&lt;/p&gt;
+&lt;p&gt;Don’t try to fit in. One day, it will occur to us life is much more rewarding when choose the rode not taken, a life not patterned after someone else’s, the editor, only you know how to use.&lt;/p&gt;
 
-&lt;p&gt;I like vim, tmux and zsh. I spend a lot of time to config, maintain and perfect my dotfiles. Knowing vim makes coding productive and enjoyable.
-I don’t buy the shit when people say, oh coding is 90% thinking and 10% writing. I spend 90% of my time fix code rather than writing code, when I 
-want to reach the specific part of a file, I want it happen as quick as possible. To me, vim is a state of art, quickly navigating through lines of code,
-creatively combining shortcuts, endlessly learning mind blowing tricks, all of these make vim irresistible to me.&lt;/p&gt;
+&lt;p&gt;I like vim, tmux and zsh. I spend a lot of time to config, maintain and perfect my dotfiles. Knowing vim makes coding productive and enjoyable.  I don’t buy the shit when people say that don’t need it
+because coding is 90% thinking and 10% writing. I spend 90% of my time fix code rather than writing code, when I want to reach the specific part of a file, I want it happen as quick as possible. To
+me, vim is a state of art, quickly navigating through lines of code, creatively combining shortcuts, endlessly learning mind blowing tricks, all of these make vim irresistible to me.&lt;/p&gt;
 
-&lt;p&gt;Vim has massive shortcuts, there is always a better way of doing same thing with less keystrokes. The intention is clear: keep learning,
-don’t be contented, find the fastest and most convenient way to make a change. Additionally, vim brings me creative thinking. 
-I wanted to apply the idea of using &lt;code class=&quot;highlighter-rouge&quot;&gt;hjkl&lt;/code&gt; as &lt;code class=&quot;highlighter-rouge&quot;&gt;arrow&lt;/code&gt; keys in any applications, I found a approach and practised it.
-It worked out even better than I expected. Soon, I got addicted. 
-So, I wrote both &lt;a href=&quot;http://www.cyfyifanchen.com/osx-shortcuts/&quot;&gt;OSX-shortcuts-you-might-not-know&lt;/a&gt; and
+&lt;p&gt;Vim has massive shortcuts, there is always a better way of doing same thing with less keystrokes. The intention is clear: keep learning, don’t be contented, find the fastest and most convenient way to
+make a change.  Additionally, vim brings me creative thinking.  I wanted to apply the idea of using &lt;code class=&quot;highlighter-rouge&quot;&gt;hjkl&lt;/code&gt; as &lt;code class=&quot;highlighter-rouge&quot;&gt;arrow&lt;/code&gt; keys in any applications, I found a approach and practised it.  It worked out even
+better than I expected. Soon, I got addicted.  So, I wrote both &lt;a href=&quot;http://www.cyfyifanchen.com/osx-shortcuts/&quot;&gt;OSX-shortcuts-you-might-not-know&lt;/a&gt; and
 &lt;a href=&quot;http://www.cyfyifanchen.com/advanced-keymapping/&quot;&gt;advanced-keymapping&lt;/a&gt;, hopefully spreading a little to have others will adopt the concept.&lt;/p&gt;
 
 &lt;p&gt;After all, vim may not necessarily makes me a good developer, but definitely makes me a motivated developer.&lt;/p&gt;
@@ -39,7 +35,7 @@ So, I wrote both &lt;a href=&quot;http://www.cyfyifanchen.com/osx-shortcuts/&quo
 <category term="vim" />
 <category term="tmux" />
 <category term="zsh" />
-<summary>Why use vim</summary>
+<summary>Why I use vim</summary>
 </entry>
 <entry>
 <title>陆续总结一下github上好的前端教程</title>
@@ -220,11 +216,11 @@ With good softwares, be creative with your own mappings.&lt;/p&gt;
 </entry>
 <entry>
 <title>OSX Shortcuts You Might Not know</title>
-<link href="http://localhost:3000/osx-shortcuts/" rel="alternate" type="text/html" title="OSX Shortcuts You Might Not know" />
+<link href="http://localhost:3000/osx-shortcuts-you-may-not-know/" rel="alternate" type="text/html" title="OSX Shortcuts You Might Not know" />
 <published>2016-03-15T00:00:00-06:00</published>
 <updated>2016-03-15T00:00:00-06:00</updated>
-<id>http://localhost:3000/osx-shortcuts</id>
-<content type="html" xml:base="http://localhost:3000/osx-shortcuts/">&lt;h2 id=&quot;osx-shortcuts-you-might-not-know&quot;&gt;OSX Shortcuts You Might Not Know&lt;/h2&gt;
+<id>http://localhost:3000/osx-shortcuts-you-may-not-know</id>
+<content type="html" xml:base="http://localhost:3000/osx-shortcuts-you-may-not-know/">&lt;h2 id=&quot;osx-shortcuts-you-might-not-know&quot;&gt;OSX Shortcuts You Might Not Know&lt;/h2&gt;
 
 &lt;p&gt;As programmers who live on keyboards 24/7, we should be aware of any kinds of shortcuts that will benefit productivities.&lt;/p&gt;
 
