@@ -12,7 +12,7 @@ star: false
 
 ## Why I use vim
 
-Don't try to fit in. One day, it will occur to us life is much more rewarding when choosing the road not taken, a life not patterned after someone else’s, the editor, only you know how to use.
+*We spend so much of our time tyring to fit in. One day, it will occur to us life is much more rewarding when choosing the road not taken, a life not patterned after someone else’s, an editor, very few will ever use.*
 
 I like vim, tmux and zsh. I spend a lot of time to config, maintain and perfect my dotfiles. Knowing vim makes coding productive and enjoyable. I don't buy the shit when people say that they don't need it because coding is 90% thinking and 10% writing. I spend 90% of my time fix code rather than writing code. When I want to reach the specific part of a file, I want it to happen as quick as possible. To me, vim is a state of the art, quickly navigating through lines of code, creatively combining shortcuts, endlessly learning mind blowing tricks, all of these make vim irresistible to me.
 

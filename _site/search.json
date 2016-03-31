@@ -1,6 +1,20 @@
 [
   
     {
+      "title"    : "What is Apple doing with Metal",
+      "tags"     : "Apple, Metal, and Technology",
+      "url"      : "/what-is-apple-doing-with-metal/",
+      "date"     : "30 Mar 2016"
+    } ,
+  
+    {
+      "title"    : "Swap screenshot shortcuts",
+      "tags"     : "Apple, Shortcuts, and Tips",
+      "url"      : "/swap-screenshot-shortcut/",
+      "date"     : "30 Mar 2016"
+    } ,
+  
+    {
       "title"    : "Why I use vim",
       "tags"     : "vim, tmux, and zsh",
       "url"      : "/why-I-use-vim/",

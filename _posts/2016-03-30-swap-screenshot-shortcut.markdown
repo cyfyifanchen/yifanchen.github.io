@@ -1,0 +1,19 @@
+---
+title: "Swap screenshot shortcuts"
+layout: post
+date: 2016-03-30 
+tag:
+- Apple 
+- Shortcuts
+- Tips
+blog: true
+star: false
+---
+
+## Swap screenshot shortcuts
+
+We all enjoy using OSX's built-in `cmd` + `shift` + `4` to screenshot. However, it's quite inconvenient to drag and drop the screenshot from desktop every time. Most people don't know that `cmd` + `control` + `shift` + `4` is screenshot directly to the clipboard, the next step is just `cmd` + `v` to any application you like. I found this extremely useful especially when I want to send a screenshot. 
+
+Using only left hand to reach 4 keys one time is hard. So I swapped both. Better than ever. 
+
+![swapping screenshot shortcuts]({{ site.url  }}/assets/images/screenshot-swap.jpg)
