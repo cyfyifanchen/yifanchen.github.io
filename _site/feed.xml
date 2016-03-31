@@ -3,16 +3,16 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-03-31T12:55:35-06:00</updated>
+<updated>2016-03-31T16:25:52-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
 <entry>
 <title>他们总是更新我做过的东西</title>
-<link href="http://localhost:3000/preface/" rel="alternate" type="text/html" title="他们总是更新我做过的东西" />
+<link href="http://localhost:3000/why-no-projects/" rel="alternate" type="text/html" title="他们总是更新我做过的东西" />
 <published>2016-03-31T12:39:00-06:00</published>
 <updated>2016-03-31T12:39:00-06:00</updated>
-<id>http://localhost:3000/preface</id>
-<content type="html" xml:base="http://localhost:3000/preface/">&lt;p&gt;叹气，好坏几年程序员了，至少给我个机会拿点东西出来潇洒一下。那帮混蛋总是更新我做过的东西。又不好意思拿别人改过的东西出来风骚。看来这下得自己花时间搞点小东西出来炫耀炫耀，至少能满足一下这爱耍宝的自尊心了。&lt;/p&gt;
+<id>http://localhost:3000/why-no-projects</id>
+<content type="html" xml:base="http://localhost:3000/why-no-projects/">&lt;p&gt;叹气，好坏几年程序员了，至少给我个机会拿点东西出来潇洒一下。那帮混蛋总是更新我做过的东西。又不好意思拿别人改过的东西出来风骚。看来这下得自己花时间搞点小东西出来炫耀炫耀，至少能满足一下这爱耍宝的自尊心了。&lt;/p&gt;
 </content>
 <category term="Projects" />
 <category term="Why-No-Projects" />
@@ -27,6 +27,11 @@
 <content type="html" xml:base="http://localhost:3000/what-is-apple-doing-with-metal/">&lt;h2 id=&quot;what-is-apple-doing-with-metal&quot;&gt;What is Apple doing with Metal&lt;/h2&gt;
 
 &lt;p&gt;I happened talking to a friend of of Mac gaming today. Then it got me thinking, for all those years, none of the&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://photos.appleinsidercdn.com/gallery/13162-7624-824b26b5b5904d2a3864cabc61cfda365b750913_large_2x-l.jpg&quot; alt=&quot;Apple Metal Logo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://photos.appleinsidercdn.com/gallery/13162-7625-0e2d339400c1558dbad535dfd598b1639f2ee76a_large_2x-l.jpg&quot; alt=&quot;Apple Metal Technology&quot; /&gt;&lt;/p&gt;
+
 </content>
 <category term="Apple" />
 <category term="Metal" />
