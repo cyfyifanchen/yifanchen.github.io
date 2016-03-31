@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:3000/preface/</loc>
+<lastmod>2016-03-31T12:39:00-06:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:3000/what-is-apple-doing-with-metal/</loc>
 <lastmod>2016-03-30T00:00:00-06:00</lastmod>
 </url>
