@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-04-01T16:23:27-06:00</updated>
+<updated>2016-04-01T16:35:48-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
 <entry>
@@ -17,15 +17,6 @@
 <category term="Projects" />
 <category term="Why-No-Projects" />
 <summary>叹气，好坏几年程序员了，至少给我个机会拿点东西出来潇洒一下。那帮混蛋总是更新我做过的东西。又不好意思拿别人改过的东西出来风骚。看来这下得自己花时间搞点小东西出来炫耀炫耀，至少能满足一下这爱耍宝的自尊心了。</summary>
-</entry>
-<entry>
-<title>Tt</title>
-<link href="http://localhost:3000/tt/" rel="alternate" type="text/html" title="Tt" />
-<published>2016-03-31T00:00:00-06:00</published>
-<updated>2016-03-31T00:00:00-06:00</updated>
-<id>http://localhost:3000/tt</id>
-<content type="html" xml:base="http://localhost:3000/tt/">
-</content>
 </entry>
 <entry>
 <title>Swap screenshot shortcuts</title>
