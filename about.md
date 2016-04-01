@@ -3,7 +3,7 @@ title: About
 layout: page
 permalink: /about/index.html
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
+![Profile Image]({{ site.url }}/assets/images/cyf.jpg)
 
 My name is Yifan Chen. I am a front end developer. 
 I work for [overstock.com](http://www.overstock.com/){:target="_blank"}. I like cars, technologies and beer.
