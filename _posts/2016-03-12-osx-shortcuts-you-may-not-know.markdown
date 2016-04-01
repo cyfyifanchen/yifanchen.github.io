@@ -42,7 +42,7 @@ Read [advanced-keymapping](http://www.cyfyifanchen.com/advanced-keymapping/), an
 
 #### System
 
-`control` + `shift` + `ejcet`: shorter to sleep, longer to shut down.
+`control` + `shift` + `power`: shorter to sleep, longer to shut down.
 
 `cmd` + `~`: cycle through different windows in current application.(one of my favorite shortcuts, doesn't exist in Windows)
 
