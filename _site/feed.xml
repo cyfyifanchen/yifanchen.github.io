@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-03-31T16:25:52-06:00</updated>
+<updated>2016-03-31T19:17:06-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
 <entry>
@@ -19,26 +19,6 @@
 <summary>叹气，好坏几年程序员了，至少给我个机会拿点东西出来潇洒一下。那帮混蛋总是更新我做过的东西。又不好意思拿别人改过的东西出来风骚。看来这下得自己花时间搞点小东西出来炫耀炫耀，至少能满足一下这爱耍宝的自尊心了。</summary>
 </entry>
 <entry>
-<title>What is Apple doing with Metal</title>
-<link href="http://localhost:3000/what-is-apple-doing-with-metal/" rel="alternate" type="text/html" title="What is Apple doing with Metal" />
-<published>2016-03-30T00:00:00-06:00</published>
-<updated>2016-03-30T00:00:00-06:00</updated>
-<id>http://localhost:3000/what-is-apple-doing-with-metal</id>
-<content type="html" xml:base="http://localhost:3000/what-is-apple-doing-with-metal/">&lt;h2 id=&quot;what-is-apple-doing-with-metal&quot;&gt;What is Apple doing with Metal&lt;/h2&gt;
-
-&lt;p&gt;I happened talking to a friend of of Mac gaming today. Then it got me thinking, for all those years, none of the&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://photos.appleinsidercdn.com/gallery/13162-7624-824b26b5b5904d2a3864cabc61cfda365b750913_large_2x-l.jpg&quot; alt=&quot;Apple Metal Logo&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://photos.appleinsidercdn.com/gallery/13162-7625-0e2d339400c1558dbad535dfd598b1639f2ee76a_large_2x-l.jpg&quot; alt=&quot;Apple Metal Technology&quot; /&gt;&lt;/p&gt;
-
-</content>
-<category term="Apple" />
-<category term="Metal" />
-<category term="Technology" />
-<summary>What is Apple doing with Metal</summary>
-</entry>
-<entry>
 <title>Swap screenshot shortcuts</title>
 <link href="http://localhost:3000/swap-screenshot-shortcut/" rel="alternate" type="text/html" title="Swap screenshot shortcuts" />
 <published>2016-03-30T00:00:00-06:00</published>
@@ -48,9 +28,11 @@
 
 &lt;p&gt;We all enjoy using OSX’s built-in &lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;shift&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;4&lt;/code&gt; to screenshot. However, it’s quite inconvenient to drag and drop the screenshot from desktop every time. Most people don’t know that &lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;shift&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;4&lt;/code&gt; is screenshot directly to the clipboard, the next step is just &lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;v&lt;/code&gt; to any application you like. I found this extremely useful especially when I want to send a screenshot.&lt;/p&gt;
 
-&lt;p&gt;Using only left hand to reach 4 keys one time is hard. So I swapped both. Better than ever.&lt;/p&gt;
+&lt;p&gt;Using only left hand to reach 4 keys one time is hard. So I swapped both as in the image below.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;{{ site.url  }}/assets/images/screenshot-swap.jpg&quot; alt=&quot;swapping screenshot shortcuts&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now, sending a screenshot is easy than ever. &lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;shift&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;4&lt;/code&gt; &amp;gt; switch to your chat client &amp;gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;v&lt;/code&gt;. Done.&lt;/p&gt;
 </content>
 <category term="Apple" />
 <category term="Shortcuts" />
