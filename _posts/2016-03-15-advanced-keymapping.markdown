@@ -56,7 +56,7 @@ After you map it the way like I do, the beautiful part happens:
 
 `control` + `l`: very useful to attach parameters to the end of a url.
 
-##### Example of adding a parameter to an url with both hands on row 2 of keyboard.
+##### Example of adding a parameter to an url with both hands on row 2 of keyboard
 
 1. `cmd` + `l` 
 2. `control` + `l`
