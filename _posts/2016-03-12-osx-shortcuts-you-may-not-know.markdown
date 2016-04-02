@@ -132,7 +132,7 @@ Read [advanced-keymapping](http://www.cyfyifanchen.com/advanced-keymapping/), an
 
 #### 系统
 
-`control` + `shift` + `ejcet`: 睡眠，锁屏，或者关机。
+`control` + `shift` + `power`: 睡眠，锁屏，或者关机。
 
 `cmd` + `~`: 如果一个软件有多个窗口的话，用这个命令切换不同的窗口。（我个人最喜欢的一个命令，windows没有）。
 
