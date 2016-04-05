@@ -3,9 +3,30 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-04-01T23:39:49-06:00</updated>
+<updated>2016-04-04T21:46:27-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
+<entry>
+<title>The Value of Code Consistency is Underestimated</title>
+<link href="http://localhost:3000/code-consistency-in-a-team/" rel="alternate" type="text/html" title="The Value of Code Consistency is Underestimated" />
+<published>2016-04-03T00:00:00-06:00</published>
+<updated>2016-04-03T00:00:00-06:00</updated>
+<id>http://localhost:3000/code-consistency-in-a-team</id>
+<content type="html" xml:base="http://localhost:3000/code-consistency-in-a-team/">&lt;h3 id=&quot;the-value-of-code-consistency-is-underestimated&quot;&gt;The value of code consistency is underestimated&lt;/h3&gt;
+
+&lt;p&gt;I worked on a friend’s design not too long ago. His design drove me crazy because the lack of consistency. The margins, paddings, font sizes, and colors were all different in different pages. I ended up eyeballed everything because I wasn’t sure which page to follow. Keep things consistent seems easy and doable to designers. In reality, only very experienced designers come along with consistent designs. A good design isn’t something how it looks, it’s how it works on many different levels.&lt;/p&gt;
+
+&lt;p&gt;A good design starts with a thoughtful process, a careful planning and an intention to details. At last, it’s how it looks. That is why a good design takes time, and it should take time. In the world we are in now, it’s nearly impossible to have designers to think thoroughly before they start working on it.&lt;/p&gt;
+
+&lt;p&gt;As same in design, code consistency is hard to keep as well especially when developers come and go. Writing maintainable code with code consistency really matters to the team in a long run. The value of code consistency is way underestimated today. QA developers spend a lot of time to verify bugs in the outside. Code consistency is certainly a way can reduce an amount of possible bugs in the inside. It is far more efficient and effective than code refactor, which is one of the passive ways to code consistency. Developers come from various backgrounds, having different developers following one rule is nearly impossible by telling them what to do or ask them to read the damn documentation. It may end up making they think you micro-manage them.&lt;/p&gt;
+
+&lt;p&gt;So, what’s the correct and the best way of building a team with a healthy and creative atmosphere that also is very friendly to developers? First of all, proper training. Yes, we are talking about  serious and thorough training, not 2 weeks training, not a few links to long and boring documentation. Second, linters and build systems. Yes, I know developers don’t like linters, but think broader, in a long run, team benefits from it. Third, proper education of team cultures. It will never work by just asking developers to do things. Explain pros and cons to them. They will understand when it comes down to the team effort because today everyone claims they are team players.&lt;/p&gt;
+</content>
+<category term="thoughts" />
+<category term="team" />
+<category term="design" />
+<summary>The value of code consistency is underestimated</summary>
+</entry>
 <entry>
 <title>他们总是更新我做过的东西</title>
 <link href="http://localhost:3000/why-no-projects/" rel="alternate" type="text/html" title="他们总是更新我做过的东西" />
@@ -161,7 +182,7 @@ going through lists in Slack, etc.&lt;/p&gt;
 
 &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;l&lt;/code&gt;: very useful to attach parameters to the end of a url.&lt;/p&gt;
 
-&lt;h5 id=&quot;example-of-adding-a-parameter-to-an-url-with-both-hands-on-row-2-of-keyboard&quot;&gt;Example of adding a parameter to an url with both hands on row 2 of keyboard.&lt;/h5&gt;
+&lt;h5 id=&quot;example-of-adding-a-parameter-to-an-url-with-both-hands-on-row-2-of-keyboard&quot;&gt;Example of adding a parameter to an url with both hands on row 2 of keyboard&lt;/h5&gt;
 
 &lt;ol&gt;
   &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;l&lt;/code&gt;&lt;/li&gt;
@@ -370,7 +391,7 @@ With good software, be creative with your own mappings.&lt;/p&gt;
 
 &lt;h4 id=&quot;section-2&quot;&gt;系统&lt;/h4&gt;
 
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;shift&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;ejcet&lt;/code&gt;: 睡眠，锁屏，或者关机。&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;shift&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;power&lt;/code&gt;: 睡眠，锁屏，或者关机。&lt;/p&gt;
 
 &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;~&lt;/code&gt;: 如果一个软件有多个窗口的话，用这个命令切换不同的窗口。（我个人最喜欢的一个命令，windows没有）。&lt;/p&gt;
 

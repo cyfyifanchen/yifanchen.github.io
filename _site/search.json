@@ -1,6 +1,13 @@
 [
   
     {
+      "title"    : "The Value of Code Consistency is Underestimated",
+      "tags"     : "thoughts, team, and design",
+      "url"      : "/code-consistency-in-a-team/",
+      "date"     : "03 Apr 2016"
+    } ,
+  
+    {
       "title"    : "他们总是更新我做过的东西",
       "tags"     : "Projects and Why-No-Projects",
       "url"      : "/why-no-projects/",
