@@ -3,9 +3,27 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-04-04T21:46:27-06:00</updated>
+<updated>2016-04-05T12:52:40-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
+<entry>
+<title>Using AMP to Build a Blog</title>
+<link href="http://localhost:3000/Using-AMP-Building-Blog/" rel="alternate" type="text/html" title="Using AMP to Build a Blog" />
+<published>2016-04-05T00:00:00-06:00</published>
+<updated>2016-04-05T00:00:00-06:00</updated>
+<id>http://localhost:3000/Using-AMP-Building-Blog</id>
+<content type="html" xml:base="http://localhost:3000/Using-AMP-Building-Blog/">&lt;h2 id=&quot;using-amp-to-build-a-blog&quot;&gt;Using AMP to build a blog&lt;/h2&gt;
+
+&lt;p&gt;AMP is Accelerated Mobile Pages, &lt;em&gt;a open source initiative that embodies the vision that publishers can create mobile optimized content once and have it load instantly everywhere.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I read this today, thinking about taking my blog from Jekyll to AMP. Doing this is not because the improved milliseconds loading speed on my site. It’s all about the spirit of craftsman. Software engineering is like craftsmanship, there isn’t the best way, but always the better way. The intention with perfection makes software better and better.&lt;/p&gt;
+
+</content>
+<category term="thoughts" />
+<category term="team" />
+<category term="design" />
+<summary>Using AMP to build a blog</summary>
+</entry>
 <entry>
 <title>The Value of Code Consistency is Underestimated</title>
 <link href="http://localhost:3000/code-consistency-in-a-team/" rel="alternate" type="text/html" title="The Value of Code Consistency is Underestimated" />
@@ -18,9 +36,9 @@
 
 &lt;p&gt;A good design starts with a thoughtful process, a careful planning and an intention to details. At last, it’s how it looks. That is why a good design takes time, and it should take time. In the world we are in now, it’s nearly impossible to have designers to think thoroughly before they start working on it.&lt;/p&gt;
 
-&lt;p&gt;As same in design, code consistency is hard to keep as well especially when developers come and go. Writing maintainable code with code consistency really matters to the team in a long run. The value of code consistency is way underestimated today. QA developers spend a lot of time to verify bugs in the outside. Code consistency is certainly a way can reduce an amount of possible bugs in the inside. It is far more efficient and effective than code refactor, which is one of the passive ways to code consistency. Developers come from various backgrounds, having different developers following one rule is nearly impossible by telling them what to do or ask them to read the damn documentation. It may end up making they think you micro-manage them.&lt;/p&gt;
+&lt;p&gt;As same in design, code consistency is hard to keep as well especially when developers come and go. Writing maintainable code with code consistency really matters to the team in a long run. The value of code consistency is way underestimated today. QA developers spend a lot of time to verify bugs on the outside, code consistency is certainly a way can reduce amounts of possible bugs on the inside. It is also far more efficient and effective than code refactor, which can be considered as one of the passive ways to match code consistency. Developers come from various backgrounds, having different developers following one rule is nearly impossible by telling them what to do or ask them to read the damn documentations. It may end up making they think you micro-manage them, bringing negative atmosphere to the team.&lt;/p&gt;
 
-&lt;p&gt;So, what’s the correct and the best way of building a team with a healthy and creative atmosphere that also is very friendly to developers? First of all, proper training. Yes, we are talking about  serious and thorough training, not 2 weeks training, not a few links to long and boring documentation. Second, linters and build systems. Yes, I know developers don’t like linters, but think broader, in a long run, team benefits from it. Third, proper education of team cultures. It will never work by just asking developers to do things. Explain pros and cons to them. They will understand when it comes down to the team effort because today everyone claims they are team players.&lt;/p&gt;
+&lt;p&gt;So, what’s the correct and the best way of building a team with a healthy and creative vibe that also is very friendly to developers? First of all, proper training. Yes, we are talking about serious and thorough training that are tailored to developers, not a short time, not a few links to long and boring documentation. In fact, decent sized companies should have dedicated developers work on the training programs. Second, linters and build systems. Yes, I know developers don’t like linters, but think broader, in a long run, team benefits from it. Third, proper education of team cultures. It will never work by just asking developers to do things. Explain pros and cons to them. They will understand when it comes down to the team effort because today everyone claims they are team players.&lt;/p&gt;
 </content>
 <category term="thoughts" />
 <category term="team" />
