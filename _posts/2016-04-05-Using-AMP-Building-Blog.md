@@ -1,7 +1,7 @@
 ---
 title: "Using AMP to Build a Blog"
 layout: post
-date: 2016-04-06 
+date: 2016-04-05 
 tag:
 - thoughts 
 - team
