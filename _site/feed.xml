@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-04-05T16:49:17-06:00</updated>
+<updated>2016-04-05T19:14:26-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
 <entry>
@@ -41,11 +41,11 @@
 </entry>
 <entry>
 <title>The Value of Code Consistency is Underestimated</title>
-<link href="http://localhost:3000/code-consistency-in-a-team/" rel="alternate" type="text/html" title="The Value of Code Consistency is Underestimated" />
+<link href="http://localhost:3000/The-Value-of-Code-Consistency-is-Underesimated/" rel="alternate" type="text/html" title="The Value of Code Consistency is Underestimated" />
 <published>2016-04-03T00:00:00-06:00</published>
 <updated>2016-04-03T00:00:00-06:00</updated>
-<id>http://localhost:3000/code-consistency-in-a-team</id>
-<content type="html" xml:base="http://localhost:3000/code-consistency-in-a-team/">&lt;h3 id=&quot;the-value-of-code-consistency-is-underestimated&quot;&gt;The value of code consistency is underestimated&lt;/h3&gt;
+<id>http://localhost:3000/The-Value-of-Code-Consistency-is-Underesimated</id>
+<content type="html" xml:base="http://localhost:3000/The-Value-of-Code-Consistency-is-Underesimated/">&lt;h3 id=&quot;the-value-of-code-consistency-is-underestimated&quot;&gt;The value of code consistency is underestimated&lt;/h3&gt;
 
 &lt;p&gt;I worked on a friend’s design not too long ago. His design drove me crazy because the lack of consistency. The margins, paddings, font sizes, and colors were all different in different pages. I ended up eyeballed everything because I wasn’t sure which page to follow. Keep things consistent seems easy and doable to designers. In reality, only very experienced designers come along with consistent designs. A good design isn’t something how it looks, it’s how it works on many different levels.&lt;/p&gt;
 
