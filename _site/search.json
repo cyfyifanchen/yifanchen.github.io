@@ -8,6 +8,13 @@
     } ,
   
     {
+      "title"    : "Getting Linters ready for the team",
+      "tags"     : "thoughts, team, and design",
+      "url"      : "/Getting-Linters-Ready-for-the-Team/",
+      "date"     : "05 Apr 2016"
+    } ,
+  
+    {
       "title"    : "The Value of Code Consistency is Underestimated",
       "tags"     : "thoughts, team, and design",
       "url"      : "/code-consistency-in-a-team/",
