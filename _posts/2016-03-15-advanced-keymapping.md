@@ -117,7 +117,7 @@ With good software, be creative with your own mappings.
 
 整个过程手不需要离开键盘的黄金位置。
 
-##### 如果在vim里面我已经设置了'control' + `hjkl` 怎么办？
+##### 如果在vim里面我已经设置了`control` + `hjkl` 怎么办？
 
 1. 我建议disable karabiner用vim的时候，为什么？很简单，vim的快捷键很强大，必须去发觉。
 2. `fn` + `hjkl`
