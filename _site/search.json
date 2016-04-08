@@ -1,16 +1,16 @@
 [
   
     {
-      "title"    : "Using AMP to Build a Blog",
-      "tags"     : "thoughts, team, and design",
-      "url"      : "/Using-AMP-Building-Blog/",
-      "date"     : "05 Apr 2016"
+      "title"    : "Get Linters Working For the Team",
+      "tags"     : "team work, code style, and linter",
+      "url"      : "/get-linter-working-for-the-team/",
+      "date"     : "06 Apr 2016"
     } ,
   
     {
-      "title"    : "Getting Linters ready for the team",
+      "title"    : "Using AMP to Build a Blog",
       "tags"     : "thoughts, team, and design",
-      "url"      : "/Getting-Linters-Ready-for-the-Team/",
+      "url"      : "/Using-AMP-Building-Blog/",
       "date"     : "05 Apr 2016"
     } ,
   

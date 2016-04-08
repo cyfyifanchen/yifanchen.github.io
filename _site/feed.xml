@@ -3,9 +3,25 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-04-05T19:14:26-06:00</updated>
+<updated>2016-04-08T17:31:07-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
+<entry>
+<title>Get Linters Working For the Team</title>
+<link href="http://localhost:3000/get-linter-working-for-the-team/" rel="alternate" type="text/html" title="Get Linters Working For the Team" />
+<published>2016-04-06T00:00:00-06:00</published>
+<updated>2016-04-06T00:00:00-06:00</updated>
+<id>http://localhost:3000/get-linter-working-for-the-team</id>
+<content type="html" xml:base="http://localhost:3000/get-linter-working-for-the-team/">&lt;h2 id=&quot;get-linters-working-for-the-team&quot;&gt;Get linters working for the team&lt;/h2&gt;
+
+&lt;p&gt;Please read my previous post &lt;a href=&quot;{{ site.url/ }}&quot;&gt;The value of code consistency&lt;/a&gt;&lt;/p&gt;
+
+</content>
+<category term="team work" />
+<category term="code style" />
+<category term="linter" />
+<summary>Get linters working for the team</summary>
+</entry>
 <entry>
 <title>Using AMP to Build a Blog</title>
 <link href="http://localhost:3000/Using-AMP-Building-Blog/" rel="alternate" type="text/html" title="Using AMP to Build a Blog" />
@@ -23,21 +39,6 @@
 <category term="team" />
 <category term="design" />
 <summary>Using AMP to build a blog</summary>
-</entry>
-<entry>
-<title>Getting Linters ready for the team</title>
-<link href="http://localhost:3000/Getting-Linters-Ready-for-the-Team/" rel="alternate" type="text/html" title="Getting Linters ready for the team" />
-<published>2016-04-05T00:00:00-06:00</published>
-<updated>2016-04-05T00:00:00-06:00</updated>
-<id>http://localhost:3000/Getting-Linters-Ready-for-the-Team</id>
-<content type="html" xml:base="http://localhost:3000/Getting-Linters-Ready-for-the-Team/">&lt;h2 id=&quot;getting-linters-ready-for-the-team&quot;&gt;Getting linters ready for the team&lt;/h2&gt;
-
-&lt;p&gt;I think code consistency matters a lot to a team in a long run. Please read my previous&lt;/p&gt;
-</content>
-<category term="thoughts" />
-<category term="team" />
-<category term="design" />
-<summary>Getting linters ready for the team</summary>
 </entry>
 <entry>
 <title>The Value of Code Consistency is Underestimated</title>
@@ -101,7 +102,7 @@
 <id>http://localhost:3000/why-I-use-vim</id>
 <content type="html" xml:base="http://localhost:3000/why-I-use-vim/">&lt;h2 id=&quot;why-i-use-vim&quot;&gt;Why I use vim&lt;/h2&gt;
 
-&lt;p&gt;&lt;em&gt;We spend so much of our time tyring to fit in. One day, it will occur to us life is much more rewarding when choosing the road not taken, a life not patterned after someone else’s, an editor, very few will ever use.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;We spend so much of our time trying to fit in. One day, it will occur to us life is much more rewarding when choosing the road not taken, a life not patterned after someone else’s, an editor, very few will ever use.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;I like vim, tmux and zsh. I spend a lot of time to config, maintain and perfect my dotfiles. Knowing vim makes coding productive and enjoyable. I don’t buy the shit when people say that they don’t need it because coding is 90% thinking and 10% writing. I spend 90% of my time fix code rather than writing code. When I want to reach the specific part of a file, I want it to happen as quick as possible. To me, vim is a state of the art, quickly navigating through lines of code, creatively combining shortcuts, endlessly learning mind blowing tricks, all of these make vim irresistible to me.&lt;/p&gt;
 
@@ -280,7 +281,7 @@ With good software, be creative with your own mappings.&lt;/p&gt;
 
 &lt;p&gt;整个过程手不需要离开键盘的黄金位置。&lt;/p&gt;
 
-&lt;h5 id=&quot;vimcontrol--hjkl-&quot;&gt;如果在vim里面我已经设置了’control’ + &lt;code class=&quot;highlighter-rouge&quot;&gt;hjkl&lt;/code&gt; 怎么办？&lt;/h5&gt;
+&lt;h5 id=&quot;vimcontrol--hjkl-&quot;&gt;如果在vim里面我已经设置了&lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;hjkl&lt;/code&gt; 怎么办？&lt;/h5&gt;
 
 &lt;ol&gt;
   &lt;li&gt;我建议disable karabiner用vim的时候，为什么？很简单，vim的快捷键很强大，必须去发觉。&lt;/li&gt;
