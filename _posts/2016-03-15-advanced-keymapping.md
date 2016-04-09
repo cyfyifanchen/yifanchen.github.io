@@ -12,7 +12,7 @@ star: false
 
 ## Advanced Keymapping
 
-In order to get most of this post, please read [OSX-shortcuts-you-might-not-know](http://www.cyfyifanchen.com/osx-shortcuts/) first. 
+In order to get most of this post, please read [OSX-shortcuts-you-might-not-know]({{ site.url }}/osx-shortcuts-you-may-not-know/) first. 
 
 I am going to talk about how and why I map `hjkl` as `arrow` keys. For the mapping to work, you will need to use either of the following tools. 
 
@@ -38,7 +38,7 @@ going through lists in Slack, etc.
 
 The screen shot is my setting. You are welcome to play with it, map any way you like. I am going to use my mapping as an example.
 
-![Karabiner key mapping](http://www.cyfyifanchen.com/assets/images/karabiner-setting.jpg) 
+![Karabiner key mapping]({{ site.url }}/assets/images/karabiner-setting.jpg) 
 
 After you map it the way like I do, the beautiful part happens:
 
