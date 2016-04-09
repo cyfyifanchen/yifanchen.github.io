@@ -98,6 +98,8 @@ Read [advanced-keymapping](http://www.cyfyifanchen.com/advanced-keymapping/), an
 
 `control` + `e`: go to end of the line.
 
+`control` + `h`: delete, same as `delete`.
+
 `control` + `p`: previous command.
 
 `control` + `l`: clear.
