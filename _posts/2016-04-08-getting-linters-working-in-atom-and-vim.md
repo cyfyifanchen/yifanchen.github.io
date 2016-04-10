@@ -28,7 +28,7 @@ It is open-sourced, and very popular among developers. I dug in a little and rea
 #### Part 2 - Making sure the linters work in common editors
 
 I browsed [JSCS](http://jscs.info/){:target="_blank"} for the info I needed. Bam, I found everything [here](http://jscs.info/overview){:target="_blank"}. I opened Atom and installed the
-[JSCS Linter](https://atom.io/packages/linter-jscs){:target="_blank"} inside Atom, changed the preset to Airbnb. Tested it with couple `js` files, it worked beautifully. Then let's get it working in Vim. Although I am a Vimmer, but I know it will take much longer to make it working in Vim than in Atom. First, I needed to `npm insteall jscs -g` to my `home` directory. Then I created `.jscsrc` file and put the preset like this in my `home` directory.
+[JSCS Linter](https://atom.io/packages/linter-jscs){:target="_blank"} inside Atom, changed the preset to Airbnb. Tested it with couple `js` files, it worked beautifully. Then let's get it working in Vim. Although I am a Vimmer, but I know it will take much longer to make it working in Vim than in Atom. First, I needed to `npm insteall jscs -g` to my `home` directory. Then I created `.jscsrc` file and put the preset like the following code in my `home` directory.
 
     {
       "preset": "airbnb"
