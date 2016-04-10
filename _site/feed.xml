@@ -3,24 +3,75 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-04-08T17:31:07-06:00</updated>
+<updated>2016-04-09T18:06:58-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
 <entry>
-<title>Get Linters Working For the Team</title>
-<link href="http://localhost:3000/get-linter-working-for-the-team/" rel="alternate" type="text/html" title="Get Linters Working For the Team" />
-<published>2016-04-06T00:00:00-06:00</published>
-<updated>2016-04-06T00:00:00-06:00</updated>
-<id>http://localhost:3000/get-linter-working-for-the-team</id>
-<content type="html" xml:base="http://localhost:3000/get-linter-working-for-the-team/">&lt;h2 id=&quot;get-linters-working-for-the-team&quot;&gt;Get linters working for the team&lt;/h2&gt;
+<title>Getting linters working in Atom and Vim</title>
+<link href="http://localhost:3000/getting-linters-working-in-atom-and-vim/" rel="alternate" type="text/html" title="Getting linters working in Atom and Vim" />
+<published>2016-04-08T00:00:00-06:00</published>
+<updated>2016-04-08T00:00:00-06:00</updated>
+<id>http://localhost:3000/getting-linters-working-in-atom-and-vim</id>
+<content type="html" xml:base="http://localhost:3000/getting-linters-working-in-atom-and-vim/">&lt;h2 id=&quot;getting-linters-working-in-atom-and-vim&quot;&gt;Getting linters working in Atom and Vim&lt;/h2&gt;
 
-&lt;p&gt;Please read my previous post &lt;a href=&quot;{{ site.url/ }}&quot;&gt;The value of code consistency&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I like &lt;a href=&quot;{{ site.url }}/The-Value-of-Code-Consistency-is-Underesimated/&quot; target=&quot;_blank&quot;&gt;code consistency&lt;/a&gt;, and think the value of it matters a lot to a team in a long run. It’s not easy to achieve code consistency in the middle of an ongoing project. What even harder is the approaches of getting same code style of everyone in the team. To complete this for the team, there will be fine training and strict rules needed. However, lack of proper training and code style management are obviously everywhere today. There is a fine line between killing the creativity of developers and boosting the productivity of teams. Software development is not about one single kick ass developer, it’s about teamwork and team effort. I decided to give a try.&lt;/p&gt;
+
+&lt;p&gt;If I happen to have an idea that hopefully my team will adopt, I have to make sure first the value of the idea is beneficial to the team in every aspect. Second prototype happens before implementation. Then the rest of the team only needs to spend a minimal effort to carry on. To do so, I need to find out how to do the following:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Finding the correct litners&lt;/li&gt;
+  &lt;li&gt;Making sure the linters work in both Atom and Vim, possibly all common text editors.&lt;/li&gt;
+  &lt;li&gt;Convince the team&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;part-1---finding-the-correct-linters&quot;&gt;Part 1 - Finding the correct linters&lt;/h4&gt;
+
+&lt;p&gt;Of course, the easiest part comes in first. Finding suitable litners isn’t hard. &lt;a href=&quot;http://fortune.com/2015/12/09/airbnb-glassdoor/&quot; target=&quot;_blank&quot;&gt;Airbnb&lt;/a&gt; is rated the best tech company to work for in 2016. I happen to know Airbnb because of their linters, not the service I used. Airbnb has several linters, the most famous and beloved linter is their &lt;a href=&quot;https://github.com/airbnb/javascript&quot; target=&quot;_blank&quot;&gt;JSCS linter&lt;/a&gt;.
+It is open-sourced, and very popular among developers. I dug in a little and read through the documentations, made sure it was what I was looking for and simple enough for my team to use.&lt;/p&gt;
+
+&lt;h4 id=&quot;part-2---making-sure-the-linters-work-in-common-editors&quot;&gt;Part 2 - Making sure the linters work in common editors&lt;/h4&gt;
+
+&lt;p&gt;I browsed &lt;a href=&quot;http://jscs.info/&quot; target=&quot;_blank&quot;&gt;JSCS&lt;/a&gt; for the info I needed. Bam, I found everything &lt;a href=&quot;http://jscs.info/overview&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;. I opened Atom and installed the
+&lt;a href=&quot;https://atom.io/packages/linter-jscs&quot; target=&quot;_blank&quot;&gt;JSCS Linter&lt;/a&gt; inside Atom, changed the preset to Airbnb. Tested it with couple &lt;code class=&quot;highlighter-rouge&quot;&gt;js&lt;/code&gt; files, it worked beautifully. Then let’s get it working in Vim. Although I am a Vimmer, but I know it will take much longer to make it working in Vim than in Atom. First, I needed to &lt;code class=&quot;highlighter-rouge&quot;&gt;npm insteall jscs -g&lt;/code&gt; to my &lt;code class=&quot;highlighter-rouge&quot;&gt;home&lt;/code&gt; directory. Then I created &lt;code class=&quot;highlighter-rouge&quot;&gt;.jscsrc&lt;/code&gt; file and put the preset like this in my &lt;code class=&quot;highlighter-rouge&quot;&gt;home&lt;/code&gt; directory.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;preset&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;airbnb&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Then, the rest is to config Syntastic to call the correct litner.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;set statusline+=%#warningmsg#
+set statusline+=%{SyntasticStatuslineFlag()}
+set statusline+=%*
+
+let g:syntastic_javascript_checkers = [&#39;jscs&#39;]
+let g:syntastic_html_tidy_exec = &#39;tidy5&#39;
+let jshint2_read = 1
+let jshint2_save = 1
+let g:syntastic_check_on_open = 1
+
+&quot;dispaly all errors for mutiple checkers
+let g:syntastic_aggregate_errors = 1
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Good, everything worked. Although Syntastic with new linter slows down Vim loading speed a bit, I am still pretty happy with the result of it. The next step is getting CSS and React linters working, and put them in our build system.&lt;/p&gt;
+
+&lt;h4 id=&quot;part-3---convince-the-team&quot;&gt;Part 3 - Convince the team&lt;/h4&gt;
+
+&lt;p&gt;Luckily, everyone in my team is a team player. It doesn’t take much to explain the value of it. It’s especially easier since I have figured out everything first, all they need to do is execution.&lt;/p&gt;
+
+&lt;h4 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h4&gt;
+
+&lt;p&gt;This is a post showing how I took an idea and applied it to my team. In reality, it might be harder to adopt an impractical idea or your team is too big to change. However, a little by little everyone can improve their teams, everyone can be a true team player.&lt;/p&gt;
 
 </content>
-<category term="team work" />
-<category term="code style" />
-<category term="linter" />
-<summary>Get linters working for the team</summary>
+<category term="vim" />
+<category term="atom" />
+<category term="linters" />
+<summary>Getting linters working in Atom and Vim</summary>
 </entry>
 <entry>
 <title>Using AMP to Build a Blog</title>
@@ -104,9 +155,9 @@
 
 &lt;p&gt;&lt;em&gt;We spend so much of our time trying to fit in. One day, it will occur to us life is much more rewarding when choosing the road not taken, a life not patterned after someone else’s, an editor, very few will ever use.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;I like vim, tmux and zsh. I spend a lot of time to config, maintain and perfect my dotfiles. Knowing vim makes coding productive and enjoyable. I don’t buy the shit when people say that they don’t need it because coding is 90% thinking and 10% writing. I spend 90% of my time fix code rather than writing code. When I want to reach the specific part of a file, I want it to happen as quick as possible. To me, vim is a state of the art, quickly navigating through lines of code, creatively combining shortcuts, endlessly learning mind blowing tricks, all of these make vim irresistible to me.&lt;/p&gt;
+&lt;p&gt;I like vim, tmux and zsh. It rewards me a lot when I know this is an IDE that only suits me. With motivation like this, I spend a lot of time to config, maintain and perfect my dotfiles. At same time, I found knowing vim makes coding more productive and absolutely enjoyable. The idea of using vim is being &lt;em&gt;lazy&lt;/em&gt;, building a mouse-free workflow, keeping possibilities with fingertips. I don’t buy the shit when people say that they don’t need it because coding is 90% thinking and 10% writing. I spend 90% of my time fix code rather than writing code. When I want to reach the specific part of a file, I want it to happen as quick as possible. To me, vim is a state of the art, quickly navigating through lines of code, creatively combining shortcuts, endlessly learning mind blowing tricks, all of these make vim irresistible.&lt;/p&gt;
 
-&lt;p&gt;Vim has massive shortcuts, there is always a better way of doing the same thing with fewer keystrokes. The intention is clear: keep learning, don’t be contented, find the fastest and most convenient way to make a change. Additionally, vim brings me creative thinking. I wanted to apply the idea of using &lt;code class=&quot;highlighter-rouge&quot;&gt;hjkl&lt;/code&gt; as &lt;code class=&quot;highlighter-rouge&quot;&gt;arrow&lt;/code&gt; keys in any applications, I found an approach and practised it. It worked out much better than I expected. Soon, I got addicted. So, I wrote both &lt;a href=&quot;http://www.cyfyifanchen.com/osx-shortcuts/&quot;&gt;OSX-shortcuts-you-might-not-know&lt;/a&gt; and &lt;a href=&quot;http://www.cyfyifanchen.com/advanced-keymapping/&quot;&gt;advanced-keymapping&lt;/a&gt;, hopefully spreading a little to have others will adopt the concept.&lt;/p&gt;
+&lt;p&gt;Vim has massive shortcuts, there is always a better way of doing the same thing with fewer keystrokes. The intention is clear: keep learning, don’t be contented, find the fastest and most convenient way to make a change. Additionally, vim brings me creative thinking. I wanted to apply the idea of using &lt;code class=&quot;highlighter-rouge&quot;&gt;hjkl&lt;/code&gt; as &lt;code class=&quot;highlighter-rouge&quot;&gt;arrow&lt;/code&gt; keys in any applications, I found an approach and practised it. It worked out much better than I expected. Soon, I got addicted. So, I wrote both &lt;a href=&quot;{{ site.url }}/osx-shortcuts-you-may-not-know/&quot;&gt;OSX-shortcuts-you-may-not-know&lt;/a&gt; and &lt;a href=&quot;{{ site.url }}/advanced-keymapping/&quot;&gt;advanced-keymapping&lt;/a&gt;, hopefully spreading a little to have others adopt the concept.&lt;/p&gt;
 
 &lt;p&gt;After all, vim may not necessarily make me a good developer, but definitely makes me a motivated developer.&lt;/p&gt;
 
@@ -167,7 +218,7 @@
 <id>http://localhost:3000/advanced-keymapping</id>
 <content type="html" xml:base="http://localhost:3000/advanced-keymapping/">&lt;h2 id=&quot;advanced-keymapping&quot;&gt;Advanced Keymapping&lt;/h2&gt;
 
-&lt;p&gt;In order to get most of this post, please read &lt;a href=&quot;http://www.cyfyifanchen.com/osx-shortcuts/&quot;&gt;OSX-shortcuts-you-might-not-know&lt;/a&gt; first.&lt;/p&gt;
+&lt;p&gt;In order to get most of this post, please read &lt;a href=&quot;{{ site.url }}/osx-shortcuts-you-may-not-know/&quot;&gt;OSX-shortcuts-you-might-not-know&lt;/a&gt; first.&lt;/p&gt;
 
 &lt;p&gt;I am going to talk about how and why I map &lt;code class=&quot;highlighter-rouge&quot;&gt;hjkl&lt;/code&gt; as &lt;code class=&quot;highlighter-rouge&quot;&gt;arrow&lt;/code&gt; keys. For the mapping to work, you will need to use either of the following tools.&lt;/p&gt;
 
@@ -198,7 +249,7 @@ going through lists in Slack, etc.&lt;/p&gt;
 
 &lt;p&gt;The screen shot is my setting. You are welcome to play with it, map any way you like. I am going to use my mapping as an example.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://www.cyfyifanchen.com/assets/images/karabiner-setting.jpg&quot; alt=&quot;Karabiner key mapping&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;{{ site.url }}/assets/images/karabiner-setting.jpg&quot; alt=&quot;Karabiner key mapping&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;After you map it the way like I do, the beautiful part happens:&lt;/p&gt;
 
@@ -390,6 +441,8 @@ With good software, be creative with your own mappings.&lt;/p&gt;
 &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;a&lt;/code&gt;: go to beginning of the line.&lt;/p&gt;
 
 &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;e&lt;/code&gt;: go to end of the line.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;h&lt;/code&gt;: delete, same as &lt;code class=&quot;highlighter-rouge&quot;&gt;delete&lt;/code&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;p&lt;/code&gt;: previous command.&lt;/p&gt;
 
