@@ -49,7 +49,7 @@ Then, the rest is to config Syntastic to call the correct litner.
     "dispaly all errors for mutiple checkers
     let g:syntastic_aggregate_errors = 1
 
-Good, everything worked. Although Syntastic with new linter slows down Vim loading speed a bit, I am still pretty happy with the result of it. The next step is getting CSS and React linters working, and put them in our build system.
+Good, everything worked. Although Syntastic with new linter slows down Vim loading speed a bit, I am still pretty happy with the result of it. The next step is getting CSS and React linters working, and put them in our build system, which I will write later.
 
 
 #### Part 3 - Convince the team
