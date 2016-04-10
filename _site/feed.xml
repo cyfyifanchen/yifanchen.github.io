@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-04-09T21:32:07-06:00</updated>
+<updated>2016-04-10T11:18:02-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
 <entry>
@@ -14,7 +14,7 @@
 <id>http://localhost:3000/getting-linters-working-in-atom-and-vim</id>
 <content type="html" xml:base="http://localhost:3000/getting-linters-working-in-atom-and-vim/">&lt;h2 id=&quot;getting-linters-working-in-atom-and-vim&quot;&gt;Getting linters working in Atom and Vim&lt;/h2&gt;
 
-&lt;p&gt;I like &lt;a href=&quot;{{ site.url }}/The-Value-of-Code-Consistency-is-Underesimated/&quot; target=&quot;_blank&quot;&gt;code consistency&lt;/a&gt;, and think the value of it matters a lot to a team in a long run. It’s not easy to achieve code consistency in the middle of an ongoing project. What even harder is the approaches of getting same code style of everyone in the team. To complete this for the team, there will be fine training and strict rules needed. However, lack of proper training and code style management are obviously everywhere today. There is a fine line between killing the creativity of developers and boosting the productivity of teams. Software development is not about one single kick ass developer, it’s about teamwork and team effort. I decided to give a try.&lt;/p&gt;
+&lt;p&gt;I like &lt;a href=&quot;{{ site.url }}/The-Value-of-Code-Consistency-is-Underesimated/&quot; target=&quot;_blank&quot;&gt;code consistency&lt;/a&gt;, and think the value of it matters a lot to a team in a long run. It’s not easy to achieve code consistency in the middle of an ongoing project. What’s even harder is that finding a doable approach of getting same code style of everyone in the team. To complete this for the team, there will be fine training and strict rules needed. However, lack of proper training and code style management are obviously everywhere today. There is a fine line between killing the creativity of developers and boosting the productivity of teams. Software development is not about one single kick ass developer, it’s about teamwork and team effort. I decided to give a try.&lt;/p&gt;
 
 &lt;p&gt;If I happen to have an idea that hopefully my team will adopt, I have to make sure first the value of the idea is beneficial to the team in every aspect. Second prototype happens before implementation. Then the rest of the team only needs to spend a minimal effort to carry on. To do so, I need to find out how to do the following:&lt;/p&gt;
 
@@ -146,30 +146,30 @@ let g:syntastic_aggregate_errors = 1
 <summary>Swap screenshot shortcuts</summary>
 </entry>
 <entry>
-<title>Why I use vim</title>
-<link href="http://localhost:3000/why-I-use-vim/" rel="alternate" type="text/html" title="Why I use vim" />
+<title>Why I use Vim</title>
+<link href="http://localhost:3000/why-I-use-vim/" rel="alternate" type="text/html" title="Why I use Vim" />
 <published>2016-03-28T00:00:00-06:00</published>
 <updated>2016-03-28T00:00:00-06:00</updated>
 <id>http://localhost:3000/why-I-use-vim</id>
-<content type="html" xml:base="http://localhost:3000/why-I-use-vim/">&lt;h2 id=&quot;why-i-use-vim&quot;&gt;Why I use vim&lt;/h2&gt;
+<content type="html" xml:base="http://localhost:3000/why-I-use-vim/">&lt;h2 id=&quot;why-i-use-vim&quot;&gt;Why I use Vim&lt;/h2&gt;
 
 &lt;p&gt;&lt;em&gt;We spend so much of our time trying to fit in. One day, it will occur to us life is much more rewarding when choosing the road not taken, a life not patterned after someone else’s, an editor, very few will ever use.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;I like vim, tmux and zsh. It rewards me a lot when I know this is an IDE that only suits me. With motivation like this, I spend a lot of time to config, maintain and perfect my dotfiles. At same time, I found knowing vim makes coding more productive and absolutely enjoyable. The idea of using vim is being &lt;em&gt;lazy&lt;/em&gt;, building a mouse-free workflow, keeping possibilities with fingertips. I don’t buy the shit when people say that they don’t need it because coding is 90% thinking and 10% writing. I spend 90% of my time fix code rather than writing code. When I want to reach the specific part of a file, I want it to happen as quick as possible. To me, vim is a state of the art, quickly navigating through lines of code, creatively combining shortcuts, endlessly learning mind blowing tricks, all of these make vim irresistible.&lt;/p&gt;
+&lt;p&gt;I like Vim, Tmux and Zsh. It rewards me a lot when I know this is an IDE that only suits me. With motivation like this, I spend a lot of time to config, maintain and perfect my dotfiles. At same time, I found knowing Vim makes coding absolutely productive and amazingly enjoyable. The idea of using Vim with model editing is being &lt;em&gt;lazy&lt;/em&gt;, building a mouse-free work-flow, keeping possibilities under fingertips. I don’t buy the shit when people say that they don’t need it because coding is 90% thinking and 10% writing. I spend 90% of my time fix code rather than writing code. When I want to reach the specific part of a file, I want it to happen as quick as possible. To me, Vim is a state of the art, quickly navigating through lines of code, creatively combining shortcuts, endlessly learning mind blowing tricks, all of these make Vim irresistible.&lt;/p&gt;
 
-&lt;p&gt;Vim has massive shortcuts, there is always a better way of doing the same thing with fewer keystrokes. The intention is clear: keep learning, don’t be contented, find the fastest and most convenient way to make a change. Additionally, vim brings me creative thinking. I wanted to apply the idea of using &lt;code class=&quot;highlighter-rouge&quot;&gt;hjkl&lt;/code&gt; as &lt;code class=&quot;highlighter-rouge&quot;&gt;arrow&lt;/code&gt; keys in any applications, I found an approach and practised it. It worked out much better than I expected. Soon, I got addicted. So, I wrote both &lt;a href=&quot;{{ site.url }}/osx-shortcuts-you-may-not-know/&quot;&gt;OSX-shortcuts-you-may-not-know&lt;/a&gt; and &lt;a href=&quot;{{ site.url }}/advanced-keymapping/&quot;&gt;advanced-keymapping&lt;/a&gt;, hopefully spreading a little to have others adopt the concept.&lt;/p&gt;
+&lt;p&gt;Vim has massive shortcuts, there is always a better way of doing the same thing with fewer keystrokes. The intention is clear: keep learning, don’t be contented, find the fastest and most convenient way to make a change. Additionally, Vim brings me creative thinking. I wanted to apply the idea of using &lt;code class=&quot;highlighter-rouge&quot;&gt;hjkl&lt;/code&gt; as &lt;code class=&quot;highlighter-rouge&quot;&gt;arrow&lt;/code&gt; keys in any applications, I found an approach and practised it. It worked out much better than I expected. Soon, I got addicted. So, I wrote both &lt;a href=&quot;{{ site.url }}/osx-shortcuts-you-may-not-know/&quot;&gt;OSX-shortcuts-you-may-not-know&lt;/a&gt; and &lt;a href=&quot;{{ site.url }}/advanced-keymapping/&quot;&gt;advanced-keymapping&lt;/a&gt;, hopefully spreading a little to have others adopt the concept.&lt;/p&gt;
 
-&lt;p&gt;After all, vim may not necessarily make me a good developer, but definitely makes me a motivated developer.&lt;/p&gt;
+&lt;p&gt;After all, Vim may not necessarily make me a good developer, but definitely makes me a motivated developer.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://github.com/yifanchen/dotfiles&quot;&gt;my dotfiles&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;{{ site.url }}/assets/images/vim.jpg&quot; alt=&quot;my vim&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;{{ site.url }}/assets/images/vim.jpg&quot; alt=&quot;my Vim&quot; /&gt;&lt;/p&gt;
 
 </content>
-<category term="vim" />
+<category term="Vim" />
 <category term="tmux" />
 <category term="zsh" />
-<summary>Why I use vim</summary>
+<summary>Why I use Vim</summary>
 </entry>
 <entry>
 <title>陆续总结一下github上好的前端教程</title>
@@ -218,7 +218,7 @@ let g:syntastic_aggregate_errors = 1
 <id>http://localhost:3000/advanced-keymapping</id>
 <content type="html" xml:base="http://localhost:3000/advanced-keymapping/">&lt;h2 id=&quot;advanced-keymapping&quot;&gt;Advanced Keymapping&lt;/h2&gt;
 
-&lt;p&gt;In order to get most of this post, please read &lt;a href=&quot;{{ site.url }}/osx-shortcuts-you-may-not-know/&quot;&gt;OSX-shortcuts-you-might-not-know&lt;/a&gt; first.&lt;/p&gt;
+&lt;p&gt;In order to get the most of this post, please read &lt;a href=&quot;{{ site.url }}/osx-shortcuts-you-may-not-know/&quot;&gt;OSX-shortcuts-you-might-not-know&lt;/a&gt; first.&lt;/p&gt;
 
 &lt;p&gt;I am going to talk about how and why I map &lt;code class=&quot;highlighter-rouge&quot;&gt;hjkl&lt;/code&gt; as &lt;code class=&quot;highlighter-rouge&quot;&gt;arrow&lt;/code&gt; keys. For the mapping to work, you will need to use either of the following tools.&lt;/p&gt;
 

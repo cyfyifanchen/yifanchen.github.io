@@ -36,8 +36,8 @@
     } ,
   
     {
-      "title"    : "Why I use vim",
-      "tags"     : "vim, tmux, and zsh",
+      "title"    : "Why I use Vim",
+      "tags"     : "Vim, tmux, and zsh",
       "url"      : "/why-I-use-vim/",
       "date"     : "28 Mar 2016"
     } ,
