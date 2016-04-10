@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-04-09T18:06:58-06:00</updated>
+<updated>2016-04-09T21:32:07-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
 <entry>
@@ -57,7 +57,7 @@ let g:syntastic_aggregate_errors = 1
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 
-&lt;p&gt;Good, everything worked. Although Syntastic with new linter slows down Vim loading speed a bit, I am still pretty happy with the result of it. The next step is getting CSS and React linters working, and put them in our build system.&lt;/p&gt;
+&lt;p&gt;Good, everything worked. Although Syntastic with new linter slows down Vim loading speed a bit, I am still pretty happy with the result of it. The next step is getting CSS and React linters working, and put them in our build system, which I will write later.&lt;/p&gt;
 
 &lt;h4 id=&quot;part-3---convince-the-team&quot;&gt;Part 3 - Convince the team&lt;/h4&gt;
 
