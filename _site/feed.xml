@@ -3,6 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
+<<<<<<< HEAD
 <updated>2016-04-12T21:16:16-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
@@ -37,6 +38,12 @@
 <summary>What to expect for next gen of Macbook Pro</summary>
 </entry>
 <entry>
+=======
+<updated>2016-04-10T11:18:02-06:00</updated>
+<id>http://localhost:3000/</id>
+<title>Yifan Chen</title>
+<entry>
+>>>>>>> parent of 4326c5b... updae
 <title>Getting linters working in Atom and Vim</title>
 <link href="http://localhost:3000/getting-linters-working-in-atom-and-vim/" rel="alternate" type="text/html" title="Getting linters working in Atom and Vim" />
 <published>2016-04-08T00:00:00-06:00</published>
@@ -62,7 +69,7 @@ It is open-sourced, and very popular among developers. I dug in a little and rea
 &lt;h4 id=&quot;part-2---making-sure-the-linters-work-in-common-editors&quot;&gt;Part 2 - Making sure the linters work in common editors&lt;/h4&gt;
 
 &lt;p&gt;I browsed &lt;a href=&quot;http://jscs.info/&quot; target=&quot;_blank&quot;&gt;JSCS&lt;/a&gt; for the info I needed. Bam, I found everything &lt;a href=&quot;http://jscs.info/overview&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;. I opened Atom and installed the
-&lt;a href=&quot;https://atom.io/packages/linter-jscs&quot; target=&quot;_blank&quot;&gt;JSCS Linter&lt;/a&gt; inside Atom, changed the preset to Airbnb. Tested it with couple &lt;code class=&quot;highlighter-rouge&quot;&gt;js&lt;/code&gt; files, it worked beautifully. Then let’s get it working in Vim. Although I am a Vimmer, but I know it will take much longer to make it working in Vim than in Atom. First, I needed to &lt;code class=&quot;highlighter-rouge&quot;&gt;npm insteall jscs -g&lt;/code&gt; to my &lt;code class=&quot;highlighter-rouge&quot;&gt;home&lt;/code&gt; directory. Then I created &lt;code class=&quot;highlighter-rouge&quot;&gt;.jscsrc&lt;/code&gt; file and put the preset like the following code in my &lt;code class=&quot;highlighter-rouge&quot;&gt;home&lt;/code&gt; directory.&lt;/p&gt;
+&lt;a href=&quot;https://atom.io/packages/linter-jscs&quot; target=&quot;_blank&quot;&gt;JSCS Linter&lt;/a&gt; inside Atom, changed the preset to Airbnb. Tested it with couple &lt;code class=&quot;highlighter-rouge&quot;&gt;js&lt;/code&gt; files, it worked beautifully. Then let’s get it working in Vim. Although I am a Vimmer, but I know it will take much longer to make it working in Vim than in Atom. First, I needed to &lt;code class=&quot;highlighter-rouge&quot;&gt;npm insteall jscs -g&lt;/code&gt; to my &lt;code class=&quot;highlighter-rouge&quot;&gt;home&lt;/code&gt; directory. Then I created &lt;code class=&quot;highlighter-rouge&quot;&gt;.jscsrc&lt;/code&gt; file and put the preset like this in my &lt;code class=&quot;highlighter-rouge&quot;&gt;home&lt;/code&gt; directory.&lt;/p&gt;
 
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
   &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;preset&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;airbnb&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;

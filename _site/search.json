@@ -1,13 +1,6 @@
 [
   
     {
-      "title"    : "What to Expect For Next Gen of MacBook Pro",
-      "tags"     : "apple, macbook pro, and technology",
-      "url"      : "/what-to-expect-for-next-gen-of-macbook-pro/",
-      "date"     : "10 Apr 2016"
-    } ,
-  
-    {
       "title"    : "Getting linters working in Atom and Vim",
       "tags"     : "vim, atom, and linters",
       "url"      : "/getting-linters-working-in-atom-and-vim/",
