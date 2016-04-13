@@ -1,14 +1,14 @@
 ---
-title: "What to Expect For Next Gen of MacBook Pro"
+title: "What to Expect For Next Generation of MacBook Pro"
 layout: post
-date: 2016-04-10 
+date: 2016-04-12 
 tag:
 - apple 
-    - macbook pro
-        - technology
-            blog: true
-            star: false
-            ---
+- macbook pro
+- technology
+blog: true
+star: false
+---
 
 ## What to expect for next gen of Macbook Pro
 
