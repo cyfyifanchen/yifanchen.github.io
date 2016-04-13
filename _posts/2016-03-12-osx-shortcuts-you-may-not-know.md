@@ -12,7 +12,7 @@ star: false
 
 ## OSX Shortcuts You Might Not Know
 
-As developers live on keyboards 24/7, we should be aware of any kinds of shortcuts that will benefit productivities.
+As programmers who live on keyboards 24/7, we should be aware of any kinds of shortcuts that will benefit productivities.
 
 Between Win and OSX, I arguably think OSX has better combination of shortcuts, with powerful key mapping tools, it is better than ever.
 
