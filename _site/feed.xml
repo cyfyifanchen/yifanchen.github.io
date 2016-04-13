@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-04-10T22:44:07-06:00</updated>
+<updated>2016-04-12T21:16:16-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
 <entry>
@@ -18,7 +18,7 @@
 
 &lt;p&gt;I bought my very first Macbook Pro back in 2012 summer right after Apple announced it at WWDC. I was literally thinking “Shup up, and take my money” while I was watching the &lt;a href=&quot;https://www.youtube.com/watch?v=6kYxnMUOczg&quot; target=&quot;_blank&quot;&gt;trailer&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;The current generation of Macbook Pro has always been rated one of the best laptops to buy through years. I of the best laptops to buy since the day it was announced. that year, and of course, developers love this machine.Ever since after that, I got even more excited to see what the next generation of Retina Macbook Pro is going to be like.&lt;/p&gt;
+&lt;p&gt;The current generation of Macbook Pro has always been rated one of the best laptops to buy through the years. Despite the slightly high price, it is extremely popular among developers. It’s discripted as one the best laptop to won for developers.(Mostly Unix-based OS), .net developers,  I of the best laptops to buy since the day it was announced. that year, and of course, developers love this machine.Ever since after that, I got even more excited to see what the next generation of Retina Macbook Pro is going to be like.&lt;/p&gt;
 
 &lt;h4 id=&quot;half-of-the-cost-with-a-better-proformence-pc&quot;&gt;Half of the cost with a better proformence PC?&lt;/h4&gt;
 
@@ -28,7 +28,7 @@
 
 &lt;p&gt;Metal&lt;/p&gt;
 
-&lt;p&gt;Through all these years, Mac gaming isn’t too far from concept. It’s just has been’t been widely adopted yet.&lt;/p&gt;
+&lt;p&gt;Through all these years, Mac gaming isn’t too far from a concept. Major game makers don’t give. It’s what we believe personal computing is going.&lt;/p&gt;
 
 </content>
 <category term="apple" />
@@ -362,10 +362,10 @@ With good software, be creative with your own mappings.&lt;/p&gt;
 
 &lt;p&gt;整个过程手不需要离开键盘的黄金位置。&lt;/p&gt;
 
-&lt;h5 id=&quot;vimcontrol--hjkl-&quot;&gt;如果在vim里面我已经设置了&lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;hjkl&lt;/code&gt; 怎么办？&lt;/h5&gt;
+&lt;h5 id=&quot;vimcontrol--hjkl-&quot;&gt;如果在Vim里面我已经设置了&lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;hjkl&lt;/code&gt; 怎么办？&lt;/h5&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;我建议disable karabiner用vim的时候，为什么？很简单，vim的快捷键很强大，必须去发觉。&lt;/li&gt;
+  &lt;li&gt;我建议disable karabiner用Vim的时候，为什么？很简单，Vim的快捷键很强大，必须去发觉。&lt;/li&gt;
   &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;fn&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;hjkl&lt;/code&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
@@ -386,7 +386,7 @@ With good software, be creative with your own mappings.&lt;/p&gt;
 <id>http://localhost:3000/osx-shortcuts-you-may-not-know</id>
 <content type="html" xml:base="http://localhost:3000/osx-shortcuts-you-may-not-know/">&lt;h2 id=&quot;osx-shortcuts-you-might-not-know&quot;&gt;OSX Shortcuts You Might Not Know&lt;/h2&gt;
 
-&lt;p&gt;As programmers who live on keyboards 24/7, we should be aware of any kinds of shortcuts that will benefit productivities.&lt;/p&gt;
+&lt;p&gt;As developers live on keyboards 24/7, we should be aware of any kinds of shortcuts that will benefit productivities.&lt;/p&gt;
 
 &lt;p&gt;Between Win and OSX, I arguably think OSX has better combination of shortcuts, with powerful key mapping tools, it is better than ever.&lt;/p&gt;
 

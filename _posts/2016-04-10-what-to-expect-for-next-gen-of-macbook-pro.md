@@ -16,7 +16,7 @@ star: false
 
 I bought my very first Macbook Pro back in 2012 summer right after Apple announced it at WWDC. I was literally thinking "Shup up, and take my money" while I was watching the [trailer](https://www.youtube.com/watch?v=6kYxnMUOczg){:target="_blank"}. 
 
-The current generation of Macbook Pro has always been rated one of the best laptops to buy through years. I of the best laptops to buy since the day it was announced. that year, and of course, developers love this machine.Ever since after that, I got even more excited to see what the next generation of Retina Macbook Pro is going to be like.
+The current generation of Macbook Pro has always been rated one of the best laptops to buy through the years. Despite the slightly high price, it is extremely popular among developers. It's discripted as one the best laptop to won for developers.(Mostly Unix-based OS), .net developers,  I of the best laptops to buy since the day it was announced. that year, and of course, developers love this machine.Ever since after that, I got even more excited to see what the next generation of Retina Macbook Pro is going to be like.
 
 #### Half of the cost with a better proformence PC?
 
