@@ -102,7 +102,11 @@ Read [advanced-keymapping](http://www.cyfyifanchen.com/advanced-keymapping/), an
 
 `control` + `p`: previous command.
 
+`control` + `n`: next command.
+
 `control` + `l`: clear.
+
+`up` or `down`: previous andn next command.
 
 `-`: go to previous directory.(very useful)
 
