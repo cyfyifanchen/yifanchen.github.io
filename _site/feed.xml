@@ -3,9 +3,39 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-04-10T11:18:02-06:00</updated>
+<updated>2016-04-10T22:44:07-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
+<entry>
+<title>What to Expect For Next Gen of MacBook Pro</title>
+<link href="http://localhost:3000/what-to-expect-for-next-gen-of-macbook-pro/" rel="alternate" type="text/html" title="What to Expect For Next Gen of MacBook Pro" />
+<published>2016-04-10T00:00:00-06:00</published>
+<updated>2016-04-10T00:00:00-06:00</updated>
+<id>http://localhost:3000/what-to-expect-for-next-gen-of-macbook-pro</id>
+<content type="html" xml:base="http://localhost:3000/what-to-expect-for-next-gen-of-macbook-pro/">&lt;h2 id=&quot;what-to-expect-for-next-gen-of-macbook-pro&quot;&gt;What to expect for next gen of Macbook Pro&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Our version for personal computing has always been that the most powerful technology should deliver incredible capability without the complexity.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I bought my very first Macbook Pro back in 2012 summer right after Apple announced it at WWDC. I was literally thinking “Shup up, and take my money” while I was watching the &lt;a href=&quot;https://www.youtube.com/watch?v=6kYxnMUOczg&quot; target=&quot;_blank&quot;&gt;trailer&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The current generation of Macbook Pro has always been rated one of the best laptops to buy through years. I of the best laptops to buy since the day it was announced. that year, and of course, developers love this machine.Ever since after that, I got even more excited to see what the next generation of Retina Macbook Pro is going to be like.&lt;/p&gt;
+
+&lt;h4 id=&quot;half-of-the-cost-with-a-better-proformence-pc&quot;&gt;Half of the cost with a better proformence PC?&lt;/h4&gt;
+
+&lt;p&gt;Buying a Mac or a PC has always been a controversy, people debate about it with different needs and reasons. There simply is no right or wrong Lots of people don’t seem to understand that comparing a Mac to a PC is useless, and waste of time on many different levels. Mac doesn’t only come with a pretty piece of hardware&lt;/p&gt;
+
+&lt;h4 id=&quot;some-expectations-for-upcoming-os-x-this-fall&quot;&gt;Some expectations for upcoming OS X this Fall&lt;/h4&gt;
+
+&lt;p&gt;Metal&lt;/p&gt;
+
+&lt;p&gt;Through all these years, Mac gaming isn’t too far from concept. It’s just has been’t been widely adopted yet.&lt;/p&gt;
+
+</content>
+<category term="apple" />
+<category term="macbook pro" />
+<category term="technology" />
+<summary>What to expect for next gen of Macbook Pro</summary>
+</entry>
 <entry>
 <title>Getting linters working in Atom and Vim</title>
 <link href="http://localhost:3000/getting-linters-working-in-atom-and-vim/" rel="alternate" type="text/html" title="Getting linters working in Atom and Vim" />
@@ -32,7 +62,7 @@ It is open-sourced, and very popular among developers. I dug in a little and rea
 &lt;h4 id=&quot;part-2---making-sure-the-linters-work-in-common-editors&quot;&gt;Part 2 - Making sure the linters work in common editors&lt;/h4&gt;
 
 &lt;p&gt;I browsed &lt;a href=&quot;http://jscs.info/&quot; target=&quot;_blank&quot;&gt;JSCS&lt;/a&gt; for the info I needed. Bam, I found everything &lt;a href=&quot;http://jscs.info/overview&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;. I opened Atom and installed the
-&lt;a href=&quot;https://atom.io/packages/linter-jscs&quot; target=&quot;_blank&quot;&gt;JSCS Linter&lt;/a&gt; inside Atom, changed the preset to Airbnb. Tested it with couple &lt;code class=&quot;highlighter-rouge&quot;&gt;js&lt;/code&gt; files, it worked beautifully. Then let’s get it working in Vim. Although I am a Vimmer, but I know it will take much longer to make it working in Vim than in Atom. First, I needed to &lt;code class=&quot;highlighter-rouge&quot;&gt;npm insteall jscs -g&lt;/code&gt; to my &lt;code class=&quot;highlighter-rouge&quot;&gt;home&lt;/code&gt; directory. Then I created &lt;code class=&quot;highlighter-rouge&quot;&gt;.jscsrc&lt;/code&gt; file and put the preset like this in my &lt;code class=&quot;highlighter-rouge&quot;&gt;home&lt;/code&gt; directory.&lt;/p&gt;
+&lt;a href=&quot;https://atom.io/packages/linter-jscs&quot; target=&quot;_blank&quot;&gt;JSCS Linter&lt;/a&gt; inside Atom, changed the preset to Airbnb. Tested it with couple &lt;code class=&quot;highlighter-rouge&quot;&gt;js&lt;/code&gt; files, it worked beautifully. Then let’s get it working in Vim. Although I am a Vimmer, but I know it will take much longer to make it working in Vim than in Atom. First, I needed to &lt;code class=&quot;highlighter-rouge&quot;&gt;npm insteall jscs -g&lt;/code&gt; to my &lt;code class=&quot;highlighter-rouge&quot;&gt;home&lt;/code&gt; directory. Then I created &lt;code class=&quot;highlighter-rouge&quot;&gt;.jscsrc&lt;/code&gt; file and put the preset like the following code in my &lt;code class=&quot;highlighter-rouge&quot;&gt;home&lt;/code&gt; directory.&lt;/p&gt;
 
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
   &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;preset&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;airbnb&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
