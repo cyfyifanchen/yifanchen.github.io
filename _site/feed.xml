@@ -3,9 +3,25 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-04-12T23:04:43-06:00</updated>
+<updated>2016-04-14T23:13:54-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
+<entry>
+<title>First Day of Neovim</title>
+<link href="http://localhost:3000/first-day-of-neovim/" rel="alternate" type="text/html" title="First Day of Neovim" />
+<published>2016-04-14T00:00:00-06:00</published>
+<updated>2016-04-14T00:00:00-06:00</updated>
+<id>http://localhost:3000/first-day-of-neovim</id>
+<content type="html" xml:base="http://localhost:3000/first-day-of-neovim/">&lt;h2 id=&quot;first-day-of-using-neovim&quot;&gt;First day of using Neovim&lt;/h2&gt;
+
+&lt;p&gt;As my &lt;code class=&quot;highlighter-rouge&quot;&gt;.vimrc&lt;/code&gt; gets complicated, Vim can get slow often, I had to take off some great features to maintain the sweet speed. I started to use code checkers and linters recently, fond out Vim gets even slower when opening big &lt;code class=&quot;highlighter-rouge&quot;&gt;.js&lt;/code&gt; files with code style checkers on. That’s probably the biggest problem the current version of Vim has, it doesn’t work asynchronously. In another word, Vim freezes when the former action being executed.&lt;/p&gt;
+
+&lt;p&gt;Neovim has the asynchronous process, that’s something really had me switched over. Today is my fist day of using it. I like how fast it is. I will write another blog post after couple weeks.&lt;/p&gt;
+</content>
+<category term="vim" />
+<category term="neovim" />
+<summary>First day of using Neovim</summary>
+</entry>
 <entry>
 <title>What to Expect For Next Generation of MacBook Pro</title>
 <link href="http://localhost:3000/the-new-macbook-pro/" rel="alternate" type="text/html" title="What to Expect For Next Generation of MacBook Pro" />
@@ -378,194 +394,5 @@ With good software, be creative with your own mappings.&lt;/p&gt;
 <category term="karabiner" />
 <category term="shotcuts" />
 <summary>Advanced Keymapping</summary>
-</entry>
-<entry>
-<title>OSX Shortcuts You Might Not know</title>
-<link href="http://localhost:3000/osx-shortcuts-you-may-not-know/" rel="alternate" type="text/html" title="OSX Shortcuts You Might Not know" />
-<published>2016-03-15T00:00:00-06:00</published>
-<updated>2016-03-15T00:00:00-06:00</updated>
-<id>http://localhost:3000/osx-shortcuts-you-may-not-know</id>
-<content type="html" xml:base="http://localhost:3000/osx-shortcuts-you-may-not-know/">&lt;h2 id=&quot;osx-shortcuts-you-might-not-know&quot;&gt;OSX Shortcuts You Might Not Know&lt;/h2&gt;
-
-&lt;p&gt;As developers live on keyboards 24/7, we should be aware of any kinds of shortcuts that will benefit productivities.&lt;/p&gt;
-
-&lt;p&gt;Between Win and OSX, I arguably think OSX has better combination of shortcuts, with powerful key mapping tools, it is better than ever.&lt;/p&gt;
-
-&lt;p&gt;Read &lt;a href=&quot;http://www.cyfyifanchen.com/advanced-keymapping/&quot;&gt;advanced-keymapping&lt;/a&gt;, and take keymapping to the next level.&lt;/p&gt;
-
-&lt;h4 id=&quot;editing&quot;&gt;Editing&lt;/h4&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;left&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;right&lt;/code&gt;: navigating through beginning and end of a line.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;shift&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;left&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;right&lt;/code&gt;: select entire line.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;top&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;bottom&lt;/code&gt;: top or bottom of the file&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;shift&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;top&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;bottom&lt;/code&gt;: select entire file from either top or bottom.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;del&lt;/code&gt;: delete content behind cursor on the same line.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;alt&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;left&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;right&lt;/code&gt;: navigating through word by word.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;alt&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;shift&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;left&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;right&lt;/code&gt;: select word.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;alt&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;del&lt;/code&gt;: delete entire word, no long need to copy from other places.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;alt&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;8&lt;/code&gt;: bullet.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;alt&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;shift&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;k&lt;/code&gt;: &lt;/p&gt;
-
-&lt;h4 id=&quot;system&quot;&gt;System&lt;/h4&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;shift&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;power&lt;/code&gt;: shorter to sleep, longer to shut down.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;~&lt;/code&gt;: cycle through different windows in current application.(one of my favorite shortcuts, doesn’t exist in Windows)&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;,&lt;/code&gt;: open preference of any application.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;l&lt;/code&gt;: select address bar in any browser.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;w&lt;/code&gt;: close application tab.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;shift&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;w&lt;/code&gt;: close all tabs, but application is still running.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;q&lt;/code&gt;: completely quit application.&lt;/p&gt;
-
-&lt;h4 id=&quot;chrome&quot;&gt;Chrome&lt;/h4&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;tab&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;shift&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;tab&lt;/code&gt;: navigating through tabs.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;shift&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;b&lt;/code&gt;: toggle bookmark bar.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;shift&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;c&lt;/code&gt;: inspect element ready.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;alt&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;i&lt;/code&gt;: open developer tool without inspect element ready.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;alt&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;j&lt;/code&gt;: open console window.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;alt&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;u&lt;/code&gt;: open source.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;shift&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;d&lt;/code&gt;: toggle dock side.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;shift&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;m&lt;/code&gt;: toggle device view&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;k&lt;/code&gt;: clear console.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;F2&lt;/code&gt;: Edit as HTML in Chrome developer tool.&lt;/p&gt;
-
-&lt;h4 id=&quot;finder&quot;&gt;Finder&lt;/h4&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;alt&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;l&lt;/code&gt;: downloads.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;shift&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;h&lt;/code&gt;: home.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;shirt&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;o&lt;/code&gt;: documents.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;shirt&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;d&lt;/code&gt;: desktop.&lt;/p&gt;
-
-&lt;h4 id=&quot;terminal&quot;&gt;Terminal&lt;/h4&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;w&lt;/code&gt;: delete single word.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;u&lt;/code&gt;: delete entire line.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;a&lt;/code&gt;: go to beginning of the line.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;e&lt;/code&gt;: go to end of the line.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;h&lt;/code&gt;: delete, same as &lt;code class=&quot;highlighter-rouge&quot;&gt;delete&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;p&lt;/code&gt;: previous command.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;l&lt;/code&gt;: clear.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;-&lt;/code&gt;: go to previous directory.(very useful)&lt;/p&gt;
-
-&lt;h1 id=&quot;section&quot;&gt;中文&lt;/h1&gt;
-
-&lt;p&gt;以前玩魔兽，喜欢快捷键，简单总结一下自己觉得很有用的快捷键。&lt;/p&gt;
-
-&lt;h4 id=&quot;section-1&quot;&gt;编辑&lt;/h4&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;left&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;right&lt;/code&gt;: 到一行的开始或结尾。&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;shift&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;left&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;right&lt;/code&gt;: 选择整个段落。&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;top&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;bottom&lt;/code&gt;: 去到文件的开始或者结尾。&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;shift&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;top&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;bottom&lt;/code&gt;: 选择文件内的全部内容。&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;del&lt;/code&gt;: 直接删除一行字。&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;alt&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;left&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;right&lt;/code&gt;: 光标移动词前词后。&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;alt&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;shift&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;left&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;right&lt;/code&gt;: 选择一个词。&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;alt&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;del&lt;/code&gt;: 直接删除一个词。&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;alt&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;8&lt;/code&gt;: •, 小黑点，知道这个命令之后再也不用去别的地方拷贝了。&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;alt&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;shift&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;k&lt;/code&gt;: , 是个苹果，无意间发现的，蛮有意思的。&lt;/p&gt;
-
-&lt;h4 id=&quot;section-2&quot;&gt;系统&lt;/h4&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;shift&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;power&lt;/code&gt;: 睡眠，锁屏，或者关机。&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;~&lt;/code&gt;: 如果一个软件有多个窗口的话，用这个命令切换不同的窗口。（我个人最喜欢的一个命令，windows没有）。&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;,&lt;/code&gt;: 打开偏好设置。&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;l&lt;/code&gt;: 直接选取地址栏。&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;w&lt;/code&gt;: 关闭软件正在用的tab。&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;shirt&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;w&lt;/code&gt;: 关闭所有的tab，但是软件还在继续运营。&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;q&lt;/code&gt;: 关闭软件。&lt;/p&gt;
-
-&lt;h4 id=&quot;chrome-&quot;&gt;Chrome 浏览器&lt;/h4&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;tab&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;shift&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;tab&lt;/code&gt;: 前后切换tab。&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;shift&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;c&lt;/code&gt;: 直接打开 developer tool, 并且 inspect element。&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;alt&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;i&lt;/code&gt;: 直接打开 developer tool。&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;k&lt;/code&gt;: 清除console端口。&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;shift&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;m&lt;/code&gt;: 打开device窗口。&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;F2&lt;/code&gt;: 编辑 HTML 在 developer tool 打开的情况下。&lt;/p&gt;
-
-&lt;h4 id=&quot;finder-1&quot;&gt;Finder&lt;/h4&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;alt&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;l&lt;/code&gt;: 下载。&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;shift&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;h&lt;/code&gt;: 自己的home。&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;shirt&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;o&lt;/code&gt;: 文件。&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;shirt&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;d&lt;/code&gt;: 桌面。&lt;/p&gt;
-
-&lt;h4 id=&quot;section-3&quot;&gt;终端&lt;/h4&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;w&lt;/code&gt;: 删除整个词。&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;u&lt;/code&gt;: 删除整行。&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;a&lt;/code&gt;: 到一行的开始。&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;e&lt;/code&gt;: 到一行的结束。&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;p&lt;/code&gt;: 上一个命令。&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;l&lt;/code&gt;: 清除窗口.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;-&lt;/code&gt;: 上一个目录。（这个很有用）&lt;/p&gt;
-</content>
-<category term="shortcuts" />
-<category term="keymapping" />
-<category term="OSX" />
-<summary>OSX Shortcuts You Might Not Know</summary>
 </entry>
 </feed>
