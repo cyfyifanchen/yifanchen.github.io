@@ -1,9 +1,9 @@
 ---
 title: "First Day of Neovim"
 layout: post
-date: 2016-04-14 
+date: 2016-04-14
 tag:
-- vim 
+- vim
 - neovim
 blog: true
 star: false
@@ -16,7 +16,16 @@ executed. However, the next version of Vim, 8.0, has asynchronous processing acc
 
 Neovim is very new, in fact the very first beta version is still not released. But, I've heard good things from other Vimmers, especially how fast it is comparing with Vim. Vim's speed doesn't bother me much before, but it has started lately as my plugin collection gets heavy. Neovim has the asynchronous process, not much plugins have the capabilities can take advantages of it. I believe in the future more and more plugins will be built that way.
 
-After few hours configing and googling. Amazingly, all the plugins, themes, colors, settings work already in Neovim. Configing Vim isn't fun, surprisingly Neovim has it's game down to make the [transition](https://neovim.io/doc/user/nvim_from_vim.html) quite friendly to Vimmers. There are couple things I found quite awesome that comes in with Neovim already, built-in Terminal and better mouse integration. I use Tmux for my session management, so the built-in Terminal won't be usefull much to me for now. But, I like the idea of having it, maybe in the future, I don't have to use Tmux anymore. The mouse integration is solid, don't feel buggy at all. In order to get full benefits from Neovim, there are a couple of plugins I definitely need to swap. First, Neomake to Syntastic. Second, Vim-Plug to Bundle. As I said, these two plugins are both built-in with asynchronous processing. Can't wait to try the result.
+After few hours configing and googling. Amazingly, all the plugins, themes, colors, settings work already in Neovim. Configing Vim isn't fun, surprisingly Neovim has it's game down to make the [transition](https://neovim.io/doc/user/nvim_from_vim.html) quite friendly to Vimmers. There are couple things I found quite awesome that comes in with Neovim already, built-in Terminal and better mouse integration. I use Tmux for my session management, so the built-in Terminal won't be usefull much to me for now. But, I like the idea of having it, maybe in the future, I don't have to use Tmux anymore. The mouse integration is solid, it doesn't feel buggy at all. I am a huge believer of mouse-free wrokflow, so I might disable mouse in Neovim at some point. However, it's good to know that Neovim comes with better mouse integration. In order to get full benefits from Neovim, the following plugins I will need to install or switch.
+
+    Vim-Plug
+    fzf
+    fzf-vim
+    Neocomplete
+    Neosnippet
+    Neomake
+
+These plugins all support async processing. Can't wait to ry the result.
 
 Well, I very happy with it. Last step:
 
