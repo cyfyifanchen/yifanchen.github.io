@@ -3,9 +3,27 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-04-19T15:30:03-06:00</updated>
+<updated>2016-04-23T15:11:43-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
+<entry>
+<title>Code Refactoring</title>
+<link href="http://localhost:3000/code-refactoring/" rel="alternate" type="text/html" title="Code Refactoring" />
+<published>2016-04-21T00:00:00-06:00</published>
+<updated>2016-04-21T00:00:00-06:00</updated>
+<id>http://localhost:3000/code-refactoring</id>
+<content type="html" xml:base="http://localhost:3000/code-refactoring/">&lt;h2 id=&quot;learn-from-code-refactoring&quot;&gt;Learn From Code refactoring&lt;/h2&gt;
+
+&lt;p&gt;I spent a few of hours refactoring the code on a simple page the other day. It occurs to me a new way of learning. As I was going through each line of the code, I started thinking that can this line of code be written in a better way? To be able to do this, I need to define the better way first. In general, there is no correct answer of writing code in a better or correct way. It comes down to the team effort.&lt;/p&gt;
+
+&lt;p&gt;First of first, following the best practices and code consistency of the team. Second, think and google a lot. Third, read through the documentation again(I found this is extremely helpful). In reality, as developers, we aren’t granted enough time to think before we write. Code refactoring is an amazing chance to pick up that thought.&lt;/p&gt;
+
+&lt;p&gt;Treating code refactoring as a new way to learn, a new way to discover, getting out of the comfort zone, trying to code in a different aspect. This is a great way to get better, more importantly, you will be enjoying code refactoring.&lt;/p&gt;
+</content>
+<category term="code" />
+<category term="thoughts" />
+<summary>Learn From Code refactoring</summary>
+</entry>
 <entry>
 <title>First Day of Neovim</title>
 <link href="http://localhost:3000/first-day-of-neovim/" rel="alternate" type="text/html" title="First Day of Neovim" />
@@ -14,7 +32,7 @@
 <id>http://localhost:3000/first-day-of-neovim</id>
 <content type="html" xml:base="http://localhost:3000/first-day-of-neovim/">&lt;h2 id=&quot;first-day-of-using-neovim&quot;&gt;First day of using Neovim&lt;/h2&gt;
 
-&lt;p&gt;As my &lt;a href=&quot;https://github.com/yifanchen/dotfiles/blob/master/.vimrc&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;.vimrc&lt;/code&gt;&lt;/a&gt; gets complicated, Vim can get slow often, I had to take off some great features to maintain its sweet speed. I started using code style checkers and linters recently, I found out Vim gets even slower when opening big &lt;code class=&quot;highlighter-rouge&quot;&gt;.js&lt;/code&gt; files with code style checkers on. That’s probably the biggest problem the current version of Vim has, it doesn’t work asynchronously. In another word, Vim freezes when the former action is being
+&lt;p&gt;As my &lt;a href=&quot;https://github.com/yifanchen/dotfiles/blob/master/.vimrc&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;.vimrc&lt;/code&gt;&lt;/a&gt; gets complicated, Vim can get slow often(mainly because some poorly written plugins), I had to take off some great features to maintain its sweet speed. I started using code style checkers and linters recently, I found out Vim gets even slower when opening big &lt;code class=&quot;highlighter-rouge&quot;&gt;.js&lt;/code&gt; files with code style checkers on. That’s probably the biggest problem the current version of Vim has, it doesn’t work asynchronously. In another word, Vim freezes when the former action is being
 executed. However, the next version of Vim, 8.0, has asynchronous processing according to it’s pre-release &lt;a href=&quot;https://github.com/vim/vim/blob/master/runtime/doc/version8.txt&quot;&gt;doc&lt;/a&gt;. This is the best thing that can happen to Vim, but I am getting very impatient. I decided to try Neovim out.&lt;/p&gt;
 
 &lt;p&gt;Neovim is very new, in fact the very first beta version is still not released. But, I’ve heard good things from other Vimmers, especially how fast it is comparing with Vim. Vim’s speed doesn’t bother me much before, but it has started lately as my plugin collection gets heavy. Neovim has the asynchronous process, not much plugins have the capabilities can take advantages of it. I believe in the future more and more plugins will be built that way.&lt;/p&gt;
@@ -30,7 +48,7 @@ Neomake
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 
-&lt;p&gt;These  plugins all support async processing. Can’t wait to ry the result.&lt;/p&gt;
+&lt;p&gt;These plugins all support async processing. Can’t wait to ry the result.&lt;/p&gt;
 
 &lt;p&gt;Well, I very happy with it. Last step:&lt;/p&gt;
 
@@ -53,9 +71,9 @@ Neomake
 
 &lt;p&gt;&lt;em&gt;Our version for personal computing has always been that the most powerful technology should deliver incredible capability without the complexity.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;I bought my very first Macbook Pro back in 2012 summer right after Apple announced it at WWDC. I was literally thinking “Shup up, and take my money” while I was watching the &lt;a href=&quot;https://www.youtube.com/watch?v=6kYxnMUOczg&quot; target=&quot;_blank&quot;&gt;trailer&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I bought my very first Macbook Pro back in 2012 summer right after Apple announced it at WWDC 2012. I was like “Shup up, and take my money” while I was watching the &lt;a href=&quot;https://www.youtube.com/watch?v=6kYxnMUOczg&quot; target=&quot;_blank&quot;&gt;trailer&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;The current generation of Macbook Pro has always been rated one of the best laptops to buy through the years. Despite the slightly high price, it is extremely popular among developers. It’s discripted as one the best laptop to won for developers.(Mostly Unix-based OS), .net developers,  I of the best laptops to buy since the day it was announced. that year, and of course, developers love this machine.Ever since after that, I got even more excited to see what the next generation of Retina
+&lt;p&gt;The current generation of Macbook Pro has always been rated one of the best laptops to buy through the years. Despite the slightly high price, it is extremely popular among developers. It’s descripted as one the best laptop to won for developers.(Mostly Unix-based OS), .net developers,  I of the best laptops to buy since the day it was announced. that year, and of course, developers love this machine.Ever since after that, I got even more excited to see what the next generation of Retina
 Macbook Pro is going to be like.&lt;/p&gt;
 
 &lt;h4 id=&quot;half-of-the-cost-with-a-better-proformence-pc&quot;&gt;Half of the cost with a better proformence PC?&lt;/h4&gt;
@@ -277,143 +295,5 @@ let g:syntastic_aggregate_errors = 1
 <category term="中文" />
 <category term="教程" />
 <summary>陆续总结一下github上好的前端教程</summary>
-</entry>
-<entry>
-<title>Advanced Keymapping</title>
-<link href="http://localhost:3000/advanced-keymapping/" rel="alternate" type="text/html" title="Advanced Keymapping" />
-<published>2016-03-20T22:44:00-06:00</published>
-<updated>2016-03-20T22:44:00-06:00</updated>
-<id>http://localhost:3000/advanced-keymapping</id>
-<content type="html" xml:base="http://localhost:3000/advanced-keymapping/">&lt;h2 id=&quot;advanced-keymapping&quot;&gt;Advanced Keymapping&lt;/h2&gt;
-
-&lt;p&gt;In order to get the most of this post, please read &lt;a href=&quot;{{ site.url }}/osx-shortcuts-you-may-not-know/&quot;&gt;OSX-shortcuts-you-might-not-know&lt;/a&gt; first.&lt;/p&gt;
-
-&lt;p&gt;I am going to talk about how and why I map &lt;code class=&quot;highlighter-rouge&quot;&gt;hjkl&lt;/code&gt; as &lt;code class=&quot;highlighter-rouge&quot;&gt;arrow&lt;/code&gt; keys. For the mapping to work, you will need to use either of the following tools.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://pqrs.org/osx/karabiner/&quot;&gt;Karabiner&lt;/a&gt;: The most powerful key mapping tool. Capable of doing all sorts of crazy key mappings. Preferences come in options,
-simply checking option makes configuration even easier. Still unsatisfied? Then make your own &lt;code class=&quot;highlighter-rouge&quot;&gt;private.xml&lt;/code&gt; and import in. Yes, it is just this amazing. On top of that, 
-it comes with a great customer service.(I got response within 8 hours when I sent emails, not to mention the maintainer is in Japan) Most importantly, it is free.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.boastr.net/&quot;&gt;BetterTouchTool&lt;/a&gt;: BTT is well known, almost everyone likes the Snap feature, settings are very intuitive. It is no longer free, however spending few bucks to have it 24/7.
-I am totally down. In this post, I am not going to show how BTT works, it’s very easy to figure out.&lt;/p&gt;
-
-&lt;p&gt;Between these two tools, I would go with Karabiner over BTT for two reasons:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Unlike &lt;code class=&quot;highlighter-rouge&quot;&gt;arrow&lt;/code&gt; keys, &lt;code class=&quot;highlighter-rouge&quot;&gt;letter&lt;/code&gt; keys don’t repeat themselves when holding down in OSX(Windows does),
-which could be annoying. Luckily, Karabiner fixes this problem.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Free.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;about-hjkl&quot;&gt;About HJKL&lt;/h3&gt;
-
-&lt;p&gt;I started to use Vim last year. I absolutely like model editing and the idea of mouse-less. &lt;code class=&quot;highlighter-rouge&quot;&gt;hjkl&lt;/code&gt; is one of the most beautiful inventions in Vim. 
-I wanted to apply the idea to the entire system. It turned out better than I thought. Now I use it for everything, checking out emails in Mail, browsing files in Finder,
-going through lists in Slack, etc.&lt;/p&gt;
-
-&lt;p&gt;The screen shot is my setting. You are welcome to play with it, map any way you like. I am going to use my mapping as an example.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;{{ site.url }}/assets/images/karabiner-setting.jpg&quot; alt=&quot;Karabiner key mapping&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;After you map it the way like I do, the beautiful part happens:&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;h&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;j&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;k&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;l&lt;/code&gt;: &lt;code class=&quot;highlighter-rouge&quot;&gt;left&lt;/code&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;down&lt;/code&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;up&lt;/code&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;right&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;h&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;l&lt;/code&gt;: navigating through beginning and end of a line.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;shift&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;h&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;l&lt;/code&gt;: select entire line.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;k&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;j&lt;/code&gt;: top or bottom of the file&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;shift&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;k&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;j&lt;/code&gt;: select entire file from either top or bottom.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;j&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;k&lt;/code&gt;: going through intellisense in IDE or up and down when search in Google.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;l&lt;/code&gt;: very useful to attach parameters to the end of a url.&lt;/p&gt;
-
-&lt;h5 id=&quot;example-of-adding-a-parameter-to-an-url-with-both-hands-on-row-2-of-keyboard&quot;&gt;Example of adding a parameter to an url with both hands on row 2 of keyboard&lt;/h5&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;l&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;l&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;type the parameter.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Now, you can navigate through lines of code without moving right hand to &lt;code class=&quot;highlighter-rouge&quot;&gt;arrow&lt;/code&gt; keys.&lt;/p&gt;
-
-&lt;h5 id=&quot;what-if-i-already-mapped-control--hjkl-in-vim&quot;&gt;What if I already mapped &lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;hjkl&lt;/code&gt; in Vim?&lt;/h5&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;I suggest to disable Karabiner when iTerm is running. Why? Because Vim comes with powerful shortcuts, we should learn them.&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;fn&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;hjkl&lt;/code&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h5 id=&quot;map-caps-lock-to-control-smartly&quot;&gt;Map &lt;code class=&quot;highlighter-rouge&quot;&gt;caps lock&lt;/code&gt; to &lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; smartly&lt;/h5&gt;
-
-&lt;p&gt;Instead of mapping &lt;code class=&quot;highlighter-rouge&quot;&gt;caps lock&lt;/code&gt; to &lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; permanently, why don’t just map it only when &lt;code class=&quot;highlighter-rouge&quot;&gt;caps lock&lt;/code&gt; is holding down with other keys?
-Use &lt;a href=&quot;https://pqrs.org/osx/karabiner/seil.html.en&quot;&gt;Seil&lt;/a&gt; to do it.&lt;/p&gt;
-
-&lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
-
-&lt;p&gt;This post is meant to share my key mappings, shortcuts and how I benefit from them, I am sure there are far more than I know.
-With good software, be creative with your own mappings.&lt;/p&gt;
-
-&lt;h1 id=&quot;section&quot;&gt;中文&lt;/h1&gt;
-
-&lt;p&gt;可能是原来玩魔兽的原因，一直喜欢玩快捷键，能用快捷键的地方尽量不用鼠标点击。现在所有工作用一个MacBook Pro来完成，不需要任何外接显示器。熟知快捷键工作效率高，同时乐趣也多。
-玩vim有感，觉得&lt;code class=&quot;highlighter-rouge&quot;&gt;hjkl&lt;/code&gt;做为方向键再合适不过了。编辑的时候，光标可以左右移动，无论是拷贝复制，还是整段的代码选择，都会方便非常多。试过之后，是如此好用。
-这里简单介绍两个快捷键编辑器：&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://pqrs.org/osx/karabiner/&quot;&gt;Karabiner&lt;/a&gt;: 是可以找到的最强大的编辑器，没有之一。功能多的让人头痛。最厉害的是什么都帮你想好了，只需要选择喜欢的选项就可以。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.boastr.net/&quot;&gt;BetterTouchTool&lt;/a&gt;: BTT 也是个非常出色的软件，简单易用。&lt;/p&gt;
-
-&lt;p&gt;如果你也喜欢快捷键，并且是按我的设置来的话（如图），下面这些快捷键组合会让你幸福感暴增。&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;h&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;j&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;k&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;l&lt;/code&gt;: 左，下，上，右。&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;h&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;l&lt;/code&gt;: 到整行的开始或者末尾。&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;shift&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;h&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;l&lt;/code&gt;: 选择整行。&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;k&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;j&lt;/code&gt;: 文件的最开始和结尾。&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;shift&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;k&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;j&lt;/code&gt;: 选择所有文件内容。&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;j&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;k&lt;/code&gt;: 这个在百度搜索东西的时候上下选择很有用。&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;l&lt;/code&gt;: 这个在网址地址太长不想打而又需要在末尾加参数的时候用最合适不过了。&lt;/p&gt;
-
-&lt;h5 id=&quot;section-1&quot;&gt;实例演示，如何快速地在网址末尾加参数&lt;/h5&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;打开浏览器&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;l&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;打入地址，如果地址很长，会自动选择。&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;l&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;打入参数&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;整个过程手不需要离开键盘的黄金位置。&lt;/p&gt;
-
-&lt;h5 id=&quot;vimcontrol--hjkl-&quot;&gt;如果在Vim里面我已经设置了&lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;hjkl&lt;/code&gt; 怎么办？&lt;/h5&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;我建议disable karabiner用Vim的时候，为什么？很简单，Vim的快捷键很强大，必须去发觉。&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;fn&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;hjkl&lt;/code&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;section-2&quot;&gt;总结&lt;/h3&gt;
-
-&lt;p&gt;最后，这个post的目的是分享快捷键的小技巧，当然你可以按自己的方式来。&lt;/p&gt;
-</content>
-<category term="keymapping" />
-<category term="karabiner" />
-<category term="shotcuts" />
-<summary>Advanced Keymapping</summary>
 </entry>
 </feed>

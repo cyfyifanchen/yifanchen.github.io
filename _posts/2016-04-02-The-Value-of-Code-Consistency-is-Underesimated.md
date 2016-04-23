@@ -7,7 +7,7 @@ tag:
 - team
 - design
 blog: true
-star: false
+star: true
 ---
 
 ### The value of code consistency is underestimated

@@ -7,7 +7,7 @@ tag:
 - karabiner
 - shotcuts
 blog: true
-star: false
+star: true
 ---
 
 ## Advanced Keymapping
