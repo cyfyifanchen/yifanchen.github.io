@@ -1,6 +1,13 @@
 [
   
     {
+      "title"    : "Let&#39;s Talk About the Upcoming MacBook Pro",
+      "tags"     : "apple, macbook pro, and technology",
+      "url"      : "/the-new-macbook-pro/",
+      "date"     : "26 Apr 2016"
+    } ,
+  
+    {
       "title"    : "Code Refactoring",
       "tags"     : "code and thoughts",
       "url"      : "/code-refactoring/",
@@ -12,13 +19,6 @@
       "tags"     : "vim and neovim",
       "url"      : "/first-day-of-neovim/",
       "date"     : "14 Apr 2016"
-    } ,
-  
-    {
-      "title"    : "What to Expect For Next Generation of MacBook Pro",
-      "tags"     : "apple, macbook pro, and technology",
-      "url"      : "/the-new-macbook-pro/",
-      "date"     : "12 Apr 2016"
     } ,
   
     {

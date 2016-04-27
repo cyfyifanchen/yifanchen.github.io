@@ -7,7 +7,7 @@ tag:
 - tmux
 - zsh
 blog: true
-star: true
+star: false
 ---
 
 ## Why I use Vim

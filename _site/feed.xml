@@ -3,26 +3,65 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-04-23T15:11:43-06:00</updated>
+<updated>2016-04-26T23:23:07-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
+<entry>
+<title>Let’s Talk About the Upcoming MacBook Pro</title>
+<link href="http://localhost:3000/the-new-macbook-pro/" rel="alternate" type="text/html" title="Let&#39;s Talk About the Upcoming MacBook Pro" />
+<published>2016-04-26T00:00:00-06:00</published>
+<updated>2016-04-26T00:00:00-06:00</updated>
+<id>http://localhost:3000/the-new-macbook-pro</id>
+<content type="html" xml:base="http://localhost:3000/the-new-macbook-pro/">&lt;h2 id=&quot;what-to-expect-for-next-gen-of-macbook-pro&quot;&gt;What to expect for next gen of Macbook Pro&lt;/h2&gt;
+
+&lt;p&gt;I have been looking forward to see the new sepcs of MacBook Pro ever since I bought my first Apple device back to the Summer of 2012. It was a MacBook Air, then I exchanged it to the new Macbook Pro one week later after Apple announced it at 2012 WWDC. Loved it afterwards.&lt;/p&gt;
+
+&lt;h3 id=&quot;performance&quot;&gt;Performance&lt;/h3&gt;
+
+&lt;p&gt;I bought my first Macbook Pro back in 2012 summer right after Apple announced it at WWDC 2012. It’s called MacBook Pro with Retina Display. Price was high especially when I was in college, but I couldn’t be happier for the result. I replaced it with my 2 months old ThinkPad W series. It was best decision ever.&lt;/p&gt;
+
+&lt;p&gt;The current generation of Macbook Pro has always been rated one of the best laptops to buy through the years. Despite the slightly high price, it is extremely popular among developers. It’s descripted as one the best laptop to won for developers.(Mostly Unix-based OS), .net developers,  I of the best laptops to buy since the day it was announced. that year, and of course, developers love this machine.Ever since after that, I got even more excited to see what the next generation of Retina
+Macbook Pro is going to be like&lt;/p&gt;
+
+&lt;h3 id=&quot;appearance&quot;&gt;Appearance&lt;/h3&gt;
+
+&lt;p&gt;With &lt;a href=&quot;http://www.dell.com/us/business/p/precision-m5510-workstation/pd&quot;&gt;Dell Precision 5510&lt;/a&gt;(http://www.dell.com/us/business/p/precision-m5510-workstation pd) as a reference. I am expecting The new Macbook Pro will look like it.&lt;/p&gt;
+
+&lt;h3 id=&quot;keyboard&quot;&gt;Keyboard&lt;/h3&gt;
+
+&lt;h3 id=&quot;trackpad&quot;&gt;Trackpad&lt;/h3&gt;
+
+&lt;h3 id=&quot;ram&quot;&gt;RAM&lt;/h3&gt;
+
+&lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Our version for personal computing has always been that the most powerful technology should deliver incredible capability without the complexity.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;This is what Apple thinks personal computing should be.&lt;/p&gt;
+
+</content>
+<category term="apple" />
+<category term="macbook pro" />
+<category term="technology" />
+<summary>What to expect for next gen of Macbook Pro</summary>
+</entry>
 <entry>
 <title>Code Refactoring</title>
 <link href="http://localhost:3000/code-refactoring/" rel="alternate" type="text/html" title="Code Refactoring" />
 <published>2016-04-21T00:00:00-06:00</published>
 <updated>2016-04-21T00:00:00-06:00</updated>
 <id>http://localhost:3000/code-refactoring</id>
-<content type="html" xml:base="http://localhost:3000/code-refactoring/">&lt;h2 id=&quot;learn-from-code-refactoring&quot;&gt;Learn From Code refactoring&lt;/h2&gt;
+<content type="html" xml:base="http://localhost:3000/code-refactoring/">&lt;h2 id=&quot;learn-from-code-refactoring&quot;&gt;Learn From Code Refactoring&lt;/h2&gt;
 
-&lt;p&gt;I spent a few of hours refactoring the code on a simple page the other day. It occurs to me a new way of learning. As I was going through each line of the code, I started thinking that can this line of code be written in a better way? To be able to do this, I need to define the better way first. In general, there is no correct answer of writing code in a better or correct way. It comes down to the team effort.&lt;/p&gt;
+&lt;p&gt;I spent a few hours refactoring the code on a simple page the other day. It then occured to me, a new way of learning. As I was going through each line of the code, I started thinking, can this line of code be written in a better way? To be able to do this, I needed to define the better way first. In general, there is no correct answer of writing code in a better or correct way. It comes down to the team effort.&lt;/p&gt;
 
-&lt;p&gt;First of first, following the best practices and code consistency of the team. Second, think and google a lot. Third, read through the documentation again(I found this is extremely helpful). In reality, as developers, we aren’t granted enough time to think before we write. Code refactoring is an amazing chance to pick up that thought.&lt;/p&gt;
+&lt;p&gt;First of all, following the best practices and code consistency of the team. Second, think and google a lot. Third, read through the documentation again(I found this to be extremely helpful). In reality, as developers, we aren’t granted enough time to think before we write. Code refactoring is an amazing chance to pick up that thought.&lt;/p&gt;
 
-&lt;p&gt;Treating code refactoring as a new way to learn, a new way to discover, getting out of the comfort zone, trying to code in a different aspect. This is a great way to get better, more importantly, you will be enjoying code refactoring.&lt;/p&gt;
+&lt;p&gt;Treating code refactoring as a new way to learn, a new way to discover. A way of getting out of your comfort zone and trying to code from different aspects. This is a great way to get better, more importantly, you will also enjoy code refactoring.&lt;/p&gt;
 </content>
 <category term="code" />
 <category term="thoughts" />
-<summary>Learn From Code refactoring</summary>
+<summary>Learn From Code Refactoring</summary>
 </entry>
 <entry>
 <title>First Day of Neovim</title>
@@ -60,37 +99,6 @@ Neomake
 <category term="vim" />
 <category term="neovim" />
 <summary>First day of using Neovim</summary>
-</entry>
-<entry>
-<title>What to Expect For Next Generation of MacBook Pro</title>
-<link href="http://localhost:3000/the-new-macbook-pro/" rel="alternate" type="text/html" title="What to Expect For Next Generation of MacBook Pro" />
-<published>2016-04-12T00:00:00-06:00</published>
-<updated>2016-04-12T00:00:00-06:00</updated>
-<id>http://localhost:3000/the-new-macbook-pro</id>
-<content type="html" xml:base="http://localhost:3000/the-new-macbook-pro/">&lt;h2 id=&quot;what-to-expect-for-next-gen-of-macbook-pro&quot;&gt;What to expect for next gen of Macbook Pro&lt;/h2&gt;
-
-&lt;p&gt;&lt;em&gt;Our version for personal computing has always been that the most powerful technology should deliver incredible capability without the complexity.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;I bought my very first Macbook Pro back in 2012 summer right after Apple announced it at WWDC 2012. I was like “Shup up, and take my money” while I was watching the &lt;a href=&quot;https://www.youtube.com/watch?v=6kYxnMUOczg&quot; target=&quot;_blank&quot;&gt;trailer&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The current generation of Macbook Pro has always been rated one of the best laptops to buy through the years. Despite the slightly high price, it is extremely popular among developers. It’s descripted as one the best laptop to won for developers.(Mostly Unix-based OS), .net developers,  I of the best laptops to buy since the day it was announced. that year, and of course, developers love this machine.Ever since after that, I got even more excited to see what the next generation of Retina
-Macbook Pro is going to be like.&lt;/p&gt;
-
-&lt;h4 id=&quot;half-of-the-cost-with-a-better-proformence-pc&quot;&gt;Half of the cost with a better proformence PC?&lt;/h4&gt;
-
-&lt;p&gt;Buying a Mac or a PC has always been a controversy, people debate about it with different needs and reasons. There simply is no right or wrong Lots of people don’t seem to understand that comparing a Mac to a PC is useless, and waste of time on many different levels. Mac doesn’t only come with a pretty piece of hardware&lt;/p&gt;
-
-&lt;h4 id=&quot;some-expectations-for-upcoming-os-x-this-fall&quot;&gt;Some expectations for upcoming OS X this Fall&lt;/h4&gt;
-
-&lt;p&gt;Metal&lt;/p&gt;
-
-&lt;p&gt;Through all these years, Mac gaming isn’t too far from a concept. Major game makers don’t give. It’s what we believe personal computing is going.&lt;/p&gt;
-
-</content>
-<category term="apple" />
-<category term="macbook pro" />
-<category term="technology" />
-<summary>What to expect for next gen of Macbook Pro</summary>
 </entry>
 <entry>
 <title>Getting linters working in Atom and Vim</title>
