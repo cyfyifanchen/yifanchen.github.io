@@ -90,9 +90,13 @@ Read [advanced-keymapping](http://www.cyfyifanchen.com/advanced-keymapping/), an
 
 #### Terminal
 
-`control` + `w`: delete single word.
+`control` + `w`: delete a word before the cursor.
 
 `control` + `u`: delete entire line.
+
+`control` + `k`: deletes the line from the position of the cursor to the end of the line.
+
+`control` + `r`: search your command history
 
 `control` + `a`: go to beginning of the line.
 
