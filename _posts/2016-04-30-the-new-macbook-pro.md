@@ -1,7 +1,7 @@
 ---
 title: "Let's Talk About the Upcoming MacBook Pro"
 layout: post
-date: 2016-04-26 
+date: 2016-04-30 
 tag:
 - apple 
 - macbook pro
@@ -10,9 +10,9 @@ blog: true
 star: false
 ---
 
-### Let's talk about the upcoming Macbook Pro
+### Let's talk about the upcoming MacBoo Pro
 
-Still 2 months left for WWDC 2016. I am getting very impatient. I can't wait to see the new Macbook Pro. I am a laptop person who can live without a Phone, but not a laptop. With that being said, I also have some inputs for the highly anticipated laptop.
+Still 2 months left for WWDC 2016. I am getting very impatient. I can't wait to see the new MacBook Pro. I am a laptop person who can live without a Phone, but not a laptop. With that being said, I also have some inputs for the highly anticipated laptop.
 
 **Apperance**: It needs to be smaller, lighter and thinner. 
 
@@ -22,7 +22,7 @@ Still 2 months left for WWDC 2016. I am getting very impatient. I can't wait to 
 
 **Keyboard**: Lots people don't like the new butterfly mechanism keyboard, I might be on the same boat. I own a blue switch mechanical keyboard, imagine how hard for me to like a keyboard that has almost zero travel. Hopefully, it doesn't take long for me to get used to it.
 
-**Trackpad**: I can't complain Apple's trackpad at all ever since I started to use it. Altho today, there is still no Windows laptop has a trackpad that can even compare to Apple's trackpad.
+**Trackpad**: I have to say, Apple's trackpad is pure awesomeness. Altho today, there is still no Windows laptop has a trackpad that can even compare to Apple's trackpad.
 
 **Memory**: Historically, Apple hasn't been generous to memory at all, which is something developers complain quite often. With memory intense applications like Chrome or Virtual Machine. 32GB is a must option for professional. I don't buy Apple's excuses when they say they care UX more than anything. That's kinda BS on MPB because MBPs are made for professionals.
 
