@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-05-03T14:21:02-06:00</updated>
+<updated>2016-05-03T15:45:32-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
 <entry>
@@ -14,9 +14,11 @@
 <id>http://localhost:3000/two-weeks-of-neovim</id>
 <content type="html" xml:base="http://localhost:3000/two-weeks-of-neovim/">&lt;h2 id=&quot;two-weeks-down-for-neovim&quot;&gt;Two weeks down for Neovim&lt;/h2&gt;
 
-&lt;p&gt;I wrote a post of siwtching to Neovim coule weeks ago. I really enjoy it better. I strongly suggest you to change if you are using Vim now. Here is my &lt;code class=&quot;highlighter-rouge&quot;&gt;.vimrc&lt;/code&gt;, all the plugins I have on my &lt;code class=&quot;highlighter-rouge&quot;&gt;.vimrc&lt;/code&gt; are working fine in Neovim.&lt;/p&gt;
+&lt;p&gt;I wrote a post of switching to &lt;a href=&quot;http://www.cyfyifanchen.com/first-day-of-neovim/&quot; target=&quot;_blank&quot;&gt;Neovim&lt;/a&gt; a couple of weeks ago. It was a wise choice. I like everything about Neovim, not even one thing I want to complain about. I have seen people run into bugs here and there, luckily I haven’t had any bugs. And the speed of Neovim is the biggest reward to me.&lt;/p&gt;
 
-&lt;p&gt;I am quite OCD for &lt;code class=&quot;highlighter-rouge&quot;&gt;.vimrc&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;For those who are currently struggling speed of MacVim or Gvim, I would strongly suggest you consider switching. Neovim is newer with a lot less lines of code to maintain. For developers who switched, feedbacks are all positive.&lt;/p&gt;
+
+&lt;p&gt;Here is my &lt;a href=&quot;https://github.com/yifanchen/dotfiles/blob/master/.vimrc&quot; target=&quot;_blank&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;.vimrc&lt;/code&gt;&lt;/a&gt;, all the plugs and settings are compatible with Neovim. Use it as a reference if you are considering switch.&lt;/p&gt;
 
 </content>
 <category term="vim" />
@@ -44,7 +46,7 @@
 
 &lt;p&gt;&lt;strong&gt;Keyboard&lt;/strong&gt;: Lots people don’t like the new butterfly mechanism keyboard, I might be in the same boat. I own a blue switch mechanical keyboard, imagine how hard for me to like a keyboard that has almost zero travel. Hopefully, it doesn’t take long for me to get used to it.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Trackpad&lt;/strong&gt;: I have to say, Apple’s trackpad is pure awesomeness. Although today, there is still no Windows laptop has a trackpad that can even compare to Apple’s trackpad.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Trackpad&lt;/strong&gt;: Apple’s laptop trackpad has always been pure awesomeness. I have met tons developers prefer an external trackpads rather than a mice. With trackpad, my worflow doesn’t require a mouse at all. The force touch technology of trackpad takes the interaction to a whole new level. As time goes, more and more applications will take advantages of it.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Memory&lt;/strong&gt;: Historically, Apple hasn’t been generous to memory at all, which is something developers complain quite often. With memory intense applications like Chrome or Virtual Machine. 32GB is a must have for professionals. I don’t buy Apple’s excuses when they say they care UX more than anything. That’s kinda BS on MacBook Pros because they are made for professionals.&lt;/p&gt;
 

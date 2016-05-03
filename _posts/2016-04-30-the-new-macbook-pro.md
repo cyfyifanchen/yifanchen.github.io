@@ -24,7 +24,7 @@ There are still 2 months left for WWDC 2016. I am getting very impatient. I want
 
 **Keyboard**: Lots people don't like the new butterfly mechanism keyboard, I might be in the same boat. I own a blue switch mechanical keyboard, imagine how hard for me to like a keyboard that has almost zero travel. Hopefully, it doesn't take long for me to get used to it.
 
-**Trackpad**: I have to say, Apple's trackpad is pure awesomeness. Although today, there is still no Windows laptop has a trackpad that can even compare to Apple's trackpad.
+**Trackpad**: Apple's laptop trackpad has always been pure awesomeness. I have met tons developers prefer an external trackpads rather than a mice. With trackpad, my worflow doesn't require a mouse at all. The force touch technology of trackpad takes the interaction to a whole new level. As time goes, more and more applications will take advantages of it.
 
 **Memory**: Historically, Apple hasn't been generous to memory at all, which is something developers complain quite often. With memory intense applications like Chrome or Virtual Machine. 32GB is a must have for professionals. I don't buy Apple's excuses when they say they care UX more than anything. That's kinda BS on MacBook Pros because they are made for professionals.
 
