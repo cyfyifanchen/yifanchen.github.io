@@ -3,39 +3,26 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-05-02T23:22:33-06:00</updated>
+<updated>2016-05-03T14:12:40-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
 <entry>
-<title>Let’s Talk About the Upcoming MacBook Pro</title>
-<link href="http://localhost:3000/two-weeks-of-neovim/" rel="alternate" type="text/html" title="Let&#39;s Talk About the Upcoming MacBook Pro" />
-<published>2016-04-30T00:00:00-06:00</published>
-<updated>2016-04-30T00:00:00-06:00</updated>
+<title>Two Weeks of Neovim</title>
+<link href="http://localhost:3000/two-weeks-of-neovim/" rel="alternate" type="text/html" title="Two Weeks of Neovim" />
+<published>2016-05-02T00:00:00-06:00</published>
+<updated>2016-05-02T00:00:00-06:00</updated>
 <id>http://localhost:3000/two-weeks-of-neovim</id>
-<content type="html" xml:base="http://localhost:3000/two-weeks-of-neovim/">&lt;h3 id=&quot;lets-talk-about-the-upcoming-macboo-pro&quot;&gt;Let’s talk about the upcoming MacBoo Pro&lt;/h3&gt;
+<content type="html" xml:base="http://localhost:3000/two-weeks-of-neovim/">&lt;h2 id=&quot;two-weeks-down-for-neovim&quot;&gt;Two weeks down for Neovim&lt;/h2&gt;
 
-&lt;p&gt;Still 2 months left for WWDC 2016. I am getting very impatient. I wanted to see the next generation of Macbook Pro about 4 years ago right after its announcement at WWDC 2012. The motive was simple and curious - how could Apple take this machine to the next level? Now, 4 years have passed, the most anticipated laptop of year is about to be unveiled within 2 months. As a computer person myself, I am excited to see every detailed spec of it.&lt;/p&gt;
+&lt;p&gt;I wrote a post of siwtching to Neovim coule weeks ago. I really enjoy it better. I strongly suggest you to change if you are using Vim now. Here is my &lt;code class=&quot;highlighter-rouge&quot;&gt;.vimrc&lt;/code&gt;, all the plugins I have on my &lt;code class=&quot;highlighter-rouge&quot;&gt;.vimrc&lt;/code&gt; are working fine in Neovim.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Appearance&lt;/strong&gt;: One of the Apple’s strongest area. Despite the performance, the look of Apple’s product has always been elegant. No doubt, bezel, size and weight are all getting smaller. The plastic hinge is going to be replaced by a metal hinge like the MacBook.&lt;/p&gt;
+&lt;p&gt;I am quite OCD for &lt;code class=&quot;highlighter-rouge&quot;&gt;.vimrc&lt;/code&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Display&lt;/strong&gt;: With retina display on every device, there is a possibility Apple might go 4K on Macbook Pro’s display.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Ports&lt;/strong&gt;: It’s the future of laptop. USB Type-C is the future of connection. Seriously, people needs to stop complaining the lack of ports. Technology is moving forward, we can’t always stick with a laptop that has freaking 5 USB ports.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Keyboard&lt;/strong&gt;: Lots people don’t like the new butterfly mechanism keyboard, I might be in the same boat. I own a blue switch mechanical keyboard, imagine how hard for me to like a keyboard that has almost zero travel. Hopefully, it doesn’t take long for me to get used to it.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Trackpad&lt;/strong&gt;: I have to say, Apple’s trackpad is pure awesomeness. Altho today, there is still no Windows laptop has a trackpad that can even compare to Apple’s trackpad.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Memory&lt;/strong&gt;: Historically, Apple hasn’t been generous to memory at all, which is something developers complain quite often. With memory intense applications like Chrome or Virtual Machine. 32GB is a must option for professional. I don’t buy Apple’s excuses when they say they care UX more than anything. That’s kinda BS on MPB because MBPs are made for professionals.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Gaming and Graphics&lt;/strong&gt;: Yes, you can always buy a cheaper Windows machine that runs games better. The truth is that both developers and game makers think Mac Gaming is a joke. With very limited market need, lack of developers, insufficient recourse made Mac Gaming how it is today. But like it or not, it might not be a joke for long. Apple announced its own graphic technology, Metal, at WWDC 2014. It has been widely adopted by developers on iOS. The result is amazing. Same time, Apple planned to implement Metal to OSX as well. I can’t say that Mac Gaming will become a thing and potentially replace PC Gaming. But, in a tech world, anything is a possibility.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Our version for personal computing has always been that the most powerful technology should deliver incredible capability without the complexity.&lt;/em&gt; The boundary of software and hardware is zero to Apple, it is also what driving Apple to make technology powerful and yet reachable. With its ecosystem, stunning industrial design, and unlimited innovation, I can’t wait to see the new MacBook Pro.&lt;/p&gt;
 </content>
-<category term="apple" />
-<category term="macbook pro" />
-<category term="technology" />
-<summary>Let’s talk about the upcoming MacBoo Pro</summary>
+<category term="vim" />
+<category term="Neovim" />
+<category term="thoughts" />
+<summary>Two weeks down for Neovim</summary>
 </entry>
 <entry>
 <title>Let’s Talk About the Upcoming MacBook Pro</title>
@@ -45,23 +32,27 @@
 <id>http://localhost:3000/the-new-macbook-pro</id>
 <content type="html" xml:base="http://localhost:3000/the-new-macbook-pro/">&lt;h3 id=&quot;lets-talk-about-the-upcoming-macbook-pro&quot;&gt;Let’s talk about the upcoming MacBook Pro&lt;/h3&gt;
 
-&lt;p&gt;Still 2 months left for WWDC 2016. I am getting very impatient. I wanted to see the next generation of MacBook Pro about 4 years ago right after its announcement at WWDC 2012. The motive was simple and curious - how could Apple take this machine to the next level? Now, 4 years have passed, the most anticipated laptop of year is about to be unveiled within 2 months. As a computer person myself, I am excited to see every detailed spec of it.&lt;/p&gt;
+&lt;p&gt;There are still 2 months left for WWDC 2016. I am getting very impatient. I wanted to see the next generation of MacBook Pro about 4 years ago right after its &lt;a href=&quot;https://www.youtube.com/watch?v=904g_jrsryw&quot; target=&quot;_blank&quot;&gt;accouncement&lt;/a&gt; at WWDC 2012. The motive was simple and curious - how could Apple take this machine to the next level? Now, 4 years have passed, the most anticipated laptop of the year is about to be unveiled within 2 months. As a laptop person myself who can’t survive without a laptop, I am excited to see the capability of the new MacBook Pro.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Appearance&lt;/strong&gt;: One of the Apple’s strongest area. Despite the performance, the look of Apple’s product has always been elegant. No doubt, bezel, size and weight are all getting smaller. The plastic hinge is going to be replaced by a metal hinge like the MacBook.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Appearance&lt;/strong&gt;: One of the Apple’s strongest area. Despite the performance, the look of Apple’s product has always been elegant. No doubt, the measurement of bezel, size and weight are all going to be smaller, bring portability to another level. The plastic hinge is going to be replaced by a metal hinge just like the &lt;a href=&quot;https://www.youtube.com/watch?v=CrBT6k7RMao&quot; target=&quot;_blank&quot;&gt;MacBook&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Display&lt;/strong&gt;: With retina display on every device, there is a possibility Apple might go 4K on MacBook Pro’s display.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Display&lt;/strong&gt;: With retina display on every device(not MBA), there is a possibility Apple might go 4K on MacBook Pro’s display to differentiate it out from the rest of MacBook product line.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Battery&lt;/strong&gt;: The new battery technology should be adopted on MacBook Pro as well. Apple introduced a new battery technology when MacBook was announced last year. Engineers basically restructure components of entire battery reshaping it to fit inside a compact design. The result of this is a battery that is flexible enough to fit in a thin hardware as well as maintaining it’s capacity.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Ports&lt;/strong&gt;: It’s the future of laptop. USB Type-C is the future of connection. Seriously, people needs to stop complaining the lack of ports. Technology is moving forward, we can’t always stick with a laptop that has freaking 5 USB ports.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Keyboard&lt;/strong&gt;: Lots people don’t like the new butterfly mechanism keyboard, I might be in the same boat. I own a blue switch mechanical keyboard, imagine how hard for me to like a keyboard that has almost zero travel. Hopefully, it doesn’t take long for me to get used to it.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Trackpad&lt;/strong&gt;: I have to say, Apple’s trackpad is pure awesomeness. Altho today, there is still no Windows laptop has a trackpad that can even compare to Apple’s trackpad.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Trackpad&lt;/strong&gt;: I have to say, Apple’s trackpad is pure awesomeness. Although today, there is still no Windows laptop has a trackpad that can even compare to Apple’s trackpad.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Memory&lt;/strong&gt;: Historically, Apple hasn’t been generous to memory at all, which is something developers complain quite often. With memory intense applications like Chrome or Virtual Machine. 32GB is a must have for professionals. I don’t buy Apple’s excuses when they say they care UX more than anything. That’s kinda BS on MacBook Pros because they are made for professionals.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Gaming and Graphics&lt;/strong&gt;: Yes, you can always buy a cheaper Windows machine that runs games better. The truth is that both developers and game makers think Mac Gaming is a joke. With very limited market need, lack of developers, insufficient recourse made Mac Gaming how it is today. But like it or not, it might not be a joke for long. Apple announced its own graphic technology, Metal, at WWDC 2014. It has been widely adopted by developers on iOS. The result is amazing. Same time, Apple planned to implement Metal to OSX as well. I can’t say that Mac Gaming will become a thing and potentially replace PC Gaming. But, in a tech world, anything is a possibility.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Gaming and Graphics&lt;/strong&gt;: Yes, you can always buy a cheaper Windows machine that runs games better. The truth is that both developers and game makers think Mac Gaming is a joke. With very limited market needs, lack of developers, insufficient recourses made Mac Gaming how it is today. But like it or not, it might not be a joke for long. Apple announced its own graphic technology, &lt;a href=&quot;https://developer.apple.com/metal/&quot; target=&quot;_blank&quot;&gt;Metal&lt;/a&gt;, at WWDC 2014. It has been widely adopted by developers on iOS. The result is amazing. Same time, Apple planned to implement Metal to OSX as well. I can’t say that Mac Gaming will become a phenomenon and potentially replace PC Gaming. But, in this tech world, anything is a possibility.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Our version for personal computing has always been that the most powerful technology should deliver incredible capability without the complexity.&lt;/em&gt; The boundary of software and hardware is zero to Apple, it is also what driving Apple to make technology powerful and yet reachable. With its ecosystem, stunning industrial design, and unlimited innovation, I can’t wait to see the new Macbook Pro.&lt;/p&gt;
+&lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Our version for personal computing has always been that the most powerful technology should deliver incredible capability without the complexity.&lt;/em&gt; The boundary of software and hardware is zero to Apple, it is also what driving Apple to make technology extremely powerful and yet intuitively reachable. With its ecosystem, stunning industrial design, and unlimited innovation, I can’t wait to see the new Macbook Pro.&lt;/p&gt;
 </content>
 <category term="apple" />
 <category term="macbook pro" />
