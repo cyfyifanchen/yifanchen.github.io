@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-05-03T14:12:40-06:00</updated>
+<updated>2016-05-03T14:21:02-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
 <entry>
@@ -48,11 +48,13 @@
 
 &lt;p&gt;&lt;strong&gt;Memory&lt;/strong&gt;: Historically, Apple hasn’t been generous to memory at all, which is something developers complain quite often. With memory intense applications like Chrome or Virtual Machine. 32GB is a must have for professionals. I don’t buy Apple’s excuses when they say they care UX more than anything. That’s kinda BS on MacBook Pros because they are made for professionals.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Gaming and Graphics&lt;/strong&gt;: Yes, you can always buy a cheaper Windows machine that runs games better. The truth is that both developers and game makers think Mac Gaming is a joke. With very limited market needs, lack of developers, insufficient recourses made Mac Gaming how it is today. But like it or not, it might not be a joke for long. Apple announced its own graphic technology, &lt;a href=&quot;https://developer.apple.com/metal/&quot; target=&quot;_blank&quot;&gt;Metal&lt;/a&gt;, at WWDC 2014. It has been widely adopted by developers on iOS. The result is amazing. Same time, Apple planned to implement Metal to OSX as well. I can’t say that Mac Gaming will become a phenomenon and potentially replace PC Gaming. But, in this tech world, anything is a possibility.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Gaming and Graphics&lt;/strong&gt;: Yes, you can always buy a cheaper Windows machine that runs games better. The truth is that both developers and game makers think Mac Gaming is a joke. With very limited market needs, lack of developers, insufficient recourses made Mac Gaming how it is today. But like it or not, it might not be a joke for long. Apple announced its own graphic technology, &lt;a href=&quot;https://developer.apple.com/metal/&quot; target=&quot;_blank&quot;&gt;Metal&lt;/a&gt;, at WWDC 2014. It has been widely adopted by developers on iOS. The result is amazing. Same time, Apple planned to implement Metal to OSX as well. I can’t say that Mac Gaming will become a phenomenon and potentially replace PC Gaming on day. But, in this tech world, anything is a possibility.&lt;/p&gt;
 
 &lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
 
-&lt;p&gt;&lt;em&gt;Our version for personal computing has always been that the most powerful technology should deliver incredible capability without the complexity.&lt;/em&gt; The boundary of software and hardware is zero to Apple, it is also what driving Apple to make technology extremely powerful and yet intuitively reachable. With its ecosystem, stunning industrial design, and unlimited innovation, I can’t wait to see the new Macbook Pro.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Our version for personal computing has always been that the most powerful technology should deliver incredible capability without the complexity.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The boundary of software and hardware is zero to Apple, it is also what driving Apple to make technology extremely powerful and yet intuitively reachable. With its ecosystem, stunning industrial design, and unlimited innovation, I can’t wait to see the new Macbook Pro.&lt;/p&gt;
 </content>
 <category term="apple" />
 <category term="macbook pro" />
