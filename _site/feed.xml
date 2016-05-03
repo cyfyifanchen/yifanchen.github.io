@@ -3,16 +3,16 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-05-02T23:09:58-06:00</updated>
+<updated>2016-05-02T23:22:33-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
 <entry>
 <title>Let’s Talk About the Upcoming MacBook Pro</title>
-<link href="http://localhost:3000/the-new-macbook-pro/" rel="alternate" type="text/html" title="Let&#39;s Talk About the Upcoming MacBook Pro" />
+<link href="http://localhost:3000/two-weeks-of-neovim/" rel="alternate" type="text/html" title="Let&#39;s Talk About the Upcoming MacBook Pro" />
 <published>2016-04-30T00:00:00-06:00</published>
 <updated>2016-04-30T00:00:00-06:00</updated>
-<id>http://localhost:3000/the-new-macbook-pro</id>
-<content type="html" xml:base="http://localhost:3000/the-new-macbook-pro/">&lt;h3 id=&quot;lets-talk-about-the-upcoming-macboo-pro&quot;&gt;Let’s talk about the upcoming MacBoo Pro&lt;/h3&gt;
+<id>http://localhost:3000/two-weeks-of-neovim</id>
+<content type="html" xml:base="http://localhost:3000/two-weeks-of-neovim/">&lt;h3 id=&quot;lets-talk-about-the-upcoming-macboo-pro&quot;&gt;Let’s talk about the upcoming MacBoo Pro&lt;/h3&gt;
 
 &lt;p&gt;Still 2 months left for WWDC 2016. I am getting very impatient. I wanted to see the next generation of Macbook Pro about 4 years ago right after its announcement at WWDC 2012. The motive was simple and curious - how could Apple take this machine to the next level? Now, 4 years have passed, the most anticipated laptop of year is about to be unveiled within 2 months. As a computer person myself, I am excited to see every detailed spec of it.&lt;/p&gt;
 
@@ -36,6 +36,37 @@
 <category term="macbook pro" />
 <category term="technology" />
 <summary>Let’s talk about the upcoming MacBoo Pro</summary>
+</entry>
+<entry>
+<title>Let’s Talk About the Upcoming MacBook Pro</title>
+<link href="http://localhost:3000/the-new-macbook-pro/" rel="alternate" type="text/html" title="Let&#39;s Talk About the Upcoming MacBook Pro" />
+<published>2016-04-30T00:00:00-06:00</published>
+<updated>2016-04-30T00:00:00-06:00</updated>
+<id>http://localhost:3000/the-new-macbook-pro</id>
+<content type="html" xml:base="http://localhost:3000/the-new-macbook-pro/">&lt;h3 id=&quot;lets-talk-about-the-upcoming-macbook-pro&quot;&gt;Let’s talk about the upcoming MacBook Pro&lt;/h3&gt;
+
+&lt;p&gt;Still 2 months left for WWDC 2016. I am getting very impatient. I wanted to see the next generation of MacBook Pro about 4 years ago right after its announcement at WWDC 2012. The motive was simple and curious - how could Apple take this machine to the next level? Now, 4 years have passed, the most anticipated laptop of year is about to be unveiled within 2 months. As a computer person myself, I am excited to see every detailed spec of it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Appearance&lt;/strong&gt;: One of the Apple’s strongest area. Despite the performance, the look of Apple’s product has always been elegant. No doubt, bezel, size and weight are all getting smaller. The plastic hinge is going to be replaced by a metal hinge like the MacBook.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Display&lt;/strong&gt;: With retina display on every device, there is a possibility Apple might go 4K on MacBook Pro’s display.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ports&lt;/strong&gt;: It’s the future of laptop. USB Type-C is the future of connection. Seriously, people needs to stop complaining the lack of ports. Technology is moving forward, we can’t always stick with a laptop that has freaking 5 USB ports.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Keyboard&lt;/strong&gt;: Lots people don’t like the new butterfly mechanism keyboard, I might be in the same boat. I own a blue switch mechanical keyboard, imagine how hard for me to like a keyboard that has almost zero travel. Hopefully, it doesn’t take long for me to get used to it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Trackpad&lt;/strong&gt;: I have to say, Apple’s trackpad is pure awesomeness. Altho today, there is still no Windows laptop has a trackpad that can even compare to Apple’s trackpad.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Memory&lt;/strong&gt;: Historically, Apple hasn’t been generous to memory at all, which is something developers complain quite often. With memory intense applications like Chrome or Virtual Machine. 32GB is a must have for professionals. I don’t buy Apple’s excuses when they say they care UX more than anything. That’s kinda BS on MacBook Pros because they are made for professionals.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Gaming and Graphics&lt;/strong&gt;: Yes, you can always buy a cheaper Windows machine that runs games better. The truth is that both developers and game makers think Mac Gaming is a joke. With very limited market need, lack of developers, insufficient recourse made Mac Gaming how it is today. But like it or not, it might not be a joke for long. Apple announced its own graphic technology, Metal, at WWDC 2014. It has been widely adopted by developers on iOS. The result is amazing. Same time, Apple planned to implement Metal to OSX as well. I can’t say that Mac Gaming will become a thing and potentially replace PC Gaming. But, in a tech world, anything is a possibility.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Our version for personal computing has always been that the most powerful technology should deliver incredible capability without the complexity.&lt;/em&gt; The boundary of software and hardware is zero to Apple, it is also what driving Apple to make technology powerful and yet reachable. With its ecosystem, stunning industrial design, and unlimited innovation, I can’t wait to see the new Macbook Pro.&lt;/p&gt;
+</content>
+<category term="apple" />
+<category term="macbook pro" />
+<category term="technology" />
+<summary>Let’s talk about the upcoming MacBook Pro</summary>
 </entry>
 <entry>
 <title>Code Refactoring</title>
@@ -256,44 +287,5 @@ let g:syntastic_aggregate_errors = 1
 <category term="tmux" />
 <category term="zsh" />
 <summary>Why I use Vim</summary>
-</entry>
-<entry>
-<title>陆续总结一下github上好的前端教程</title>
-<link href="http://localhost:3000/github-chinese/" rel="alternate" type="text/html" title="陆续总结一下github上好的前端教程" />
-<published>2016-03-27T22:44:00-06:00</published>
-<updated>2016-03-27T22:44:00-06:00</updated>
-<id>http://localhost:3000/github-chinese</id>
-<content type="html" xml:base="http://localhost:3000/github-chinese/">&lt;h2 id=&quot;github&quot;&gt;陆续总结一下github上好的前端教程&lt;/h2&gt;
-
-&lt;p&gt;自己是做前端的，就是front end。一直觉得前端相对来说比较容易学。随着各种框架的出现和语言一点一点的完善，如果用心的话，
-半年可以达到一个很不错的水平。在美国找到一个5万－6万的工作，也绝对不难。我们公司有300+的程序员，前端大概占了5/1，
-而其中不少都是从code camp过来的，也就是说经验少于半年。所以，如果你目前没有工作，或者不喜欢自己的工作，而且又对电脑比较
-感兴趣的话，前端是个非常棒的选择。&lt;/p&gt;
-
-&lt;p&gt;每天都会去github逛逛，找找新鲜的东西看。无意间发现上面有很多非常棒的中文教程，书籍。这绝对是一个很好的现象。今后的几天我会陆续贴
-一些好的中文教程，对那些想学前端的的朋友来说，能少走点弯路就少走点。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/AutumnsWind/Front-end-tutorial&quot; target=&quot;_blank&quot;&gt;front end totuorial&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;这绝对是个神贴，里面归结了非常多，非常棒的学习材料。有必须要读的，也有在闲暇时间没事看两眼的。总之，你如果想学习front end，这个必须有。
-强烈建议把所有东西都过一遍，惭愧啊，我很多东西都还没读。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/jsfront/src&quot; target=&quot;_blank&quot;&gt;jsfront&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;jsfront有自己的网络群，当然上面也有很多javascript常用函数和常见模式。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/jsfront/front-end-collect&quot; target=&quot;_blank&quot;&gt;front end collect&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;front end collect和front end toturial很像，但是内容方面来讲，后者更强。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/sunyuhui/JavaScript-Tips&quot; target=&quot;_blank&quot;&gt;javascript tips&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;javasctip tips是个很棒的想法，每天更新个小tip，每天一步，慢慢学习，但是目前maintainer好像不再maintain了。希望有一天能被人重新拾起。&lt;/p&gt;
-
-</content>
-<category term="github" />
-<category term="中文" />
-<category term="教程" />
-<summary>陆续总结一下github上好的前端教程</summary>
 </entry>
 </feed>
