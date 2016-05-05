@@ -18,7 +18,7 @@ There are still 2 months left for WWDC 2016. I am getting very impatient. I have
 
 **Display**: With retina display on every device(not MBA), there is a possibility Apple might go 4K on MacBook Pro's display to differentiate it from the rest of MacBook product line.
 
-**Battery**: The new battery technology should be adopted on MacBook Pro as well. Apple introduced a new battery technology when MacBook was announced last year. Engineers restructure components of entire battery to reshape it to fit inside a compact design. The result of this is a battery that is flexible enough to fit in a thin hardware as well as maintaining it's capacity.
+**Battery**: The new battery technology should be adopted on MacBook Pro as well. Apple introduced a new battery technology when <a href="https://www.youtube.com/watch?v=CrBT6k7RMao" target="_blank">MacBook</a> was announced last year. Engineers restructure components of entire battery to reshape it to fit inside a compact design. The result of this is a battery that is flexible enough to fit in a thin hardware as well as maintaining it's capacity.
 
 **Ports**: It's the future of laptop. USB Type-C is the future of connection. Seriously, people need to stop complaining the lack of ports. Technology is moving forward, we can't always stick with a laptop that has freaking 5 USB ports.
 
