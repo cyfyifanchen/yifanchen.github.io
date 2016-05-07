@@ -3,9 +3,41 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-05-05T19:24:52-06:00</updated>
+<updated>2016-05-07T11:40:05-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
+<entry>
+<title>What is Metal</title>
+<link href="http://localhost:3000/what-is-metal/" rel="alternate" type="text/html" title="What is Metal" />
+<published>2016-05-07T00:00:00-06:00</published>
+<updated>2016-05-07T00:00:00-06:00</updated>
+<id>http://localhost:3000/what-is-metal</id>
+<content type="html" xml:base="http://localhost:3000/what-is-metal/">&lt;h3 id=&quot;what-is-metal&quot;&gt;What is Metal&lt;/h3&gt;
+
+&lt;h3 id=&quot;what-should-we-expect-for-metal&quot;&gt;What should we expect for Metal&lt;/h3&gt;
+
+&lt;h3 id=&quot;the-future-of-mac-gmaing&quot;&gt;The future of mac gmaing&lt;/h3&gt;
+
+</content>
+<category term="apple" />
+<category term="metal" />
+<category term="technology" />
+<category term="mac gaming" />
+<summary>What is Metal</summary>
+</entry>
+<entry>
+<title>关于签证</title>
+<link href="http://localhost:3000/about-visa/" rel="alternate" type="text/html" title="关于签证" />
+<published>2016-05-06T00:00:00-06:00</published>
+<updated>2016-05-06T00:00:00-06:00</updated>
+<id>http://localhost:3000/about-visa</id>
+<content type="html" xml:base="http://localhost:3000/about-visa/">&lt;p&gt;爆宝地段，连刷3年，至少给个灵魂奖励一下。没有关系，拿出激情接着刷，人品爆发的节奏正在靠近。借用《火星救援》里的一句台词：“I am fucked, but I am not giving up!”&lt;/p&gt;
+
+</content>
+<category term="visa" />
+<category term="H1B" />
+<summary>爆宝地段，连刷3年，至少给个灵魂奖励一下。没有关系，拿出激情接着刷，人品爆发的节奏正在靠近。借用《火星救援》里的一句台词：“I am fucked, but I am not giving up!”</summary>
+</entry>
 <entry>
 <title>Two Weeks of Neovim</title>
 <link href="http://localhost:3000/two-weeks-of-neovim/" rel="alternate" type="text/html" title="Two Weeks of Neovim" />
@@ -235,52 +267,5 @@ let g:syntastic_aggregate_errors = 1
 <category term="Projects" />
 <category term="Why-No-Projects" />
 <summary>叹气，好坏几年程序员了，至少给我个机会拿点东西出来潇洒一下。那帮混蛋总是更新我做过的东西。又不好意思拿别人改过的东西出来风骚。看来这下得自己花时间搞点小东西出来炫耀炫耀，至少能满足一下这爱耍宝的自尊心了。</summary>
-</entry>
-<entry>
-<title>Swap screenshot shortcuts</title>
-<link href="http://localhost:3000/swap-screenshot-shortcut/" rel="alternate" type="text/html" title="Swap screenshot shortcuts" />
-<published>2016-03-30T00:00:00-06:00</published>
-<updated>2016-03-30T00:00:00-06:00</updated>
-<id>http://localhost:3000/swap-screenshot-shortcut</id>
-<content type="html" xml:base="http://localhost:3000/swap-screenshot-shortcut/">&lt;h2 id=&quot;swap-screenshot-shortcuts&quot;&gt;Swap screenshot shortcuts&lt;/h2&gt;
-
-&lt;p&gt;We all enjoy using OSX’s built-in &lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;shift&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;4&lt;/code&gt; to screenshot. However, it’s quite inconvenient to drag and drop the screenshot from desktop every time. Most people don’t know that &lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;control&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;shift&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;4&lt;/code&gt; is screenshot directly to the clipboard, the next step is just &lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;v&lt;/code&gt; to any application you like. I found this extremely useful especially when I want to send a screenshot.&lt;/p&gt;
-
-&lt;p&gt;Using only left hand to reach 4 keys one time is hard. So I swapped both as in the image below.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;{{ site.url  }}/assets/images/screenshot-swap.jpg&quot; alt=&quot;swapping screenshot shortcuts&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Now, sending a screenshot is easy than ever. &lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;shift&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;4&lt;/code&gt; &amp;gt; switch to your chat client &amp;gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;v&lt;/code&gt;. Done.&lt;/p&gt;
-</content>
-<category term="Apple" />
-<category term="Shortcuts" />
-<category term="Tips" />
-<summary>Swap screenshot shortcuts</summary>
-</entry>
-<entry>
-<title>Why I use Vim</title>
-<link href="http://localhost:3000/why-I-use-vim/" rel="alternate" type="text/html" title="Why I use Vim" />
-<published>2016-03-28T00:00:00-06:00</published>
-<updated>2016-03-28T00:00:00-06:00</updated>
-<id>http://localhost:3000/why-I-use-vim</id>
-<content type="html" xml:base="http://localhost:3000/why-I-use-vim/">&lt;h2 id=&quot;why-i-use-vim&quot;&gt;Why I use Vim&lt;/h2&gt;
-
-&lt;p&gt;&lt;em&gt;We spend so much of our time trying to fit in. One day, it will occur to us life is much more rewarding when choosing the road not taken, a life not patterned after someone else’s, an editor, very few will ever use.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;I like Vim, Tmux and Zsh. It rewards me a lot when I know this is an IDE that only suits me. With motivation like this, I spend a lot of time to config, maintain and perfect my dotfiles. At same time, I found knowing Vim makes coding absolutely productive and amazingly enjoyable. The idea of using Vim with model editing is being &lt;em&gt;lazy&lt;/em&gt;, building a mouse-free work-flow, keeping possibilities under fingertips. I don’t buy the shit when people say that they don’t need it because coding is 90% thinking and 10% writing. I spend 90% of my time fix code rather than writing code. When I want to reach the specific part of a file, I want it to happen as quick as possible. To me, Vim is a state of the art, quickly navigating through lines of code, creatively combining shortcuts, endlessly learning mind blowing tricks, all of these make Vim irresistible.&lt;/p&gt;
-
-&lt;p&gt;Vim has massive shortcuts, there is always a better way of doing the same thing with fewer keystrokes. The intention is clear: keep learning, don’t be contented, find the fastest and most convenient way to make a change. Additionally, Vim brings me creative thinking. I wanted to apply the idea of using &lt;code class=&quot;highlighter-rouge&quot;&gt;hjkl&lt;/code&gt; as &lt;code class=&quot;highlighter-rouge&quot;&gt;arrow&lt;/code&gt; keys in any applications, I found an approach and practised it. It worked out much better than I expected. Soon, I got addicted. So, I wrote both &lt;a href=&quot;{{ site.url }}/osx-shortcuts-you-may-not-know/&quot;&gt;OSX-shortcuts-you-may-not-know&lt;/a&gt; and &lt;a href=&quot;{{ site.url }}/advanced-keymapping/&quot;&gt;advanced-keymapping&lt;/a&gt;, hopefully spreading a little to have others adopt the concept.&lt;/p&gt;
-
-&lt;p&gt;After all, Vim may not necessarily make me a good developer, but definitely makes me a motivated developer.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/yifanchen/dotfiles&quot;&gt;my dotfiles&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;{{ site.url }}/assets/images/vim.jpg&quot; alt=&quot;my Vim&quot; /&gt;&lt;/p&gt;
-
-</content>
-<category term="Vim" />
-<category term="tmux" />
-<category term="zsh" />
-<summary>Why I use Vim</summary>
 </entry>
 </feed>

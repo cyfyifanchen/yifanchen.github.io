@@ -1,6 +1,20 @@
 [
   
     {
+      "title"    : "What is Metal",
+      "tags"     : "apple, metal, technology, and mac gaming",
+      "url"      : "/what-is-metal/",
+      "date"     : "07 May 2016"
+    } ,
+  
+    {
+      "title"    : "关于签证",
+      "tags"     : "visa and H1B",
+      "url"      : "/about-visa/",
+      "date"     : "06 May 2016"
+    } ,
+  
+    {
       "title"    : "Two Weeks of Neovim",
       "tags"     : "vim, Neovim, and thoughts",
       "url"      : "/two-weeks-of-neovim/",
