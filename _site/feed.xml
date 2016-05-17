@@ -3,31 +3,29 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-05-10T13:43:11-07:00</updated>
+<updated>2016-05-17T14:51:54-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
 <entry>
-<title>What is Metal</title>
-<link href="http://localhost:3000/what-is-metal/" rel="alternate" type="text/html" title="What is Metal" />
-<published>2016-05-07T00:00:00-07:00</published>
-<updated>2016-05-07T00:00:00-07:00</updated>
-<id>http://localhost:3000/what-is-metal</id>
-<content type="html" xml:base="http://localhost:3000/what-is-metal/">&lt;h2 id=&quot;what-is-metal&quot;&gt;What is Metal&lt;/h2&gt;
+<title>关于美队3</title>
+<link href="http://localhost:3000/about-captain-america-3/" rel="alternate" type="text/html" title="关于美队3" />
+<published>2016-05-17T00:00:00-06:00</published>
+<updated>2016-05-17T00:00:00-06:00</updated>
+<id>http://localhost:3000/about-captain-america-3</id>
+<content type="html" xml:base="http://localhost:3000/about-captain-america-3/">&lt;h3 id=&quot;section&quot;&gt;关于美队3&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://developer.apple.com/metal/&quot;&gt;Metal&lt;/a&gt; is Apple’s graphic technology, it was originally introduced for iOS 8 at &lt;a href=&quot;https://www.youtube.com/watch?v=w87fOAG8fjk&quot; target=&quot;_blank&quot;&gt;WWDC 2014&lt;/a&gt;. What it does is to reduce layers between GPU and developers directly. Metal’s API creates a much more flexible and simpler environment, which moving developers from working passively to working proactively on any graphic development. Apple claims improvements of performance of Metal’s rendering speed is more than 50%, which is a very impressive result.&lt;/p&gt;
+&lt;p&gt;美队3－内战毫无疑问是美队三部曲里面最好看的一部，每个人物的塑造都异常饱满，选择站边的原因也非常有说服力。很多人在争吵到底哪边是正确的，这些其实都是无力的争议，电影本身已经给了很充足的理由为什么每个人会做出不同的选择，结合每个角色的之前的经历，其实根本没有站边的必要。我本来是带着倾向于铁人一边的心情去看的，看过之后，我无法选择站在哪一边。&lt;/p&gt;
 
 </content>
-<category term="apple" />
-<category term="metal" />
-<category term="technology" />
-<category term="mac gaming" />
-<summary>What is Metal</summary>
+<category term="Captain America" />
+<category term="Film Review" />
+<summary>关于美队3</summary>
 </entry>
 <entry>
 <title>关于签证</title>
 <link href="http://localhost:3000/about-visa/" rel="alternate" type="text/html" title="关于签证" />
-<published>2016-05-06T00:00:00-07:00</published>
-<updated>2016-05-06T00:00:00-07:00</updated>
+<published>2016-05-06T00:00:00-06:00</published>
+<updated>2016-05-06T00:00:00-06:00</updated>
 <id>http://localhost:3000/about-visa</id>
 <content type="html" xml:base="http://localhost:3000/about-visa/">&lt;p&gt;爆宝地段，连刷3年，至少给个灵魂奖励一下。没有关系，拿出激情接着刷，人品爆发的节奏正在靠近。借用《火星救援》里的一句台词：“I’m fucked, but I’m not giving up.”&lt;/p&gt;
 
@@ -39,8 +37,8 @@
 <entry>
 <title>Two Weeks of Neovim</title>
 <link href="http://localhost:3000/two-weeks-of-neovim/" rel="alternate" type="text/html" title="Two Weeks of Neovim" />
-<published>2016-05-02T00:00:00-07:00</published>
-<updated>2016-05-02T00:00:00-07:00</updated>
+<published>2016-05-02T00:00:00-06:00</published>
+<updated>2016-05-02T00:00:00-06:00</updated>
 <id>http://localhost:3000/two-weeks-of-neovim</id>
 <content type="html" xml:base="http://localhost:3000/two-weeks-of-neovim/">&lt;h2 id=&quot;two-weeks-down-for-neovim&quot;&gt;Two weeks down for Neovim&lt;/h2&gt;
 
@@ -59,8 +57,8 @@
 <entry>
 <title>Let’s Talk About the Upcoming MacBook Pro</title>
 <link href="http://localhost:3000/the-new-macbook-pro/" rel="alternate" type="text/html" title="Let&#39;s Talk About the Upcoming MacBook Pro" />
-<published>2016-04-30T00:00:00-07:00</published>
-<updated>2016-04-30T00:00:00-07:00</updated>
+<published>2016-04-30T00:00:00-06:00</published>
+<updated>2016-04-30T00:00:00-06:00</updated>
 <id>http://localhost:3000/the-new-macbook-pro</id>
 <content type="html" xml:base="http://localhost:3000/the-new-macbook-pro/">&lt;h3 id=&quot;lets-talk-about-the-upcoming-macbook-pro&quot;&gt;Let’s talk about the upcoming MacBook Pro&lt;/h3&gt;
 
@@ -96,8 +94,8 @@
 <entry>
 <title>Code Refactoring</title>
 <link href="http://localhost:3000/code-refactoring/" rel="alternate" type="text/html" title="Code Refactoring" />
-<published>2016-04-21T00:00:00-07:00</published>
-<updated>2016-04-21T00:00:00-07:00</updated>
+<published>2016-04-21T00:00:00-06:00</published>
+<updated>2016-04-21T00:00:00-06:00</updated>
 <id>http://localhost:3000/code-refactoring</id>
 <content type="html" xml:base="http://localhost:3000/code-refactoring/">&lt;h2 id=&quot;learn-from-code-refactoring&quot;&gt;Learn From Code Refactoring&lt;/h2&gt;
 
@@ -114,8 +112,8 @@
 <entry>
 <title>First Day of Neovim</title>
 <link href="http://localhost:3000/first-day-of-neovim/" rel="alternate" type="text/html" title="First Day of Neovim" />
-<published>2016-04-14T00:00:00-07:00</published>
-<updated>2016-04-14T00:00:00-07:00</updated>
+<published>2016-04-14T00:00:00-06:00</published>
+<updated>2016-04-14T00:00:00-06:00</updated>
 <id>http://localhost:3000/first-day-of-neovim</id>
 <content type="html" xml:base="http://localhost:3000/first-day-of-neovim/">&lt;h2 id=&quot;first-day-of-using-neovim&quot;&gt;First day of using Neovim&lt;/h2&gt;
 
@@ -151,8 +149,8 @@ Neomake
 <entry>
 <title>Getting linters working in Atom and Vim</title>
 <link href="http://localhost:3000/getting-linters-working-in-atom-and-vim/" rel="alternate" type="text/html" title="Getting linters working in Atom and Vim" />
-<published>2016-04-08T00:00:00-07:00</published>
-<updated>2016-04-08T00:00:00-07:00</updated>
+<published>2016-04-08T00:00:00-06:00</published>
+<updated>2016-04-08T00:00:00-06:00</updated>
 <id>http://localhost:3000/getting-linters-working-in-atom-and-vim</id>
 <content type="html" xml:base="http://localhost:3000/getting-linters-working-in-atom-and-vim/">&lt;h2 id=&quot;getting-linters-working-in-atom-and-vim&quot;&gt;Getting linters working in Atom and Vim&lt;/h2&gt;
 
@@ -218,8 +216,8 @@ let g:syntastic_aggregate_errors = 1
 <entry>
 <title>Using AMP to Build a Blog</title>
 <link href="http://localhost:3000/Using-AMP-Building-Blog/" rel="alternate" type="text/html" title="Using AMP to Build a Blog" />
-<published>2016-04-05T00:00:00-07:00</published>
-<updated>2016-04-05T00:00:00-07:00</updated>
+<published>2016-04-05T00:00:00-06:00</published>
+<updated>2016-04-05T00:00:00-06:00</updated>
 <id>http://localhost:3000/Using-AMP-Building-Blog</id>
 <content type="html" xml:base="http://localhost:3000/Using-AMP-Building-Blog/">&lt;h2 id=&quot;using-amp-to-build-a-blog&quot;&gt;Using AMP to build a blog&lt;/h2&gt;
 
@@ -236,8 +234,8 @@ let g:syntastic_aggregate_errors = 1
 <entry>
 <title>The Value of Code Consistency is Underestimated</title>
 <link href="http://localhost:3000/The-Value-of-Code-Consistency-is-Underesimated/" rel="alternate" type="text/html" title="The Value of Code Consistency is Underestimated" />
-<published>2016-04-03T00:00:00-07:00</published>
-<updated>2016-04-03T00:00:00-07:00</updated>
+<published>2016-04-03T00:00:00-06:00</published>
+<updated>2016-04-03T00:00:00-06:00</updated>
 <id>http://localhost:3000/The-Value-of-Code-Consistency-is-Underesimated</id>
 <content type="html" xml:base="http://localhost:3000/The-Value-of-Code-Consistency-is-Underesimated/">&lt;h3 id=&quot;the-value-of-code-consistency-is-underestimated&quot;&gt;The value of code consistency is underestimated&lt;/h3&gt;
 
@@ -257,8 +255,8 @@ let g:syntastic_aggregate_errors = 1
 <entry>
 <title>他们总是更新我做过的东西</title>
 <link href="http://localhost:3000/why-no-projects/" rel="alternate" type="text/html" title="他们总是更新我做过的东西" />
-<published>2016-03-31T12:39:00-07:00</published>
-<updated>2016-03-31T12:39:00-07:00</updated>
+<published>2016-03-31T12:39:00-06:00</published>
+<updated>2016-03-31T12:39:00-06:00</updated>
 <id>http://localhost:3000/why-no-projects</id>
 <content type="html" xml:base="http://localhost:3000/why-no-projects/">&lt;p&gt;叹气，好坏几年程序员了，至少给我个机会拿点东西出来潇洒一下。那帮混蛋总是更新我做过的东西。又不好意思拿别人改过的东西出来风骚。看来这下得自己花时间搞点小东西出来炫耀炫耀，至少能满足一下这爱耍宝的自尊心了。&lt;/p&gt;
 </content>
