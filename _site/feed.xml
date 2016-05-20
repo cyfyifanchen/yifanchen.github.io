@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-05-19T21:01:41-06:00</updated>
+<updated>2016-05-19T21:15:40-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
 <entry>
@@ -44,7 +44,7 @@
 
 &lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
 
-&lt;p&gt;Google I/O 2016 brought us many surprises, and it also unveiled the roadmap of Google for the next year. Machine Learning and Artificial Intelligence had been leading roles in this conference; both of them are getting more and more irreplaceable for technology to serve people in a perfect way. Like I said, no matter how advanced technology is, the best technology has always been imperceptible and seemingly nonexistent.&lt;/p&gt;
+&lt;p&gt;Google I/O 2016 brought us many surprises, and it also unveiled the roadmap of Google for the next year. Machine Learning and Artificial Intelligence had been leading roles in this conference; both of them are getting more and more irreplaceable for technology to serve people in a perfect way. As I have mentioned, no matter how advanced technology is, the best technology has always been imperceptible and seemingly nonexistent.&lt;/p&gt;
 </content>
 <category term="Google i/o" />
 <category term="Technology" />
@@ -74,23 +74,6 @@
 <updated>2016-05-10T00:00:00-06:00</updated>
 <id>http://localhost:3000/the-future-of-mac-gaming</id>
 <content type="html" xml:base="http://localhost:3000/the-future-of-mac-gaming/">&lt;h3 id=&quot;about-mac-gaming&quot;&gt;About Mac Gaming&lt;/h3&gt;
-
-&lt;p&gt;I was going to talk about Apple’s new graphic technology - Metal in this post. I decided to change topic of the post when I realized Metal was no longer relevant as a new thing.&lt;/p&gt;
-
-&lt;p&gt;So, what is Metal? Metal is Apple’s new graphic technology, it was first introduced at WWDC 2014 for iOS.(alright, it’s not new, it’s been 2 years, that is actually why I changed the topic).&lt;/p&gt;
-
-</content>
-<category term="Mac Gaming" />
-<category term="Technology" />
-<summary>About Mac Gaming</summary>
-</entry>
-<entry>
-<title>Let’s Talk About Mac Gaming</title>
-<link href="http://localhost:3000/about-mac-gaming/" rel="alternate" type="text/html" title="Let&#39;s Talk About Mac Gaming" />
-<published>2016-05-10T00:00:00-06:00</published>
-<updated>2016-05-10T00:00:00-06:00</updated>
-<id>http://localhost:3000/about-mac-gaming</id>
-<content type="html" xml:base="http://localhost:3000/about-mac-gaming/">&lt;h3 id=&quot;about-mac-gaming&quot;&gt;About Mac Gaming&lt;/h3&gt;
 
 &lt;p&gt;I was going to talk about Apple’s new graphic technology - Metal in this post. I decided to change topic of the post when I realized Metal was no longer relevant as a new thing.&lt;/p&gt;
 
@@ -292,5 +275,23 @@ let g:syntastic_aggregate_errors = 1
 <category term="atom" />
 <category term="linters" />
 <summary>Getting linters working in Atom and Vim</summary>
+</entry>
+<entry>
+<title>Using AMP to Build a Blog</title>
+<link href="http://localhost:3000/Using-AMP-Building-Blog/" rel="alternate" type="text/html" title="Using AMP to Build a Blog" />
+<published>2016-04-05T00:00:00-06:00</published>
+<updated>2016-04-05T00:00:00-06:00</updated>
+<id>http://localhost:3000/Using-AMP-Building-Blog</id>
+<content type="html" xml:base="http://localhost:3000/Using-AMP-Building-Blog/">&lt;h2 id=&quot;using-amp-to-build-a-blog&quot;&gt;Using AMP to build a blog&lt;/h2&gt;
+
+&lt;p&gt;AMP is Accelerated Mobile Pages, &lt;em&gt;a open source initiative that embodies the vision that publishers can create mobile optimized content once and have it load instantly everywhere.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I read this today, thinking about taking my blog from Jekyll to AMP. Doing this is not because the improved milliseconds loading speed on my site. It’s all about the spirit of craftsman. Software engineering is like craftsmanship, there isn’t the best way, but always the better way. The intention with perfection makes software better and better.&lt;/p&gt;
+
+</content>
+<category term="thoughts" />
+<category term="team" />
+<category term="design" />
+<summary>Using AMP to build a blog</summary>
 </entry>
 </feed>
