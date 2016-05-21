@@ -12,13 +12,11 @@ star: true
 
 ## Advanced Keymapping
 
-In order to get the most of this post, please read [OSX-shortcuts-you-might-not-know]({{ site.url }}/osx-shortcuts-you-may-not-know/) first. 
+To get the most of this post, please read [OSX-shortcuts-you-might-not-know]({{ site.url }}/osx-shortcuts-you-may-not-know/) first. 
 
 I am going to talk about how and why I map `hjkl` as `arrow` keys. For the mapping to work, you will need to use either of the following tools. 
 
-[Karabiner](https://pqrs.org/osx/karabiner/): The most powerful key mapping tool. Capable of doing all sorts of crazy key mappings. Preferences come in options,
-simply checking option makes configuration even easier. Still unsatisfied? Then make your own `private.xml` and import in. Yes, it is just this amazing. On top of that, 
-it comes with a great customer service.(I got response within 8 hours when I sent emails, not to mention the maintainer is in Japan) Most importantly, it is free.
+[Karabiner](https://pqrs.org/osx/karabiner/): The most powerful key mapping tool. Capable of doing all sorts of crazy key mappings. Preferences come in options, simply checking option makes configuration even easier. Still unsatisfied? Then create your own `private.xml` and import in. 
 
 [BetterTouchTool](https://www.boastr.net/): BTT is well known, almost everyone likes the Snap feature, settings are very intuitive. It is no longer free, however spending few bucks to have it 24/7.
 I am totally down. In this post, I am not going to show how BTT works, it's very easy to figure out.
@@ -67,7 +65,7 @@ Now, you can navigate through lines of code without moving right hand to `arrow`
 
 ##### What if I already mapped `control` + `hjkl` in Vim?
 
-1. I suggest to disable Karabiner when iTerm is running. Why? Because Vim comes with powerful shortcuts, we should learn them.
+1. I suggest disabling Karabiner when iTerm is running. Why? Because Vim comes with powerful shortcuts, we should learn them.
 2. `fn` + `hjkl`
 
 
@@ -79,7 +77,7 @@ Use [Seil](https://pqrs.org/osx/karabiner/seil.html.en) to do it.
 ### Conclusion 
 
 This post is meant to share my key mappings, shortcuts and how I benefit from them, I am sure there are far more than I know.
-With good software, be creative with your own mappings.
+With right software, be creative with your mappings.
 
 # 中文
 
