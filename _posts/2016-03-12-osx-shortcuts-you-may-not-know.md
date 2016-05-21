@@ -14,7 +14,7 @@ star: false
 
 As developers live on keyboards 24/7, we should be aware of any kinds of shortcuts that will benefit productivities.
 
-Between Win and OSX, I arguably think OSX has better combination of shortcuts, with powerful key mapping tools, it is better than ever.
+Between Win and OSX, I arguably think OSX has a better combination of shortcuts, with powerful key mapping tools, it is better than ever.
 
 Read [advanced-keymapping](http://www.cyfyifanchen.com/advanced-keymapping/), and take keymapping to the next level.
 
@@ -34,7 +34,7 @@ Read [advanced-keymapping](http://www.cyfyifanchen.com/advanced-keymapping/), an
 
 `alt` + `shift` + `left` or `right`: select word.
 
-`alt` + `del`: delete entire word, no long need to copy from other places.
+`alt` + `del`: delete the entire word, no long need to copy from other places.
 
 `alt` + `8`: bullet.
 
@@ -44,7 +44,7 @@ Read [advanced-keymapping](http://www.cyfyifanchen.com/advanced-keymapping/), an
 
 `control` + `shift` + `power`: shorter to sleep, longer to shut down.
 
-`cmd` + `~`: cycle through different windows in current application.(one of my favorite shortcuts, doesn't exist in Windows)
+`cmd` + `~`: cycle through different windows in the current application.(one of my favorite OSX shortcuts, doesn't exist in Windows)
 
 `cmd` + `,`: open preference of any application.
 
@@ -54,7 +54,7 @@ Read [advanced-keymapping](http://www.cyfyifanchen.com/advanced-keymapping/), an
 
 `cmd` + `shift` + `w`: close all tabs, but application is still running.
 
-`cmd` + `q`: completely quit application.
+`cmd` + `q`: completely quit the application.
 
 #### Chrome
 
@@ -98,9 +98,9 @@ Read [advanced-keymapping](http://www.cyfyifanchen.com/advanced-keymapping/), an
 
 `control` + `r`: search your command history
 
-`control` + `a`: go to beginning of the line.
+`control` + `a`: go to the beginning of the line.
 
-`control` + `e`: go to end of the line.
+`control` + `e`: go to the end of the line.
 
 `control` + `h`: delete, same as `delete`.
 
@@ -110,9 +110,9 @@ Read [advanced-keymapping](http://www.cyfyifanchen.com/advanced-keymapping/), an
 
 `control` + `l`: clear.
 
-`up` or `down`: previous andn next command.
+`up` or `down`: previous and next command.
 
-`-`: go to previous directory.(very useful)
+`-`: go to the previous directory.(very useful)
 
 # 中文
 

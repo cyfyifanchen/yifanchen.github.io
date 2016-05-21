@@ -3,9 +3,25 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-05-19T21:15:40-06:00</updated>
+<updated>2016-05-21T11:10:24-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
+<entry>
+<title>The Future of Mac Gaming</title>
+<link href="http://localhost:3000/the-future-of-mac-gaming/" rel="alternate" type="text/html" title="The Future of Mac Gaming" />
+<published>2016-05-21T00:00:00-06:00</published>
+<updated>2016-05-21T00:00:00-06:00</updated>
+<id>http://localhost:3000/the-future-of-mac-gaming</id>
+<content type="html" xml:base="http://localhost:3000/the-future-of-mac-gaming/">&lt;h3 id=&quot;mac-gaming-is-coming&quot;&gt;Mac gaming is coming&lt;/h3&gt;
+
+&lt;p&gt;When the day Apple introduce &lt;a href=&quot;https://developer.apple.com/metal/&quot; target=&quot;_blank&quot;&gt;Metal&lt;/a&gt;,&lt;/p&gt;
+
+</content>
+<category term="Mac Gaming" />
+<category term="Technology" />
+<category term="Metal" />
+<summary>Mac gaming is coming</summary>
+</entry>
 <entry>
 <title>Google I/O 2016</title>
 <link href="http://localhost:3000/google-io-2016/" rel="alternate" type="text/html" title="Google I/O 2016" />
@@ -14,7 +30,7 @@
 <id>http://localhost:3000/google-io-2016</id>
 <content type="html" xml:base="http://localhost:3000/google-io-2016/">&lt;h3 id=&quot;google-io&quot;&gt;Google I/O&lt;/h3&gt;
 
-&lt;p&gt;This year’s Google I/O was hosted outdoor at Shoreline Amitheater, Mountain View, California. The weather has been lovely for its annual technology and developer conference. Google indeed introduced lots new products and technologies.&lt;/p&gt;
+&lt;p&gt;This year’s Google I/O was hosted outdoors at Shoreline Amitheater, Mountain View, California. The weather has been lovely for its annual technology and developer conference. Google indeed introduced lots new products and technologies.&lt;/p&gt;
 
 &lt;h4 id=&quot;vr---virtual-reality&quot;&gt;VR - Virtual Reality&lt;/h4&gt;
 
@@ -38,13 +54,13 @@
 
 &lt;p&gt;Google, once again is trying to emulate social media. Both Allo and Duo are making a better messaging experience. Allo is specializing in chat, comparing Facebook Messenger, it offers lots more features. Machine Learning and AI make Allo the smartest chat app ever, image processing and search integration allow users to do things without leaving Allo. Duo, a Facetime competitor, giving a feature called Knock Knock, allows users to see a short video of callers before answering it.&lt;/p&gt;
 
-&lt;h4 id=&quot;android-studio&quot;&gt;Android Studio&lt;/h4&gt;
+&lt;h4 id=&quot;android-studio-20&quot;&gt;Android Studio 2.0&lt;/h4&gt;
 
-&lt;p&gt;Android Studio, a new IDE made for Android development. As you probably know, I like to try different IDEs, I can’t wait to try it.&lt;/p&gt;
+&lt;p&gt;Google intends to build an excellent IDE to replace Eclipse, and the result is Android Studio. Android Studio 2.0 comes with sweet Instant Run features, offers a fast and feature-rich emulator, and robust and flexible build system.&lt;/p&gt;
 
 &lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
 
-&lt;p&gt;Google I/O 2016 brought us many surprises, and it also unveiled the roadmap of Google for the next year. Machine Learning and Artificial Intelligence had been leading roles in this conference; both of them are getting more and more irreplaceable for technology to serve people in a perfect way. As I have mentioned, no matter how advanced technology is, the best technology has always been imperceptible and seemingly nonexistent.&lt;/p&gt;
+&lt;p&gt;Google I/O 2016 brought us many surprises, and it also unveiled the roadmap of Google for the next year. Machine Learning and Artificial Intelligence has been leading roles in this conference; both of them are getting more and more irreplaceable to have technology serving people in a perfect way. As I have mentioned, no matter how advanced technology is, the best technology has always been imperceptible and seemingly nonexistent.&lt;/p&gt;
 </content>
 <category term="Google i/o" />
 <category term="Technology" />
@@ -66,23 +82,6 @@
 <category term="Captain America" />
 <category term="Film Review" />
 <summary>关于美队3</summary>
-</entry>
-<entry>
-<title>The Future of Mac Gaming</title>
-<link href="http://localhost:3000/the-future-of-mac-gaming/" rel="alternate" type="text/html" title="The Future of Mac Gaming" />
-<published>2016-05-10T00:00:00-06:00</published>
-<updated>2016-05-10T00:00:00-06:00</updated>
-<id>http://localhost:3000/the-future-of-mac-gaming</id>
-<content type="html" xml:base="http://localhost:3000/the-future-of-mac-gaming/">&lt;h3 id=&quot;about-mac-gaming&quot;&gt;About Mac Gaming&lt;/h3&gt;
-
-&lt;p&gt;I was going to talk about Apple’s new graphic technology - Metal in this post. I decided to change topic of the post when I realized Metal was no longer relevant as a new thing.&lt;/p&gt;
-
-&lt;p&gt;So, what is Metal? Metal is Apple’s new graphic technology, it was first introduced at WWDC 2014 for iOS.(alright, it’s not new, it’s been 2 years, that is actually why I changed the topic).&lt;/p&gt;
-
-</content>
-<category term="Mac Gaming" />
-<category term="Technology" />
-<summary>About Mac Gaming</summary>
 </entry>
 <entry>
 <title>关于签证</title>
