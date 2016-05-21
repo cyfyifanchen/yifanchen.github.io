@@ -27,7 +27,7 @@ After few hours configing and googling. Amazingly, all the plugins, themes, colo
 
 These plugins all support async processing. Can't wait to ry the result.
 
-Well, I very happy with it. Last step:
+Well, I am very happy with it. Last step:
 
     alias vi="nvim"
 
