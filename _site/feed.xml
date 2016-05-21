@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-05-21T11:10:24-06:00</updated>
+<updated>2016-05-21T13:03:33-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
 <entry>
@@ -52,11 +52,18 @@
 
 &lt;h4 id=&quot;allo-and-duo&quot;&gt;Allo and Duo&lt;/h4&gt;
 
-&lt;p&gt;Google, once again is trying to emulate social media. Both Allo and Duo are making a better messaging experience. Allo is specializing in chat, comparing Facebook Messenger, it offers lots more features. Machine Learning and AI make Allo the smartest chat app ever, image processing and search integration allow users to do things without leaving Allo. Duo, a Facetime competitor, giving a feature called Knock Knock, allows users to see a short video of callers before answering it.&lt;/p&gt;
+&lt;p&gt;Google, once again is trying to emulate social media. Both Allo and Duo are making a better messaging experience. Allo is specializing in chat, comparing Facebook Messenger, it offers lots more features. Machine Learning and AI make Allo the smartest chat app ever, image processing and search integration allow users to do things without leaving Allo. Duo, a Facetime competitor, giving a feature called Knock Knock, allow users to see a short video of callers before answering it.&lt;/p&gt;
 
 &lt;h4 id=&quot;android-studio-20&quot;&gt;Android Studio 2.0&lt;/h4&gt;
 
 &lt;p&gt;Google intends to build an excellent IDE to replace Eclipse, and the result is Android Studio. Android Studio 2.0 comes with sweet Instant Run features, offers a fast and feature-rich emulator, and robust and flexible build system.&lt;/p&gt;
+
+&lt;h4 id=&quot;google-amp&quot;&gt;Google AMP&lt;/h4&gt;
+
+&lt;p&gt;AMP is Accelerated Mobile Pages, &lt;em&gt;a open source initiative that embodies the vision that publishers can create mobile optimized content once and have it load instantly everywhere.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Google claims AMP is going to be the next generation of static page builder, one feature worthy mentioning is the “almost instant rendering”. This could mean that the pursuit of AMP has been pure and straightforward - rendering speed. As in today, mobile device is taking majority of the web traffic, rendering speed is no longer an optimization in the first place, instead, it’s a key factor directly outputs the right technology. And the result of it has always been that the user
+experience a richer content with a incredible rendering speed.&lt;/p&gt;
 
 &lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
 
@@ -104,7 +111,7 @@
 <id>http://localhost:3000/two-weeks-of-neovim</id>
 <content type="html" xml:base="http://localhost:3000/two-weeks-of-neovim/">&lt;h2 id=&quot;two-weeks-down-for-neovim&quot;&gt;Two weeks down for Neovim&lt;/h2&gt;
 
-&lt;p&gt;I wrote a post of switching to &lt;a href=&quot;http://www.cyfyifanchen.com/first-day-of-neovim/&quot; target=&quot;_blank&quot;&gt;Neovim&lt;/a&gt; a couple of weeks ago. Now, I am writing another post confirming it was a wise choice. Unlike others, I haven’t felt buggy at all in my 2 weeks of full time use. In return, the speed of Neovim is the best reward to me.&lt;/p&gt;
+&lt;p&gt;I wrote a post about switching to &lt;a href=&quot;http://www.cyfyifanchen.com/first-day-of-neovim/&quot; target=&quot;_blank&quot;&gt;Neovim&lt;/a&gt; a couple of weeks ago. Now, I am writing another post confirming it was a wise choice. Unlike others, I haven’t felt buggy at all in my two weeks of full time use. In return, the speed of Neovim is the best reward to me.&lt;/p&gt;
 
 &lt;p&gt;For those who are currently struggling speed of MacVim or Gvim, I would strongly suggest you consider switching. Neovim is newer with a lot less lines of code to maintain. For developers who switched, feedbacks are all positive.&lt;/p&gt;
 
@@ -124,29 +131,29 @@
 <id>http://localhost:3000/the-new-macbook-pro</id>
 <content type="html" xml:base="http://localhost:3000/the-new-macbook-pro/">&lt;h3 id=&quot;lets-talk-about-the-upcoming-macbook-pro&quot;&gt;Let’s talk about the upcoming MacBook Pro&lt;/h3&gt;
 
-&lt;p&gt;There are still 2 months left for WWDC 2016. I am getting very impatient. I have been wanting to see the next generation of MacBook Pro since 4 years ago right after its &lt;a href=&quot;https://www.youtube.com/watch?v=904g_jrsryw&quot; target=&quot;_blank&quot;&gt;accouncement&lt;/a&gt; at WWDC 2012. The motive was simple and curious - how could Apple take this machine to the next level? Now, 4 years have passed, the most anticipated laptop of the year is about to be unveiled within 2 months. As a laptop person myself who can’t survive without a laptop, I am excited to see the capability of the new MacBook Pro.&lt;/p&gt;
+&lt;p&gt;There are still two months left for WWDC 2016. I am getting very impatient. I wanted to see the next generation of MacBook Pro since four years ago right after its introduction at WWDC 2012. The motive was straightforward and curious - how could Apple take this machine to the next level? Now, four years have passed, the most anticipated laptop of the year is about to be unveiled within two months. As a laptop person myself who can’t survive without a laptop, I am excited to see the capability of the new MacBook Pro.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Appearance&lt;/strong&gt;: One of the Apple’s strongest area. Despite the performance, the look of Apple’s product has always been elegant. No doubt, the measurement of bezel, size and weight are all going to be smaller, bring portability to another level. The plastic hinge is going to be replaced by a metal hinge just like the &lt;a href=&quot;https://www.youtube.com/watch?v=CrBT6k7RMao&quot; target=&quot;_blank&quot;&gt;MacBook&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Display&lt;/strong&gt;: With retina display on every device(not MBA), there is a possibility Apple might go 4K on MacBook Pro’s display to differentiate it from the rest of MacBook product line.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Battery&lt;/strong&gt;: The new battery technology should be adopted on MacBook Pro as well. Apple introduced a new battery technology when &lt;a href=&quot;https://www.youtube.com/watch?v=CrBT6k7RMao&quot; target=&quot;_blank&quot;&gt;MacBook&lt;/a&gt; was announced last year. Engineers restructure components of entire battery to reshape it to fit inside a compact design. The result of this is a battery that is flexible enough to fit in a thin hardware as well as maintaining it’s capacity.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Battery&lt;/strong&gt;: The new battery technology should be adopted on MacBook Pro as well. Apple introduced a new battery technology when &lt;a href=&quot;https://www.youtube.com/watch?v=CrBT6k7RMao&quot; target=&quot;_blank&quot;&gt;MacBook&lt;/a&gt; was announced last year. Engineers restructure components of the entire battery to reshape it to fit inside a compact design. The result of this is a battery that is flexible enough to fit in a thin hardware as well as maintaining it’s capacity.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Ports&lt;/strong&gt;: It’s the future of laptop. USB Type-C is the future of connection. Seriously, people need to stop complaining the lack of ports. Technology is moving forward, we can’t always stick with a laptop that has freaking 5 USB ports.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Keyboard&lt;/strong&gt;: Lots people don’t like the new butterfly mechanism keyboard, I might be in the same boat. I own a blue switch mechanical keyboard, imagine how hard for me to like a keyboard that has almost zero travel. Hopefully, it doesn’t take long for me to get used to it.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Trackpad&lt;/strong&gt;: Apple’s laptop trackpad has always been pure awesomeness. I have met tons developers prefer an external trackpads rather than a mice. With trackpad, my worflow doesn’t require a mouse at all. The force touch technology of trackpad takes the interaction to a whole new level. As time goes, more and more applications will take advantages of it.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Trackpad&lt;/strong&gt;: Apple’s laptop trackpad has always been pure awesomeness. I have met tons developers prefer external trackpads rather than a mice. With trackpad, my worflow doesn’t need a mouse at all. The force touch technology of trackpad takes the interaction to a whole new level. As time goes, more and more applications will take advantages of it.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Memory&lt;/strong&gt;: Historically, Apple hasn’t been generous to memory at all, which is something developers complain quite often. With memory intense applications like Chrome or Virtual Machine. 32GB is a must have for professionals. I don’t buy Apple’s excuses when they say they care UX more than anything. That’s kinda BS on MacBook Pros because they are made for professionals.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Memory&lt;/strong&gt;: Historically, Apple hasn’t been generous to memory at all, which is something developers complain quite often. With memory intense applications like Chrome or Virtual Machine. 32GB is a must have for professionals. I don’t buy Apple’s excuses when they say they care UX more than anything. That’s BS on MacBook Pros because they made for professionals.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Gaming and Graphics&lt;/strong&gt;: Yes, you can always buy a cheaper Windows machine that runs games better. The truth is that both developers and game makers think Mac Gaming is a joke. With very limited market needs, lack of developers, insufficient recourses made Mac Gaming how it is today. But like it or not, it might not be a joke for long. Apple announced its own graphic technology, &lt;a href=&quot;https://developer.apple.com/metal/&quot; target=&quot;_blank&quot;&gt;Metal&lt;/a&gt;, at WWDC 2014. It has been widely adopted by developers on iOS. The result is amazing. Same time, Apple planned to implement Metal to OSX as well. I can’t say that Mac Gaming will become a phenomenon and potentially replace PC Gaming on day. But, in this tech world, anything is a possibility.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Gaming and Graphics&lt;/strong&gt;: Yes, you can always buy a cheaper Windows machine that runs games better. The truth is that both developers and game makers think Mac Gaming is a joke. With very limited market needs, lack of developers, insufficient recourses made Mac Gaming how it is today. But like it or not, it might not be a joke for long. Apple announced its graphic technology, Metal, at WWDC 2014. Developers have widely adopted it on iOS. The result is fantastic. At the same time, Apple planned to implement Metal to OSX as well. I can’t say that Mac Gaming will become a phenomenon and potentially replace PC Gaming one day. But, in this tech world, anything is a possibility.&lt;/p&gt;
 
 &lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
 
 &lt;p&gt;&lt;em&gt;Our version for personal computing has always been that the most powerful technology should deliver incredible capability without the complexity.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;The boundary of software and hardware is zero to Apple, it is also what driving Apple to make technology extremely powerful and yet intuitively reachable. With its ecosystem, stunning industrial design, and unlimited innovation, I can’t wait to see the new Macbook Pro.&lt;/p&gt;
+&lt;p&gt;The boundary of software and hardware is zero to Apple. It is also what driving Apple to make technology incredibly powerful and yet intuitively reachable. With its ecosystem, stunning industrial design, and unlimited innovation, I can’t wait to see the new Macbook Pro.&lt;/p&gt;
 </content>
 <category term="apple" />
 <category term="macbook pro" />
@@ -197,7 +204,7 @@ Neomake
 
 &lt;p&gt;These plugins all support async processing. Can’t wait to ry the result.&lt;/p&gt;
 
-&lt;p&gt;Well, I very happy with it. Last step:&lt;/p&gt;
+&lt;p&gt;Well, I am very happy with it. Last step:&lt;/p&gt;
 
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;alias vi=&quot;nvim&quot;
 &lt;/code&gt;&lt;/pre&gt;
@@ -276,21 +283,21 @@ let g:syntastic_aggregate_errors = 1
 <summary>Getting linters working in Atom and Vim</summary>
 </entry>
 <entry>
-<title>Using AMP to Build a Blog</title>
-<link href="http://localhost:3000/Using-AMP-Building-Blog/" rel="alternate" type="text/html" title="Using AMP to Build a Blog" />
+<title>Google AMP</title>
+<link href="http://localhost:3000/Using-AMP-Building-Blog/" rel="alternate" type="text/html" title="Google AMP" />
 <published>2016-04-05T00:00:00-06:00</published>
 <updated>2016-04-05T00:00:00-06:00</updated>
 <id>http://localhost:3000/Using-AMP-Building-Blog</id>
-<content type="html" xml:base="http://localhost:3000/Using-AMP-Building-Blog/">&lt;h2 id=&quot;using-amp-to-build-a-blog&quot;&gt;Using AMP to build a blog&lt;/h2&gt;
+<content type="html" xml:base="http://localhost:3000/Using-AMP-Building-Blog/">&lt;h2 id=&quot;google-amp&quot;&gt;Google AMP&lt;/h2&gt;
 
 &lt;p&gt;AMP is Accelerated Mobile Pages, &lt;em&gt;a open source initiative that embodies the vision that publishers can create mobile optimized content once and have it load instantly everywhere.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;I read this today, thinking about taking my blog from Jekyll to AMP. Doing this is not because the improved milliseconds loading speed on my site. It’s all about the spirit of craftsman. Software engineering is like craftsmanship, there isn’t the best way, but always the better way. The intention with perfection makes software better and better.&lt;/p&gt;
-
+&lt;p&gt;Google claims AMP is going to be the next generation of static page builder, one feature worthy mentioning is the “almost instant rendering”. This could mean that the pursuit of AMP has been pure and straightforward - rendering speed. As in today, mobile device is taking majority of the web traffic, rendering speed is no longer an optimization in the first place, instead, it’s a key factor directly outputs the right technology. And the result of it has always been that the user
+experience a richer content with a incredible rendering speed.&lt;/p&gt;
 </content>
 <category term="thoughts" />
 <category term="team" />
 <category term="design" />
-<summary>Using AMP to build a blog</summary>
+<summary>Google AMP</summary>
 </entry>
 </feed>
