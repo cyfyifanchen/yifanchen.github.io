@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-05-21T13:03:33-06:00</updated>
+<updated>2016-05-23T15:57:02-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
 <entry>
@@ -14,7 +14,9 @@
 <id>http://localhost:3000/the-future-of-mac-gaming</id>
 <content type="html" xml:base="http://localhost:3000/the-future-of-mac-gaming/">&lt;h3 id=&quot;mac-gaming-is-coming&quot;&gt;Mac gaming is coming&lt;/h3&gt;
 
-&lt;p&gt;When the day Apple introduce &lt;a href=&quot;https://developer.apple.com/metal/&quot; target=&quot;_blank&quot;&gt;Metal&lt;/a&gt;,&lt;/p&gt;
+&lt;p&gt;If you don’t have a Mac, you may not care about Metal. But, if you do happen to own a Mac, and you like gaming, great you want to read this post.&lt;/p&gt;
+
+&lt;p&gt;Metal is Apple’s graphic technology, it was introduced at WWDC 2014 for iOS.&lt;/p&gt;
 
 </content>
 <category term="Mac Gaming" />
@@ -58,16 +60,16 @@
 
 &lt;p&gt;Google intends to build an excellent IDE to replace Eclipse, and the result is Android Studio. Android Studio 2.0 comes with sweet Instant Run features, offers a fast and feature-rich emulator, and robust and flexible build system.&lt;/p&gt;
 
-&lt;h4 id=&quot;google-amp&quot;&gt;Google AMP&lt;/h4&gt;
+&lt;h4 id=&quot;amp&quot;&gt;AMP&lt;/h4&gt;
 
 &lt;p&gt;AMP is Accelerated Mobile Pages, &lt;em&gt;a open source initiative that embodies the vision that publishers can create mobile optimized content once and have it load instantly everywhere.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Google claims AMP is going to be the next generation of static page builder, one feature worthy mentioning is the “almost instant rendering”. This could mean that the pursuit of AMP has been pure and straightforward - rendering speed. As in today, mobile device is taking majority of the web traffic, rendering speed is no longer an optimization in the first place, instead, it’s a key factor directly outputs the right technology. And the result of it has always been that the user
+&lt;p&gt;Google claims AMP is going to be the next generation of static page builder, one feature worthy mentioning is the “almost instant rendering”. This could mean that the pursuit of AMP has been pure and straightforward - rendering speed. As in today, mobile device is taking majority of the web traffic, rendering speed is no longer an optimization in the first place, instead, it’s a key factor directly outputs the right technology to use. And the result of it has always been that the user
 experience a richer content with a incredible rendering speed.&lt;/p&gt;
 
 &lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
 
-&lt;p&gt;Google I/O 2016 brought us many surprises, and it also unveiled the roadmap of Google for the next year. Machine Learning and Artificial Intelligence has been leading roles in this conference; both of them are getting more and more irreplaceable to have technology serving people in a perfect way. As I have mentioned, no matter how advanced technology is, the best technology has always been imperceptible and seemingly nonexistent.&lt;/p&gt;
+&lt;p&gt;Google I/O 2016 brought us many surprises, and it also unveiled the roadmap of Google for the next year. Machine Learning and Artificial Intelligence have been leading roles in this conference; both of them are getting more and more irreplaceable to have technology serving people in a perfect way. As I have mentioned, no matter how advanced technology is, the best technology has always been imperceptible and seemingly nonexistent.&lt;/p&gt;
 </content>
 <category term="Google i/o" />
 <category term="Technology" />
@@ -292,7 +294,7 @@ let g:syntastic_aggregate_errors = 1
 
 &lt;p&gt;AMP is Accelerated Mobile Pages, &lt;em&gt;a open source initiative that embodies the vision that publishers can create mobile optimized content once and have it load instantly everywhere.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Google claims AMP is going to be the next generation of static page builder, one feature worthy mentioning is the “almost instant rendering”. This could mean that the pursuit of AMP has been pure and straightforward - rendering speed. As in today, mobile device is taking majority of the web traffic, rendering speed is no longer an optimization in the first place, instead, it’s a key factor directly outputs the right technology. And the result of it has always been that the user
+&lt;p&gt;Google claims AMP is going to be the next generation of static page builder, one feature worthy mentioning is the “almost instant rendering”. This could mean that the pursuit of AMP has been pure and straightforward - rendering speed. As in today, mobile device is taking majority of the web traffic, rendering speed is no longer an optimization in the first place, instead, it’s a key factor directly outputs the right technology to use. And the result of it has always been that the user
 experience a richer content with a incredible rendering speed.&lt;/p&gt;
 </content>
 <category term="thoughts" />
