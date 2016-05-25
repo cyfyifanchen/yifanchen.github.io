@@ -5,10 +5,6 @@
 <lastmod>2016-05-21T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:3000/the-future-of-mac-gaming/</loc>
-<lastmod>2016-05-21T00:00:00-06:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:3000/google-io-2016/</loc>
 <lastmod>2016-05-19T00:00:00-06:00</lastmod>
 </url>
@@ -89,5 +85,8 @@
 </url>
 <url>
 <loc>http://localhost:3000/tags/</loc>
+</url>
+<url>
+<loc>http://localhost:3000/blog/2/</loc>
 </url>
 </urlset>

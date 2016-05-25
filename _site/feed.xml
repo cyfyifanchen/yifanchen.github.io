@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-05-23T20:04:04-06:00</updated>
+<updated>2016-05-24T20:31:15-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
 <entry>
@@ -14,60 +14,16 @@
 <id>http://localhost:3000/the-future-of-mac-gaming</id>
 <content type="html" xml:base="http://localhost:3000/the-future-of-mac-gaming/">&lt;h3 id=&quot;mac-gaming-is-coming&quot;&gt;Mac gaming is coming&lt;/h3&gt;
 
-&lt;p&gt;For years, Mac gaming has only been a concept to people. Metal, Apple’s graphic technology, was created to solve that problem. It successed on iOS, but not on OSX yet. it might not be long until the end of the year. We all know OpenGL is a horrible graphic API that is behind badly in technology. Metal was created by Apple to move away from OpenGL. Clearly, the intension of creating Metal is not only about having a another technology under the
-company’s name, 
-name.&lt;/p&gt;
+&lt;p&gt;For years, Mac gaming has only been a concept. With very limited development progress of OpenGL, Apple indeed needs its graphic technology to move away from OpenGL madness. &lt;a href=&quot;https://developer.apple.com/metal/&quot; target=&quot;_blank&quot;&gt;Metal&lt;/a&gt;, Apple’s graphic technology, was created to solve the problem. It reduces layers between graphic card and graphic APIs, providing developers a rich environment to work with. Performance wise, Apple promises that Metal can improve more than 50%. Now, Metal has been adopted widely on iOS for two years, and the result is satisfactory.&lt;/p&gt;
 
-&lt;p&gt;Metal, Apple’s graphic technology, has succeed on iOS, however not on OSX yet. As a gamer, I can’t wait Blizzard developers to make Metal working on all their games. For years, Mac gaming has only been a concept to people, it might not be long until the end of the year. We all know OpenGL is a horrible graphic API that is behind badly in technology. Metal was created by Apple to move away from OpenGL. Clearly, the intension of creating Metal is not only about having a another technology under the
-company’s name, 
-name.&lt;/p&gt;
+&lt;p&gt;At &lt;a href=&quot;https://www.youtube.com/watch?v=_p8AsQhaVKI&quot;&gt;WWDC 2015&lt;/a&gt;, Apple announced that Metal is coming to El Captian. At the same time, Blizzard officially commented that Metal is already working internally on &lt;em&gt;World of Warcraft&lt;/em&gt;. Furthermore, it will be released by the end of the year. On top of this, &lt;em&gt;Starcraft 2&lt;/em&gt; and &lt;em&gt;Heros of the storm&lt;/em&gt; are expected to follow shortly after.&lt;/p&gt;
 
-&lt;p&gt;DirectX only works with Microsoft due to licence reason.&lt;/p&gt;
+&lt;p&gt;Metal, as a graphic API may not be able to revolutionize gaming on OSX. However, it cuts off the gap between Mac gaming and PC gaming. Experiencing the same or better gaming experience on Mac just as on PC is not far anymore.&lt;/p&gt;
 
-&lt;p&gt;Vulkan is a newer graphic API that has gained lots attention in the community, Google has adopted it for its virtual reality platform.&lt;/p&gt;
+&lt;p&gt;Reference:&lt;/p&gt;
 
-&lt;h3 id=&quot;what-are-the-graphic-apis-out-there&quot;&gt;What are the graphic APIs out there&lt;/h3&gt;
-
-&lt;p&gt;DirectX
-OpenGl
-###&lt;/p&gt;
-
-&lt;p&gt;Blizzard has officially &lt;a href=&quot;http://www.tentonhammer.com/articles/metal-coming-to-blizzard-games&quot; target=&quot;_blank&quot;&gt;commented&lt;/a&gt; that the support of Metal is coming. Even better, developers has already made Metal working internally on &lt;em&gt;World of Warcraft&lt;/em&gt;. It should be released to public by the end of the year. On top of this, &lt;em&gt;StarCraft 2&lt;/em&gt; and &lt;em&gt;Heros of storm&lt;/em&gt; are coming after that.&lt;/p&gt;
-
-</content>
-<category term="Mac Gaming" />
-<category term="Technology" />
-<category term="Metal" />
-<summary>Mac gaming is coming</summary>
-</entry>
-<entry>
-<title>The Future of Mac Gaming</title>
-<link href="http://localhost:3000/the-future-of-mac-gaming/" rel="alternate" type="text/html" title="The Future of Mac Gaming" />
-<published>2016-05-21T00:00:00-06:00</published>
-<updated>2016-05-21T00:00:00-06:00</updated>
-<id>http://localhost:3000/the-future-of-mac-gaming</id>
-<content type="html" xml:base="http://localhost:3000/the-future-of-mac-gaming/">&lt;h3 id=&quot;mac-gaming-is-coming&quot;&gt;Mac gaming is coming&lt;/h3&gt;
-
-&lt;p&gt;For a long time, Mac gaming has only been a concept to people. Metal, Apple’s graphic technology, was created to solve the problem. It was introduced at WWDC 2014 for iOS, then succeed on iOS, but not on OSX yet. it might not be long until the end of the year. We all know OpenGL is a horrible graphic API that is behind badly in technology. Metal was created by Apple to move away from OpenGL. Clearly, the intension of creating Metal is not only about having a another technology under the
-company’s name, 
-name.&lt;/p&gt;
-
-&lt;p&gt;Metal, Apple’s graphic technology, has succeed on iOS, however not on OSX yet. As a gamer, I can’t wait Blizzard developers to make Metal working on all their games. For years, Mac gaming has only been a concept to people, it might not be long until the end of the year. We all know OpenGL is a horrible graphic API that is behind badly in technology. Metal was created by Apple to move away from OpenGL. Clearly, the intension of creating Metal is not only about having a another technology under the
-company’s name, 
-name.&lt;/p&gt;
-
-&lt;p&gt;DirectX only works with Microsoft due to licence reason.&lt;/p&gt;
-
-&lt;p&gt;Vulkan is a newer graphic API that has gained lots attention in the community, Google has adopted it for its virtual reality platform.&lt;/p&gt;
-
-&lt;h3 id=&quot;what-are-the-graphic-apis-out-there&quot;&gt;What are the graphic APIs out there&lt;/h3&gt;
-
-&lt;p&gt;DirectX
-OpenGl
-###&lt;/p&gt;
-
-&lt;p&gt;Blizzard has officially &lt;a href=&quot;http://www.tentonhammer.com/articles/metal-coming-to-blizzard-games&quot; target=&quot;_blank&quot;&gt;commented&lt;/a&gt; that the support of Metal is coming. Even better, developers has already made Metal working internally on &lt;em&gt;World of Warcraft&lt;/em&gt;. It should be released to public by the end of the year. On top of this, &lt;em&gt;StarCraft 2&lt;/em&gt; and &lt;em&gt;Heros of storm&lt;/em&gt; are coming after that.&lt;/p&gt;
-
+&lt;p&gt;Here is a pretty good article I found, it talks about graphic APIs in depth:
+&lt;a href=&quot;http://www.insidemacgames.com/forum/index.php?showtopic=47801&quot; target=&quot;_blnak&quot;&gt;OS X Graphics API’s: OpenGL vs Metal vs Vulkan&lt;/a&gt;&lt;/p&gt;
 </content>
 <category term="Mac Gaming" />
 <category term="Technology" />
@@ -333,5 +289,23 @@ let g:syntastic_aggregate_errors = 1
 <category term="atom" />
 <category term="linters" />
 <summary>Getting linters working in Atom and Vim</summary>
+</entry>
+<entry>
+<title>Google AMP</title>
+<link href="http://localhost:3000/Using-AMP-Building-Blog/" rel="alternate" type="text/html" title="Google AMP" />
+<published>2016-04-05T00:00:00-06:00</published>
+<updated>2016-04-05T00:00:00-06:00</updated>
+<id>http://localhost:3000/Using-AMP-Building-Blog</id>
+<content type="html" xml:base="http://localhost:3000/Using-AMP-Building-Blog/">&lt;h2 id=&quot;google-amp&quot;&gt;Google AMP&lt;/h2&gt;
+
+&lt;p&gt;AMP is Accelerated Mobile Pages, &lt;em&gt;a open source initiative that embodies the vision that publishers can create mobile optimized content once and have it load instantly everywhere.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Google claims AMP is going to be the next generation of static page builder, one feature worthy mentioning is the “almost instant rendering”. This could mean that the pursuit of AMP has been pure and straightforward - rendering speed. As in today, mobile device is taking majority of the web traffic, rendering speed is no longer an optimization in the first place, instead, it’s a key factor directly outputs the right technology to use. And the result of it has always been that the user
+experience a richer content with a incredible rendering speed.&lt;/p&gt;
+</content>
+<category term="thoughts" />
+<category term="team" />
+<category term="design" />
+<summary>Google AMP</summary>
 </entry>
 </feed>
