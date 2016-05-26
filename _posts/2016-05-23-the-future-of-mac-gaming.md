@@ -16,9 +16,8 @@ For years, Mac gaming has only been a concept. With very limited development pro
 
 At <a href="https://www.youtube.com/watch?v=_p8AsQhaVKI">WWDC 2015</a>, Apple announced that Metal is coming to El Captian. At the same time, Blizzard officially commented that Metal is already working internally on *World of Warcraft*. Furthermore, it will be released by the end of the year. On top of this, *Starcraft 2* and *Heros of the storm* are expected to follow shortly after.
 
-Metal, as a graphic API may not be able to revolutionize gaming on OSX. However, it cuts off the gap between Mac gaming and PC gaming. Experiencing the same or better gaming experience on Mac just as on PC is not far anymore.
+Metal, as a graphic API may not be able to revolutionize gaming on OSX. However, it cuts off the gap between Mac gaming and PC gaming significantly. Experiencing the same or better gaming experience on Mac just as on PC is not far anymore.
 
-Reference: 
 
-Here is a pretty good article I found, it talks about graphic APIs in depth:
+Reference: Here is a pretty good article I found, it talks about graphic APIs in depth:
 <a href="http://www.insidemacgames.com/forum/index.php?showtopic=47801" target="_blnak">OS X Graphics API's: OpenGL vs Metal vs Vulkan</a>

@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-05-24T20:31:15-06:00</updated>
+<updated>2016-05-26T15:02:41-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
 <entry>
@@ -18,11 +18,9 @@
 
 &lt;p&gt;At &lt;a href=&quot;https://www.youtube.com/watch?v=_p8AsQhaVKI&quot;&gt;WWDC 2015&lt;/a&gt;, Apple announced that Metal is coming to El Captian. At the same time, Blizzard officially commented that Metal is already working internally on &lt;em&gt;World of Warcraft&lt;/em&gt;. Furthermore, it will be released by the end of the year. On top of this, &lt;em&gt;Starcraft 2&lt;/em&gt; and &lt;em&gt;Heros of the storm&lt;/em&gt; are expected to follow shortly after.&lt;/p&gt;
 
-&lt;p&gt;Metal, as a graphic API may not be able to revolutionize gaming on OSX. However, it cuts off the gap between Mac gaming and PC gaming. Experiencing the same or better gaming experience on Mac just as on PC is not far anymore.&lt;/p&gt;
+&lt;p&gt;Metal, as a graphic API may not be able to revolutionize gaming on OSX. However, it cuts off the gap between Mac gaming and PC gaming significantly. Experiencing the same or better gaming experience on Mac just as on PC is not far anymore.&lt;/p&gt;
 
-&lt;p&gt;Reference:&lt;/p&gt;
-
-&lt;p&gt;Here is a pretty good article I found, it talks about graphic APIs in depth:
+&lt;p&gt;Reference:Here is a pretty good article I found, it talks about graphic APIs in depth:
 &lt;a href=&quot;http://www.insidemacgames.com/forum/index.php?showtopic=47801&quot; target=&quot;_blnak&quot;&gt;OS X Graphics API’s: OpenGL vs Metal vs Vulkan&lt;/a&gt;&lt;/p&gt;
 </content>
 <category term="Mac Gaming" />
