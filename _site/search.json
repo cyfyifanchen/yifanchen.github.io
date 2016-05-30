@@ -1,6 +1,13 @@
 [
   
     {
+      "title"    : "The Silly Side Projects",
+      "tags"     : "code",
+      "url"      : "/silly-side-projects/",
+      "date"     : "26 May 2016"
+    } ,
+  
+    {
       "title"    : "The Future of Mac Gaming",
       "tags"     : "Mac Gaming, Technology, and Metal",
       "url"      : "/the-future-of-mac-gaming/",
