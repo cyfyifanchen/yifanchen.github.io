@@ -1,6 +1,13 @@
 [
   
     {
+      "title"    : "机器学习，人工智能， 虚拟现实",
+      "tags"     : "machine learning and AI",
+      "url"      : "/machine-learning-and-ai/",
+      "date"     : "02 Jun 2016"
+    } ,
+  
+    {
       "title"    : "Starting ML",
       "tags"     : "Projects and Machine Learning",
       "url"      : "/Machine-Learning/",
