@@ -1,7 +1,7 @@
 [
   
     {
-      "title"    : "Starting Machine Learning",
+      "title"    : "Starting ML",
       "tags"     : "Projects and Machine Learning",
       "url"      : "/Machine-Learning/",
       "date"     : "01 Jun 2016"
@@ -9,7 +9,7 @@
   
     {
       "title"    : "The Silly Side Projects",
-      "tags"     : "code and thoughts",
+      "tags"     : "code, thoughts, and side projects",
       "url"      : "/silly-side-projects/",
       "date"     : "26 May 2016"
     } ,
