@@ -15,4 +15,4 @@ I never liked doing side projects for some reasons. It's quite odd, as a develop
 
 <a href="https://en.wikipedia.org/wiki/Overjustification_effect" target="_blank">Overjustification effect</a>, meaning *an expected external incentive such as money or prizes decreases a person's intrinsic motivation to perform a task*. It is the exact reason why I don't like side projects.
 
-So, I started some unpaid side projects. These projects are simple and silly. The result of it is, I have been very motivated to do them, and I have learned a lot by doing them.
+So, I started some unpaid side projects. These projects are simple and silly. The result of it is, I have been very motivated to do them, and I have learned a lot by doing so.
