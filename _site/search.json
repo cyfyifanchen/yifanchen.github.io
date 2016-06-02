@@ -1,6 +1,13 @@
 [
   
     {
+      "title"    : "Starting Machine Learning",
+      "tags"     : "Projects and Machine Learning",
+      "url"      : "/Machine-Learning/",
+      "date"     : "01 Jun 2016"
+    } ,
+  
+    {
       "title"    : "The Silly Side Projects",
       "tags"     : "code and thoughts",
       "url"      : "/silly-side-projects/",
@@ -82,13 +89,6 @@
       "tags"     : "thoughts, team, and design",
       "url"      : "/The-Value-of-Code-Consistency-is-Underesimated/",
       "date"     : "03 Apr 2016"
-    } ,
-  
-    {
-      "title"    : "他们总是更新我做过的东西",
-      "tags"     : "Projects and Why-No-Projects",
-      "url"      : "/why-no-projects/",
-      "date"     : "31 Mar 2016"
     } ,
   
     {
