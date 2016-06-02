@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-05-26T15:43:45-06:00</updated>
+<updated>2016-06-01T18:48:57-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
 <entry>
@@ -14,8 +14,14 @@
 <id>http://localhost:3000/silly-side-projects</id>
 <content type="html" xml:base="http://localhost:3000/silly-side-projects/">&lt;h3 id=&quot;the-silly-side-projects&quot;&gt;The silly side projects&lt;/h3&gt;
 
+&lt;p&gt;I never liked doing side projects for some reasons. It’s quite odd, as a developer, it bugs me because I don’t want to admit that I am not motivated enough to learn new things by doing side projects. At the same time, I know better than anyone that doing side projects is one of the most efficient ways to get better. All of my friends have been showing me their sweet paid side projects and the learning progress they have made. However, no matter how appealing the price is, I am just not motivated to do it. I was curious why for a long time until I read the term - overjustification effect.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Overjustification_effect&quot; target=&quot;_blank&quot;&gt;Overjustification effect&lt;/a&gt;, meaning &lt;em&gt;an expected external incentive such as money or prizes decreases a person’s intrinsic motivation to perform a task&lt;/em&gt;. It is the exact reason why I don’t like side projects.&lt;/p&gt;
+
+&lt;p&gt;So, I started some unpaid side projects. These projects are simple and silly. The result of it is, I have been very motivated to do them, and I have learned a lot by doing them.&lt;/p&gt;
 </content>
 <category term="code" />
+<category term="thoughts" />
 <summary>The silly side projects</summary>
 </entry>
 <entry>
