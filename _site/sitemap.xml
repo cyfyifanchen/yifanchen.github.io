@@ -94,7 +94,4 @@
 <url>
 <loc>http://localhost:3000/tags/</loc>
 </url>
-<url>
-<loc>http://localhost:3000/blog/2/</loc>
-</url>
 </urlset>
