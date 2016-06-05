@@ -3,9 +3,21 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-06-05T10:12:23-06:00</updated>
+<updated>2016-06-05T12:13:29-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
+<entry>
+<title>论性格的重要性</title>
+<link href="http://localhost:3000/extrovert-personality/" rel="alternate" type="text/html" title="论性格的重要性" />
+<published>2016-06-05T00:00:00-06:00</published>
+<updated>2016-06-05T00:00:00-06:00</updated>
+<id>http://localhost:3000/extrovert-personality</id>
+<content type="html" xml:base="http://localhost:3000/extrovert-personality/">&lt;p&gt;上次看罗永浩和鲁豫的访谈有感罗永浩的很多观点很好。&lt;/p&gt;
+</content>
+<category term="personality" />
+<category term="thought" />
+<summary>上次看罗永浩和鲁豫的访谈有感罗永浩的很多观点很好。</summary>
+</entry>
 <entry>
 <title>机器学习 • 人工智能 • 虚拟现实</title>
 <link href="http://localhost:3000/machine-learning-and-ai/" rel="alternate" type="text/html" title="机器学习 • 人工智能 • 虚拟现实" />
@@ -24,7 +36,9 @@
 
 &lt;p&gt;当然，我们不能带有悲观的态度看问题，这样科技就不会进步了。一个不恰当的例子就是，如同汽车带来便利的同时，也有相当大的危险性。主要问题是需要一个相当完善并且持续更新的体系来预防可能发生一切。&lt;/p&gt;
 
-&lt;p&gt;还在写…&lt;/p&gt;
+&lt;p&gt;如果往今后几年看的话，很明显，大量机器学习和人工智能相关的工作会出现。最先出现的就是各种人工智能的助手， 语音是首打。这些助手会通过用户的资料和使用习惯来学习用户的日常所需，一点一点的变聪明，一点一点变好用，从而替代生活中的琐事。简单预测，将来语音助手会像手机一样和我们的生活密不可分。语音助手成熟之后，同步翻译还会远吗？&lt;/p&gt;
+
+&lt;p&gt;在不久的将来，大批的简单单一的工作会被人工智能取代，好处是高效率以及小于人类万分之一的犯错几率。人类的工作重心则会移到更加人性话的一面，比如，服务，设计，情感等方面的工作。不用担心就业不足的问题，随着时代改变应运而生的这个时代所需的新工作机会。然而，时代推动的则是科技的改变。最后，套用一句诺基亚的广告词“，科技，以人为本”。&lt;/p&gt;
 </content>
 <category term="machine learning" />
 <category term="AI" />
@@ -222,23 +236,5 @@ experience a richer content with a incredible rendering speed.&lt;/p&gt;
 <category term="macbook pro" />
 <category term="technology" />
 <summary>Let’s talk about the upcoming MacBook Pro</summary>
-</entry>
-<entry>
-<title>Code Refactoring</title>
-<link href="http://localhost:3000/code-refactoring/" rel="alternate" type="text/html" title="Code Refactoring" />
-<published>2016-04-21T00:00:00-06:00</published>
-<updated>2016-04-21T00:00:00-06:00</updated>
-<id>http://localhost:3000/code-refactoring</id>
-<content type="html" xml:base="http://localhost:3000/code-refactoring/">&lt;h2 id=&quot;learn-from-code-refactoring&quot;&gt;Learn From Code Refactoring&lt;/h2&gt;
-
-&lt;p&gt;I spent a few hours refactoring the code on a simple page the other day. It then occured to me, a new way of learning. As I was going through each line of the code, I started thinking, can this line of code be written in a better way? To be able to do this, I needed to define the better way first. In general, there is no correct answer of writing code in a better or correct way. It comes down to the team effort.&lt;/p&gt;
-
-&lt;p&gt;First of all, following the best practices and code consistency of the team. Second, think and google a lot. Third, read through the documentation again(I found this to be extremely helpful). In reality, as developers, we aren’t granted enough time to think before we write. Code refactoring is an amazing chance to pick up that thought.&lt;/p&gt;
-
-&lt;p&gt;Treating code refactoring as a new way to learn, a new way to discover. A way of getting out of your comfort zone and trying to code from different aspects. This is a great way to get better, more importantly, you will also enjoy code refactoring.&lt;/p&gt;
-</content>
-<category term="code" />
-<category term="thoughts" />
-<summary>Learn From Code Refactoring</summary>
 </entry>
 </feed>
