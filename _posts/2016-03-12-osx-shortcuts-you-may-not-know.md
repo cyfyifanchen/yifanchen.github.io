@@ -1,9 +1,9 @@
 ---
 title: "OSX Shortcuts You Might Not know"
 layout: post
-date: 2016-03-15 
+date: 2016-03-15
 tag:
-- shortcuts 
+- shortcuts
 - keymapping
 - OSX
 blog: true
@@ -39,6 +39,14 @@ Read [advanced-keymapping](http://www.cyfyifanchen.com/advanced-keymapping/), an
 `alt` + `8`: bullet.
 
 `alt` + `shift` + `k`: 
+
+`ctrl` + `a`: go to beginning of url bar.
+
+`ctrl` + `e`: go to end of url bar.
+
+`ctrl` + `n`: arrow down.
+
+`ctrl` + `p`: arrow up.
 
 #### System
 
