@@ -3,9 +3,26 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-06-10T17:13:32-06:00</updated>
+<updated>2016-06-14T12:29:04-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
+<entry>
+<title>WWDC 2016</title>
+<link href="http://localhost:3000/WWDC-2016/" rel="alternate" type="text/html" title="WWDC 2016" />
+<published>2016-06-14T00:00:00-06:00</published>
+<updated>2016-06-14T00:00:00-06:00</updated>
+<id>http://localhost:3000/WWDC-2016</id>
+<content type="html" xml:base="http://localhost:3000/WWDC-2016/">&lt;p&gt;There are too many articles are talking about what you need to know from yesterday’s Keynote. I am not going to summarize it again. I admitted that I wanted a new MBP more than anything. Believe me, I impatiently waited for the whole time for Tim Cook to say &lt;em&gt;One More Thing&lt;/em&gt;, god damn it, it didn’t happen. With a mindset like that, I still liked Keynote, because it meant a brand new chapter to both consumers and developers.&lt;/p&gt;
+
+&lt;p&gt;Apple indeed comprised its ego, opened SDKs of its key applications to developers on four platforms. It grants advanced authorities to developers to build applications in a much more flexible way. In another word, Apple no longer asks developers to create what Apple wants. Instead, developers can be a lot more creative with what they want and what people wants. With the significant upcoming changes on iOS 10, apparently, Apple compromises to a fact of what people wants. It’s opposed to Jobs’ famous quote &lt;em&gt;A lot of times, people don’t know what they want until you show it to them&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Therefore, I liked the Keynote. I am excited to see how Apple’s products will turn out after its compromise.&lt;/p&gt;
+
+</content>
+<category term="wwdc 2016" />
+<category term="Technology" />
+<summary>There are too many articles are talking about what you need to know from yesterday’s Keynote. I am not going to summarize it again. I admitted that I wanted a new MBP more than anything. Believe me, I impatiently waited for the whole time for Tim Cook to say One More Thing, god damn it, it didn’t happen. With a mindset like that, I still liked Keynote, because it meant a brand new chapter to both consumers and developers.</summary>
+</entry>
 <entry>
 <title>论性格的重要性</title>
 <link href="http://localhost:3000/extrovert-personality/" rel="alternate" type="text/html" title="论性格的重要性" />
@@ -205,42 +222,5 @@ experience a richer content with a incredible rendering speed.&lt;/p&gt;
 <category term="Neovim" />
 <category term="thoughts" />
 <summary>Two weeks down for Neovim</summary>
-</entry>
-<entry>
-<title>Let’s Talk About the Upcoming MacBook Pro</title>
-<link href="http://localhost:3000/the-new-macbook-pro/" rel="alternate" type="text/html" title="Let&#39;s Talk About the Upcoming MacBook Pro" />
-<published>2016-04-30T00:00:00-06:00</published>
-<updated>2016-04-30T00:00:00-06:00</updated>
-<id>http://localhost:3000/the-new-macbook-pro</id>
-<content type="html" xml:base="http://localhost:3000/the-new-macbook-pro/">&lt;h3 id=&quot;lets-talk-about-the-upcoming-macbook-pro&quot;&gt;Let’s talk about the upcoming MacBook Pro&lt;/h3&gt;
-
-&lt;p&gt;There are still two months left for WWDC 2016. I am getting very impatient. I wanted to see the next generation of MacBook Pro since four years ago right after its introduction at WWDC 2012. The motive was straightforward and curious - how could Apple take this machine to the next level? Now, four years have passed, the most anticipated laptop of the year is about to be unveiled within two months. As a laptop person myself who can’t survive without a laptop, I am excited to see the capability of the new MacBook Pro.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Appearance&lt;/strong&gt;: One of the Apple’s strongest area. Despite the performance, the look of Apple’s product has always been elegant. No doubt, the measurement of bezel, size and weight are all going to be smaller, bring portability to another level. The plastic hinge is going to be replaced by a metal hinge just like the &lt;a href=&quot;https://www.youtube.com/watch?v=CrBT6k7RMao&quot; target=&quot;_blank&quot;&gt;MacBook&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Display&lt;/strong&gt;: With retina display on every device(not MBA), there is a possibility Apple might go 4K on MacBook Pro’s display to differentiate it from the rest of MacBook product line.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Battery&lt;/strong&gt;: The new battery technology should be adopted on MacBook Pro as well. Apple introduced a new battery technology when &lt;a href=&quot;https://www.youtube.com/watch?v=CrBT6k7RMao&quot; target=&quot;_blank&quot;&gt;MacBook&lt;/a&gt; was announced last year. Engineers restructure components of the entire battery to reshape it to fit inside a compact design. The result of this is a battery that is flexible enough to fit in a thin hardware as well as maintaining it’s capacity.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Ports&lt;/strong&gt;: It’s the future of laptop. USB Type-C is the future of connection. Seriously, people need to stop complaining the lack of ports. Technology is moving forward, we can’t always stick with a laptop that has freaking 5 USB ports.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Keyboard&lt;/strong&gt;: Lots people don’t like the new butterfly mechanism keyboard, I might be in the same boat. I own a blue switch mechanical keyboard, imagine how hard for me to like a keyboard that has almost zero travel. Hopefully, it doesn’t take long for me to get used to it.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Trackpad&lt;/strong&gt;: Apple’s laptop trackpad has always been pure awesomeness. I have met tons developers prefer external trackpads rather than a mice. With trackpad, my worflow doesn’t need a mouse at all. The force touch technology of trackpad takes the interaction to a whole new level. As time goes, more and more applications will take advantages of it.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Memory&lt;/strong&gt;: Historically, Apple hasn’t been generous to memory at all, which is something developers complain quite often. With memory intense applications like Chrome or Virtual Machine. 32GB is a must have for professionals. I don’t buy Apple’s excuses when they say they care UX more than anything. That’s BS on MacBook Pros because they made for professionals.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Gaming and Graphics&lt;/strong&gt;: Yes, you can always buy a cheaper Windows machine that runs games better. The truth is that both developers and game makers think Mac Gaming is a joke. With very limited market needs, lack of developers, insufficient recourses made Mac Gaming how it is today. But like it or not, it might not be a joke for long. Apple announced its graphic technology, Metal, at WWDC 2014. Developers have widely adopted it on iOS. The result is fantastic. At the same time, Apple planned to implement Metal to OSX as well. I can’t say that Mac Gaming will become a phenomenon and potentially replace PC Gaming one day. But, in this tech world, anything is a possibility.&lt;/p&gt;
-
-&lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;Our version for personal computing has always been that the most powerful technology should deliver incredible capability without the complexity.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;The boundary of software and hardware is zero to Apple. It is also what driving Apple to make technology incredibly powerful and yet intuitively reachable. With its ecosystem, stunning industrial design, and unlimited innovation, I can’t wait to see the new Macbook Pro.&lt;/p&gt;
-</content>
-<category term="apple" />
-<category term="macbook pro" />
-<category term="technology" />
-<summary>Let’s talk about the upcoming MacBook Pro</summary>
 </entry>
 </feed>
