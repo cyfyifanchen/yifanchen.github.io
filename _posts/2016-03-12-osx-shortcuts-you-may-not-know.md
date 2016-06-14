@@ -40,6 +40,8 @@ Read [advanced-keymapping](http://www.cyfyifanchen.com/advanced-keymapping/), an
 
 `alt` + `shift` + `k`: 
 
+My co-worker Jeff told me the following shorcuts, they work similarly as `arrow` keys, but not exactly because most application don't optimize them. Try them out, you might be surprised.
+
 `ctrl` + `a`: go to beginning of url bar.
 
 `ctrl` + `e`: go to end of url bar.
