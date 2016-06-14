@@ -40,15 +40,15 @@ Read [advanced-keymapping](http://www.cyfyifanchen.com/advanced-keymapping/), an
 
 `alt` + `shift` + `k`: 
 
-My co-worker Jeff told me the following shorcuts, they work similarly as `arrow` keys, but not exactly because most application don't optimize them. Try them out, you might be surprised.
+My co-worker Jeff told me the following shortcuts, they work similarly as `arrow` keys when editing, but not exactly the same when not editing. I think it is working because arguably macOS took some concept from Unix, so these shortcuts were inherited. Not working because it's being used very rarely, and Apple hasn't optimized them on macOS.
 
-`ctrl` + `a`: go to beginning of url bar.
+`ctrl` + `a`: go to beginning of the line when editing.
 
-`ctrl` + `e`: go to end of url bar.
+`ctrl` + `e`: go to end of the line when editing.
 
-`ctrl` + `n`: arrow down.
+`ctrl` + `n`: go up when editing, i.e. selecting in intellisense.
 
-`ctrl` + `p`: arrow up.
+`ctrl` + `p`: go down when editing, i.e. selecting in intellisense.
 
 #### System
 
