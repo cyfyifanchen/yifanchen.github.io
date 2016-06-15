@@ -12,11 +12,11 @@ star: true
 
 ## Advanced Keymapping
 
-To get the most of this post, please read <a href=" {{ site.url }}/macos-shorcuts">macOS Shortcuts Collection</a>first. 
+To get the most of this post, please read <a href=" {{ site.url }}/macos-shortcuts">macOS Shortcuts Collection</a> first.
 
-I am going to talk about how and why I map `hjkl` as `arrow` keys. For the mapping to work, you will need to use either of the following tools. 
+I am going to talk about how and why I map `hjkl` as `arrow` keys. For the mapping to work, you will need to use either of the following tools.
 
-[Karabiner](https://pqrs.org/osx/karabiner/): The most powerful key mapping tool. Capable of doing all sorts of crazy key mappings. Preferences come in options, simply checking option makes configuration even easier. Still unsatisfied? Then create your own `private.xml` and import in. 
+[Karabiner](https://pqrs.org/osx/karabiner/): The most powerful key mapping tool. Capable of doing all sorts of crazy key mappings. Preferences come in options, simply checking option makes configuration even easier. Still unsatisfied? Then create your own `private.xml` and import in.
 
 [BetterTouchTool](https://www.boastr.net/): BTT is well known, almost everyone likes the Snap feature, settings are very intuitive. It is no longer free, however spending few bucks to have it 24/7.
 I am totally down. In this post, I am not going to show how BTT works, it's very easy to figure out.
@@ -30,13 +30,13 @@ which could be annoying. Luckily, Karabiner fixes this problem.
 
 ### About HJKL
 
-I started to use Vim last year. I absolutely like model editing and the idea of mouse-less. `hjkl` is one of the most beautiful inventions in Vim. 
+I started to use Vim last year. I absolutely like model editing and the idea of mouse-less. `hjkl` is one of the most beautiful inventions in Vim.
 I wanted to apply the idea to the entire system. It turned out better than I thought. Now I use it for everything, checking out emails in Mail, browsing files in Finder,
-going through lists in Slack, etc. 
+going through lists in Slack, etc.
 
 The screen shot is my setting. You are welcome to play with it, map any way you like. I am going to use my mapping as an example.
 
-![Karabiner key mapping]({{ site.url }}/assets/images/karabiner-setting.jpg) 
+![Karabiner key mapping]({{ site.url }}/assets/images/karabiner-setting.jpg)
 
 After you map it the way like I do, the beautiful part happens:
 
@@ -56,7 +56,7 @@ After you map it the way like I do, the beautiful part happens:
 
 ##### Example of adding a parameter to an url with both hands on row 2 of keyboard
 
-1. `cmd` + `l` 
+1. `cmd` + `l`
 2. `control` + `l`
 3. type the parameter.
 
@@ -74,7 +74,7 @@ Now, you can navigate through lines of code without moving right hand to `arrow`
 Instead of mapping `caps lock` to `control` permanently, why don't just map it only when `caps lock` is holding down with other keys?
 Use [Seil](https://pqrs.org/osx/karabiner/seil.html.en) to do it.
 
-### Conclusion 
+### Conclusion
 
 This post is meant to share my key mappings, shortcuts and how I benefit from them, I am sure there are far more than I know.
 With right software, be creative with your mappings.
@@ -108,7 +108,7 @@ With right software, be creative with your mappings.
 ##### 实例演示，如何快速地在网址末尾加参数
 
 1. 打开浏览器
-2. `cmd` + `l` 
+2. `cmd` + `l`
 3. 打入地址，如果地址很长，会自动选择。
 4. `control` + `l`
 5. 打入参数
