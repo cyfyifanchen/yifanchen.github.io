@@ -12,7 +12,7 @@ star: true
 
 ## Advanced Keymapping
 
-To get the most of this post, please read [OSX-shortcuts-you-might-not-know]({{ site.url }}/osx-shortcuts-you-may-not-know/) first. 
+To get the most of this post, please read <a href=" {{ site.url }}/macos-shorcuts">macOS Shortcuts Collection</a>first. 
 
 I am going to talk about how and why I map `hjkl` as `arrow` keys. For the mapping to work, you will need to use either of the following tools. 
 

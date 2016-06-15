@@ -1,5 +1,5 @@
 ---
-title: "OSX Shortcuts You Might Not know"
+title: "macOS Shortcuts Collection"
 layout: post
 date: 2016-03-15
 tag:
@@ -9,8 +9,6 @@ tag:
 blog: true
 star: false
 ---
-
-## OSX Shortcuts You Might Not Know
 
 As developers live on keyboards 24/7, we should be aware of any kinds of shortcuts that will benefit productivities.
 
