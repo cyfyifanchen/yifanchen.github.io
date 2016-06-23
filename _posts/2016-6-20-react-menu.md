@@ -8,6 +8,6 @@ projects: true
 description: "React Interactive Menu"
 ---
 
-<a href="https://github.com/yifanchen/react-startkit" target="_blank">React Interactive Menu</a>
+<a href="https://github.com/yifanchen/menu" target="_blank">React Interactive Menu</a>
 
 
