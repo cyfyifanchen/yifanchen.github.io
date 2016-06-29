@@ -7,8 +7,5 @@ tag:
 - Machine Learning
 projects: true
 description: "Machine Leanring"
+externalLink: https://github.com/yifanchen/ML
 ---
-
-<a href="https://github.com/yifanchen/ML" target="_blank">Machine Learning</a>
-
-

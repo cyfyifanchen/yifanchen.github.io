@@ -6,8 +6,5 @@ tag:
 - React
 projects: true
 description: "React Interactive Menu"
+externalLink: https://github.com/yifanchen/menu
 ---
-
-<a href="https://github.com/yifanchen/menu" target="_blank">React Interactive Menu</a>
-
-
