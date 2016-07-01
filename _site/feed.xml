@@ -3,9 +3,33 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-06-30T17:34:12-06:00</updated>
+<updated>2016-06-30T19:48:47-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
+<entry>
+<title>不变的范特西</title>
+<link href="http://localhost:3000/still-fantasy/" rel="alternate" type="text/html" title="不变的范特西" />
+<published>2016-06-30T00:00:00-06:00</published>
+<updated>2016-06-30T00:00:00-06:00</updated>
+<id>http://localhost:3000/still-fantasy</id>
+<content type="html" xml:base="http://localhost:3000/still-fantasy/">&lt;p&gt;印象里，我只花过一次钱买歌曲专辑 。12岁那年，我在购书。店里的背景音乐是《爱在西元前》，我当时觉得歌曲节奏轻快，旋律性强，歌词虽听不太清，但不影响我对歌曲的喜爱，于是买了一盘《范特西》回家，那是我第一次花钱买歌曲专辑。&lt;/p&gt;
+
+&lt;p&gt;一年之后，当西方人民都在恐慌五角大楼打飞机的同时，地球的另一端，我哼着《双截棍》顺利考入城内一所二流初中。家长和老师眼里除了读书还是读书的学生生活单调到不行，好像所有的课余生活就剩听歌，大街小巷的《东风破》，仿佛世界都在放中国风。&lt;/p&gt;
+
+&lt;p&gt;步入高中，我对学习彻底失去了兴趣，辗转几个学校也没起到任何作用。父母郁闷的同时，无知的我天天在听《七里香》，17岁的夏天，美好到不行，满怀期待自己初恋的到来。&lt;/p&gt;
+
+&lt;p&gt;穿越太平洋，美利坚不相信眼泪。语言的不同和文化的差异对一个不经世事的19岁少年来说相当残酷。伴随的，依旧是音乐，对家的思念让我爱上《听妈妈的话》。努力天天向上的同时，《一路向北》支持着我前进。&lt;/p&gt;
+
+&lt;p&gt;上班之后，在线音乐服务是主流，世界级的音乐可供选择时候，不变的是那个叫“范特西” 的播放目录，里面的歌曲只加不减。&lt;/p&gt;
+
+&lt;p&gt;犹记那年，我买了一盘叫《范特西》的磁带回家，那是我最后一次花钱买歌曲专辑，拉开的，是自己丰富人生的序幕。&lt;/p&gt;
+
+</content>
+<category term="Jay Chou" />
+<category term="Music" />
+<category term="thoughts" />
+<summary>印象里，我只花过一次钱买歌曲专辑 。12岁那年，我在购书。店里的背景音乐是《爱在西元前》，我当时觉得歌曲节奏轻快，旋律性强，歌词虽听不太清，但不影响我对歌曲的喜爱，于是买了一盘《范特西》回家，那是我第一次花钱买歌曲专辑。</summary>
+</entry>
 <entry>
 <title>React Start Kit</title>
 <link href="http://localhost:3000/React-Startkit/" rel="alternate" type="text/html" title="React Start Kit" />
@@ -190,22 +214,5 @@ experience a richer content with a incredible rendering speed.&lt;/p&gt;
 <category term="Google i/o" />
 <category term="Technology" />
 <summary>Google I/O</summary>
-</entry>
-<entry>
-<title>关于美队3 - 内战</title>
-<link href="http://localhost:3000/about-captain-america-civil-war/" rel="alternate" type="text/html" title="关于美队3 - 内战" />
-<published>2016-05-17T00:00:00-06:00</published>
-<updated>2016-05-17T00:00:00-06:00</updated>
-<id>http://localhost:3000/about-captain-america-civil-war</id>
-<content type="html" xml:base="http://localhost:3000/about-captain-america-civil-war/">&lt;h3 id=&quot;section&quot;&gt;关于美队3&lt;/h3&gt;
-
-&lt;p&gt;美队3 －内战毫无疑问是美队三部曲里面最好看的一部，每个人物的塑造都异常饱满，选择站边的原因也非常有说服力。很多人在争论到底哪边是正确的，这些其实都是无力的争议，电影本身已经给了很充足的理由为什么每个人会做出不同的选择，结合每个角色的过去和之前的经历，其实根本没有站边的必要。 欣赏和理解角色的同时，了解角色的性格会让电影更出彩。我本来是带着倾向于铁人一边的心情去看的，看过之后，我无法选择站在哪一边。这也是为什么电影好看的主要原因之一，让我的期待以及希望被电影内容的带入而改变。人物的选择其实就是政治选择， 无对无错，只是每个人相信的方式不一样而已。&lt;/p&gt;
-
-&lt;p&gt;有位智者曾经说过：你不是神，无论你做什么，总会有不喜欢你的人。&lt;/p&gt;
-
-</content>
-<category term="Captain America" />
-<category term="Film Review" />
-<summary>关于美队3</summary>
 </entry>
 </feed>

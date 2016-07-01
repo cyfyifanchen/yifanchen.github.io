@@ -1,6 +1,13 @@
 [
   
     {
+      "title"    : "不变的范特西",
+      "tags"     : "Jay Chou, Music, and thoughts",
+      "url"      : "/still-fantasy/",
+      "date"     : "30 Jun 2016"
+    } ,
+  
+    {
       "title"    : "React Start Kit",
       "tags"     : "React",
       "url"      : "/React-Startkit/",
