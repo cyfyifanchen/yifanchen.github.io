@@ -6,7 +6,7 @@ tag:
 - keymapping
 - karabiner
 - shotcuts
-blog: true
+projects: true
 star: true
 ---
 
