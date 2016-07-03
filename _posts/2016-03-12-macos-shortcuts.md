@@ -38,7 +38,7 @@ Read [advanced-keymapping](http://www.cyfyifanchen.com/advanced-keymapping/), an
 
 `alt` + `shift` + `k`: 
 
-My co-worker Jeff told me the following shortcuts, they work similarly as `arrow` keys when editing, but not exactly the same when not editing. I think it is working because arguably macOS took some concept from Unix, so these shortcuts were inherited. Not working because it's being used very rarely, and Apple hasn't optimized them on macOS.
+My co-worker Jeff told me the following shortcuts, they work similarly as arrow keys when editing, but not the same when not editing. I only use them in Shell and Vim because I treat them as replacement of my `ctrl` + `hjkl` keybinding since I intentionally disabled them in iTerm for better Vim experience. Part of the reason that they are working is that arguably macOS took some concepts from Unix, so these shortcuts were inherited.
 
 `ctrl` + `a`: go to beginning of the line when editing.
 
