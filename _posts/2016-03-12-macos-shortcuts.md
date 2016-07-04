@@ -118,6 +118,8 @@ My co-worker Jeff told me the following shortcuts, they work similarly as arrow 
 
 `control` + `l`: clear.
 
+`control` + `d`: end of file, works in Shell when wants to exit out an environment.
+
 `up` or `down`: previous and next command.
 
 `-`: go to the previous directory.(very useful)
