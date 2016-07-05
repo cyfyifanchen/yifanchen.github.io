@@ -3,13 +3,21 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<<<<<<< HEAD
-<updated>2016-07-03T13:50:41-06:00</updated>
-=======
-<updated>2016-07-01T10:09:29-06:00</updated>
->>>>>>> parent of da538d5... removed pagination
+<updated>2016-07-05T16:27:53-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
+<entry>
+<title>奔跑吧，魔兽少年－连载中</title>
+<link href="http://localhost:3000/run-war3-boy/" rel="alternate" type="text/html" title="奔跑吧，魔兽少年－连载中" />
+<published>2016-06-30T00:00:00-06:00</published>
+<updated>2016-06-30T00:00:00-06:00</updated>
+<id>http://localhost:3000/run-war3-boy</id>
+<content type="html" xml:base="http://localhost:3000/run-war3-boy/">
+</content>
+<category term="Jay Chou" />
+<category term="Music" />
+<category term="thoughts" />
+</entry>
 <entry>
 <title>不变的范特西</title>
 <link href="http://localhost:3000/still-fantasy/" rel="alternate" type="text/html" title="不变的范特西" />
@@ -167,56 +175,5 @@
 <category term="Technology" />
 <category term="Metal" />
 <summary>Mac gaming is coming</summary>
-</entry>
-<entry>
-<title>Google I/O 2016</title>
-<link href="http://localhost:3000/google-io-2016/" rel="alternate" type="text/html" title="Google I/O 2016" />
-<published>2016-05-19T00:00:00-06:00</published>
-<updated>2016-05-19T00:00:00-06:00</updated>
-<id>http://localhost:3000/google-io-2016</id>
-<content type="html" xml:base="http://localhost:3000/google-io-2016/">&lt;h3 id=&quot;google-io&quot;&gt;Google I/O&lt;/h3&gt;
-
-&lt;p&gt;This year’s Google I/O was hosted outdoors at Shoreline Amitheater, Mountain View, California. The weather has been lovely for its annual technology and developer conference. Google indeed introduced lots new products and technologies.&lt;/p&gt;
-
-&lt;h4 id=&quot;vr---virtual-reality&quot;&gt;VR - Virtual Reality&lt;/h4&gt;
-
-&lt;p&gt;It’s called Daydream. It is Google’s virtual reality platform. It comes with Android N. And man; it sounds exciting, VR on mobile, it is breathtaking.&lt;/p&gt;
-
-&lt;p&gt;Undoubtedly, VR is the biggest thing today. As a tech company, if you aren’t planning to do something with VR or at least mention it in your conference, shame on you. Strangely, both Apple and Amazon haven’t had any VR product rumors yet. I can’t wait to see if Apple is going to introduce something cool at upcoming WWDC 2016.&lt;/p&gt;
-
-&lt;h4 id=&quot;android-wear-20&quot;&gt;Android Wear 2.0&lt;/h4&gt;
-
-&lt;p&gt;One feature makes Android Wear 2.0 better than WatchOS is its standalone OS. Without having any nearby Android phone, even with your phone turned off, you can send an email, respond a message and listen to music.&lt;/p&gt;
-
-&lt;h4 id=&quot;google-home&quot;&gt;Google Home&lt;/h4&gt;
-
-&lt;p&gt;Google Home is Google’s voice assistant; it is finally here after Siri, Cortana and Echo. If you have seen Amazon Echo, Google Home will be very familiar to you. It is a physical voice assistant that helps people’s information needs and task management. With Google’s integration of gamil, calendar, search, etc., replacing Amazon Echo is just a time matter.&lt;/p&gt;
-
-&lt;h4 id=&quot;android-n&quot;&gt;Android N&lt;/h4&gt;
-
-&lt;p&gt;Android N, still needs to be named, is the new Android OS. Google claims that it will improve performance, security and productivity from Marshmallow. Android N is officially supporting Vulkan, which is a relatively new graphic technology that is slowly replacing OpenGL. As same as Metal, Apple’s graphic technology introduced at WWDC 2014, both of them offer APIs that allow developers to work with graphic card directly. Simply put, Android N is going to bring better and richer gaming experience. More importantly, it is making a concrete foundation for Virtual Reality in the future.&lt;/p&gt;
-
-&lt;h4 id=&quot;allo-and-duo&quot;&gt;Allo and Duo&lt;/h4&gt;
-
-&lt;p&gt;Google, once again is trying to emulate social media. Both Allo and Duo are making a better messaging experience. Allo is specializing in chat, comparing Facebook Messenger, it offers lots more features. Machine Learning and AI make Allo the smartest chat app ever, image processing and search integration allow users to do things without leaving Allo. Duo, a Facetime competitor, giving a feature called Knock Knock, allow users to see a short video of callers before answering it.&lt;/p&gt;
-
-&lt;h4 id=&quot;android-studio-20&quot;&gt;Android Studio 2.0&lt;/h4&gt;
-
-&lt;p&gt;Google intends to build an excellent IDE to replace Eclipse, and the result is Android Studio. Android Studio 2.0 comes with sweet Instant Run features, offers a fast and feature-rich emulator, and robust and flexible build system.&lt;/p&gt;
-
-&lt;h4 id=&quot;amp&quot;&gt;AMP&lt;/h4&gt;
-
-&lt;p&gt;AMP is Accelerated Mobile Pages, &lt;em&gt;a open source initiative that embodies the vision that publishers can create mobile optimized content once and have it load instantly everywhere.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Google claims AMP is going to be the next generation of static page builder, one feature worthy mentioning is the “almost instant rendering”. This could mean that the pursuit of AMP has been pure and straightforward - rendering speed. As in today, mobile device is taking majority of the web traffic, rendering speed is no longer an optimization in the first place, instead, it’s a key factor directly outputs the right technology to use. And the result of it has always been that the user
-experience a richer content with a incredible rendering speed.&lt;/p&gt;
-
-&lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
-
-&lt;p&gt;Google I/O 2016 brought us many surprises, and it also unveiled the roadmap of Google for the next year. Machine Learning and Artificial Intelligence have been leading roles in this conference; both of them are getting more and more irreplaceable to have technology serving people in a perfect way. As I have mentioned, no matter how advanced technology is, the best technology has always been imperceptible and seemingly nonexistent.&lt;/p&gt;
-</content>
-<category term="Google i/o" />
-<category term="Technology" />
-<summary>Google I/O</summary>
 </entry>
 </feed>
