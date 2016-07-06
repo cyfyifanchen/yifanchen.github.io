@@ -3,20 +3,42 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-07-05T17:04:28-06:00</updated>
+<updated>2016-07-05T22:03:56-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
 <entry>
-<title>奔跑吧，魔兽骚年－连载中</title>
-<link href="http://localhost:3000/run-war3-boy/" rel="alternate" type="text/html" title="奔跑吧，魔兽骚年－*连载中*" />
-<published>2016-06-30T00:00:00-06:00</published>
-<updated>2016-06-30T00:00:00-06:00</updated>
-<id>http://localhost:3000/run-war3-boy</id>
-<content type="html" xml:base="http://localhost:3000/run-war3-boy/">
+<title>奔跑吧，魔兽骚年</title>
+<link href="http://localhost:3000/warcraft-boy/" rel="alternate" type="text/html" title="奔跑吧，魔兽骚年" />
+<published>2016-07-05T00:00:00-06:00</published>
+<updated>2016-07-05T00:00:00-06:00</updated>
+<id>http://localhost:3000/warcraft-boy</id>
+<content type="html" xml:base="http://localhost:3000/warcraft-boy/">&lt;p&gt;本文纪念我和小伙伴们那逝去的青春。&lt;/p&gt;
 </content>
-<category term="Jay Chou" />
-<category term="Music" />
-<category term="thoughts" />
+<category term="story" />
+<category term="魔兽骚年" />
+<summary>本文纪念我和小伙伴们那逝去的青春。</summary>
+</entry>
+<entry>
+<title>Today is a Present</title>
+<link href="http://localhost:3000/today-is-present/" rel="alternate" type="text/html" title="Today is a Present" />
+<published>2016-07-04T00:00:00-06:00</published>
+<updated>2016-07-04T00:00:00-06:00</updated>
+<id>http://localhost:3000/today-is-present</id>
+<content type="html" xml:base="http://localhost:3000/today-is-present/">&lt;p&gt;I recently gave a short talk to few iOS development students who are currently in Code Camp busting their asses to finish projects. I am very proud of them. Decisions were not easy to make when they wanted to change careers, especially when some of them have families. Most students ditched their no-future careers, then entirely dedicated to intensive Code Camp courses, hopefully, coming out with great skill sets to find jobs that they like.&lt;/p&gt;
+
+&lt;p&gt;I heard that a lot of people say coding is easier than it looks, I disagree, coding is not easy at all, in fact, it is hard from lots different aspects. I learned to code in a hard way. It was my sophomore year in college. I was introduced to web programming, precisely HTML and CSS. I could barely follow class speed, and everything professor taught in class was like some irrelevant information, it got into my head, but not my brain.&lt;/p&gt;
+
+&lt;p&gt;When I started to learn JavaScript, it was worse. I didn’t’ understand anything, literally anything. No matter how long I spent, no matter how many times I translated study material into my native language, I just couldn’t wrap my head around of those programming terms. I read books without any comprehension.&lt;/p&gt;
+
+&lt;p&gt;I have never been one of those smart students in class, and I probably will never be. But, that’s okay. To make things happen, I don’t have to be super smart or talented as long as I work hard and willing to improve. There are millions of code snippets out there I can grab if I can’t write my own,  at least I know that I can manipulate them to the way I need. If one code snippet doesn’t work, I will try a different one until I find the one it does. I believe as time goes, I am going to be
+good at what I am doing, all I need is persistence.&lt;/p&gt;
+
+&lt;p&gt;People tend to say no to new things. It is a Human Nature. You feel vulnerable when you learn, nobody likes that feeling. However, look at the bright side, whenever you are feeling vulnerable, it means you are learning, feeling weak is just the first step of becoming better. The thing is you have to believe in yourself and invest yourself. People often say that if you don’t even believe in yourself, why should anyone else?&lt;/p&gt;
+
+&lt;p&gt;In the end, to make this blog post wise. I’d like to quote from Master Oogway, &lt;em&gt;Don’t be too concerned with what was and what will be. There’s a saying, yesterday is a history, tomorrow is a mystery, today is a gift, that is why it’s called present.&lt;/em&gt;&lt;/p&gt;
+</content>
+<category term="thought" />
+<summary>I recently gave a short talk to few iOS development students who are currently in Code Camp busting their asses to finish projects. I am very proud of them. Decisions were not easy to make when they wanted to change careers, especially when some of them have families. Most students ditched their no-future careers, then entirely dedicated to intensive Code Camp courses, hopefully, coming out with great skill sets to find jobs that they like.</summary>
 </entry>
 <entry>
 <title>不变的范特西</title>
@@ -153,27 +175,5 @@
 <category term="thoughts" />
 <category term="side projects" />
 <summary>The silly side projects</summary>
-</entry>
-<entry>
-<title>The Future of Mac Gaming</title>
-<link href="http://localhost:3000/the-future-of-mac-gaming/" rel="alternate" type="text/html" title="The Future of Mac Gaming" />
-<published>2016-05-21T00:00:00-06:00</published>
-<updated>2016-05-21T00:00:00-06:00</updated>
-<id>http://localhost:3000/the-future-of-mac-gaming</id>
-<content type="html" xml:base="http://localhost:3000/the-future-of-mac-gaming/">&lt;h3 id=&quot;mac-gaming-is-coming&quot;&gt;Mac gaming is coming&lt;/h3&gt;
-
-&lt;p&gt;For years, Mac gaming has only been a concept. With very limited development progress of OpenGL, Apple indeed needs its graphic technology to move away from OpenGL madness. &lt;a href=&quot;https://developer.apple.com/metal/&quot; target=&quot;_blank&quot;&gt;Metal&lt;/a&gt;, Apple’s graphic technology, was created to solve the problem. It reduces layers between graphic card and graphic APIs, providing developers a rich environment to work with. Performance wise, Apple promises that Metal can improve more than 50%. Now, Metal has been adopted widely on iOS for two years, and the result is satisfactory.&lt;/p&gt;
-
-&lt;p&gt;At &lt;a href=&quot;https://www.youtube.com/watch?v=_p8AsQhaVKI&quot;&gt;WWDC 2015&lt;/a&gt;, Apple announced that Metal is coming to El Captian. At the same time, Blizzard officially commented that Metal is already working internally on &lt;em&gt;World of Warcraft&lt;/em&gt;. Furthermore, it will be released by the end of the year. On top of this, &lt;em&gt;Starcraft 2&lt;/em&gt; and &lt;em&gt;Heros of the storm&lt;/em&gt; are expected to follow shortly after.&lt;/p&gt;
-
-&lt;p&gt;Metal, as a graphic API may not be able to revolutionize gaming on OSX. However, it cuts off the gap between Mac gaming and PC gaming significantly. Experiencing the same or better gaming experience on Mac just as on PC is not far anymore.&lt;/p&gt;
-
-&lt;p&gt;Reference: Here is a pretty good article I found, it talks about graphic APIs in depth:
-&lt;a href=&quot;http://www.insidemacgames.com/forum/index.php?showtopic=47801&quot; target=&quot;_blnak&quot;&gt;OS X Graphics API’s: OpenGL vs Metal vs Vulkan&lt;/a&gt;&lt;/p&gt;
-</content>
-<category term="Mac Gaming" />
-<category term="Technology" />
-<category term="Metal" />
-<summary>Mac gaming is coming</summary>
 </entry>
 </feed>
