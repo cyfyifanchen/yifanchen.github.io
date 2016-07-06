@@ -3,20 +3,34 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-07-05T22:03:56-06:00</updated>
+<updated>2016-07-06T16:22:16-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
+<entry>
+<title>Reduxstagram</title>
+<link href="http://localhost:3000/reduxgram/" rel="alternate" type="text/html" title="Reduxstagram" />
+<published>2016-07-06T00:00:00-06:00</published>
+<updated>2016-07-06T00:00:00-06:00</updated>
+<id>http://localhost:3000/reduxgram</id>
+<content type="html" xml:base="http://localhost:3000/reduxgram/">
+</content>
+<category term="Projects" />
+<category term="Redux" />
+<category term="React" />
+</entry>
 <entry>
 <title>奔跑吧，魔兽骚年</title>
 <link href="http://localhost:3000/warcraft-boy/" rel="alternate" type="text/html" title="奔跑吧，魔兽骚年" />
 <published>2016-07-05T00:00:00-06:00</published>
 <updated>2016-07-05T00:00:00-06:00</updated>
 <id>http://localhost:3000/warcraft-boy</id>
-<content type="html" xml:base="http://localhost:3000/warcraft-boy/">&lt;p&gt;本文纪念我和小伙伴们那逝去的青春。&lt;/p&gt;
+<content type="html" xml:base="http://localhost:3000/warcraft-boy/">&lt;p&gt;正在写…&lt;/p&gt;
+
+&lt;p&gt;-本文纪念我和小伙伴们那逝去的青春。&lt;/p&gt;
 </content>
 <category term="story" />
 <category term="魔兽骚年" />
-<summary>本文纪念我和小伙伴们那逝去的青春。</summary>
+<summary>正在写…</summary>
 </entry>
 <entry>
 <title>Today is a Present</title>
@@ -156,24 +170,5 @@ good at what I am doing, all I need is persistence.&lt;/p&gt;
 </content>
 <category term="Projects" />
 <category term="Machine Learning" />
-</entry>
-<entry>
-<title>The Silly Side Projects</title>
-<link href="http://localhost:3000/silly-side-projects/" rel="alternate" type="text/html" title="The Silly Side Projects" />
-<published>2016-05-26T00:00:00-06:00</published>
-<updated>2016-05-26T00:00:00-06:00</updated>
-<id>http://localhost:3000/silly-side-projects</id>
-<content type="html" xml:base="http://localhost:3000/silly-side-projects/">&lt;h3 id=&quot;the-silly-side-projects&quot;&gt;The silly side projects&lt;/h3&gt;
-
-&lt;p&gt;I never liked doing side projects for some reasons. It bugs me how passive I am when it comes to building projects outside of work. As developers, doing challenging projects outside of comfort zone is one of the most efficient and effective ways to get better. All of my friends and colleagues have been showing me their sweet paid side projects and the learning progress they have made by working on them. Like it or not, it is quite appealing to me. But, for some reasons, I just don’t find working on side projects rewarding at all. I hate to admit that I let my laziness drive me.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Overjustification_effect&quot; target=&quot;_blank&quot;&gt;Overjustification effect&lt;/a&gt;, meaning &lt;em&gt;an expected external incentive such as money or prizes decreases a person’s intrinsic motivation to perform a task&lt;/em&gt;. It is the exact reason why I don’t like doing side projects.&lt;/p&gt;
-
-&lt;p&gt;With overjustification effect in mind, I tend to work on something with no incentives and requirements at all. And intentionally, I made my first few side projects as simple, as silly as possible. The result of it is, I learned how my mindset works and how can I be motivated with this mentality. More importantly, knowledge gainning is the best reward to me.&lt;/p&gt;
-</content>
-<category term="code" />
-<category term="thoughts" />
-<category term="side projects" />
-<summary>The silly side projects</summary>
 </entry>
 </feed>

@@ -1,6 +1,13 @@
 [
   
     {
+      "title"    : "Reduxstagram",
+      "tags"     : "Projects, Redux, and React",
+      "url"      : "/reduxgram/",
+      "date"     : "06 Jul 2016"
+    } ,
+  
+    {
       "title"    : "奔跑吧，魔兽骚年",
       "tags"     : "story and 魔兽骚年",
       "url"      : "/warcraft-boy/",
