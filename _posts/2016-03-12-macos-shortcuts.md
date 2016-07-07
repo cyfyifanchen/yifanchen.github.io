@@ -84,7 +84,7 @@ My co-worker Jeff told me the following shortcuts, they work similarly as arrow 
 
 `cmd` + `k`: clear console.
 
-`shift` + `<` or `>`: current tab switch to left or right.
+`<` and `>`: place current tab to the left or right
 
 `F2`: Edit as HTML in Chrome developer tool.
 
