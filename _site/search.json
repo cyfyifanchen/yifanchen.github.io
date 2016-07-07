@@ -185,6 +185,13 @@
     {
       "title"    : "macOS Shortcuts Collection",
       "tags"     : "shortcuts, keymapping, and OSX",
+      "url"      : "/shortcuts-collection/",
+      "date"     : "15 Mar 2016"
+    } ,
+  
+    {
+      "title"    : "macOS Shortcuts Collection",
+      "tags"     : "shortcuts, keymapping, and OSX",
       "url"      : "/macos-shortcuts/",
       "date"     : "15 Mar 2016"
     } 

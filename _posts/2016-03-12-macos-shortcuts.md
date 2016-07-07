@@ -6,7 +6,7 @@ tag:
 - shortcuts
 - keymapping
 - OSX
-projects: true
+blog: true
 star: false
 ---
 
