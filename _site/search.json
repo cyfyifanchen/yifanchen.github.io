@@ -178,6 +178,13 @@
     {
       "title"    : "Advanced Keymapping",
       "tags"     : "keymapping, karabiner, and shotcuts",
+      "url"      : "/advanced-shortcuts/",
+      "date"     : "20 Mar 2016"
+    } ,
+  
+    {
+      "title"    : "Advanced Keymapping",
+      "tags"     : "keymapping, karabiner, and shotcuts",
       "url"      : "/advanced-keymapping/",
       "date"     : "20 Mar 2016"
     } ,
