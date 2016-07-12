@@ -1,6 +1,20 @@
 [
   
     {
+      "title"    : "Progressive Web App",
+      "tags"     : "Projects and Progressive Web App",
+      "url"      : "/progressive-web-app/",
+      "date"     : "12 Jul 2016"
+    } ,
+  
+    {
+      "title"    : "Node Server",
+      "tags"     : "Projects and Node",
+      "url"      : "/node-server/",
+      "date"     : "09 Jul 2016"
+    } ,
+  
+    {
       "title"    : "Reduxstagram",
       "tags"     : "Projects, Redux, and React",
       "url"      : "/reduxgram/",
