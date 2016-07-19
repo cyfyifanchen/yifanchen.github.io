@@ -3,9 +3,23 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-07-12T13:57:47-06:00</updated>
+<updated>2016-07-19T15:58:10-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
+<entry>
+<title>Vim Navigations</title>
+<link href="http://localhost:3000/vim-navigation/" rel="alternate" type="text/html" title="Vim Navigations" />
+<published>2016-07-16T00:00:00-06:00</published>
+<updated>2016-07-16T00:00:00-06:00</updated>
+<id>http://localhost:3000/vim-navigation</id>
+<content type="html" xml:base="http://localhost:3000/vim-navigation/">&lt;p&gt;Vim is an investment, I use it every single day. It feels rewarding every time I&lt;/p&gt;
+
+&lt;p&gt;For page Navigations:&lt;/p&gt;
+
+</content>
+<category term="thought" />
+<summary>Vim is an investment, I use it every single day. It feels rewarding every time I</summary>
+</entry>
 <entry>
 <title>Progressive Web App</title>
 <link href="http://localhost:3000/progressive-web-app/" rel="alternate" type="text/html" title="Progressive Web App" />
@@ -136,23 +150,5 @@ good at what I am doing, all I need is persistence.&lt;/p&gt;
 <category term="wwdc 2016" />
 <category term="Technology" />
 <summary>There are too many articles are talking about what you need to know from yesterday’s Keynote. I am not going to summarize it again. I admitted that I wanted a new MBP more than anything. Believe me, I impatiently waited for the whole time for Tim Cook to say One More Thing, damn it, it didn’t happen. With a mindset like that, I still liked Keynote, because it meant a brand new chapter to both consumers and developers.</summary>
-</entry>
-<entry>
-<title>论性格的重要性</title>
-<link href="http://localhost:3000/extrovert-personality/" rel="alternate" type="text/html" title="论性格的重要性" />
-<published>2016-06-05T00:00:00-06:00</published>
-<updated>2016-06-05T00:00:00-06:00</updated>
-<id>http://localhost:3000/extrovert-personality</id>
-<content type="html" xml:base="http://localhost:3000/extrovert-personality/">&lt;p&gt;锤子科技是个不错的公司，罗永浩这个当年的愤青现在的企业家其实很适合做科技，所谓性格使然。&lt;/p&gt;
-
-&lt;p&gt;不久之前看《鲁豫有约》邀请罗永浩，老罗的很多观点不错，对自己过去的错误以及公司未来的把握也很明确。老罗有强迫症，寻求完美的同时，必定严苛要求员工，也许是个难相处的CEO，换来的却是精益求精的产品。貌似由于他刚开始做锤子科技的时候，性格比较尖，口无遮拦，导致公司被很多人黑。其实完全没有这个必要，如果不喜欢一个CEO，没有必要去黑他的公司。性格的缺陷往往成就了非凡的创造力。而创造力，则是今天国内大多科技公司最缺的资源。&lt;/p&gt;
-
-&lt;p&gt;那么，罗永浩有个观点就是，同样能力的两个人外向性格比内向性格好混很多。我在工作上遇见过很多这样的情况。貌似很不公平，但是现实如此，只能适应。老话常谈，情商和智商需要协调。别以为你是“会跑的霍金”，谁都不鸟。我们都需要全面发展智商和情商。&lt;/p&gt;
-
-&lt;p&gt;推荐本书《人性的弱点》，“人类出版史上的奇迹，20世纪以来最畅销的励志经典，永远不要奢望让世界来适应你，你对了，世界就对了。与人交往巾的“无形之手”，点拨你在社会中游刃有余。” 其实我更喜欢书的英文名字，《How to Win Friends and Influence People》，简单直白。&lt;/p&gt;
-</content>
-<category term="personality" />
-<category term="thought" />
-<summary>锤子科技是个不错的公司，罗永浩这个当年的愤青现在的企业家其实很适合做科技，所谓性格使然。</summary>
 </entry>
 </feed>

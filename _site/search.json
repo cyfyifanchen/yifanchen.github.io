@@ -1,6 +1,13 @@
 [
   
     {
+      "title"    : "Vim Navigations",
+      "tags"     : "thought",
+      "url"      : "/vim-navigation/",
+      "date"     : "16 Jul 2016"
+    } ,
+  
+    {
       "title"    : "Progressive Web App",
       "tags"     : "Projects and Progressive Web App",
       "url"      : "/progressive-web-app/",
