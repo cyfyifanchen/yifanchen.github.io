@@ -3,22 +3,25 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-07-19T15:58:10-06:00</updated>
+<updated>2016-07-21T19:25:18-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
 <entry>
-<title>Vim Navigations</title>
-<link href="http://localhost:3000/vim-navigation/" rel="alternate" type="text/html" title="Vim Navigations" />
-<published>2016-07-16T00:00:00-06:00</published>
-<updated>2016-07-16T00:00:00-06:00</updated>
-<id>http://localhost:3000/vim-navigation</id>
-<content type="html" xml:base="http://localhost:3000/vim-navigation/">&lt;p&gt;Vim is an investment, I use it every single day. It feels rewarding every time I&lt;/p&gt;
+<title>Thoughts of Using Vim</title>
+<link href="http://localhost:3000/thoughts-of-using-vim/" rel="alternate" type="text/html" title="Thoughts of Using Vim" />
+<published>2016-07-20T00:00:00-06:00</published>
+<updated>2016-07-20T00:00:00-06:00</updated>
+<id>http://localhost:3000/thoughts-of-using-vim</id>
+<content type="html" xml:base="http://localhost:3000/thoughts-of-using-vim/">&lt;p&gt;I installed &lt;a href=&quot;https://github.com/jceb/vim-orgmode&quot; target=&quot;_blank&quot;&gt;vim-orgmode&lt;/a&gt; to my Vim yesterday. For those of you, who haven’t heard Org-mode, it is an editing and organizing mode for notes, planning, and authoring in Emacs. It is a must have for all Emacs users. I strongly recommend you to watch &lt;a href=&quot;https://www.youtube.com/watch?v=oJTwQvgfgMM&quot;&gt;this video&lt;/a&gt; on youtube. It will mostly likely change your view of how powerful something can be. Due to Org-mode’s popularity, someone awesome created this orgmode for vim on Github. So, I found it and installed it. Thanks again for open source community, life is beautiful because of you. I like Vim as a text editor, like Emacs as an environment(on offense to Emacs users, I honestly think Emacs is too powerful to be a text editor).&lt;/p&gt;
 
-&lt;p&gt;For page Navigations:&lt;/p&gt;
+&lt;p&gt;I took a little time go through my &lt;a href=&quot;https://github.com/yifanchen/dotfiles/blob/master/.vimrc&quot; target=&quot;_blank&quot;&gt;.vimrc&lt;/a&gt; file after I committed the change to Github, it then occurred to me that Vim has been so much fun to use for the past eight months. And, learning Vim has been a tremendous investment to me.&lt;/p&gt;
+
+&lt;p&gt;I have always preferred videos when it comes to learning. Having some kinds of visual presentations can get me through the points a lot easier. So, Youtube is my best friend. But, there weren’t many Vim tutorials on Youtube. I had to find other ways to learn. Lots people write blogs of their dotfiles. Those were helpful If I only wanted their Vim settings. Vim wiki is a good place to go, but too dry to read. I didn’t have many options left, but being patient, learning it slowly. I ended up spending weeks figuring out every piece of vimscript. I tried to make Vim behave like a regular IDE. I had easy options like using Vim GUI or installing Vim emulators in standard text editors. I tried vim-mode package in Atom, and it was flawless. However, I wasn’t too satisfied with it. I didn’t quite like running both Atom and iTerm while doing development. I distinctly remember I talked myself out of using Atom with vim-mode not one time, not twice, but multiple times just because the nerdy soul in me didn’t allow me to go with the simple choice. You know, sometimes being stubborn is a double edge, I guess in my case, at least this time it was on the right side. I made it happen, the look, the speed, and the capabilities of my Vim are not as same as a standard editor, but unique and better.&lt;/p&gt;
 
 </content>
-<category term="thought" />
-<summary>Vim is an investment, I use it every single day. It feels rewarding every time I</summary>
+<category term="Vim" />
+<category term="thoughts" />
+<summary>I installed vim-orgmode to my Vim yesterday. For those of you, who haven’t heard Org-mode, it is an editing and organizing mode for notes, planning, and authoring in Emacs. It is a must have for all Emacs users. I strongly recommend you to watch this video on youtube. It will mostly likely change your view of how powerful something can be. Due to Org-mode’s popularity, someone awesome created this orgmode for vim on Github. So, I found it and installed it. Thanks again for open source community, life is beautiful because of you. I like Vim as a text editor, like Emacs as an environment(on offense to Emacs users, I honestly think Emacs is too powerful to be a text editor).</summary>
 </entry>
 <entry>
 <title>Progressive Web App</title>
