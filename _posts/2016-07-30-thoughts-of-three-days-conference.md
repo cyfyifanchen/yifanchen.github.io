@@ -16,6 +16,6 @@ I have been in southern California many times, but San Francisco was my first st
 
 In my opinion, workshops can be ruined by not prepare materials before. The intentions of attending workshops are getting trained for certain things you don't know, or you barely know. We are developers, so obviously, we don't want to come out with a "Hello, World!" application after training. But, workshop goes faster, the best way to get the most out of it is knowing the content. For the best, build something before you go.
 
-Another way to ruin workshops is from instructors. Having few hours long presentations regarding history, benefits and future of the content. That is wrong. I am not saying that I don't value any of that. But, it's a workshop, hands down and builds.
+Another way to ruin workshops is from instructors. Having few hours long presentations regarding history, benefits and future of the content. That is wrong. I am not saying that I don't value any of that. But, it's a workshop, hands down and build.
 
-In conclusion,  not every workshop is worth the energy to go. For those of you who thinks one workshop can get you up to speed, you are wrong. You might be bale to build something, but won't be able to understand everything. To master something, it takes serious dedication and motivation.
+In conclusion,  not every workshop is worth the energy to go. For those of you who thinks one workshop can get you up to speed, you are wrong. You might be able to build something, but won't be able to understand everything. To master something, it takes serious dedication and motivation.
