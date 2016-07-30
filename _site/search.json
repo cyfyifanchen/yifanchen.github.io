@@ -1,6 +1,13 @@
 [
   
     {
+      "title"    : "Thoughts of Three Days Conference at Downtown San Francisco",
+      "tags"     : "conference, thoughts, and workshops",
+      "url"      : "/thoughts-of-three-days-conference/",
+      "date"     : "30 Jul 2016"
+    } ,
+  
+    {
       "title"    : "Thoughts of Using Vim",
       "tags"     : "Vim and thoughts",
       "url"      : "/thoughts-of-using-vim/",
