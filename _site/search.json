@@ -1,6 +1,13 @@
 [
   
     {
+      "title"    : "河东河西",
+      "tags"     : "technologies, thoughts, and workshops",
+      "url"      : "/river-east-river-west/",
+      "date"     : "31 Jul 2016"
+    } ,
+  
+    {
       "title"    : "Thoughts of Three Days Conference at Downtown San Francisco",
       "tags"     : "conference, thoughts, and workshops",
       "url"      : "/thoughts-of-three-days-conference/",
