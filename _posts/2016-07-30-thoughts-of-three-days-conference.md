@@ -5,7 +5,6 @@ date: 2016-07-30
 tag:
 - conference
 - thoughts
-- workshops
 blog: true
 star: false
 ---
