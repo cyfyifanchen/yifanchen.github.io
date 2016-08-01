@@ -5,7 +5,6 @@ date: 2016-07-31
 tag:
 - technologies
 - thoughts
-- workshops
 blog: true
 star: false
 ---
