@@ -1,15 +1,22 @@
 [
   
     {
+      "title"    : "英雄留下",
+      "tags"     : "gaming, thoughts, and esports",
+      "url"      : "/%E8%8B%B1%E9%9B%84%E7%95%99%E4%B8%8B/",
+      "date"     : "14 Aug 2016"
+    } ,
+  
+    {
       "title"    : "河东河西",
-      "tags"     : "technologies, thoughts, and workshops",
+      "tags"     : "technologies and thoughts",
       "url"      : "/river-east-river-west/",
       "date"     : "31 Jul 2016"
     } ,
   
     {
       "title"    : "Thoughts of Three Days Conference at Downtown San Francisco",
-      "tags"     : "conference, thoughts, and workshops",
+      "tags"     : "conference and thoughts",
       "url"      : "/thoughts-of-three-days-conference/",
       "date"     : "30 Jul 2016"
     } ,

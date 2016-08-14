@@ -3,9 +3,27 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-07-31T10:55:12-06:00</updated>
+<updated>2016-08-14T16:29:43-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
+<entry>
+<title>英雄留下</title>
+<link href="http://localhost:3000/%E8%8B%B1%E9%9B%84%E7%95%99%E4%B8%8B/" rel="alternate" type="text/html" title="英雄留下" />
+<published>2016-08-14T00:00:00-06:00</published>
+<updated>2016-08-14T00:00:00-06:00</updated>
+<id>http://localhost:3000/英雄留下</id>
+<content type="html" xml:base="http://localhost:3000/%E8%8B%B1%E9%9B%84%E7%95%99%E4%B8%8B/">&lt;p&gt;激动的时刻，精彩的比赛，才华横溢的选手，有经历才有感动。中国战队Wings在昨天dota2的国际邀请赛的总决赛中干沉了老对手DC。时隔一年再次让中国战队站在世界之巅，背后的付出和汗水不只是游戏玩得好这么简单。&lt;/p&gt;
+
+&lt;p&gt;电子竞技一直是一个非常模糊的概念，到底算不算的上是体育，众说纷纭。直到2013年体育总局才决定成立国家队。从很多层面上来讲，电子竞技选手应有的尊重不应该比任何传统体育项目少。很多人以为电竞选手这是游戏玩的好罢了，这是个很大的误区。需要明白，任何项目只要到竞技层面，想赢得比赛背后的付出需要是值得每一个人的尊重的。&lt;/p&gt;
+
+&lt;p&gt;还在写…..&lt;/p&gt;
+
+</content>
+<category term="gaming" />
+<category term="thoughts" />
+<category term="esports" />
+<summary>激动的时刻，精彩的比赛，才华横溢的选手，有经历才有感动。中国战队Wings在昨天dota2的国际邀请赛的总决赛中干沉了老对手DC。时隔一年再次让中国战队站在世界之巅，背后的付出和汗水不只是游戏玩得好这么简单。</summary>
+</entry>
 <entry>
 <title>河东河西</title>
 <link href="http://localhost:3000/river-east-river-west/" rel="alternate" type="text/html" title="河东河西" />
@@ -14,7 +32,7 @@
 <id>http://localhost:3000/river-east-river-west</id>
 <content type="html" xml:base="http://localhost:3000/river-east-river-west/">&lt;p&gt;华为和小米相继出笔记本了，虽然手机到电脑算不上行业的跨度，但是其目的不仅仅是瓜分电脑市场这么简单，背后的野心更是让人眼前一亮。纵观国内日益强大的科技业，产品丰富且个性化，非常令人期待看到未来几年中国科技业对世界科技圈的冲击。&lt;/p&gt;
 
-&lt;p&gt;乔布斯说过，日本人很善于做精巧的小玩意儿。从索尼早期标志性的产品Walkman, 任天堂的Gameboy到后来的各种品牌CD机，日本品牌在小型电子产品上的造诣绝对是垄断级别的。 而索尼这个在全球拥有众多粉丝的日本品牌在无论是在企业管理，品牌运营以及工业设计上面都让乔布斯折服。今天，索尼年年亏损，不等不放弃各种业务来保留那一份最后的情怀。&lt;/p&gt;
+&lt;p&gt;乔布斯说过，日本人很善于做精巧的小玩意儿。从索尼早期标志性的产品Walkman, 任天堂的Gameboy到后来的各种品牌CD机，日本品牌在小型电子产品上的造诣绝对是垄断级别的。 而索尼这个在全球拥有众多粉丝的日本品牌在无论是在企业管理，品牌运营以及工业设计上面都让乔布斯折服。今天，索尼年年亏损，不得不放弃各种业务来保留那一份最后的情怀。&lt;/p&gt;
 
 &lt;p&gt;雅虎这个当年市值高达260亿美元的门户网站也不得不面对今天被贱卖的尴尬局面。保守的策略让公司错过很多再续辉煌的机会，留下的只是遗憾。&lt;/p&gt;
 
@@ -27,7 +45,6 @@
 </content>
 <category term="technologies" />
 <category term="thoughts" />
-<category term="workshops" />
 <summary>华为和小米相继出笔记本了，虽然手机到电脑算不上行业的跨度，但是其目的不仅仅是瓜分电脑市场这么简单，背后的野心更是让人眼前一亮。纵观国内日益强大的科技业，产品丰富且个性化，非常令人期待看到未来几年中国科技业对世界科技圈的冲击。</summary>
 </entry>
 <entry>
@@ -48,7 +65,6 @@
 </content>
 <category term="conference" />
 <category term="thoughts" />
-<category term="workshops" />
 <summary>I spent three days in downtown San Francisco for ForwardJS Conference this week. It has been fun, attending the conference is the purpose of the trip. Immersing in the city is a bonus to the plan.</summary>
 </entry>
 <entry>
@@ -161,15 +177,5 @@ good at what I am doing, all I need is persistence.&lt;/p&gt;
 <category term="Music" />
 <category term="thoughts" />
 <summary>印象里，我只花过一次钱买歌曲专辑 。12岁那年，我在购书。店里的背景音乐是《爱在西元前》，我当时觉得歌曲节奏轻快，旋律性强，歌词虽听不太清，但不影响我对歌曲的喜爱，于是买了一盘《范特西》回家，那是我第一次花钱买歌曲专辑。</summary>
-</entry>
-<entry>
-<title>React Start Kit</title>
-<link href="http://localhost:3000/React-Startkit/" rel="alternate" type="text/html" title="React Start Kit" />
-<published>2016-06-23T00:00:00-06:00</published>
-<updated>2016-06-23T00:00:00-06:00</updated>
-<id>http://localhost:3000/React-Startkit</id>
-<content type="html" xml:base="http://localhost:3000/React-Startkit/">
-</content>
-<category term="React" />
 </entry>
 </feed>

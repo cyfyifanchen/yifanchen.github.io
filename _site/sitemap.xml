@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:3000/%25E8%258B%25B1%25E9%259B%2584%25E7%2595%2599%25E4%25B8%258B/</loc>
+<lastmod>2016-08-14T00:00:00-06:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:3000/river-east-river-west/</loc>
 <lastmod>2016-07-31T00:00:00-06:00</lastmod>
 </url>
