@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-08-14T16:50:17-06:00</updated>
+<updated>2016-08-15T19:40:15-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
 <entry>
@@ -12,17 +12,20 @@
 <published>2016-08-14T00:00:00-06:00</published>
 <updated>2016-08-14T00:00:00-06:00</updated>
 <id>http://localhost:3000/英雄留下</id>
-<content type="html" xml:base="http://localhost:3000/%E8%8B%B1%E9%9B%84%E7%95%99%E4%B8%8B/">&lt;p&gt;激动的时刻，精彩的比赛，才华横溢的选手，有经历才有感动。中国战队Wings在昨天dota2的国际邀请赛的总决赛中干沉了老对手DC。时隔一年再次让中国战队站在世界之巅，背后的付出和汗水不只是游戏玩得好这么简单。&lt;/p&gt;
+<content type="html" xml:base="http://localhost:3000/%E8%8B%B1%E9%9B%84%E7%95%99%E4%B8%8B/">&lt;p&gt;激动的时刻，精彩的比赛，才华横溢的选手，有经历才有感动。中国电子竞技战队Wings在昨天dota2国际邀请赛的总决赛中以绝对的优势和精彩的比赛干沉了美国老牌强队DC。时隔一年再次让中国战队站在世界之巅，背后的付出和汗水不只是游戏玩得好这么简单。&lt;/p&gt;
 
-&lt;p&gt;电子竞技一直是一个非常模糊的概念，到底算不算的上是体育，众说纷纭。直到2013年体育总局才决定成立国家队。从很多层面上来讲，电子竞技选手应有的尊重不应该比任何传统体育项目少。很多人以为电竞选手这是游戏玩的好罢了，这是个很大的误区。需要明白，任何项目只要到竞技层面，想赢得比赛背后的付出需要是值得每一个人的尊重的。&lt;/p&gt;
+&lt;p&gt;电子竞技一直是一个非常模糊的概念，到底算不算得上是体育，众说纷纭。直到2013年3月国家体育总局才决定成立国家队。即便如此，从很多层面上来讲，电竞选手依然没有得到与传统体育选手比肩的尊重。同样是为国争光，为什么会出现如此的局面 ，背后的价值观值得思考。&lt;/p&gt;
 
-&lt;p&gt;还在写…..&lt;/p&gt;
+&lt;p&gt;说起电竞不得不谈《冰封王座》，这个《魔兽争霸3》的续集，在国内掀起的电竞风暴席卷各地。也许暴雪也不曾想到一款自己做的即时战略游戏能给小伙伴们带来如此值得回忆的青春。Sky的两度封王，Moon的冰火双重天，Grubby的世纪大战以及Sweet的绝世翻盘，一切一切的经典时刻，不单单是精彩比赛的呈现，而是她所承载的，我和小伙伴们的青春和友谊。&lt;/p&gt;
 
+&lt;p&gt;后来《魔兽争霸3》的辉煌逐渐被更容易上手和商业模式更聪明的dota2和英雄联盟取代。虽然可惜，但是时代总是要进步的。只要是电子竞技，都会牵动着我们的心，看着国内电竞局面在一点一点的变好，曾经的那份痴情也算是得到了回报。&lt;/p&gt;
+
+&lt;p&gt;我们玩魔兽那会儿，常说 “也许我们玩不了一辈子游戏，但是可以做一辈子朋友”，其中的无奈和心酸也只有经历过才到得出。而今天看到中国战队能在电子竞技的世界舞台上这样辉煌，也算满足了当年我们那帮追风少年没有完成的梦想，当他们把五星红旗带到领奖台的最高处时，一句荡气回肠的“英雄留下”是我们对他们最好的祝福。&lt;/p&gt;
 </content>
 <category term="gaming" />
 <category term="thoughts" />
 <category term="esports" />
-<summary>激动的时刻，精彩的比赛，才华横溢的选手，有经历才有感动。中国战队Wings在昨天dota2的国际邀请赛的总决赛中干沉了老对手DC。时隔一年再次让中国战队站在世界之巅，背后的付出和汗水不只是游戏玩得好这么简单。</summary>
+<summary>激动的时刻，精彩的比赛，才华横溢的选手，有经历才有感动。中国电子竞技战队Wings在昨天dota2国际邀请赛的总决赛中以绝对的优势和精彩的比赛干沉了美国老牌强队DC。时隔一年再次让中国战队站在世界之巅，背后的付出和汗水不只是游戏玩得好这么简单。</summary>
 </entry>
 <entry>
 <title>河东河西</title>
@@ -142,7 +145,7 @@
 
 &lt;p&gt;I heard that a lot of people say coding is easier than it looks, I disagree, coding is not easy at all, in fact, it is hard from lots different aspects. I learned to code in a hard way. It was my sophomore year in college. I was introduced to web programming, precisely HTML and CSS. I could barely follow class speed, and everything professor taught in class was like some irrelevant information, it got into my head, but not my brain.&lt;/p&gt;
 
-&lt;p&gt;When I started to learn JavaScript, it was worse. I didn’t’ understand anything, literally anything. No matter how long I spent, no matter how many times I translated study material into my native language, I just couldn’t wrap my head around of those programming terms. I read books without any comprehension.&lt;/p&gt;
+&lt;p&gt;When I started to learn JavaScript, it was worse. I didn’t understand anything, literally anything. No matter how long I spent, no matter how many times I translated study material into my native language, I just couldn’t wrap my head around of those programming terms. I read books without any comprehension.&lt;/p&gt;
 
 &lt;p&gt;I have never been one of those smart students in class, and I probably will never be. But, that’s okay. To make things happen, I don’t have to be super smart or talented as long as I work hard and willing to improve. There are millions of code snippets out there I can grab if I can’t write my own,  at least I know that I can manipulate them to the way I need. If one code snippet doesn’t work, I will try a different one until I find the one it does. I believe as time goes, I am going to be
 good at what I am doing, all I need is persistence.&lt;/p&gt;
