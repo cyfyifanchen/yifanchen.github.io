@@ -12,7 +12,7 @@ I recently gave a short talk to few iOS development students who are currently i
 
 I heard that a lot of people say coding is easier than it looks, I disagree, coding is not easy at all, in fact, it is hard from lots different aspects. I learned to code in a hard way. It was my sophomore year in college. I was introduced to web programming, precisely HTML and CSS. I could barely follow class speed, and everything professor taught in class was like some irrelevant information, it got into my head, but not my brain.
 
-When I started to learn JavaScript, it was worse. I didn't' understand anything, literally anything. No matter how long I spent, no matter how many times I translated study material into my native language, I just couldn't wrap my head around of those programming terms. I read books without any comprehension.
+When I started to learn JavaScript, it was worse. I didn't understand anything, literally anything. No matter how long I spent, no matter how many times I translated study material into my native language, I just couldn't wrap my head around of those programming terms. I read books without any comprehension.
 
 I have never been one of those smart students in class, and I probably will never be. But, that's okay. To make things happen, I don't have to be super smart or talented as long as I work hard and willing to improve. There are millions of code snippets out there I can grab if I can't write my own,  at least I know that I can manipulate them to the way I need. If one code snippet doesn't work, I will try a different one until I find the one it does. I believe as time goes, I am going to be
 good at what I am doing, all I need is persistence.
