@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-08-25T15:31:54-06:00</updated>
+<updated>2016-08-25T16:03:58-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
 <entry>
@@ -14,24 +14,24 @@
 <id>http://localhost:3000/苹果玩游戏</id>
 <content type="html" xml:base="http://localhost:3000/%E8%8B%B9%E6%9E%9C%E7%8E%A9%E6%B8%B8%E6%88%8F/">&lt;p&gt;貌似很多人对Mac电脑打游戏有误区，我来科普一下。大家都明白，显卡的好坏直接影响到游戏的效果。其实，显卡只是硬件方面对游戏产生的影响。软件方面，也同样重要。我们平常所说的Mac不是用来打游戏的里面包含的就是这两个部分，显卡和图形API。&lt;/p&gt;
 
-&lt;p&gt;我们今天主要讨论一下图形API对游戏的影响，至于显卡硬件，仁者见仁。改天讨论。首先， 我们来 解释一下为什么图形API会对游戏产生影响。一个不恰当的例子，如果你有一个上等的食材（显卡），不经过加工（图形API），你也无法感受到食材的味道（游戏效果）。其实就是这么简单，只有显卡和图形API同时好的情况下，游戏效果才会格外给力。如果只有好的显卡而没有好的图形API, 就是有力使不出，郁闷到不行。&lt;/p&gt;
+&lt;p&gt;我们今天主要讨论一下图形API对游戏的影响，至于显卡硬件，仁者见仁。改天讨论。首先， 我们来解释一下为什么图形API会对游戏产生影响。一个不恰当的例子，如果你有一个上等的食材（显卡），不经过加工（图形API），你也无法感受到食材的味道（游戏效果）。其实就是这么简单，只有显卡和图形API同时好的情况下，游戏效果才会格外给力。如果只有好的显卡而没有好的图形API, 就是有力使不出，郁闷到不行。&lt;/p&gt;
 
 &lt;p&gt;然后，我们来总结一下市面上现有的图形API。&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;DirectX: 微软的自己技术，并没有开源，所以微软自己一直在用。&lt;/li&gt;
-  &lt;li&gt;OpenGL: 一个很老的图形API，霸占市场多年，除了微软，其他都在用它。&lt;/li&gt;
-  &lt;li&gt;Vulkan：一个比较新技术，  支持Android, Windows和Linux。&lt;/li&gt;
-  &lt;li&gt;Metal: 苹果自己的技术，已经被应用在iOS和macOS上面了。&lt;/li&gt;
+  &lt;li&gt;DirectX: 微软的自己技术，只能用在Windows平台上面。&lt;/li&gt;
+  &lt;li&gt;OpenGL: 一个老牌的图形API，霸占市场多年, 正在走下坡路。&lt;/li&gt;
+  &lt;li&gt;Vulkan：一个被谷歌重视的新技术，支持Android, Windows和Linux。&lt;/li&gt;
+  &lt;li&gt;Metal: 苹果自己的技术，已经被应用在iOS和macOS上面了，而且效果明显。&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4 id=&quot;directx&quot;&gt;DirectX&lt;/h4&gt;
 
-&lt;p&gt;这个是微软自己的技术，没有开源，不花太多时间来讲，不然跑题了。&lt;/p&gt;
+&lt;p&gt;这个是微软自己的技术，没有开源，所以长期以来很多游戏开发商都是在DirectX先开发，然后再引入到OpenGL上面，结果就是性能效果差了灰常多。这可以解释为什么同样的配置，Mac玩游戏比不上Windows的原因之一。&lt;/p&gt;
 
 &lt;h4 id=&quot;opengl&quot;&gt;OpenGL&lt;/h4&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://u.yablyk.com/2014/06/metal-vs-opengl.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/opengl1.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;OpenGL是Silicon Graphics的技术，在业内也算是比较臭名昭著了。简单来说，他们不思进取，不求创新，很多游戏厂商，还有科技公司都合作的不开心。同样的，在苹果没有自己的技术之前，不得不用OpenGL，然后由于OpenGL在开发，算法上面很落后，各种夹层让游戏开发商和显卡制造商没法优化，从而达不到应有的游戏效果。当然，OpenGL这种无节操做法的后果就是，各个公司不跟你玩儿了，都开始开发自己图形API技术。所以，OpenGL骚不了多久了。&lt;/p&gt;
 
@@ -41,13 +41,13 @@
 
 &lt;h4 id=&quot;metal&quot;&gt;Metal&lt;/h4&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://photos.appleinsidercdn.com/gallery/13162-7625-0e2d339400c1558dbad535dfd598b1639f2ee76a_large_2x-l.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/metal.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Metal是苹果自己的图形API，是在WWDC 2014上面介绍给iOS的，在WWDC 2015上面又公布了会来macOS的好消息。 根据苹果介绍Metal可以有效的把游戏的画面提升一半以上。最好的例子就是，现在所有在iOS上面玩的游戏都是用Meal开发的。拿起来和Android比较的话，有过之而无不及。这里就不提Windows了，你懂的。当然，更令人开心的是，Metal已经在El Captain上面蓄势待发中。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://images.apple.com/live/2015-june-event/images/f898e89b684ed1ca8cc34d76ddf23e2c8fced224_expanded_medium.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/game-makers.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;那么我们现在知道图形API对游戏有至关重要的作用，只要游戏开发者们愿意开发在Metal上面，Mac Gaming只是时间问题。更令人激动的是，暴雪《魔兽世界》Metal的内测版本已经发布了， 随后就是《风暴英雄》和《星际争霸》。&lt;/p&gt;
+&lt;p&gt;那么我们现在知道图形API对游戏有至关重要的作用，只要游戏开发者们愿意开发在Metal上面，Mac Gaming只是时间问题。更令人激动的是，很多游戏厂商已经开始开发自己游戏的Metal版本了，比如暴雪《魔兽世界》Metal的内测版本已经发布了， 随后就是《风暴英雄》和《星际争霸》。&lt;/p&gt;
 
 &lt;p&gt;好了，讲了这么多，基本就是想科普一下为什么Mac不是所谓的玩游戏的电脑。显卡的好坏只是最表面的一方面，软件也起了非常重要的作用。还是那句话，在这个颜值当道的年代，被忽略的往往是看不到的内涵。&lt;/p&gt;
 
