@@ -3,14 +3,14 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-08-25T15:12:31-06:00</updated>
+<updated>2016-08-25T15:18:35-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
 <entry>
 <title>苹果玩游戏</title>
 <link href="http://localhost:3000/%E8%8B%B9%E6%9E%9C%E7%8E%A9%E6%B8%B8%E6%88%8F/" rel="alternate" type="text/html" title="苹果玩游戏" />
-<published>2016-08-14T00:00:00-06:00</published>
-<updated>2016-08-14T00:00:00-06:00</updated>
+<published>2016-08-25T00:00:00-06:00</published>
+<updated>2016-08-25T00:00:00-06:00</updated>
 <id>http://localhost:3000/苹果玩游戏</id>
 <content type="html" xml:base="http://localhost:3000/%E8%8B%B9%E6%9E%9C%E7%8E%A9%E6%B8%B8%E6%88%8F/">&lt;p&gt;貌似很多人对Mac电脑打游戏有误区，我来科普一下。大家都明白，显卡的好坏直接影响到游戏的效果。其实，显卡只是硬件方面对游戏产生的影响。软件方面，也同样重要。我们平常所说的Mac不是用来打游戏的里面包含的就是这两个部分，显卡和图形API。&lt;/p&gt;
 
@@ -46,9 +46,8 @@
 &lt;p&gt;好了，讲了这么多，基本就是想科普一下为什么Mac不是所谓的玩游戏的电脑。显卡的好坏只是最表面的一方面，软件也起了非常重要的作用。还是那句话，在这个颜值当道的年代，被忽略的往往是看不到的内涵。&lt;/p&gt;
 
 </content>
-<category term="gaming" />
-<category term="thoughts" />
-<category term="esports" />
+<category term="Apple" />
+<category term="Mac Gaming" />
 <summary>貌似很多人对Mac电脑打游戏有误区，我来科普一下。大家都明白，显卡的好坏直接影响到游戏的效果。其实，显卡只是硬件方面对游戏产生的影响。软件方面，也同样重要。我们平常所说的Mac不是用来打游戏的里面包含的就是这两个部分，显卡和图形API。</summary>
 </entry>
 <entry>
