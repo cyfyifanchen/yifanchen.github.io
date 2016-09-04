@@ -1,7 +1,7 @@
 ---
-title: "Grunt ES5 Starterkit"
+title: "Grunt ES2015 Starterkit"
 layout: post
-date: 2016-07-12
+date: 2016-09-03
 tag:
 - Projects
 - Grunt ES2015 Starterkit
