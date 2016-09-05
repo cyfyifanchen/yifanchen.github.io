@@ -3,9 +3,20 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-09-03T18:33:33-06:00</updated>
+<updated>2016-09-04T21:34:52-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
+<entry>
+<title>Grunt ES2015 Starterkit</title>
+<link href="http://localhost:3000/Grunt-ES5-Starterkit/" rel="alternate" type="text/html" title="Grunt ES2015 Starterkit" />
+<published>2016-09-03T00:00:00-06:00</published>
+<updated>2016-09-03T00:00:00-06:00</updated>
+<id>http://localhost:3000/Grunt-ES5-Starterkit</id>
+<content type="html" xml:base="http://localhost:3000/Grunt-ES5-Starterkit/">
+</content>
+<category term="Projects" />
+<category term="Grunt ES2015 Starterkit" />
+</entry>
 <entry>
 <title>苹果玩游戏</title>
 <link href="http://localhost:3000/%E8%8B%B9%E6%9E%9C%E7%8E%A9%E6%B8%B8%E6%88%8F/" rel="alternate" type="text/html" title="苹果玩游戏" />
@@ -136,17 +147,6 @@
 <category term="Vim" />
 <category term="thoughts" />
 <summary>I installed vim-orgmode to my Vim yesterday. For those of you, who haven’t heard Org-mode, it is an editing and organizing mode for notes, planning, and authoring in Emacs. It is a must have for all Emacs users. I strongly recommend you to watch this video on youtube. It will mostly likely change your view of how powerful something can be. Due to Org-mode’s popularity, someone awesome created a orgmode for vim on Github. I found it and installed it. Thanks for the open source community, life is beautiful because of you. I like Vim as a text editor, like Emacs as an environment(no offense to Emacs users, I honestly think Emacs is too powerful to be a text editor).</summary>
-</entry>
-<entry>
-<title>Grunt ES5 Starterkit</title>
-<link href="http://localhost:3000/Grunt-ES5-Starterkit/" rel="alternate" type="text/html" title="Grunt ES5 Starterkit" />
-<published>2016-07-12T00:00:00-06:00</published>
-<updated>2016-07-12T00:00:00-06:00</updated>
-<id>http://localhost:3000/Grunt-ES5-Starterkit</id>
-<content type="html" xml:base="http://localhost:3000/Grunt-ES5-Starterkit/">
-</content>
-<category term="Projects" />
-<category term="Grunt ES2015 Starterkit" />
 </entry>
 <entry>
 <title>Progressive Web App</title>
