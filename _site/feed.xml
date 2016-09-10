@@ -3,16 +3,16 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-09-04T21:34:52-06:00</updated>
+<updated>2016-09-09T22:24:34-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
 <entry>
 <title>Grunt ES2015 Starterkit</title>
-<link href="http://localhost:3000/Grunt-ES5-Starterkit/" rel="alternate" type="text/html" title="Grunt ES2015 Starterkit" />
+<link href="http://localhost:3000/Grunt-ES6-Starterkit/" rel="alternate" type="text/html" title="Grunt ES2015 Starterkit" />
 <published>2016-09-03T00:00:00-06:00</published>
 <updated>2016-09-03T00:00:00-06:00</updated>
-<id>http://localhost:3000/Grunt-ES5-Starterkit</id>
-<content type="html" xml:base="http://localhost:3000/Grunt-ES5-Starterkit/">
+<id>http://localhost:3000/Grunt-ES6-Starterkit</id>
+<content type="html" xml:base="http://localhost:3000/Grunt-ES6-Starterkit/">
 </content>
 <category term="Projects" />
 <category term="Grunt ES2015 Starterkit" />
