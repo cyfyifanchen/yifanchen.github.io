@@ -3,9 +3,22 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-09-12T23:58:09-06:00</updated>
+<updated>2016-09-18T09:53:58-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
+<entry>
+<title>无题</title>
+<link href="http://localhost:3000/%E6%97%A0%E9%A2%98/" rel="alternate" type="text/html" title="无题" />
+<published>2016-09-18T00:00:00-06:00</published>
+<updated>2016-09-18T00:00:00-06:00</updated>
+<id>http://localhost:3000/无题</id>
+<content type="html" xml:base="http://localhost:3000/%E6%97%A0%E9%A2%98/">&lt;p&gt;有一种心态是，我们都会倾向于为自己的付出叫好。不管这种付出的方式是哪种，心态，形态，物质，或者感受。结果，叫好的同时，忽略了客观的理性。有些东西说起来容易，做起来难。错和痛，不试永远不知道。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;{{site.url}}assets/images/nameless.jpg&quot; /&gt;&lt;/p&gt;
+</content>
+<category term="thoughts" />
+<summary>有一种心态是，我们都会倾向于为自己的付出叫好。不管这种付出的方式是哪种，心态，形态，物质，或者感受。结果，叫好的同时，忽略了客观的理性。有些东西说起来容易，做起来难。错和痛，不试永远不知道。</summary>
+</entry>
 <entry>
 <title>Grunt ES2015 Starterkit</title>
 <link href="http://localhost:3000/Grunt-ES6-Starterkit/" rel="alternate" type="text/html" title="Grunt ES2015 Starterkit" />
@@ -181,19 +194,5 @@
 <category term="Projects" />
 <category term="Redux" />
 <category term="React" />
-</entry>
-<entry>
-<title>奔跑吧，魔兽骚年</title>
-<link href="http://localhost:3000/warcraft-boy/" rel="alternate" type="text/html" title="奔跑吧，魔兽骚年" />
-<published>2016-07-05T00:00:00-06:00</published>
-<updated>2016-07-05T00:00:00-06:00</updated>
-<id>http://localhost:3000/warcraft-boy</id>
-<content type="html" xml:base="http://localhost:3000/warcraft-boy/">&lt;p&gt;正在写…&lt;/p&gt;
-
-&lt;p&gt;-本文纪念我和小伙伴们那逝去的青春。&lt;/p&gt;
-</content>
-<category term="story" />
-<category term="魔兽骚年" />
-<summary>正在写…</summary>
 </entry>
 </feed>
