@@ -45,10 +45,6 @@
 <lastmod>2016-07-06T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:3000/warcraft-boy/</loc>
-<lastmod>2016-07-05T00:00:00-06:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:3000/today-is-present/</loc>
 <lastmod>2016-07-04T00:00:00-06:00</lastmod>
 </url>
@@ -95,10 +91,6 @@
 <url>
 <loc>http://localhost:3000/about-captain-america-civil-war/</loc>
 <lastmod>2016-05-17T00:00:00-06:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:3000/about-visa/</loc>
-<lastmod>2016-05-06T00:00:00-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:3000/two-weeks-of-neovim/</loc>
