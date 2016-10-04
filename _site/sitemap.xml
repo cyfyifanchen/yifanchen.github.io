@@ -2,7 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:3000/%25E6%258A%2584%25E8%25A2%25AD%25E4%25B8%258E%25E5%2588%259B%25E6%2596%25B0/</loc>
-<lastmod>2016-09-27T00:00:00-06:00</lastmod>
+<lastmod>2016-10-03T00:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:3000/%25E6%258A%2584%25E8%25A2%25AD%25E4%25B8%258E%25E5%2588%259B%25E6%2596%25B0/</loc>
+<lastmod>2016-10-03T00:00:00-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:3000/%25E6%2597%25A0%25E9%25A2%2598/</loc>
