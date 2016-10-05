@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-10-05T11:30:00-06:00</updated>
+<updated>2016-10-05T15:23:47-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
 <entry>
@@ -12,17 +12,36 @@
 <published>2016-10-03T00:00:00-06:00</published>
 <updated>2016-10-03T00:00:00-06:00</updated>
 <id>http://localhost:3000/virtual-reality</id>
-<content type="html" xml:base="http://localhost:3000/virtual-reality/">
+<content type="html" xml:base="http://localhost:3000/virtual-reality/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/direction.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Virtual Reality，一个最近获得不能再火的东西。个大科技公司也都不愿意错过的东西，本编博文预测一下接下来今几年VR的发展方向。&lt;/p&gt;
+
+&lt;p&gt;Let’s about Virtual Reality. To have a better understanding of VR, please visit my previous blog to learn more.&lt;/p&gt;
+
+&lt;p&gt;VR, AR, MR,&lt;/p&gt;
+
+&lt;p&gt;Input&lt;/p&gt;
+
+&lt;p&gt;Interaction&lt;/p&gt;
+
+&lt;p&gt;Undoiboutly interaction is the biggest challenge VR is facing now.&lt;/p&gt;
+
+&lt;p&gt;Revelutiokn&lt;/p&gt;
+
+&lt;p&gt;Technology&lt;/p&gt;
+
+&lt;p&gt;Service&lt;/p&gt;
 </content>
 <category term="thoughts" />
+<summary></summary>
 </entry>
 <entry>
 <title>抄袭与创新</title>
-<link href="http://localhost:3000/%E6%8A%84%E8%A2%AD%E4%B8%8E%E5%88%9B%E6%96%B0/" rel="alternate" type="text/html" title="抄袭与创新" />
+<link href="http://localhost:3000/copycat/" rel="alternate" type="text/html" title="抄袭与创新" />
 <published>2016-10-03T00:00:00-06:00</published>
 <updated>2016-10-03T00:00:00-06:00</updated>
-<id>http://localhost:3000/抄袭与创新</id>
-<content type="html" xml:base="http://localhost:3000/%E6%8A%84%E8%A2%AD%E4%B8%8E%E5%88%9B%E6%96%B0/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/innovation.jpg&quot; /&gt;&lt;/p&gt;
+<id>http://localhost:3000/copycat</id>
+<content type="html" xml:base="http://localhost:3000/copycat/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/innovation.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;抄袭与创新，两个在语义上毫无关系的词，在这个互联网时代被赋予了新的意境，同时之间的关系也越加微妙起来。客观来讲，很多伟大的创新都是从抄袭开始的。&lt;/p&gt;
 
@@ -40,13 +59,15 @@
 </entry>
 <entry>
 <title>无题</title>
-<link href="http://localhost:3000/%E6%97%A0%E9%A2%98/" rel="alternate" type="text/html" title="无题" />
+<link href="http://localhost:3000/untitled/" rel="alternate" type="text/html" title="无题" />
 <published>2016-09-18T00:00:00-06:00</published>
 <updated>2016-09-18T00:00:00-06:00</updated>
-<id>http://localhost:3000/无题</id>
-<content type="html" xml:base="http://localhost:3000/%E6%97%A0%E9%A2%98/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/nameless.jpg&quot; /&gt;&lt;/p&gt;
+<id>http://localhost:3000/untitled</id>
+<content type="html" xml:base="http://localhost:3000/untitled/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/nameless.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;有一种心态是，我们都会倾向于为自己的付出叫好。不管这种付出的方式是哪种，心态，形态，物质，或者感受。结果，叫好的同时，忽略了客观的理性。有些东西说起来容易，做起来难。错和痛，不试永远不知道。&lt;/p&gt;
+&lt;p&gt;有一种心态是，我们都会倾向于为自己的付出叫好。不管这种付出的形式是哪种，心态，形态，物质，或者感受。结果，叫好的同时，忽略了客观的理性。有些东西说起来容易，做起来难。错和痛，不试永远不知道。&lt;/p&gt;
+
+&lt;p&gt;失去才会懂得珍惜，寂寞的相伴才有沉淀。&lt;/p&gt;
 
 </content>
 <category term="thoughts" />
@@ -65,11 +86,11 @@
 </entry>
 <entry>
 <title>苹果玩游戏</title>
-<link href="http://localhost:3000/%E8%8B%B9%E6%9E%9C%E7%8E%A9%E6%B8%B8%E6%88%8F/" rel="alternate" type="text/html" title="苹果玩游戏" />
+<link href="http://localhost:3000/mac-gaming/" rel="alternate" type="text/html" title="苹果玩游戏" />
 <published>2016-08-25T00:00:00-06:00</published>
 <updated>2016-08-25T00:00:00-06:00</updated>
-<id>http://localhost:3000/苹果玩游戏</id>
-<content type="html" xml:base="http://localhost:3000/%E8%8B%B9%E6%9E%9C%E7%8E%A9%E6%B8%B8%E6%88%8F/">&lt;p&gt;貌似很多人对Mac电脑打游戏有误区，我来科普一下。大家都明白，显卡的好坏直接影响到游戏的效果。其实，显卡只是硬件方面对游戏产生的影响。软件方面，也同样重要。我们平常所说的Mac不是用来打游戏的里面包含的就是这两个部分，显卡和图形API。&lt;/p&gt;
+<id>http://localhost:3000/mac-gaming</id>
+<content type="html" xml:base="http://localhost:3000/mac-gaming/">&lt;p&gt;貌似很多人对Mac电脑打游戏有误区，我来科普一下。大家都明白，显卡的好坏直接影响到游戏的效果。其实，显卡只是硬件方面对游戏产生的影响。软件方面，也同样重要。我们平常所说的Mac不是用来打游戏的里面包含的就是这两个部分，显卡和图形API。&lt;/p&gt;
 
 &lt;p&gt;我们今天主要讨论一下图形API对游戏的影响，至于显卡硬件，仁者见仁。改天讨论。首先， 我们来解释一下为什么图形API会对游戏产生影响。一个不恰当的例子，如果你有一个上等的食材（显卡），不经过加工（图形API），你也无法感受到食材的味道（游戏效果）。其实就是这么简单，只有显卡和图形API同时好的情况下，游戏效果才会格外给力。如果只有好的显卡而没有好的图形API, 就是有力使不出，郁闷到不行。&lt;/p&gt;
 
@@ -115,11 +136,11 @@
 </entry>
 <entry>
 <title>英雄留下</title>
-<link href="http://localhost:3000/%E8%8B%B1%E9%9B%84%E7%95%99%E4%B8%8B/" rel="alternate" type="text/html" title="英雄留下" />
+<link href="http://localhost:3000/dota/" rel="alternate" type="text/html" title="英雄留下" />
 <published>2016-08-14T00:00:00-06:00</published>
 <updated>2016-08-14T00:00:00-06:00</updated>
-<id>http://localhost:3000/英雄留下</id>
-<content type="html" xml:base="http://localhost:3000/%E8%8B%B1%E9%9B%84%E7%95%99%E4%B8%8B/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/gaming.jpg&quot; /&gt;&lt;/p&gt;
+<id>http://localhost:3000/dota</id>
+<content type="html" xml:base="http://localhost:3000/dota/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/gaming.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;激动的时刻，精彩的比赛，才华横溢的选手，有经历才有感动。中国电子竞技战队Wings在昨天《DOTA2》国际邀请赛的总决赛中以绝对的优势和精彩的比赛干沉了美国老牌强队DC。时隔一年再次让中国战队站在世界之巅，背后的付出和汗水不只是游戏玩得好这么简单。&lt;/p&gt;
 
