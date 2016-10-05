@@ -3,9 +3,19 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-10-04T15:38:34-06:00</updated>
+<updated>2016-10-05T11:14:32-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
+<entry>
+<title>Virtual Reality</title>
+<link href="http://localhost:3000/virtual-reality/" rel="alternate" type="text/html" title="Virtual Reality" />
+<published>2016-10-03T00:00:00-06:00</published>
+<updated>2016-10-03T00:00:00-06:00</updated>
+<id>http://localhost:3000/virtual-reality</id>
+<content type="html" xml:base="http://localhost:3000/virtual-reality/">
+</content>
+<category term="thoughts" />
+</entry>
 <entry>
 <title>抄袭与创新</title>
 <link href="http://localhost:3000/%E6%8A%84%E8%A2%AD%E4%B8%8E%E5%88%9B%E6%96%B0/" rel="alternate" type="text/html" title="抄袭与创新" />
@@ -34,12 +44,13 @@
 <published>2016-09-18T00:00:00-06:00</published>
 <updated>2016-09-18T00:00:00-06:00</updated>
 <id>http://localhost:3000/无题</id>
-<content type="html" xml:base="http://localhost:3000/%E6%97%A0%E9%A2%98/">&lt;p&gt;有一种心态是，我们都会倾向于为自己的付出叫好。不管这种付出的方式是哪种，心态，形态，物质，或者感受。结果，叫好的同时，忽略了客观的理性。有些东西说起来容易，做起来难。错和痛，不试永远不知道。&lt;/p&gt;
+<content type="html" xml:base="http://localhost:3000/%E6%97%A0%E9%A2%98/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/nameless.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/nameless.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;有一种心态是，我们都会倾向于为自己的付出叫好。不管这种付出的方式是哪种，心态，形态，物质，或者感受。结果，叫好的同时，忽略了客观的理性。有些东西说起来容易，做起来难。错和痛，不试永远不知道。&lt;/p&gt;
+
 </content>
 <category term="thoughts" />
-<summary>有一种心态是，我们都会倾向于为自己的付出叫好。不管这种付出的方式是哪种，心态，形态，物质，或者感受。结果，叫好的同时，忽略了客观的理性。有些东西说起来容易，做起来难。错和痛，不试永远不知道。</summary>
+<summary></summary>
 </entry>
 <entry>
 <title>Grunt ES2015 Starterkit</title>
@@ -108,7 +119,9 @@
 <published>2016-08-14T00:00:00-06:00</published>
 <updated>2016-08-14T00:00:00-06:00</updated>
 <id>http://localhost:3000/英雄留下</id>
-<content type="html" xml:base="http://localhost:3000/%E8%8B%B1%E9%9B%84%E7%95%99%E4%B8%8B/">&lt;p&gt;激动的时刻，精彩的比赛，才华横溢的选手，有经历才有感动。中国电子竞技战队Wings在昨天《DOTA2》国际邀请赛的总决赛中以绝对的优势和精彩的比赛干沉了美国老牌强队DC。时隔一年再次让中国战队站在世界之巅，背后的付出和汗水不只是游戏玩得好这么简单。&lt;/p&gt;
+<content type="html" xml:base="http://localhost:3000/%E8%8B%B1%E9%9B%84%E7%95%99%E4%B8%8B/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/gaming.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;激动的时刻，精彩的比赛，才华横溢的选手，有经历才有感动。中国电子竞技战队Wings在昨天《DOTA2》国际邀请赛的总决赛中以绝对的优势和精彩的比赛干沉了美国老牌强队DC。时隔一年再次让中国战队站在世界之巅，背后的付出和汗水不只是游戏玩得好这么简单。&lt;/p&gt;
 
 &lt;p&gt;电子竞技一直是一个非常模糊的概念，到底算不算得上是体育，众说纷纭。直到2013年3月国家体育总局才决定成立国家队。即便如此，从很多层面上来讲，电竞选手依然没有得到与传统体育选手比肩的尊重。同样是为国争光，为什么会出现如此的局面 ，背后的价值观值得思考。&lt;/p&gt;
 
@@ -121,7 +134,7 @@
 <category term="gaming" />
 <category term="thoughts" />
 <category term="esports" />
-<summary>激动的时刻，精彩的比赛，才华横溢的选手，有经历才有感动。中国电子竞技战队Wings在昨天《DOTA2》国际邀请赛的总决赛中以绝对的优势和精彩的比赛干沉了美国老牌强队DC。时隔一年再次让中国战队站在世界之巅，背后的付出和汗水不只是游戏玩得好这么简单。</summary>
+<summary></summary>
 </entry>
 <entry>
 <title>河东河西</title>
@@ -129,7 +142,9 @@
 <published>2016-07-31T00:00:00-06:00</published>
 <updated>2016-07-31T00:00:00-06:00</updated>
 <id>http://localhost:3000/river-east-river-west</id>
-<content type="html" xml:base="http://localhost:3000/river-east-river-west/">&lt;p&gt;华为和小米相继出笔记本了，虽然手机到电脑算不上行业的跨度，但是其目的不仅仅是瓜分电脑市场这么简单，背后的野心更是让人眼前一亮。纵观国内日益强大的科技业，产品丰富且个性化，非常令人期待看到未来几年中国科技业对世界科技圈的冲击。&lt;/p&gt;
+<content type="html" xml:base="http://localhost:3000/river-east-river-west/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/rivers.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;华为和小米相继出笔记本了，虽然手机到电脑算不上行业的跨度，但是其目的不仅仅是瓜分电脑市场这么简单，背后的野心更是让人眼前一亮。纵观国内日益强大的科技业，产品丰富且个性化，非常令人期待看到未来几年中国科技业对世界科技圈的冲击。&lt;/p&gt;
 
 &lt;p&gt;乔布斯说过，日本人很善于做精巧的小玩意儿。从索尼早期标志性的产品Walkman, 任天堂的Gameboy到后来的各种品牌CD机，日本品牌在小型电子产品上的造诣绝对是垄断级别的。 而索尼这个在全球拥有众多粉丝的日本品牌在无论是在企业管理，品牌运营以及工业设计上面都让乔布斯折服。今天，索尼年年亏损，不得不放弃各种业务来保留那一份最后的情怀。&lt;/p&gt;
 
@@ -144,7 +159,7 @@
 </content>
 <category term="technologies" />
 <category term="thoughts" />
-<summary>华为和小米相继出笔记本了，虽然手机到电脑算不上行业的跨度，但是其目的不仅仅是瓜分电脑市场这么简单，背后的野心更是让人眼前一亮。纵观国内日益强大的科技业，产品丰富且个性化，非常令人期待看到未来几年中国科技业对世界科技圈的冲击。</summary>
+<summary></summary>
 </entry>
 <entry>
 <title>Thoughts of Three Days Conference at Downtown San Francisco</title>
@@ -193,16 +208,5 @@
 </content>
 <category term="Projects" />
 <category term="Progressive Web App" />
-</entry>
-<entry>
-<title>Node Server</title>
-<link href="http://localhost:3000/node-server/" rel="alternate" type="text/html" title="Node Server" />
-<published>2016-07-09T00:00:00-06:00</published>
-<updated>2016-07-09T00:00:00-06:00</updated>
-<id>http://localhost:3000/node-server</id>
-<content type="html" xml:base="http://localhost:3000/node-server/">
-</content>
-<category term="Projects" />
-<category term="Node" />
 </entry>
 </feed>
