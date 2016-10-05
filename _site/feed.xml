@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-10-05T11:14:32-06:00</updated>
+<updated>2016-10-05T11:30:00-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
 <entry>
@@ -162,12 +162,12 @@
 <summary></summary>
 </entry>
 <entry>
-<title>Thoughts of Three Days Conference at Downtown San Francisco</title>
-<link href="http://localhost:3000/thoughts-of-three-days-conference/" rel="alternate" type="text/html" title="Thoughts of Three Days Conference at Downtown San Francisco" />
+<title>Conference</title>
+<link href="http://localhost:3000/conference/" rel="alternate" type="text/html" title="Conference" />
 <published>2016-07-30T00:00:00-06:00</published>
 <updated>2016-07-30T00:00:00-06:00</updated>
-<id>http://localhost:3000/thoughts-of-three-days-conference</id>
-<content type="html" xml:base="http://localhost:3000/thoughts-of-three-days-conference/">&lt;p&gt;I spent three days in downtown San Francisco for ForwardJS Conference this week. It has been fun, attending the conference is the purpose of the trip. Immersing in the city is a bonus to the plan.&lt;/p&gt;
+<id>http://localhost:3000/conference</id>
+<content type="html" xml:base="http://localhost:3000/conference/">&lt;p&gt;I spent three days in downtown San Francisco for ForwardJS Conference this week. It has been fun, attending the conference is the purpose of the trip. Immersing in the city is a bonus to the plan.&lt;/p&gt;
 
 &lt;p&gt;I have been in southern California many times, but San Francisco was my first stop in the north. The weather gets chilly in the mornings and nights. Some areas can be foggy at sunset. Daytime temperature is a lot warmer than mornings and nights, so better have a jacket handy. If I don’t happen to be a summer animal, I would like the weather more. I was glad I checked the weather before, so I took a jacket with me, it was not useless at all.&lt;/p&gt;
 

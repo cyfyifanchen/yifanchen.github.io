@@ -8,6 +8,8 @@ blog: true
 star: false
 ---
 
+<img src="{{site.url}}/assets/images/present.jpg" />
+
 I recently gave a short talk to few iOS development students who are currently in Code Camp busting their asses to finish projects. I am very proud of them. Decisions were not easy to make when they wanted to change careers, especially when some of them have families. Most students ditched their no-future careers, then entirely dedicated to intensive Code Camp courses, hopefully, coming out with great skill sets to find jobs that they like.
 
 I heard that a lot of people say coding is easier than it looks, I disagree, coding is not easy at all, in fact, it is hard from lots different aspects. I learned to code in a hard way. It was my sophomore year in college. I was introduced to web programming, precisely HTML and CSS. I could barely follow class speed, and everything professor taught in class was like some irrelevant information, it got into my head, but not my brain.

@@ -1,5 +1,5 @@
 ---
-title: "Thoughts of Three Days Conference at Downtown San Francisco"
+title: "Conference"
 layout: post
 date: 2016-07-30
 tag:
