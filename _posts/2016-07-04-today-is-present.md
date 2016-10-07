@@ -21,4 +21,4 @@ good at what I am doing, all I need is persistence.
 
 People tend to say no to new things. It is a Human Nature. You feel vulnerable when you learn, nobody likes that feeling. However, look at the bright side, whenever you are feeling vulnerable, it means you are learning, feeling weak is just the first step of becoming better. The thing is you have to believe in yourself and invest yourself. People often say that if you don't even believe in yourself, why should anyone else?
 
-In the end, to make this blog post wise. I'd like to quote from Master Oogway, *Don't be too concerned with what was and what will be. There's a saying, yesterday is a history, tomorrow is a mystery, today is a gift, that is why it's called present.*
+Last but not least, I'd like to quote from Master Oogway, *Don't be too concerned with what was and what will be. There's a saying, yesterday is a history, tomorrow is a mystery, today is a gift, that is why it's called present.*
