@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-10-05T16:42:37-06:00</updated>
+<updated>2016-10-06T22:05:46-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
 <entry>
@@ -18,19 +18,62 @@
 
 &lt;h2 id=&quot;section&quot;&gt;种类&lt;/h2&gt;
 
-&lt;p&gt;虚拟现实就是VR, 英语Virtual Reality的缩写。同时还有AR(Augmented Reality), MR(Mixed Reality), CR(Cinematic Reality). 后面的3个都是在VR的基础上延伸出来的。理由很简单，VR在几天的技术下有相当的局限性。&lt;/p&gt;
+&lt;p&gt;虚拟现实就是VR, 英语Virtual Reality的缩写。同时还有AR(Augmented Reality), MR(Mixed Reality), CR(Cinematic Reality). 后面的3个都是在VR的基础上延伸出来的。理由很简单，VR在今天的技术下有相当的局限性。可以这样理解，后面的3个R都是在VR的概念上加以改变来服务当下的需求。所以，有理由相信接下来的几年会出现更多的R。&lt;/p&gt;
 
 &lt;h2 id=&quot;section-1&quot;&gt;交互&lt;/h2&gt;
 
+&lt;p&gt;交互，交流互动的简写。这个在5年前完全不存在的词，在今天被频繁提及到。如果说过去的我们是适应工具，那么今天是工具适应我们。如何有效得和产品进行交流互动是今天产品设计上面很重要的一环，更直接影响到用户体验。所以说，只有内外兼具的产品才会深得人心。&lt;/p&gt;
+
+&lt;p&gt;那么，交互在VR是什么一种情况呢？首先，我们需要列出2016年市面上有的VR产品:&lt;/p&gt;
+
+&lt;table align=&quot;center&quot; style=&quot;border:1px solid lightgray; width:400px; color:#666; padding:10px;&quot;&gt;
+    &lt;tr&gt;
+      &lt;td align=&quot;left&quot;&gt;&lt;b&gt;Company&lt;/b&gt;&lt;/td&gt;
+      &lt;td align=&quot;left&quot;&gt;&lt;b&gt;Hardware&lt;/b&gt;&lt;/td&gt;
+      &lt;td align=&quot;left&quot;&gt;&lt;b&gt;Platform&lt;/b&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td align=&quot;left&quot;&gt;Google&lt;/td&gt;
+      &lt;td align=&quot;left&quot;&gt;Cardboard&lt;/td&gt;
+      &lt;td align=&quot;left&quot;&gt;Daydream&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td align=&quot;left&quot;&gt;Microsoft&lt;/td&gt;
+        &lt;td align=&quot;left&quot;&gt;Hololens&lt;/td&gt;
+        &lt;td align=&quot;left&quot;&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td align=&quot;left&quot;&gt;Sony&lt;/td&gt;
+        &lt;td align=&quot;left&quot;&gt;PlayStation VR&lt;/td&gt;
+        &lt;td align=&quot;left&quot;&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td align=&quot;left&quot;&gt;Facebook&lt;/td&gt;
+        &lt;td align=&quot;left&quot;&gt;Oculus Rift&lt;/td&gt;
+        &lt;td align=&quot;left&quot;&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td align=&quot;left&quot;&gt;HTC&lt;/td&gt;
+        &lt;td align=&quot;left&quot;&gt;Vive&lt;/td&gt;
+        &lt;td align=&quot;left&quot;&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td align=&quot;left&quot;&gt;Samsung&lt;/td&gt;
+        &lt;td align=&quot;left&quot;&gt;Gear VR&lt;/td&gt;
+        &lt;td align=&quot;left&quot;&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;很明显，这些产品都是都是头戴式显示器(HMD - Head Mounted Display）。记得小时候去科技馆学习天文，沉浸在一个球形的大房间里面通过180度的显示器观看太阳系的结构，那是我第一次感受VR。今天，头戴式显示器的目的就是要把VR平民化，给开发者提供一个平台，真正的把VR大众化，让每一个人都可以身临其境的体验。&lt;/p&gt;
+
+&lt;p&gt;相比于视觉上的交互，触觉上的更多元化一点。有各种样子的遥控器，触控器和触控手套。&lt;/p&gt;
+
 &lt;h2 id=&quot;section-2&quot;&gt;体验&lt;/h2&gt;
 
-&lt;h2 id=&quot;section-3&quot;&gt;未来&lt;/h2&gt;
-
-&lt;h2 id=&quot;section-4&quot;&gt;发展&lt;/h2&gt;
-
-&lt;h2 id=&quot;section-5&quot;&gt;应用&lt;/h2&gt;
+&lt;h2 id=&quot;section-3&quot;&gt;展望&lt;/h2&gt;
 </content>
 <category term="thoughts" />
+<category term="virtual reality" />
 <summary></summary>
 </entry>
 <entry>
@@ -41,11 +84,11 @@
 <id>http://localhost:3000/copycat</id>
 <content type="html" xml:base="http://localhost:3000/copycat/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/innovation.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;抄袭与创新，两个在语义上毫无关系的词，在这个互联网时代被赋予了新的意境，同时之间的关系也越加微妙起来。客观来讲，很多伟大的创新都是从抄袭开始的。&lt;/p&gt;
+&lt;p&gt;抄袭与创新，两个在语义上毫无关系的词，在这个互联网时代被赋予了新的意境，同时之间的关系也越加微妙起来。毕加索说过一句话，“good artists copy, great artists steal”。很多伟大的创新都是从抄袭开始的。&lt;/p&gt;
 
 &lt;p&gt;小米最近发布了新手机5S, 让人眼前一亮的是新技术, 超声波和指纹识别的结合。纵使是技术强大的Apple，在收购了指纹识别公司AuthenTec以后，也没有第一个做出这个技术(传言老乔在世的时候，一直就想做个没有任何物理按键的手机）。然而小米，成为了在业内第一个把超声波和指纹识别结合的科技公司，今天的手机指纹是通过感应器来识别的，超声波的运用给指纹识别带入一个无缝的时代。同时，赋予了手机在设计上更大发挥的空间，实体按键很有可能在未来几年内彻底消失。&lt;/p&gt;
 
-&lt;p&gt;“必须要非常努力，才能看起来毫不费力”。指纹识别这玩意儿，如果有那么0.1秒的延迟对用户体验来说就是失败的，可想小米背后的努力。更值得赞扬的是，智能手机摆脱实体按键，屏幕空间的扩展性和超声波指纹识别非常有可能就是从5S开始，也是一个标杆的建立。在科技行业里，能树立一个标杆的公司非常非常少。简单来讲，大多数新技术先是以一个弧度上升，再以抛物线的形式下降，最后被彻底抛弃，取而代之的是更新更好的技术。那么，树立标杆就要求科技公司对未来科技的走向和技术的把握非常准确，有那么一点你需要预测未来的意思。&lt;/p&gt;
+&lt;p&gt;“必须要非常努力，才能看起来毫不费力”。指纹识别这玩意儿，如果有那么0.1秒的延迟对用户体验来说就是失败的，可想小米背后的努力。更值得赞扬的是，智能手机摆脱实体按键，屏幕空间的扩展性和超声波指纹识别非常有可能就是从5S开始，也是一个标杆的建立。在科技行业里，能树立一个标杆的公司非常非常少。简单来讲，大多数新技术先是以一个弧度上升，再以抛物线的形式下降，最后被彻底抛弃，取而代之的是更新更好的技术。那么，树立标杆就要求科技公司对未来科技的走向和技术的把握非常精确，有那么一点你需要预测未来的意思。&lt;/p&gt;
 
 &lt;p&gt;智能手机硬件在需要满足：安全性，便携性，方便性，好用性，耐久性（杜蕾斯）的前提下，出现了严重同质化的现象，在设计上非常非常难有突破。所以，互相抄袭是难以避免的。可贵的是，在抄袭的基础上不断进阶，完成对自己的挑战，实现创新。&lt;/p&gt;
 
