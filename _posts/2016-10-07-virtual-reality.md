@@ -1,7 +1,7 @@
 ---
 title: "Virtual Reality"
 layout: post
-date: 2016-10-07
+date: 2016-10-03
 tag:
 - thoughts
 - virtual reality
