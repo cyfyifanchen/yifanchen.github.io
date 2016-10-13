@@ -3,9 +3,23 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-10-12T19:02:07-06:00</updated>
+<updated>2016-10-12T19:24:51-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
+<entry>
+<title>微信应用号可能会带来的影响</title>
+<link href="http://localhost:3000/wechat/" rel="alternate" type="text/html" title="微信应用号可能会带来的影响" />
+<published>2016-10-12T00:00:00-06:00</published>
+<updated>2016-10-12T00:00:00-06:00</updated>
+<id>http://localhost:3000/wechat</id>
+<content type="html" xml:base="http://localhost:3000/wechat/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/thought.jpg&quot; /&gt;&lt;/p&gt;
+
+</content>
+<category term="wechat" />
+<category term="technology" />
+<category term="direction" />
+<summary></summary>
+</entry>
 <entry>
 <title>Virtual Reality</title>
 <link href="http://localhost:3000/virtual-reality/" rel="alternate" type="text/html" title="Virtual Reality" />
@@ -260,16 +274,5 @@
 <category term="Vim" />
 <category term="thoughts" />
 <summary>I installed vim-orgmode to my Vim yesterday. For those of you, who haven’t heard Org-mode, it is an editing and organizing mode for notes, planning, and authoring in Emacs. It is a must have for all Emacs users. I strongly recommend you to watch this video on youtube. It will mostly likely change your view of how powerful something can be. Due to Org-mode’s popularity, someone awesome created a orgmode for vim on Github. I found it and installed it. Thanks for the open source community, life is beautiful because of you. I like Vim as a text editor, like Emacs as an environment(no offense to Emacs users, I honestly think Emacs is too powerful to be a text editor).</summary>
-</entry>
-<entry>
-<title>Progressive Web App</title>
-<link href="http://localhost:3000/progressive-web-app/" rel="alternate" type="text/html" title="Progressive Web App" />
-<published>2016-07-12T00:00:00-06:00</published>
-<updated>2016-07-12T00:00:00-06:00</updated>
-<id>http://localhost:3000/progressive-web-app</id>
-<content type="html" xml:base="http://localhost:3000/progressive-web-app/">
-</content>
-<category term="Projects" />
-<category term="Progressive Web App" />
 </entry>
 </feed>
