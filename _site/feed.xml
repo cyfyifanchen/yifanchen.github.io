@@ -3,9 +3,26 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-10-15T19:37:45-06:00</updated>
+<updated>2016-10-16T01:25:39-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
+<entry>
+<title>何为孤独</title>
+<link href="http://localhost:3000/alone/" rel="alternate" type="text/html" title="何为孤独" />
+<published>2016-10-16T00:00:00-06:00</published>
+<updated>2016-10-16T00:00:00-06:00</updated>
+<id>http://localhost:3000/alone</id>
+<content type="html" xml:base="http://localhost:3000/alone/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/alone.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;小强昨天没有继续和朋友去喝酒，因为小强不能像朋友一样在取悦别人，陪笑之后回到家还能在温暖的家人旁边做回自己。叫了个计程车，回到家连澡也不想洗，躺在床上刷着朋友少的可怜的朋友圈。看着别人的快乐，都和自己无关，傻笑着，在酒精的作用下，小强在不知不觉中睡着了，灯也没来得及关。&lt;/p&gt;
+
+&lt;p&gt;小强起床之后，称了一下体重，轻了一磅。小强认为这也是动力。喝了杯浓咖啡，简单洗漱后，就去公司了。周末的公司，空，静，幽。没有哪里比这里更适合写东西。除了保安每一个小时的巡逻，连个能打扰小强的人影也没有。小强写东西要思考，每隔一会儿都会站起来走走。站在窗边看着远方总能给小强带来一种莫名的幸福感。小强写东西喜欢反复复读，效率来讲不高，但绝对是认真对待即便清楚的知道没人会看。终于写完之后，加个好看的图片，也许能把意境带出来。小强贴在微信朋友圈，接下来就是不厌其烦的打开微信，期待右下角会有个赞。几天后唯一的留言还是自己的。&lt;/p&gt;
+
+&lt;p&gt;小强单身，一被注意，马上敞开心扉，废话连篇，貌似轻浮，实则极致孤独。&lt;/p&gt;
+</content>
+<category term="thoughts" />
+<summary></summary>
+</entry>
 <entry>
 <title>What I learned from upgrading to Sierra</title>
 <link href="http://localhost:3000/what-I-learned-from-upgrading-my-os/" rel="alternate" type="text/html" title="What I learned from upgrading to Sierra" />
@@ -14,15 +31,15 @@
 <id>http://localhost:3000/what-I-learned-from-upgrading-my-os</id>
 <content type="html" xml:base="http://localhost:3000/what-I-learned-from-upgrading-my-os/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/learning.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;I upgraded my work machine,  a 2013 MacBook Pro, to Sierra Thursday morning. I did use Time Machine to back up my files in case upgrading went wrong. Sierra was beautiful at the beginning of the day. Altho I didn’t care Siri at all, but I enjoyed the new OS in general, especially the new Storage Mangement feature, which I thought Apple should have done it a while ago. Now, I no longer need third party application to optimize my space. However, I ended up not liking Sierra by the end of the day.&lt;/p&gt;
+&lt;p&gt;I upgraded my work machine,  a 2013 MacBook Pro, to Sierra Thursday morning. I did use Time Machine to back up my files in case upgrading went wrong. Sierra was stunning at the beginning of the day. Although I didn’t care Siri at all, but I enjoyed the new OS in general, especially the new Storage Mangement feature, which I thought Apple should have done it a while ago. Now, I no longer need third party application to optimize my space. However, I ended up not liking Sierra by the end of the day.&lt;/p&gt;
 
-&lt;p&gt;I like to upgrade my applications right away when there are updates. Probably because I am a developer, to me an update isn’t a patch, it’s a product of an iteration and a result of teamwork. However, when it comes to my work machine, I had to be careful.  I had many customizations added to my work machine this year. On top of that, I am Tmux and Vim user, and that means they aren’t quite compatible with the new update in the beginning. With all these in my mind, I didn’t update right away. A couple of weeks of the release has passed, I consulted with some of my co-workers who did upgrade. Everything seemed working fine. Some of their machines are highly customized as well, which was something made me feel comfortable to upgrade. So, I did it on Thursday morning.&lt;/p&gt;
+&lt;p&gt;I like to update my applications right away when there are updates. Probably because I am a developer, an update has always meant more than a patch to me, it represents a product of an iteration and a result of teamwork. However, when it comes to upgrading the OS of my work machine, I had to be careful. I had many customizations added to my work machine, I ran a bunch of open source tools to keep my workflow productive. On top of that, I am a Tmux and Vim user. Since all Tmux and Vim packages and plugins are from open source, compatibility of newer OS update takes time to develop. With all these in my mind, I didn’t update right away. I waited a couple of weeks after the official release, I consulted with some of my co-workers who did upgrade. Everything seemed working fine. Some of their machines are highly customized as well, which made me feel comfortable to upgrade. So, I did it on Thursday morning.&lt;/p&gt;
 
-&lt;p&gt;The first bug I noted was Karabiner, a must have keybinding tool for my workflow, didn’t work at all. I went to their Github repo trying to find answers, realized there were serval Issues have been in the Open Stage for days. Then I saw my iTerm had this weird tiny space around it when I maximized the window, which bugged the crap out of me. Additionally, Dota2 had a serious mouse delay when moving the cursor to the edge. I couldn’t even enjoy the game. On top of that, there were some other smaller issues that I could barely tolerate. Therefore, I thought about going back to El Captian. It would fix all of the problems. Then, it got me thinking. If I refuse to adopt new things, choose going back. It is not what I wanted in the first place. I am going to stick with Sierra. I am going forward and not looking back. But what about the problems? Easy, finding ways to solve them because I am a developer, I do what I am good at, seeking solutions to the problems.&lt;/p&gt;
+&lt;p&gt;The first bug I noted was Karabiner, a must have keybinding tool for my workflow, didn’t work at all. I went to their Github repo trying to find answers, realized there were same Issues have been reported and marked bug for days. Then I saw my iTerm had four weird tiny spaces around it when I maximized the window, which bugged the crap out of me. Additionally, Dota2 had a serious mouse delay when moving the cursor to the edge. I couldn’t even enjoy the game. On top of that, there were some other smaller issues that I could barely tolerate. Therefore, I thought about going back to El Captian. It would fix all of the problems. Then, it got me thinking. If I refuse to adopt new things, choose going back. It is not what I wanted in the first place. I am going to stick with Sierra. I am going forward and not looking back. What about the problems? Simple, finding ways to solve them. I am a developer, I do what I am good at, finding solutions to the problems.&lt;/p&gt;
 
 &lt;p&gt;Whether you like it or not, technology is moving forward. Instead of staying in the same place and complaining, adopting is the key to existence.&lt;/p&gt;
 </content>
-<category term="technolgoy" />
+<category term="technology" />
 <category term="thoughts" />
 <summary></summary>
 </entry>
@@ -268,25 +285,5 @@
 <category term="technologies" />
 <category term="thoughts" />
 <summary></summary>
-</entry>
-<entry>
-<title>Conference</title>
-<link href="http://localhost:3000/conference/" rel="alternate" type="text/html" title="Conference" />
-<published>2016-07-30T00:00:00-06:00</published>
-<updated>2016-07-30T00:00:00-06:00</updated>
-<id>http://localhost:3000/conference</id>
-<content type="html" xml:base="http://localhost:3000/conference/">&lt;p&gt;I spent three days in downtown San Francisco for ForwardJS Conference this week. It has been fun, attending the conference is the purpose of the trip. Immersing in the city is a bonus to the plan.&lt;/p&gt;
-
-&lt;p&gt;I have been in southern California many times, but San Francisco was my first stop in the north. The weather gets chilly in the mornings and nights. Some areas can be foggy at sunset. Daytime temperature is a lot warmer than mornings and nights, so better have a jacket handy. If I don’t happen to be a summer animal, I would like the weather more. I was glad I checked the weather before, so I took a jacket with me, it was not useless at all.&lt;/p&gt;
-
-&lt;p&gt;In my opinion, workshops can be ruined by not prepare materials before. The intentions of attending workshops are getting trained for certain things you don’t know, or you barely know. We are developers, so obviously, we don’t want to come out with a “Hello, World!” application after training. But, workshop goes faster, the best way to get the most out of it is knowing the content. For the best, build something before you go.&lt;/p&gt;
-
-&lt;p&gt;Another way to ruin workshops is from instructors. Having few hours long presentations regarding history, benefits and future of the content. That is wrong. I am not saying that I don’t value any of that. But, it’s a workshop, hands down and build.&lt;/p&gt;
-
-&lt;p&gt;In conclusion,  not every workshop is worth the energy to go. For those of you who thinks one workshop can get you up to speed, you are wrong. You might be able to build something, but won’t be able to understand everything. To master something, it takes serious dedication and motivation.&lt;/p&gt;
-</content>
-<category term="conference" />
-<category term="thoughts" />
-<summary>I spent three days in downtown San Francisco for ForwardJS Conference this week. It has been fun, attending the conference is the purpose of the trip. Immersing in the city is a bonus to the plan.</summary>
 </entry>
 </feed>
