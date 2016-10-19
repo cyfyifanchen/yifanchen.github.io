@@ -1,6 +1,27 @@
 [
   
     {
+      "title"    : "下一个十年",
+      "tags"     : "thought, china, and technology",
+      "url"      : "/ten-years/",
+      "date"     : "18 Oct 2016"
+    } ,
+  
+    {
+      "title"    : "为什么有些人很友善，却总是独来独往",
+      "tags"     : "thoughts",
+      "url"      : "/lone-ranger/",
+      "date"     : "18 Oct 2016"
+    } ,
+  
+    {
+      "title"    : "Tools you need in Sierra",
+      "tags"     : "Sierra",
+      "url"      : "/tools-you-need-in-Sierra/",
+      "date"     : "18 Oct 2016"
+    } ,
+  
+    {
       "title"    : "何为孤独",
       "tags"     : "thoughts",
       "url"      : "/alone/",

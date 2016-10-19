@@ -3,9 +3,76 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-10-17T14:10:04-06:00</updated>
+<updated>2016-10-19T17:42:05-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
+<entry>
+<title>下一个十年</title>
+<link href="http://localhost:3000/ten-years/" rel="alternate" type="text/html" title="下一个十年" />
+<published>2016-10-18T00:00:00-06:00</published>
+<updated>2016-10-18T00:00:00-06:00</updated>
+<id>http://localhost:3000/ten-years</id>
+<content type="html" xml:base="http://localhost:3000/ten-years/">
+</content>
+<category term="thought" />
+<category term="china" />
+<category term="technology" />
+</entry>
+<entry>
+<title>为什么有些人很友善，却总是独来独往</title>
+<link href="http://localhost:3000/lone-ranger/" rel="alternate" type="text/html" title="为什么有些人很友善，却总是独来独往" />
+<published>2016-10-18T00:00:00-06:00</published>
+<updated>2016-10-18T00:00:00-06:00</updated>
+<id>http://localhost:3000/lone-ranger</id>
+<content type="html" xml:base="http://localhost:3000/lone-ranger/">&lt;p&gt;“为什么有些人很友善，却总是独来独往？” 我在知乎上面看到的这个问题，感觉很有意思，来分享一下自己对这句话的理解。&lt;/p&gt;
+
+&lt;p&gt;首先，我要讲的不是内外高冷，有颜值，有实力而且总能把事情做得很漂亮的，具体参照流川枫。&lt;/p&gt;
+
+</content>
+<category term="thoughts" />
+<summary>“为什么有些人很友善，却总是独来独往？” 我在知乎上面看到的这个问题，感觉很有意思，来分享一下自己对这句话的理解。</summary>
+</entry>
+<entry>
+<title>Tools you need in Sierra</title>
+<link href="http://localhost:3000/tools-you-need-in-Sierra/" rel="alternate" type="text/html" title="Tools you need in Sierra" />
+<published>2016-10-18T00:00:00-06:00</published>
+<updated>2016-10-18T00:00:00-06:00</updated>
+<id>http://localhost:3000/tools-you-need-in-Sierra</id>
+<content type="html" xml:base="http://localhost:3000/tools-you-need-in-Sierra/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/sierra.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In my previous blog &lt;a href=&quot;{{site.url}}/what-I-learned-from-upgrading-my-os&quot;&gt;What I learned from upgrading to Sierra&lt;/a&gt;. I pointed out one of the professional characteristics that I have lacked for a long time – problem-solving in a subjective way. In this blog, I am going to explain how I moved on to Sierra. Additionally, I will introduce some excellent tools.&lt;/p&gt;
+
+&lt;p&gt;As you know, I am a big fan of using keybindings to boost my productivity. It’s hard to set everything up, but I like doing it. In El Captian, I used a bunch of different tools to make my cumbersome workflow just under my fingertips. I am OCD with my tools, and they have to be the ways I like. Otherwise, I won’t work until I tweak them to. There are pros and cons of being stubborn. But, as a developer, being stubborn is always on the right side. Life is much more rewarding when using something others don’t know how, isn’t it?&lt;/p&gt;
+
+&lt;h2 id=&quot;karabiner&quot;&gt;Karabiner&lt;/h2&gt;
+
+&lt;p&gt;Karabiner isn’t working correctly in macOS 10.12 Sierra. Regarding the creator, &lt;a href=&quot;https://github.com/tekezo&quot; class=&quot;user-mention&quot;&gt;@tekezo&lt;/a&gt;, of Karabiner. Apple changed generic keyboard and mouse drivers on Sierra that made an impact to Karabiner, which caused the ineffectiveness. Therefore, Karabiner needs to be re-structured, &lt;a href=&quot;https://github.com/tekzo&quot; class=&quot;user-mention&quot;&gt;@tekzo&lt;/a&gt; can’t give an estimate now.&lt;/p&gt;
+
+&lt;h2 id=&quot;karabiner-elements&quot;&gt;Karabiner-Elements&lt;/h2&gt;
+
+&lt;p&gt;At the same time, &lt;a href=&quot;https://github.com/tekezo&quot; class=&quot;user-mention&quot;&gt;@tekezo&lt;/a&gt; introduced Karabiner-Elements, a much simpler versioned Karabiner(UI below), that is compatible on Sierra. I downloaded it and tried it. It lacked tons features. I didn’t think it was enough to do what I needed. So I moved on.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/karabiner-elements-settings.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;bettertouchtool&quot;&gt;BetterTouchTool&lt;/h2&gt;
+
+&lt;p&gt;I used BTT a long time ago. I downloaded it initially for the sweet window snapping feature. Then I found out there were all sorts of options. So I mapped &lt;code class=&quot;highlighter-rouge&quot;&gt;hjkl&lt;/code&gt; as &lt;code class=&quot;highlighter-rouge&quot;&gt;arrow&lt;/code&gt; keys liked the image showing below. I then stopped using it because it lacked key repeat feature. But, now I don’t seem to have other options. Okay, let’s give a try. So, I set it up and sent the Author an email hoping there might be a way to tweak the key repeat. Meanwhile, I kept looking for other better options. Why?Because being proactive might turn things around.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/btt-setting.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;keyboard-maestro&quot;&gt;Keyboard Maestro&lt;/h2&gt;
+
+&lt;p&gt;The best always comes last, right? All I needed was patience and persistence. I found Keyboard Maestro from somebody’s comment on Karabiner’s Issue board. I downloaded and tried it. The UI was intuitive to use and there were tons options I could manipulate with. More importantly, it had &lt;code class=&quot;highlighter-rouge&quot;&gt;key-down&lt;/code&gt; options meant key repeat is available!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/keyboard-maestro-setting.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Somebody once said &lt;em&gt;Tools are ultimate procrastination&lt;/em&gt;. However to others, tools are motivation.&lt;/p&gt;
+</content>
+<category term="Sierra" />
+<summary></summary>
+</entry>
 <entry>
 <title>何为孤独</title>
 <link href="http://localhost:3000/alone/" rel="alternate" type="text/html" title="何为孤独" />
@@ -55,7 +122,7 @@
 
 &lt;p&gt;中国互联网行业的成功，用的不是背景，玩的不是资源，赢的是民生。这解释了为什么众多国外科技大佬打遍世界无敌手的一套拿到中国，却是吃不了兜着走。即使强如谷歌，猛如优步，面对百度和滴滴，也是各种跪。Facebook小扎各种来访，这么努力的情况下，Facebook的前景如何？就算顺利解禁，面对微信，我们自己的社交分享平台，还是得跪。&lt;/p&gt;
 
-&lt;p&gt;从大局上讲，科技行业和互联网行业发展的快，但不精。当然，如果能在有规范的情况下，我相信可以达到既快又精。微信应用号，表面看是带来对开发者的便利，提供一个容易进入的平台，鼓励更多开发者为自己服务。实质上，却是一个规范的树立。当然，像我之前讲的（请看我的另一个博客Virtual Reality)， 规范这东西不是随随便便就可以制定的，而且制定者的目的很强。腾讯走的这一步，背后的野心很亮。&lt;/p&gt;
+&lt;p&gt;从大局上讲，科技行业和互联网行业发展的快，但不精。当然，如果能在有规范的情况下，我相信可以达到既快又精。微信应用号，表面看是带来对开发者的便利，提供一个容易进入的平台，鼓励更多开发者为自己服务。实质上，却是一个规范的树立。当然，像我之前讲的（请看我的另一个博文&lt;a href=&quot;{{site.url}}/virtual-realitiy/&quot;&gt;Virtual Reality&lt;/a&gt;)， 规范这东西不是随随便便就可以制定的，而且制定者的目的很强。腾讯走的这一步，背后的野心很亮。&lt;/p&gt;
 
 &lt;p&gt;不用过多介绍微信，这个屌到可以付钱，约炮和等等的软件，未来的可能性无穷大。然而，应用号可以把这个可能性带到另一个纬度。腾讯是想提供一个平台，让大众来发挥。微软和黑莓在手机领域的惨败就是低估了用户对开发者应用的依赖性。如果说很多人对刚收购诺基亚的微软Windows手机有期待的话，那么用了一年之后的发现没有任何App更新的情况下，估计是跳海的心都有了。腾讯，做法显然聪明很多，发展应用号，树立规范，提升应用号的App的质量，服务大众。从用户体验的角度来说，微信独一无二的优势是在不离开微信的时候进行其他操作。一旦微信上的应用程序多起来了，腾讯就会在这个游戏里面扮演主动的角色。小目标可以实现对数据的收集和整合，加以无私或自私的利用。大目标可以是再次提升用户对微信的依赖性，这离开发自己的系统还远吗？&lt;/p&gt;
 
@@ -187,103 +254,5 @@
 </content>
 <category term="Projects" />
 <category term="Grunt ES2015 Starterkit" />
-</entry>
-<entry>
-<title>苹果玩游戏</title>
-<link href="http://localhost:3000/mac-gaming/" rel="alternate" type="text/html" title="苹果玩游戏" />
-<published>2016-08-25T00:00:00-06:00</published>
-<updated>2016-08-25T00:00:00-06:00</updated>
-<id>http://localhost:3000/mac-gaming</id>
-<content type="html" xml:base="http://localhost:3000/mac-gaming/">&lt;p&gt;貌似很多人对Mac电脑打游戏有误区，我来科普一下。大家都明白，显卡的好坏直接影响到游戏的效果。其实，显卡只是硬件方面对游戏产生的影响。软件方面，也同样重要。我们平常所说的Mac不是用来打游戏的里面包含的就是这两个部分，显卡和图形API。&lt;/p&gt;
-
-&lt;p&gt;我们今天主要讨论一下图形API对游戏的影响，至于显卡硬件，仁者见仁。改天讨论。首先， 我们来解释一下为什么图形API会对游戏产生影响。一个不恰当的例子，如果你有一个上等的食材（显卡），不经过加工（图形API），你也无法感受到食材的味道（游戏效果）。其实就是这么简单，只有显卡和图形API同时好的情况下，游戏效果才会格外给力。如果只有好的显卡而没有好的图形API, 就是有力使不出，郁闷到不行。&lt;/p&gt;
-
-&lt;p&gt;然后，我们来总结一下市面上现有的图形API。&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;DirectX: 微软的自己技术，只能用在Windows平台上面。&lt;/li&gt;
-  &lt;li&gt;OpenGL: 一个老牌的图形API，霸占市场多年, 正在走下坡路。&lt;/li&gt;
-  &lt;li&gt;Vulkan：一个被谷歌重视的新技术，目前支持Android, Windows和Linux。&lt;/li&gt;
-  &lt;li&gt;Metal: 苹果自己的技术，已经被应用在iOS和macOS上面了，而且效果明显。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;directx&quot;&gt;DirectX&lt;/h4&gt;
-
-&lt;p&gt;这个是微软自己的技术，没有开源，所以长期以来很多游戏开发商都是在DirectX先开发，然后再引入到OpenGL上面，结果就是性能效果差了灰常多。这可以解释同样的配置Mac玩游戏比不上Windows的原因之一。&lt;/p&gt;
-
-&lt;h4 id=&quot;opengl&quot;&gt;OpenGL&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/opengl1.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;OpenGL是Silicon Graphics的技术，在业内也算是比较臭名昭著了。简单来说，他们不思进取，不求创新，很多游戏厂商，还有科技公司都合作的不开心。同样的，在苹果没有自己的技术之前，不得不用OpenGL，然后由于OpenGL在开发，算法上面很落后，各种夹层让游戏开发商和显卡制造商没法优化，从而达不到应有的游戏效果。当然，OpenGL这种无节操做法的后果就是，各个公司不跟你玩儿了，都开始开发自己图形API技术。所以，OpenGL骚不了多久了。&lt;/p&gt;
-
-&lt;h4 id=&quot;vulkan&quot;&gt;Vulkan&lt;/h4&gt;
-
-&lt;p&gt;Vulkan可以说是一个全新的图形API技术，貌似谷歌也是受够了OpenGL在各方面的限制。谷歌在今年的I/O上面就很器重的使用了Vulkan在自己的VR Daydream上面，已经开始鼓励开发者使用Vulkan。抛弃OpenGL只是时间问题了。&lt;/p&gt;
-
-&lt;h4 id=&quot;metal&quot;&gt;Metal&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/metal.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Metal是苹果自己的图形API，是在WWDC 2014上面介绍给iOS的，在WWDC 2015上面又公布了会来macOS的好消息。 根据苹果介绍Metal可以有效的把游戏的画面提升一半以上。最好的例子就是，现在所有在iOS上面玩的游戏都是用Meal开发的。拿起来和Android比较的话，有过之而无不及。这里就不提Windows了，你懂的。当然，更令人开心的是，Metal已经在El Captain上面蓄势待发中。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/game-makers.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;那么我们现在知道图形API对游戏有至关重要的作用，只要游戏开发者们愿意开发在Metal上面，Mac Gaming只是时间问题。更令人激动的是，很多游戏厂商已经开始开发自己游戏的Metal版本了，比如暴雪《魔兽世界》Metal的内测版本已经发布了， 随后就是《风暴英雄》和《星际争霸》。&lt;/p&gt;
-
-&lt;p&gt;讲了这么多，基本就是想科普一下为什么Mac不是所谓的玩游戏的电脑。显卡的好坏只是最表面的一方面，软件也起了非常重要的作用。还是那句话，在这个颜值当道的年代，被忽略的往往是看不到的内涵。&lt;/p&gt;
-
-</content>
-<category term="Apple" />
-<category term="Mac Gaming" />
-<summary>貌似很多人对Mac电脑打游戏有误区，我来科普一下。大家都明白，显卡的好坏直接影响到游戏的效果。其实，显卡只是硬件方面对游戏产生的影响。软件方面，也同样重要。我们平常所说的Mac不是用来打游戏的里面包含的就是这两个部分，显卡和图形API。</summary>
-</entry>
-<entry>
-<title>英雄留下</title>
-<link href="http://localhost:3000/dota/" rel="alternate" type="text/html" title="英雄留下" />
-<published>2016-08-14T00:00:00-06:00</published>
-<updated>2016-08-14T00:00:00-06:00</updated>
-<id>http://localhost:3000/dota</id>
-<content type="html" xml:base="http://localhost:3000/dota/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/gaming.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;激动的时刻，精彩的比赛，才华横溢的选手，有经历才有感动。中国电子竞技战队Wings在昨天《DOTA2》国际邀请赛的总决赛中以绝对的优势和精彩的比赛干沉了美国老牌强队DC。时隔一年再次让中国战队站在世界之巅，背后的付出和汗水不只是游戏玩得好这么简单。&lt;/p&gt;
-
-&lt;p&gt;电子竞技一直是一个非常模糊的概念，到底算不算得上是体育，众说纷纭。直到2013年3月国家体育总局才决定成立国家队。即便如此，从很多层面上来讲，电竞选手依然没有得到与传统体育选手比肩的尊重。同样是为国争光，为什么会出现如此的局面 ，背后的价值观值得思考。&lt;/p&gt;
-
-&lt;p&gt;说起电竞不得不谈《冰封王座》，这个《魔兽争霸3》的续作，当年在国内掀起的电竞风暴席卷各地。也许暴雪也不曾想到一款自己做的即时战略游戏能给小伙伴们带来如此值得回忆的青春。Sky的两度封王，Moon的冰火双重天，Grubby的世纪大战以及Sweet的绝世翻盘，一切一切的经典时刻，不单单是精彩比赛的呈现，而是她所承载的，我和小伙伴们的青春和友谊。&lt;/p&gt;
-
-&lt;p&gt;后来《魔兽争霸3》的辉煌逐渐被更容易上手和商业模式更聪明的《DOTA2》和《英雄联盟》取代。虽然可惜，但是时代总是要进步的。只要是电子竞技，都会牵动着我们的心，看着国内电竞局面在一点一点的变好，曾经的那份痴情也算是得到了回报。&lt;/p&gt;
-
-&lt;p&gt;我们玩魔兽那会儿，常说 “也许我们玩不了一辈子游戏，但是可以做一辈子朋友”，其中的无奈和心酸也只有经历过才到得出。而今天看到中国战队能在电子竞技的世界舞台上这样辉煌，也算满足了当年我们那帮追风少年没有完成的梦想，当他们把五星红旗带到领奖台的最高处时，一句荡气回肠的“英雄留下”是我们对他们最好的祝福。&lt;/p&gt;
-</content>
-<category term="gaming" />
-<category term="thoughts" />
-<category term="esports" />
-<summary></summary>
-</entry>
-<entry>
-<title>河东河西</title>
-<link href="http://localhost:3000/river-east-river-west/" rel="alternate" type="text/html" title="河东河西" />
-<published>2016-07-31T00:00:00-06:00</published>
-<updated>2016-07-31T00:00:00-06:00</updated>
-<id>http://localhost:3000/river-east-river-west</id>
-<content type="html" xml:base="http://localhost:3000/river-east-river-west/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/rivers.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;华为和小米相继出笔记本了，虽然手机到电脑算不上行业的跨度，但是其目的不仅仅是瓜分电脑市场这么简单，背后的野心更是让人眼前一亮。纵观国内日益强大的科技业，产品丰富且个性化，非常令人期待看到未来几年中国科技业对世界科技圈的冲击。&lt;/p&gt;
-
-&lt;p&gt;乔布斯说过，日本人很善于做精巧的小玩意儿。从索尼早期标志性的产品Walkman, 任天堂的Gameboy到后来的各种品牌CD机，日本品牌在小型电子产品上的造诣绝对是垄断级别的。 而索尼这个在全球拥有众多粉丝的日本品牌在无论是在企业管理，品牌运营以及工业设计上面都让乔布斯折服。今天，索尼年年亏损，不得不放弃各种业务来保留那一份最后的情怀。&lt;/p&gt;
-
-&lt;p&gt;雅虎这个当年市值高达260亿美元的门户网站也不得不面对今天被贱卖的尴尬局面。保守的策略让公司错过很多再续辉煌的机会，留下的只是遗憾。&lt;/p&gt;
-
-&lt;p&gt;诺基亚的情况更糟糕，如果说被微软收购是诺基亚最后的救命稻草，那么微软放弃手机业务的策略更是把诺基亚达打到了一个站不起来的位置。&lt;/p&gt;
-
-&lt;p&gt;三个世界级的品牌，三个不同的国家。在光阴的印证下，留下的是辉煌的业绩和抹不去的历史。与此同时，新生的科技生命正在成为时代的主角。&lt;/p&gt;
-
-&lt;p&gt;常言道，三十年河东，三十年河西。&lt;/p&gt;
-
-</content>
-<category term="technologies" />
-<category term="thoughts" />
-<summary></summary>
 </entry>
 </feed>
