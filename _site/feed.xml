@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-10-19T17:42:05-06:00</updated>
+<updated>2016-10-20T09:29:04-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
 <entry>
@@ -12,11 +12,28 @@
 <published>2016-10-18T00:00:00-06:00</published>
 <updated>2016-10-18T00:00:00-06:00</updated>
 <id>http://localhost:3000/ten-years</id>
-<content type="html" xml:base="http://localhost:3000/ten-years/">
+<content type="html" xml:base="http://localhost:3000/ten-years/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/ten-years.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;MacBook Pro上的中文输入法我一直在用MacOS自带的，谈不上特别难用，但是我也早已习惯了。一直以来被自己的惰性驱使而没有去寻求更好的输入法软件，作为软件工程师，惭愧。&lt;/p&gt;
+
+&lt;p&gt;前天，随便谷歌了时下流行的中文输入法，看到了搜狗。随意地去他们的网站看了下。由于职业原因直接看了他们的源代码，整齐有序，加强了好感。下载安装之后，发现确实好用。在设置偏好的时候，发现很多细节做得很棒，用户体验立即得到了提升。同时，认识到自己在早知道搜狗的情况下，由于抵触心理没有尝试，而差点错过了一款好软件的错误心理。&lt;/p&gt;
+
+&lt;p&gt;小时候，听流行乐。有歌手抱怨，从港台来的歌手起点比内地歌手要高。当时无感的话，多年后想起。原来，从那时起，我已随波逐流。&lt;/p&gt;
+
+&lt;p&gt;来美国之后，接触过各个国家的人。很多看法在经历之后开始改变。错误的心态通常是在错误的环境下生成。走出错误的环境，改变对人对事的心态需要的则是时间，经历，沉淀和思考。&lt;/p&gt;
+
+&lt;p&gt;即使我们在天天告诫自己需要客观看待事物的时候，也走不出本能給主观上带进的误区。很多时候，我们在潜意识下随波逐流的給从未了解的事物戴标签，结果，我们埋没了一个发现机会的同时，也腐朽了我们那善于探索的灵魂。&lt;/p&gt;
+
+&lt;p&gt;我们现在很幸运地生活在一个大互联网时代，看到科技在一直的进步，而带动的生机，改变的人文则是科技背后更大的价值。国内优秀且认真做事的人很多，专注的科技公司也不少。努力做好一件事，其价值远远大于意义。昨天我看锤子科技的发布会的时候，当老罗在介绍 big bang 和 one step 异常激动的时候，我理解他的想法。这两个产品的交互和体验设计确实是业内第一个，这种敢想敢做的风格比技术上的突破更为可贵。&lt;/p&gt;
+
+&lt;p&gt;今天，我们对产品的要求在逐步提升。促使了各个公司之间的良性竞争，结果就是竞争之后留下的精良技术。如果说，过去20年我们在当世界工厂是在积累和沉淀。那么，今天我们把自己的才华，创新，专注和勤奋加入已经炉火纯青的生产线，站在巨人的肩膀看世界还会远吗？&lt;/p&gt;
+
+&lt;p&gt;下一个十年，国内肯定会出现很多世界级的科技公司，我翘首以盼。&lt;/p&gt;
 </content>
 <category term="thought" />
 <category term="china" />
 <category term="technology" />
+<summary></summary>
 </entry>
 <entry>
 <title>为什么有些人很友善，却总是独来独往</title>
@@ -35,8 +52,8 @@
 <entry>
 <title>Tools you need in Sierra</title>
 <link href="http://localhost:3000/tools-you-need-in-Sierra/" rel="alternate" type="text/html" title="Tools you need in Sierra" />
-<published>2016-10-18T00:00:00-06:00</published>
-<updated>2016-10-18T00:00:00-06:00</updated>
+<published>2016-10-17T00:00:00-06:00</published>
+<updated>2016-10-17T00:00:00-06:00</updated>
 <id>http://localhost:3000/tools-you-need-in-Sierra</id>
 <content type="html" xml:base="http://localhost:3000/tools-you-need-in-Sierra/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/sierra.jpg&quot; /&gt;&lt;/p&gt;
 
