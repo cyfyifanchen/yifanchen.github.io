@@ -3,14 +3,98 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-10-20T09:29:04-06:00</updated>
+<updated>2016-10-27T14:39:35-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
 <entry>
+<title>简单聊聊对新Macbook Pro的看法</title>
+<link href="http://localhost:3000/new-macboopro/" rel="alternate" type="text/html" title="简单聊聊对新Macbook Pro的看法" />
+<published>2016-10-25T00:00:00-06:00</published>
+<updated>2016-10-25T00:00:00-06:00</updated>
+<id>http://localhost:3000/new-macboopro</id>
+<content type="html" xml:base="http://localhost:3000/new-macboopro/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/mbp.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;北京时间10月28号凌晨，苹果&amp;lt;Hello, Again&amp;gt;的发布会如期而至。开场很苹果，又秀了一把科技服务人类的感情牌。貌似某位导演说过，感情的才是世界的 。凑巧，苹果也懂这个道理。然后，库克按照惯例地介绍苹果今年的各项记录。&lt;/p&gt;
+
+&lt;p&gt;接着就是重头戏–新款的Macbook Pro。这是自2012年夏天视网膜屏幕之后的换代升级。我从下面几点逐一介绍。&lt;/p&gt;
+
+&lt;h3 id=&quot;section&quot;&gt;外观&lt;/h3&gt;
+
+&lt;p&gt;外观基本还是维持了一体式的设计，更轻更薄外，机身和屏幕的连接处也像 Macbook 一样改为了金属。苹果商标不再亮了。屏幕的边框依然是无节操的可以跑火车。&lt;/p&gt;
+
+&lt;h3 id=&quot;touch-bar&quot;&gt;Touch Bar&lt;/h3&gt;
+
+&lt;p&gt;今天之前的传言是叫Magic Touch Bar, 我还是有点意外竟然没有叫这个名字。不可否认，Touch Bar对功能键的利用是个非常聪明的决定，苹果也确实有这个能力可以让其他软件商做出对Touch Bar的优化。但是，毕竟受限在那么细的一个长条形里，体验上，不会有苹果介绍的那么好用。我的建议是，别报太高预期，把它当做一个对系统输入的小丢丢新鲜体验。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-1&quot;&gt;接口&lt;/h3&gt;
+
+&lt;p&gt;果然没有lighting的接口，这说明我们还需要一根转接线来给iPhone充电。即使我在理解大方向的前提下，也依然得吐槽一回。我现在更好奇，这是不是间接证明下代 iPhone转接口的更换或者采用无线充电技术。好处是，被苹果这么一搞，希望以后的什么这接口，那接口，全全统一。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-2&quot;&gt;显卡&lt;/h3&gt;
+
+&lt;p&gt;我有点不爽没有在13寸上面加 AMD 的显卡。但是15寸上面 AMD的显卡，独显可以达4GB 的显存。 玩游戏的话， 建议入。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-3&quot;&gt;电池&lt;/h3&gt;
+
+&lt;p&gt;还是10个小时，没什么亮点。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-4&quot;&gt;便携&lt;/h3&gt;
+
+&lt;p&gt;13寸和15寸都较前代轻了半磅。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-5&quot;&gt;总结&lt;/h3&gt;
+
+&lt;p&gt;总的来说，这次Macbook Pro的换代达到了我要的预期，性能上的加强和便携上的提升已经令我满意。我是个程序员，对电脑是比较挑的。那么，对于普通消费者，没有更换的必要。最后，透过表面，我觉得苹果依然在各种试水，今天Touch Bar的出现就是未来物理键盘在笔记本电脑上消失的征兆。不过 ，也别悲观，未来的交互和输入也许出现革命性的改变，所以，好的科技是要试出来的。&lt;/p&gt;
+</content>
+<category term="Macbook Pro" />
+<summary></summary>
+</entry>
+<entry>
+<title>那些年，总是追不到的妹子</title>
+<link href="http://localhost:3000/meizi/" rel="alternate" type="text/html" title="那些年，总是追不到的妹子" />
+<published>2016-10-25T00:00:00-06:00</published>
+<updated>2016-10-25T00:00:00-06:00</updated>
+<id>http://localhost:3000/meizi</id>
+<content type="html" xml:base="http://localhost:3000/meizi/">&lt;p&gt;最近两天，我和小伙伴一前一后各自被甩。郁闷无比的同时，难免会回忆过去。&lt;/p&gt;
+
+&lt;p&gt;小学的好儿童，初中的混小子，高中的不着边际。身边追不到的妹子如那时看的日漫换了又换。青春期的臭小子之间，有什么爱不爱的，无非就是几个男孩子们的攀比之心。&lt;/p&gt;
+
+&lt;p&gt;长大以后，终于以为有资本可以任性地追女孩子的时候，才发现爱情里仅剩的甘甜也早已被现实的残酷和外界的压力榨得丝毫不剩。结果，草泥马，依然是失败。&lt;/p&gt;
+
+&lt;p&gt;“出来混，迟早要还的”。简单一句话道出了我们对于过去的自责和无奈。曾经，放在眼前的没有珍惜，现在渴望的却是够不到的奢侈。妈妈常说，在哪里跌倒就在哪里站起来，排掉身上负荷过多的泥土，才能全力以赴向最终的幸福奔跑。&lt;/p&gt;
+
+</content>
+<category term="thoughts" />
+<category term="story" />
+<category term="experience" />
+<summary>最近两天，我和小伙伴一前一后各自被甩。郁闷无比的同时，难免会回忆过去。</summary>
+</entry>
+<entry>
+<title>Made in China</title>
+<link href="http://localhost:3000/great-artists-steal/" rel="alternate" type="text/html" title="Made in China" />
+<published>2016-10-25T00:00:00-06:00</published>
+<updated>2016-10-25T00:00:00-06:00</updated>
+<id>http://localhost:3000/great-artists-steal</id>
+<content type="html" xml:base="http://localhost:3000/great-artists-steal/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/mi-mix.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Well, Xiaomi accnoneced the concept phone which is edgeless phoen today at Beijing, it’s called MIX. The phone itself is absolutely georges.&lt;/p&gt;
+
+&lt;p&gt;What is the pattern? It is what you think is the best might not be the best within 5 yaers. What do you do then? You adopt.&lt;/p&gt;
+
+&lt;p&gt;For those of you who don’t even understand technology and products, stopping making some comments, by all that means, you are only making yourself dumber.&lt;/p&gt;
+
+&lt;p&gt;This phone is absolutely stunning, it is the best looking the most beautiflu phone ever since iPhone 4.&lt;/p&gt;
+
+&lt;p&gt;I read tech news on mutiple sourcs including mashbale.com, hackernews and techcruch.com.&lt;/p&gt;
+</content>
+<category term="technology" />
+<summary></summary>
+</entry>
+<entry>
 <title>下一个十年</title>
 <link href="http://localhost:3000/ten-years/" rel="alternate" type="text/html" title="下一个十年" />
-<published>2016-10-18T00:00:00-06:00</published>
-<updated>2016-10-18T00:00:00-06:00</updated>
+<published>2016-10-20T00:00:00-06:00</published>
+<updated>2016-10-20T00:00:00-06:00</updated>
 <id>http://localhost:3000/ten-years</id>
 <content type="html" xml:base="http://localhost:3000/ten-years/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/ten-years.jpg&quot; /&gt;&lt;/p&gt;
 
@@ -18,17 +102,22 @@
 
 &lt;p&gt;前天，随便谷歌了时下流行的中文输入法，看到了搜狗。随意地去他们的网站看了下。由于职业原因直接看了他们的源代码，整齐有序，加强了好感。下载安装之后，发现确实好用。在设置偏好的时候，发现很多细节做得很棒，用户体验立即得到了提升。同时，认识到自己在早知道搜狗的情况下，由于抵触心理没有尝试，而差点错过了一款好软件的错误心理。&lt;/p&gt;
 
-&lt;p&gt;小时候，听流行乐。有歌手抱怨，从港台来的歌手起点比内地歌手要高。当时无感的话，多年后想起。原来，从那时起，我已随波逐流。&lt;/p&gt;
+&lt;p&gt;小时候，听流行乐。有歌手感慨，从港台来的歌手起点比内地歌手要高。当时无感的话，多年后想起。原来，从那时起，我已随波逐流。&lt;/p&gt;
 
 &lt;p&gt;来美国之后，接触过各个国家的人。很多看法在经历之后开始改变。错误的心态通常是在错误的环境下生成。走出错误的环境，改变对人对事的心态需要的则是时间，经历，沉淀和思考。&lt;/p&gt;
 
-&lt;p&gt;即使我们在天天告诫自己需要客观看待事物的时候，也走不出本能給主观上带进的误区。很多时候，我们在潜意识下随波逐流的給从未了解的事物戴标签，结果，我们埋没了一个发现机会的同时，也腐朽了我们那善于探索的灵魂。&lt;/p&gt;
+&lt;p&gt;即使我们在天天告诫自己需要客观看待事物的时候，也走不出本能給主观上带进的误区。很多时候，我们在潜意识下随波逐流的給从未了解的事物戴标签，结果，我们埋没了一个发现机会的同时，也腐朽了自己善于探索的灵魂。&lt;/p&gt;
 
-&lt;p&gt;我们现在很幸运地生活在一个大互联网时代，看到科技在一直的进步，而带动的生机，改变的人文则是科技背后更大的价值。国内优秀且认真做事的人很多，专注的科技公司也不少。努力做好一件事，其价值远远大于意义。昨天我看锤子科技的发布会的时候，当老罗在介绍 big bang 和 one step 异常激动的时候，我理解他的想法。这两个产品的交互和体验设计确实是业内第一个，这种敢想敢做的风格比技术上的突破更为可贵。&lt;/p&gt;
+&lt;p&gt;我们现在很幸运地生活在一个大互联网时代，看到科技在一直的进步，而带动的生机，改变的人文则是科技背后更大的价值。我们身边优秀且认真做事的人很多，专注的科技公司也不少。努力做好一件事，其价值远远大于意义。昨天我看锤子科技的发布会的时候，当老罗在介绍 big bang 和 one step 异常激动的时候，我理解他的想法。这两个产品的交互和体验设计确实是业内第一个，这种敢想敢做的风格比技术上的突破更为可贵。&lt;/p&gt;
 
 &lt;p&gt;今天，我们对产品的要求在逐步提升。促使了各个公司之间的良性竞争，结果就是竞争之后留下的精良技术。如果说，过去20年我们在当世界工厂是在积累和沉淀。那么，今天我们把自己的才华，创新，专注和勤奋加入已经炉火纯青的生产线，站在巨人的肩膀看世界还会远吗？&lt;/p&gt;
 
 &lt;p&gt;下一个十年，国内肯定会出现很多世界级的科技公司，我翘首以盼。&lt;/p&gt;
+
+&lt;p&gt;P.S&lt;/p&gt;
+
+&lt;p&gt;写在10/20/2016, 我希望10/20/2026的时候再回来看这个博文。&lt;/p&gt;
+
 </content>
 <category term="thought" />
 <category term="china" />
@@ -41,13 +130,13 @@
 <published>2016-10-18T00:00:00-06:00</published>
 <updated>2016-10-18T00:00:00-06:00</updated>
 <id>http://localhost:3000/lone-ranger</id>
-<content type="html" xml:base="http://localhost:3000/lone-ranger/">&lt;p&gt;“为什么有些人很友善，却总是独来独往？” 我在知乎上面看到的这个问题，感觉很有意思，来分享一下自己对这句话的理解。&lt;/p&gt;
+<content type="html" xml:base="http://localhost:3000/lone-ranger/">&lt;p&gt;“为什么有些人很友善，却总是独来独往？” 我在知乎上面看到的这个问题。&lt;/p&gt;
 
 &lt;p&gt;首先，我要讲的不是内外高冷，有颜值，有实力而且总能把事情做得很漂亮的，具体参照流川枫。&lt;/p&gt;
 
 </content>
 <category term="thoughts" />
-<summary>“为什么有些人很友善，却总是独来独往？” 我在知乎上面看到的这个问题，感觉很有意思，来分享一下自己对这句话的理解。</summary>
+<summary>“为什么有些人很友善，却总是独来独往？” 我在知乎上面看到的这个问题。</summary>
 </entry>
 <entry>
 <title>Tools you need in Sierra</title>
@@ -222,54 +311,5 @@
 <category term="thoughts" />
 <category term="virtual reality" />
 <summary></summary>
-</entry>
-<entry>
-<title>抄袭与创新</title>
-<link href="http://localhost:3000/copycat/" rel="alternate" type="text/html" title="抄袭与创新" />
-<published>2016-10-03T00:00:00-06:00</published>
-<updated>2016-10-03T00:00:00-06:00</updated>
-<id>http://localhost:3000/copycat</id>
-<content type="html" xml:base="http://localhost:3000/copycat/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/innovation.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;抄袭与创新，两个在语义上毫无关系的词，在这个互联网时代被赋予了新的意境，同时之间的关系也越加微妙起来。毕加索说过一句话，“good artists copy, great artists steal”。很多伟大的创新都是从抄袭开始的。&lt;/p&gt;
-
-&lt;p&gt;小米最近发布了新手机5S, 让人眼前一亮的是新技术, 超声波和指纹识别的结合。纵使是技术强大的Apple，在收购了指纹识别公司AuthenTec以后，也没有第一个做出这个技术(传言老乔在世的时候，一直就想做个没有任何物理按键的手机）。然而小米，成为了在业内第一个把超声波和指纹识别结合的科技公司，今天的手机指纹是通过感应器来识别的，超声波的运用给指纹识别带入一个无缝的时代。同时，赋予了手机在设计上更大发挥的空间，实体按键很有可能在未来几年内彻底消失。&lt;/p&gt;
-
-&lt;p&gt;“必须要非常努力，才能看起来毫不费力”。指纹识别这玩意儿，如果有那么0.1秒的延迟对用户体验来说就是失败的，可想小米背后的努力。更值得赞扬的是，智能手机摆脱实体按键，屏幕空间的扩展性和超声波指纹识别非常有可能就是从5S开始，也是一个标杆的建立。在科技行业里，能树立一个标杆的公司非常非常少。简单来讲，大多数新技术先是以一个弧度上升，再以抛物线的形式下降，最后被彻底抛弃，取而代之的是更新更好的技术。那么，树立标杆就要求科技公司对未来科技的走向和技术的把握非常精确，有那么一点你需要预测未来的意思。&lt;/p&gt;
-
-&lt;p&gt;智能手机硬件在需要满足：安全性，便携性，方便性，好用性，耐久性（杜蕾斯）的前提下，出现了严重同质化的现象，在设计上非常非常难有突破。所以，互相抄袭是难以避免的。可贵的是，在抄袭的基础上不断进阶，完成对自己的挑战，实现创新。&lt;/p&gt;
-
-&lt;p&gt;抄袭创新，一纸之隔。一抄到底，或，固本创新。造化。&lt;/p&gt;
-
-</content>
-<category term="thoughts" />
-<summary></summary>
-</entry>
-<entry>
-<title>无题</title>
-<link href="http://localhost:3000/untitled/" rel="alternate" type="text/html" title="无题" />
-<published>2016-09-18T00:00:00-06:00</published>
-<updated>2016-09-18T00:00:00-06:00</updated>
-<id>http://localhost:3000/untitled</id>
-<content type="html" xml:base="http://localhost:3000/untitled/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/nameless.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;有一种心态是，我们都会倾向于为自己的付出叫好。不管这种付出的形式是哪种，心态，形态，物质，或者感受。结果，叫好的同时，忽略了客观的理性。有些东西说起来容易，做起来难。错和痛，不试永远不知道。&lt;/p&gt;
-
-&lt;p&gt;失去才会懂得珍惜，寂寞的相伴才有沉淀。&lt;/p&gt;
-
-</content>
-<category term="thoughts" />
-<summary></summary>
-</entry>
-<entry>
-<title>Grunt ES2015 Starterkit</title>
-<link href="http://localhost:3000/Grunt-ES6-Starterkit/" rel="alternate" type="text/html" title="Grunt ES2015 Starterkit" />
-<published>2016-09-03T00:00:00-06:00</published>
-<updated>2016-09-03T00:00:00-06:00</updated>
-<id>http://localhost:3000/Grunt-ES6-Starterkit</id>
-<content type="html" xml:base="http://localhost:3000/Grunt-ES6-Starterkit/">
-</content>
-<category term="Projects" />
-<category term="Grunt ES2015 Starterkit" />
 </entry>
 </feed>

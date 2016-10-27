@@ -1,10 +1,31 @@
 [
   
     {
+      "title"    : "简单聊聊对新Macbook Pro的看法",
+      "tags"     : "Macbook Pro",
+      "url"      : "/new-macboopro/",
+      "date"     : "25 Oct 2016"
+    } ,
+  
+    {
+      "title"    : "那些年，总是追不到的妹子",
+      "tags"     : "thoughts, story, and experience",
+      "url"      : "/meizi/",
+      "date"     : "25 Oct 2016"
+    } ,
+  
+    {
+      "title"    : "Made in China",
+      "tags"     : "technology",
+      "url"      : "/great-artists-steal/",
+      "date"     : "25 Oct 2016"
+    } ,
+  
+    {
       "title"    : "下一个十年",
       "tags"     : "thought, china, and technology",
       "url"      : "/ten-years/",
-      "date"     : "18 Oct 2016"
+      "date"     : "20 Oct 2016"
     } ,
   
     {
