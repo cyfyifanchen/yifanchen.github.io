@@ -7,6 +7,7 @@ tag:
 blog: true
 star: false
 ---
+
 <img src="{{site.url}}/assets/images/mbp.jpg">
 
 北京时间10月28号凌晨，苹果<Hello, Again>的发布会如期而至。开场很苹果，又秀了一把科技服务人类的感情牌。貌似某位导演说过，感情的才是世界的 。凑巧，苹果也懂这个道理。然后，库克按照惯例地介绍苹果今年的各项记录。
