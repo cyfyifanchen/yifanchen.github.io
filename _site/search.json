@@ -1,6 +1,13 @@
 [
   
     {
+      "title"    : "Switching to Hyperterm",
+      "tags"     : "Hyperterm and iTerm2",
+      "url"      : "/switching-to-hyperterm/",
+      "date"     : "28 Oct 2016"
+    } ,
+  
+    {
       "title"    : "简单聊聊对新Macbook Pro的看法",
       "tags"     : "Macbook Pro",
       "url"      : "/new-macbookpro/",
