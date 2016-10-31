@@ -16,5 +16,3 @@ As I have mentioned before, things have yet been smooth since I upgraded to Sier
 I had Hyperterm installed on my machine a while ago. I played with it and tried to get the color scheme right. I gave up because it was not easy and it lacked plugins. I admit that I care too much about how something looks than it functions. Heck, let's get the color scheme right.
 
 So, once again. I changed my tool. If you spend time on it, you can always get it working, right? The image is the colorscheme, I am pretty happy with it.
-
-
