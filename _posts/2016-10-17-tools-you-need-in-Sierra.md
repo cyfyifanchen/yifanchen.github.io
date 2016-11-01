@@ -10,7 +10,7 @@ star: false
 
 <img src="{{site.url}}/assets/images/sierra.jpg" >
 
-In my previous blog <a href="{{site.url}}/what-I-learned-from-upgrading-my-os">What I learned from upgrading to Sierra</a>. I pointed out one of the professional characteristics that I have lacked for a long time -- problem-solving in a subjective way. In this blog, I am going to explain how I moved on to Sierra. Additionally, I will introduce some excellent tools.
+In my previous blog <a href="{{site.url}}/what-I-learned-from-upgrading-my-os">What I learned from upgrading to Sierra</a>. I pointed out one of the professional characteristics that I have lacked for a long time -- problem-solving in an objective way. In this blog, I am going to explain how I moved on to Sierra. Additionally, I will introduce some excellent tools.
 
 As you know, I am a big fan of using keybindings to boost my productivity. It's hard to set everything up, but I like doing it. In El Captian, I used a bunch of different tools to make my cumbersome workflow just under my fingertips. I am OCD with my tools, and they have to be the ways I like. Otherwise, I won't work until I tweak them to. There are pros and cons of being stubborn. But, as a developer, being stubborn is always on the right side. Life is much more rewarding when using something others don't know how, isn't it?
 
