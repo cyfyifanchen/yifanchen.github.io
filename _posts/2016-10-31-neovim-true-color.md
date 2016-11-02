@@ -25,8 +25,11 @@ Next, let's go get a good [color scheme](http://vimcolor.com). Pick the color yo
     // Don't forget set the airline theme as well.
     let g:airline_theme = 'one'
 
-    // This line enables the true color support
+    // This line enables the true color support.
     let $NVIM_TUI_ENABLE_TRUE_COLOR=1
+
+    // Note, the above line is ignored in Neovim 0.1.5 above, use this line instead.
+    set termguicolors
 
 Now, source your `.vimrc`. You should be able to see the changes immediately. If it doesn't work, probably means your Neovim is outdated. Run the following command to get the latest update of Neovim.
 
@@ -83,7 +86,7 @@ Now paste the following lines of code into your `.tmux.conf`. (Thanks for the [t
     // Needs this line also to overrides the default color
     set-option -ga terminal-overrides ",xterm-256color:Tc"
 
-Source it, it should look like the lovely sceenshots below. If it doesn't work, you might want to kill the session of Tmux.
+Source it, it should look like the lovely sceenshot below. If it doesn't work, you might want to run `tmux kill-server`, then restart the Tmux. I recommend to use [Tmux Resurrect](https://github.com/tmux-plugins/tmux-resurrect) to store your session history, now you can easily restore Tmux session by running `prefix, r`, lovely.
 
 <img src="{{site.url}}/assets/images/final-color-vim.jpg">
 
