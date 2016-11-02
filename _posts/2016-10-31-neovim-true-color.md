@@ -67,7 +67,7 @@ Certainly, that's not everything. If you use Vim, most likely you use Tmux as we
 
 <img src="{{site.url}}/assets/images/wrong-vim.png" style="width:50%; display:block; margin:0 auto;">
 
-Okay, let's get it working right. Check your tmux verion by running:
+Okay, let's get it working right. Check your Tmux version by running:
 
     tmux -V
 
