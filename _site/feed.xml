@@ -3,9 +3,108 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-10-31T15:30:25-06:00</updated>
+<updated>2016-11-01T19:01:54-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
+<entry>
+<title>How to Set Color Scheme in Neovim</title>
+<link href="http://localhost:3000/neovim-true-color/" rel="alternate" type="text/html" title="How to Set Color Scheme in Neovim" />
+<published>2016-10-31T00:00:00-06:00</published>
+<updated>2016-10-31T00:00:00-06:00</updated>
+<id>http://localhost:3000/neovim-true-color</id>
+<content type="html" xml:base="http://localhost:3000/neovim-true-color/">&lt;p&gt;Making a color scheme looks the way it should be in Vim is notoriously cumbersome. Cut to the chase. I am going to share some tips with you on how to set the color scheme correct in Vim and Tmux.&lt;/p&gt;
+
+&lt;p&gt;First of all, use &lt;a href=&quot;https://neovim.io/&quot;&gt;Neovim&lt;/a&gt; instead of Vim. Why? Neovim offers a much better support of True Color. If you want to stick with traditional Vim and invest your time on figuring out how True Color works, read &lt;a href=&quot;https://deductivelabs.com/en/2016/03/using-true-color-vim-tmux/&quot;&gt;this&lt;/a&gt;. If not, I strongly recommend you using Neovim not only because it is going to enlighten the speed quite a bit, but also because you are dealing with a more modern code base that maintained by a bunch of Vim enthusiasts. That means whenever you run into a problem and open an issue on their &lt;a href=&quot;https://github.com/neovim/neovim&quot;&gt;Github Page&lt;/a&gt;, the solution will likely be there right away. I have been using Neovim for more than half year, and I have been entirely happy with it. I have written a &lt;a href=&quot;{{site.url}}/first-day-of-neovim&quot;&gt;blog&lt;/a&gt; on how to make the transition if you feel like you want to read it.&lt;/p&gt;
+
+&lt;p&gt;Next, let’s go get a good &lt;a href=&quot;http://vimcolor.com&quot;&gt;color scheme&lt;/a&gt;. Pick the color you like. I recommend dark themes(I am going to use Vim-One as an example). Now, we want to call the color scheme via Neovim plugin managers. I recommend &lt;a href=&quot;https://github.com/junegunn/vim-plug&quot;&gt;Vim Plug&lt;/a&gt;. After this, you need the following lines in your &lt;code class=&quot;highlighter-rouge&quot;&gt;.vimrc&lt;/code&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;// Set the background theme to dark
+set background = &quot;dark&quot;
+
+// Call the theme one
+set colorscheme = &quot;one&quot;(one is the name of color scheme)
+
+// Don&#39;t forget set the airline theme as well.
+let g:airline_theme = &#39;one&#39;
+
+// This line enables the true color support
+let $NVIM_TUI_ENABLE_TRUE_COLOR=1
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Now, source your &lt;code class=&quot;highlighter-rouge&quot;&gt;.vimrc&lt;/code&gt;. You should be able to see the changes immediately. If it doesn’t work, probably means your Neovim is outdated. Run the following command to get the latest update of Neovim.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;brew upgrade neovim
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;If it still doesn’t work(most likely not happening when you are up-to-date on everything), run the following lines to force the color change in your terminal emulator(I use iTerm2). The following commands check the version of your Neovim and set the condition to toggle when your version not compatible. (This code snippet is from the README.md of &lt;a href=&quot;https://github.com/rakr/vim-one&quot;&gt;vim-one&lt;/a&gt;).&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&quot;Use 24-bit (true-color) mode in Vim/Neovim when outside tmux.
+&quot;If you&#39;re using tmux version 2.2 or later, you can remove the outermost $TMUX check and use tmux&#39;s 24-bit color support
+&quot;(see &amp;lt; http://sunaku.github.io/tmux-24bit-color.html#usage &amp;gt; for more information.)
+if (empty($TMUX))
+  if (has(&quot;nvim&quot;))
+  &quot;For Neovim 0.1.3 and 0.1.4 &amp;lt; https://github.com/neovim/neovim/pull/2198 &amp;gt;
+  let $NVIM_TUI_ENABLE_TRUE_COLOR=1
+  endif
+  &quot;For Neovim &amp;gt; 0.1.5 and Vim &amp;gt; patch 7.4.1799 &amp;lt; https://github.com/vim/vim/commit/61be73bb0f965a895bfb064ea3e55476ac175162 &amp;gt;
+  &quot;Based on Vim patch 7.4.1770 (`guicolors` option) &amp;lt; https://github.com/vim/vim/commit/8a633e3427b47286869aa4b96f2bfc1fe65b25cd &amp;gt;
+  &quot; &amp;lt; https://github.com/neovim/neovim/wiki/Following-HEAD#20160511 &amp;gt;
+  if (has(&quot;termguicolors&quot;))
+    set termguicolors
+  endif
+endif
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Now, you should have something looks like this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/correct-vim.png&quot; style=&quot;width:50%; display:block; margin:0 auto;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As you see, the background color of Vim isn’t synced up with iTerm background color. So, we will need to sync the Hex Values of both background colors manually. Feel free to use whatever tools you like. I use the eyedropper tool from Photoshop. Screenshot the image, then paste it in Photoshop. Hit the &lt;code class=&quot;highlighter-rouge&quot;&gt;i&lt;/code&gt;, shortcut of eyedropper tool, then select the color panel, copy the Hex Value of the color.&lt;/p&gt;
+
+&lt;p&gt;Now, open your iTerm, hit &lt;code class=&quot;highlighter-rouge&quot;&gt;cmd&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;,&lt;/code&gt; to open preference setting, go to Profile - Color - Background and paste the Hex Value there. All set.&lt;/p&gt;
+
+&lt;p&gt;Now, you Vim should look stunning as you expect it to be.&lt;/p&gt;
+
+&lt;p&gt;Certainly, that’s not everything. If you use Vim, most likely you use Tmux as well. Let’s get the Ture color working in Tmux. First, let’s take a look what’s going to happen if you don’t have True Color enabled in Tmux.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/wrong-vim.png&quot; style=&quot;width:50%; display:block; margin:0 auto;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Okay, let’s get it working right. Check your tmux verion by running:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;tmux -V
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;If it belows 2.3, run:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;brew upgrade tmux
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Now paste the following lines of code into your &lt;code class=&quot;highlighter-rouge&quot;&gt;.tmux.conf&lt;/code&gt;. (Thanks for the &lt;a href=&quot;https://github.com/tmux/tmux/issues/34&quot;&gt;true color issue&lt;/a&gt;)&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;// only this line might not be enough
+set -g default-terminal &quot;xterm-256color&quot;
+
+// Needs this line also to overrides the default color
+set-option -ga terminal-overrides &quot;,xterm-256color:Tc&quot;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Source it, it should look like the lovely sceenshots below. If it doesn’t work, you might want to kill the session of Tmux.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/final-color-vim.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now, you have one of the best-looking Vims fully loaded out there. :)&lt;/p&gt;
+</content>
+<category term="Neovim" />
+<category term="vim" />
+<category term="color scheme" />
+<summary>Making a color scheme looks the way it should be in Vim is notoriously cumbersome. Cut to the chase. I am going to share some tips with you on how to set the color scheme correct in Vim and Tmux.</summary>
+</entry>
 <entry>
 <title>Switching to Hyperterm</title>
 <link href="http://localhost:3000/switching-to-hyperterm/" rel="alternate" type="text/html" title="Switching to Hyperterm" />
@@ -141,7 +240,7 @@
 <id>http://localhost:3000/tools-you-need-in-Sierra</id>
 <content type="html" xml:base="http://localhost:3000/tools-you-need-in-Sierra/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/sierra.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;In my previous blog &lt;a href=&quot;{{site.url}}/what-I-learned-from-upgrading-my-os&quot;&gt;What I learned from upgrading to Sierra&lt;/a&gt;. I pointed out one of the professional characteristics that I have lacked for a long time – problem-solving in a subjective way. In this blog, I am going to explain how I moved on to Sierra. Additionally, I will introduce some excellent tools.&lt;/p&gt;
+&lt;p&gt;In my previous blog &lt;a href=&quot;{{site.url}}/what-I-learned-from-upgrading-my-os&quot;&gt;What I learned from upgrading to Sierra&lt;/a&gt;. I pointed out one of the professional characteristics that I have lacked for a long time – problem-solving in an objective way. In this blog, I am going to explain how I moved on to Sierra. Additionally, I will introduce some excellent tools.&lt;/p&gt;
 
 &lt;p&gt;As you know, I am a big fan of using keybindings to boost my productivity. It’s hard to set everything up, but I like doing it. In El Captian, I used a bunch of different tools to make my cumbersome workflow just under my fingertips. I am OCD with my tools, and they have to be the ways I like. Otherwise, I won’t work until I tweak them to. There are pros and cons of being stubborn. But, as a developer, being stubborn is always on the right side. Life is much more rewarding when using something others don’t know how, isn’t it?&lt;/p&gt;
 
@@ -305,28 +404,6 @@
 </content>
 <category term="thoughts" />
 <category term="virtual reality" />
-<summary></summary>
-</entry>
-<entry>
-<title>抄袭与创新</title>
-<link href="http://localhost:3000/copycat/" rel="alternate" type="text/html" title="抄袭与创新" />
-<published>2016-10-03T00:00:00-06:00</published>
-<updated>2016-10-03T00:00:00-06:00</updated>
-<id>http://localhost:3000/copycat</id>
-<content type="html" xml:base="http://localhost:3000/copycat/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/innovation.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;抄袭与创新，两个在语义上毫无关系的词，在这个互联网时代被赋予了新的意境，同时之间的关系也越加微妙起来。毕加索说过一句话，“good artists copy, great artists steal”。很多伟大的创新都是从抄袭开始的。&lt;/p&gt;
-
-&lt;p&gt;小米最近发布了新手机5S, 让人眼前一亮的是新技术, 超声波和指纹识别的结合。纵使是技术强大的Apple，在收购了指纹识别公司AuthenTec以后，也没有第一个做出这个技术(传言老乔在世的时候，一直就想做个没有任何物理按键的手机）。然而小米，成为了在业内第一个把超声波和指纹识别结合的科技公司，今天的手机指纹是通过感应器来识别的，超声波的运用给指纹识别带入一个无缝的时代。同时，赋予了手机在设计上更大发挥的空间，实体按键很有可能在未来几年内彻底消失。&lt;/p&gt;
-
-&lt;p&gt;“必须要非常努力，才能看起来毫不费力”。指纹识别这玩意儿，如果有那么0.1秒的延迟对用户体验来说就是失败的，可想小米背后的努力。更值得赞扬的是，智能手机摆脱实体按键，屏幕空间的扩展性和超声波指纹识别非常有可能就是从5S开始，也是一个标杆的建立。在科技行业里，能树立一个标杆的公司非常非常少。简单来讲，大多数新技术先是以一个弧度上升，再以抛物线的形式下降，最后被彻底抛弃，取而代之的是更新更好的技术。那么，树立标杆就要求科技公司对未来科技的走向和技术的把握非常精确，有那么一点你需要预测未来的意思。&lt;/p&gt;
-
-&lt;p&gt;智能手机硬件在需要满足：安全性，便携性，方便性，好用性，耐久性（杜蕾斯）的前提下，出现了严重同质化的现象，在设计上非常非常难有突破。所以，互相抄袭是难以避免的。可贵的是，在抄袭的基础上不断进阶，完成对自己的挑战，实现创新。&lt;/p&gt;
-
-&lt;p&gt;抄袭创新，一纸之隔。一抄到底，或，固本创新。造化。&lt;/p&gt;
-
-</content>
-<category term="thoughts" />
 <summary></summary>
 </entry>
 </feed>

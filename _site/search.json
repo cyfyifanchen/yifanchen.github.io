@@ -1,6 +1,13 @@
 [
   
     {
+      "title"    : "How to Set Color Scheme in Neovim",
+      "tags"     : "Neovim, vim, and color scheme",
+      "url"      : "/neovim-true-color/",
+      "date"     : "31 Oct 2016"
+    } ,
+  
+    {
       "title"    : "Switching to Hyperterm",
       "tags"     : "Hyperterm and iTerm2",
       "url"      : "/switching-to-hyperterm/",
