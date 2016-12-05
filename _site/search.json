@@ -1,6 +1,13 @@
 [
   
     {
+      "title"    : "Macbook Pro With Touchbar Revirew",
+      "tags"     : "Neovim, vim, and color scheme",
+      "url"      : "/macbookpr13-revirew/",
+      "date"     : "26 Nov 2016"
+    } ,
+  
+    {
       "title"    : "How to Set Color Scheme in Neovim",
       "tags"     : "Neovim, vim, and color scheme",
       "url"      : "/neovim-true-color/",
