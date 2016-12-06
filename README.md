@@ -1,6 +1,10 @@
-Personal blog, will write things I like: work, life, technologies, etc.
+# Personal blog
 
-Completely forgot the dependencies of the site, had to have a friend reminding me to on how to install, I'd better start to doc everything toady, it has been a good lesson. The site was written with Jekyll with a template.
+> 积少成多 慢慢坚持 培养一个爱好而已
+
+## Install
+
+Completely forgot the dependencies of the site, had to have a friend reminding me to on how to install. I'd better start to doc everything toady, it has been a good lesson.
 
     ruby -v
     gem install bundler
