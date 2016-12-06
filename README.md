@@ -8,7 +8,7 @@ Completely forgot the dependencies of the site, had to have a friend reminding m
 
     ruby -v
     gem install bundler
-    bundlre
+    bundle
     npm i
     npm i -g gulp-cli
 
