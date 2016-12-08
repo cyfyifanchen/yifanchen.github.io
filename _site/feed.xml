@@ -3,9 +3,72 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-12-05T15:59:29-07:00</updated>
+<updated>2016-12-07T21:50:13-07:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
+<entry>
+<title>MacBook Pro with Touch Bar 模糊测评</title>
+<link href="http://localhost:3000/macbook-pro-touch-bar-review/" rel="alternate" type="text/html" title="MacBook Pro with Touch Bar 模糊测评" />
+<published>2016-12-07T00:00:00-07:00</published>
+<updated>2016-12-07T00:00:00-07:00</updated>
+<id>http://localhost:3000/macbook-pro-touch-bar-review</id>
+<content type="html" xml:base="http://localhost:3000/macbook-pro-touch-bar-review/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/macbookprotouchbar.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;暴了一次人品。黑色星期五，意外地在苹果店发现有自己想要的新 MacBook Pro with Touch Bar 的配置，带了一台回家。已经用了两个多星期了，随便从几个方面谈谈主观上的模糊感受。&lt;/p&gt;
+
+&lt;p&gt;模糊感受，没有任何数据的非客观评价。所以，下面的测评没有任何实际数据，想看数据的朋友，出门左转，youtube 上面有各种跑分情况。&lt;/p&gt;
+
+&lt;h2 id=&quot;section&quot;&gt;机型&lt;/h2&gt;
+
+&lt;p&gt;13 英寸
+Intel Core i7
+16 Momery
+512 GB SSD
+深空灰&lt;/p&gt;
+
+&lt;p&gt;很棒的尺寸，以至于让我有点想迫不及待地做飞机，再也不用有打开电脑就狗带的感觉了。风扇噪音的降低和散热的控制都较前代很大的提升。我喜欢坐在沙发上工作，听着 Spotify 写码，声音开很大，长时间放在腿上没有较前代很热的感觉。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-1&quot;&gt;接口&lt;/h2&gt;
+
+&lt;p&gt;4个 USB Type C 接口设计的做法确实激进，甚至有点扯淡，我想用电脑给手机冲电还需要转接器，草泥马，用户体验去哪了？&lt;/p&gt;
+
+&lt;p&gt;然而，如果从反方向思考一下这个问题，不难推测接下来几代苹果产品以及笔记本电脑的发展反向。结论就是：又一次，苹果激进地看开了一次头。很多用户互忽略了一个工程上的技术问题，科技的进步往往是伴随着取舍递进的。今天的产品设计，特别是与生活息息相关的电子产品，每一毫米的内部空间节省都需要在结构上重新设计。特别是手机这个东西，内部空间极其紧凑，能节省的每一毫米都是一种胜利。3.5 毫米的耳机插孔本身已经占用了不少空间，再加上手机内部的连接圈，不用我说你也知道占用了多少空间。所以，3.5 毫米耳机插孔的消失是必然的，只是时间问题。&lt;/p&gt;
+
+&lt;p&gt;相同的道理，为便携而诞生的笔记本电脑和平板电脑，接口的减少和统一也只是时间问题。昨天我同事问我要一个 PDF 的电子书，我直接 AirDrop 给他，蓝牙的传输速度基本可以满足日常的使用。技术的进步，时代的改变，总需要有人第一个站出来。当下，有这个能力能在硬件上面让真个产业跟着自己步伐走的也只有苹果了。&lt;/p&gt;
+
+&lt;p&gt;所以，想开点，接口激进的做法就是进步的表现。另外，USB Type C 接口的传输是其他接口速度的很多倍。最后，电源在4个接口上都可以用的设计也算是弥补了失去 Magsafe 的补偿吧。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-2&quot;&gt;键盘&lt;/h2&gt;
+
+&lt;p&gt;我很喜欢这第二代蝶式键盘。虽然键程很短，打起字来却很舒服，准确率由于键面的增大和平稳性的加入提升了很多。顺便说一下，我同时也特别喜欢机械键盘，家里用的是我定制的 WASD 青轴。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-3&quot;&gt;屏幕&lt;/h2&gt;
+
+&lt;p&gt;新屏幕的亮度提高了很多，现在即使是背光，也可以轻易地看到屏幕上的内容。记得我用上代 MacBook Pro 的时候。每天到下午，光线反射到屏幕上的时候，需要变换位置才能看清屏幕，现在不需要了。&lt;/p&gt;
+
+&lt;h2 id=&quot;touch-bar&quot;&gt;Touch Bar&lt;/h2&gt;
+
+&lt;p&gt;Touch  Bar 可以说是这次 MacBook Pro 最大的卖点，以至于苹果在 Keynote 上专门花大把时间来展示。奇怪的是，Touch Bar 对我没有很大的吸引力。我之前小小地担心了 esc 键的触碰的问题。后来觉得可笑，苹果这种天天宣传用户体验的公司，触碰这些事情应该用不到我操心。果不其然，虽然 esc 键视觉上不在最左边，但是程序上是在最左边。&lt;/p&gt;
+
+&lt;p&gt;当然，Touch Bar 以后的开发可以非常让人期待。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-4&quot;&gt;触控板&lt;/h2&gt;
+
+&lt;p&gt;触控板面积很大，我坚信这样设计的原因肯定是打算把 Magic Pen 拿过来用。因为面积的增大，不正规的打字姿势会造成一些不必要的误碰，需要一点时间适应。如果你打字姿势正确的话，完全没有问题。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-5&quot;&gt;续航&lt;/h2&gt;
+
+&lt;p&gt;续航很烂，没有宣传的10小时，我在开着 Spotify 的情况下写代码，大概也就5小时左右。希望接下来的版本升级可以优化续航。（Sierra 我一直不是很喜欢，没有 El Captian 好用，续航就是其中一个方面。）&lt;/p&gt;
+
+&lt;h2 id=&quot;section-6&quot;&gt;总结&lt;/h2&gt;
+
+&lt;p&gt;价钱还是贵，不卖肾买不起。不过，我很清楚，买苹果的产品，买的不是跑分机器，而是一个集合了工业设计，用户体验，系统整合，外加咖啡店逼格光环的产品。&lt;/p&gt;
+
+</content>
+<category term="Macbook Pro" />
+<category term="Review" />
+<summary></summary>
+</entry>
 <entry>
 <title>How to Set Color Scheme in Neovim</title>
 <link href="http://localhost:3000/neovim-true-color/" rel="alternate" type="text/html" title="How to Set Color Scheme in Neovim" />
@@ -299,77 +362,6 @@
 <category term="wechat" />
 <category term="technology" />
 <category term="direction" />
-<summary></summary>
-</entry>
-<entry>
-<title>Virtual Reality</title>
-<link href="http://localhost:3000/virtual-reality/" rel="alternate" type="text/html" title="Virtual Reality" />
-<published>2016-10-07T00:00:00-06:00</published>
-<updated>2016-10-07T00:00:00-06:00</updated>
-<id>http://localhost:3000/virtual-reality</id>
-<content type="html" xml:base="http://localhost:3000/virtual-reality/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/vr.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;虚拟现实, 简单聊一下它的今天与明天。&lt;/p&gt;
-
-&lt;h2 id=&quot;section&quot;&gt;种类&lt;/h2&gt;
-
-&lt;p&gt;虚拟现实就是VR, 英语Virtual Reality的缩写。同时还有AR(Augmented Reality), MR(Mixed Reality), CR(Cinematic Reality). 后面的3个都是在VR的基础上延伸出来的。理由很简单，VR在今天的技术下有相当的局限性。可以这样理解，后面的3个R都是在VR的概念上加以改变来服务当下的需求。所以，有理由相信接下来的几年会出现更多的R。&lt;/p&gt;
-
-&lt;h2 id=&quot;section-1&quot;&gt;交互&lt;/h2&gt;
-
-&lt;p&gt;交互，交流互动的简写。这个在几年前完全不存在的词，在今天被频繁提及到。如果说过去的我们是适应工具，那么今天是工具适应我们。如何有效的让用户和产品进行交流互动是今天产品设计上面非常重要的一步，更直接影响到用户体验。所以说，只有内外兼具的产品才会深得人心。&lt;/p&gt;
-
-&lt;p&gt;看过《钢铁侠》的朋友，一定会对Jarvis印象深刻。骚尼和Jarvis的互动出现在两个方面。第一，语言。第二，触控。语言是人工智能，达到Jarvis地步，需要算法有很大的提升。触控则是软硬件的双向结合。剧里骚尼通过摆动手臂和手势完成对软件的操作，这在今天通过照相机里的动作捕捉技术是可以完成的。但是，这个交互不现实，道理很简单，缺乏反馈。人类的手臂和双手在没有物理反馈的情况下长时间举在空中，是个非常不舒服的过程，更别说体验了。所以，这个交互是不成立的。&lt;/p&gt;
-
-&lt;p&gt;那么，交互在今天的VR是什么一种情况呢？首先，我们需要列出2016年市面上有的VR产品:&lt;/p&gt;
-
-&lt;table align=&quot;center&quot; style=&quot;border:1px solid lightgray; width:100%; color:#666; padding:10px;&quot;&gt;
-    &lt;tr&gt;
-      &lt;td align=&quot;left&quot;&gt;&lt;b&gt;Company&lt;/b&gt;&lt;/td&gt;
-      &lt;td align=&quot;left&quot;&gt;&lt;b&gt;Hardware&lt;/b&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td align=&quot;left&quot;&gt;Google&lt;/td&gt;
-      &lt;td align=&quot;left&quot;&gt;Cardboard&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td align=&quot;left&quot;&gt;Microsoft&lt;/td&gt;
-      &lt;td align=&quot;left&quot;&gt;Hololens&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td align=&quot;left&quot;&gt;Sony&lt;/td&gt;
-      &lt;td align=&quot;left&quot;&gt;PlayStation VR&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td align=&quot;left&quot;&gt;Oculus&lt;/td&gt;
-      &lt;td align=&quot;left&quot;&gt;Rift CV1&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td align=&quot;left&quot;&gt;HTC&lt;/td&gt;
-      &lt;td align=&quot;left&quot;&gt;VIVE&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td align=&quot;left&quot;&gt;Samsung&lt;/td&gt;
-      &lt;td align=&quot;left&quot;&gt;Gear VR&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;p&gt;很明显，这些产品都是都是头戴式显示器(HMD - Head Mounted Display）。记得小时候去科技馆学习天文，沉浸在一个球形的大房间里面通过180度的显示器观看太阳系的结构，那是我第一次感受VR。今天，头戴式显示器的目的就是要把VR平民化，给开发者提供一个平台，真正的把VR大众化，让每一个人都可以身临其境的感受。&lt;/p&gt;
-
-&lt;p&gt;相比于视觉上的交互，触觉上的更多元化一点。有各种样子的遥控器，触控器，还有触控手套。但是，多元在此并非好事，缺乏规范。规范的竖立不是一两天会出现的，而是需要多年时间的迭代更新来产生。&lt;/p&gt;
-
-&lt;h2 id=&quot;section-2&quot;&gt;体验&lt;/h2&gt;
-
-&lt;p&gt;体验，一个比互动更复杂的概念。如果说互动可以简单理解为一种交流模式的话，那么体验就上升到感官层面了例如温度，气味或者风速。今天好的界面设计和用户体验建立在用户直觉的感应上。有人做过这样一个有趣的实验，在平板电脑里放上1岁宝宝喜欢看的图片，需要上下滑动来浏览。然后，看看1岁宝宝是怎样体验这个平板电脑的。结果出乎意料，宝宝非常迅速直觉的摸索到了滑动。想想看，一个1岁的宝宝能有如此的反应，那么体验上的设计在平板电脑上先进到了什么样一种情况？&lt;/p&gt;
-
-&lt;p&gt;就像之前讲到的，体验还有更为复杂，难以解释的一面。目前的VR在刚刚可以满足视觉，触觉和听觉的情况下，指不定那一天可以强大到给我们带来心灵和感情上的体验。&lt;/p&gt;
-
-&lt;h2 id=&quot;section-3&quot;&gt;展望&lt;/h2&gt;
-
-&lt;p&gt;VR在现阶段还处于探索的地步，需要完整的融入我们的生活还需要一段时间。想象10年前，当我们惊讶于第一代iPhone可以浏览网页的时候，谁能想到今天的智能手机可以强大到如此的地步。而我们要做的就是，适应。&lt;/p&gt;
-</content>
-<category term="thoughts" />
-<category term="virtual reality" />
 <summary></summary>
 </entry>
 </feed>

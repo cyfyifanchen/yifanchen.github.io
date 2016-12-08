@@ -1,6 +1,13 @@
 [
   
     {
+      "title"    : "MacBook Pro with Touch Bar 模糊测评",
+      "tags"     : "Macbook Pro and Review",
+      "url"      : "/macbook-pro-touch-bar-review/",
+      "date"     : "07 Dec 2016"
+    } ,
+  
+    {
       "title"    : "How to Set Color Scheme in Neovim",
       "tags"     : "Neovim, vim, and color scheme",
       "url"      : "/neovim-true-color/",
