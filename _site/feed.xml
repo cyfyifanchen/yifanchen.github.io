@@ -3,17 +3,18 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-12-13T13:13:27-07:00</updated>
+<updated>2016-12-13T13:20:33-07:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
 <entry>
-<title>救人还是救世-《奇异博士》影评</title>
-<link href="http://localhost:3000/dr-strange-review/" rel="alternate" type="text/html" title="救人还是救世-《奇异博士》影评" />
+<title>救人还是救世 《奇异博士》影评</title>
+<link href="http://localhost:3000/dr-strange-review/" rel="alternate" type="text/html" title="救人还是救世 《奇异博士》影评" />
 <published>2016-12-09T00:00:00-07:00</published>
 <updated>2016-12-09T00:00:00-07:00</updated>
 <id>http://localhost:3000/dr-strange-review</id>
-<content type="html" xml:base="http://localhost:3000/dr-strange-review/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/doctor-strange.jpg&quot; /&gt;
-周五晚上，百无聊赖，索性约了个朋友看电影。有段时间没进电影院了，加上很多同事对《奇异博士》的好评，好生期待。&lt;/p&gt;
+<content type="html" xml:base="http://localhost:3000/dr-strange-review/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/doctor-strange.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;周五晚上，百无聊赖，索性约了个朋友看电影。有段时间没进电影院了，加上很多同事对《奇异博士》的好评，好生期待。&lt;/p&gt;
 
 &lt;p&gt;我对电影的理解一直保持在一个简单肤浅的地步。有情，有声，有剧，有乐就是一个好电影。今天的商业电影只要是在资金充足的情况下都可以拍出浓浓的爆米花味，娱乐观众，抢占票房绰绰有余。而漫威对自己电影的投资也一向不手软，何况自己玩的不是单票电影 ，而是系列电影。所以，近几年的漫威的电影基本都被印上了一个好且燃的标签。即便这样 ，在我看来《奇异博士》也只是勉强交出了及格的答卷。&lt;/p&gt;
 
@@ -41,7 +42,7 @@
 &lt;p&gt;影片的配乐和其他漫威电影差的不是一点半点，我理解你不可能每个电影都找 Hans Zimmer 或者 Henry Jackman 这样的大神来，但是，拜托，认真点，不要把恐怖电影的音效直接拿来好吗？&lt;/p&gt;
 </content>
 <category term="film review" />
-<summary>周五晚上，百无聊赖，索性约了个朋友看电影。有段时间没进电影院了，加上很多同事对《奇异博士》的好评，好生期待。</summary>
+<summary></summary>
 </entry>
 <entry>
 <title>MacBook Pro with Touch Bar 模糊测评</title>
