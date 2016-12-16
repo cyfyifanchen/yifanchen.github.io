@@ -19,6 +19,10 @@ When I started to learn JavaScript, it was worse. I didn't understand anything, 
 I have never been one of those smart students in class, and I probably will never be. But, that's okay. To make things happen, I don't have to be super smart or talented as long as I work hard and willing to improve. There are millions of code snippets out there I can grab if I can't write my own,  at least I know that I can manipulate them to the way I need. If one code snippet doesn't work, I will try a different one until I find the one it does. I believe as time goes, I am going to be
 good at what I am doing, all I need is persistence.
 
+> If you only do what you can do, you will never be more than you are now.
+
 People tend to say no to new things. It is a Human Nature. You feel vulnerable when you learn, nobody likes that feeling. However, look at the bright side, whenever you are feeling vulnerable, it means you are learning, feeling weak is just the first step of becoming better. The thing is you have to believe in yourself and invest yourself. People often say that if you don't even believe in yourself, why should anyone else?
 
-Last but not least, I'd like to quote from Master Oogway, *Don't be too concerned with what was and what will be. There's a saying, yesterday is a history, tomorrow is a mystery, today is a gift, that is why it's called present.*
+Last but not least, I'd like to quote from Master Oogway:
+
+> Don't be too concerned with what was and what will be. There's a saying, yesterday is a history, tomorrow is a mystery, today is a gift, that is why it's called present.
