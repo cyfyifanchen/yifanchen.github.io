@@ -3,14 +3,119 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-12-15T19:01:11-07:00</updated>
+<updated>2016-12-31T11:29:42-05:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
 <entry>
+<title>健身之路</title>
+<link href="http://localhost:3000/road/" rel="alternate" type="text/html" title="健身之路" />
+<published>2016-12-29T00:00:00-05:00</published>
+<updated>2016-12-29T00:00:00-05:00</updated>
+<id>http://localhost:3000/road</id>
+<content type="html" xml:base="http://localhost:3000/road/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/fit.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;分享一些经验，希望可以帮助想健身的朋友：）&lt;/p&gt;
+
+&lt;h3 id=&quot;section&quot;&gt;目标：&lt;/h3&gt;
+
+&lt;p&gt;目标一定要明确。减肥？塑型？增肌？根据需要，选出合适的方法，剩下的就是对意志力的考验。 我的目标是减体脂。简单来说：就是减肥加塑型。对于只是想减肥的朋友，不用锻炼。想变大块儿的朋友, 加倍吃，加倍练。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-1&quot;&gt;食谱：&lt;/h3&gt;
+
+&lt;h4 id=&quot;section-2&quot;&gt;食物的万金油理论：&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;好吃可口 = 胖&lt;/li&gt;
+  &lt;li&gt;调味酱 = 胖 （老干妈，豆瓣酱等）&lt;/li&gt;
+  &lt;li&gt;主食 = 胖&lt;/li&gt;
+  &lt;li&gt;零食 = 胖&lt;/li&gt;
+  &lt;li&gt;饮料 = 胖&lt;/li&gt;
+  &lt;li&gt;火锅 = 胖&lt;/li&gt;
+  &lt;li&gt;下馆子 = 胖&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;section-3&quot;&gt;可以放心吃的：&lt;/h4&gt;
+
+&lt;p&gt;肉类:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;鸡肉: 瘦且有营养&lt;/li&gt;
+  &lt;li&gt;牛肉: 瘦牛肉&lt;/li&gt;
+  &lt;li&gt;猪肉: 瘦的。五花肉什么的，还是看看算了。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;蔬菜类：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;西蓝花&lt;/li&gt;
+  &lt;li&gt;芹菜&lt;/li&gt;
+  &lt;li&gt;胡萝卜&lt;/li&gt;
+  &lt;li&gt;青辣椒&lt;/li&gt;
+  &lt;li&gt;红辣椒&lt;/li&gt;
+  &lt;li&gt;豆角&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;蛋白质：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;蛋清&lt;/li&gt;
+  &lt;li&gt;豆腐（非油炸）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;饮料类:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;各种软饮料（diet）&lt;/li&gt;
+  &lt;li&gt;黑咖啡&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;绝对不能吃的：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;主食：米，面，面包，淀粉类&lt;/li&gt;
+  &lt;li&gt;零食：糖，巧克力，薯片, 所有零食最好都别碰。&lt;/li&gt;
+  &lt;li&gt;甜点：蛋糕&lt;/li&gt;
+  &lt;li&gt;各种油炸：薯条，油条&lt;/li&gt;
+  &lt;li&gt;饮料：啤酒，啤酒，啤酒&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;section-4&quot;&gt;烹饪：&lt;/h4&gt;
+
+&lt;p&gt;蒸煮 &amp;gt; 考 &amp;gt; 炒&lt;/p&gt;
+
+&lt;p&gt;尽量不要用油。盐和胡椒粉是你的好朋友。喜欢辣的可以放干辣椒，酱油也没有问题。切记，老干妈豆瓣酱之类别吃。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-5&quot;&gt;锻炼：&lt;/h3&gt;
+
+&lt;p&gt;早上：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;20 俯卧撑 x 5 组&lt;/li&gt;
+  &lt;li&gt;50 仰卧起坐 x 4 组&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;晚上：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;20 俯卧撑 x 5 组&lt;/li&gt;
+  &lt;li&gt;30 仰卧起坐 x 2 组&lt;/li&gt;
+  &lt;li&gt;1 分钟 Plank x 2 组&lt;/li&gt;
+  &lt;li&gt;1 分钟 Right Side Plank x 2 组&lt;/li&gt;
+  &lt;li&gt;1 分钟 Left Side Plank x 2 组&lt;/li&gt;
+  &lt;li&gt;30 秒脚蹬自行车 x 2 组&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;最后，你如果感觉这个过程很痛苦，那么恭喜你，你的身体已经开始和你的大脑斗争了，你唯一要做的就是 - 坚持。&lt;/p&gt;
+
+</content>
+<category term="Health" />
+<summary></summary>
+</entry>
+<entry>
 <title>救人还是救世 《奇异博士》影评</title>
 <link href="http://localhost:3000/dr-strange-review/" rel="alternate" type="text/html" title="救人还是救世 《奇异博士》影评" />
-<published>2016-12-09T00:00:00-07:00</published>
-<updated>2016-12-09T00:00:00-07:00</updated>
+<published>2016-12-09T00:00:00-05:00</published>
+<updated>2016-12-09T00:00:00-05:00</updated>
 <id>http://localhost:3000/dr-strange-review</id>
 <content type="html" xml:base="http://localhost:3000/dr-strange-review/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/doctor-strange.jpg&quot; /&gt;&lt;/p&gt;
 
@@ -51,8 +156,8 @@
 <entry>
 <title>MacBook Pro with Touch Bar 模糊测评</title>
 <link href="http://localhost:3000/macbook-pro-touch-bar-review/" rel="alternate" type="text/html" title="MacBook Pro with Touch Bar 模糊测评" />
-<published>2016-12-07T00:00:00-07:00</published>
-<updated>2016-12-07T00:00:00-07:00</updated>
+<published>2016-12-07T00:00:00-05:00</published>
+<updated>2016-12-07T00:00:00-05:00</updated>
 <id>http://localhost:3000/macbook-pro-touch-bar-review</id>
 <content type="html" xml:base="http://localhost:3000/macbook-pro-touch-bar-review/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/macbookprotouchbar.jpg&quot; /&gt;&lt;/p&gt;
 
@@ -114,8 +219,8 @@ Intel Core i7
 <entry>
 <title>How to Set Color Scheme in Neovim</title>
 <link href="http://localhost:3000/neovim-true-color/" rel="alternate" type="text/html" title="How to Set Color Scheme in Neovim" />
-<published>2016-10-31T00:00:00-06:00</published>
-<updated>2016-10-31T00:00:00-06:00</updated>
+<published>2016-10-31T00:00:00-04:00</published>
+<updated>2016-10-31T00:00:00-04:00</updated>
 <id>http://localhost:3000/neovim-true-color</id>
 <content type="html" xml:base="http://localhost:3000/neovim-true-color/">&lt;p&gt;Making a color scheme looks the way it should be in Vim is notoriously cumbersome. Cut to the chase. I am going to share some tips with you on how to set the color scheme correct in Vim and Tmux.&lt;/p&gt;
 
@@ -179,8 +284,8 @@ Intel Core i7
 <entry>
 <title>Switching to Hyperterm</title>
 <link href="http://localhost:3000/switching-to-hyperterm/" rel="alternate" type="text/html" title="Switching to Hyperterm" />
-<published>2016-10-28T00:00:00-06:00</published>
-<updated>2016-10-28T00:00:00-06:00</updated>
+<published>2016-10-28T00:00:00-04:00</published>
+<updated>2016-10-28T00:00:00-04:00</updated>
 <id>http://localhost:3000/switching-to-hyperterm</id>
 <content type="html" xml:base="http://localhost:3000/switching-to-hyperterm/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/hyperterm-colortheme.jpg&quot; /&gt;&lt;/p&gt;
 
@@ -197,8 +302,8 @@ Intel Core i7
 <entry>
 <title>简单聊聊对新Macbook Pro的看法</title>
 <link href="http://localhost:3000/new-macbookpro/" rel="alternate" type="text/html" title="简单聊聊对新Macbook Pro的看法" />
-<published>2016-10-27T00:00:00-06:00</published>
-<updated>2016-10-27T00:00:00-06:00</updated>
+<published>2016-10-27T00:00:00-04:00</published>
+<updated>2016-10-27T00:00:00-04:00</updated>
 <id>http://localhost:3000/new-macbookpro</id>
 <content type="html" xml:base="http://localhost:3000/new-macbookpro/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/mbp.jpg&quot; /&gt;&lt;/p&gt;
 
@@ -251,8 +356,8 @@ Intel Core i7
 <entry>
 <title>那些年，总是追不到的妹子</title>
 <link href="http://localhost:3000/meizi/" rel="alternate" type="text/html" title="那些年，总是追不到的妹子" />
-<published>2016-10-25T00:00:00-06:00</published>
-<updated>2016-10-25T00:00:00-06:00</updated>
+<published>2016-10-25T00:00:00-04:00</published>
+<updated>2016-10-25T00:00:00-04:00</updated>
 <id>http://localhost:3000/meizi</id>
 <content type="html" xml:base="http://localhost:3000/meizi/">&lt;p&gt;最近两天，我和小伙伴一前一后各自被甩。吸取教训，再接再厉。顺便回忆一下过去，感慨一下现实。&lt;/p&gt;
 
@@ -272,8 +377,8 @@ Intel Core i7
 <entry>
 <title>下一个十年</title>
 <link href="http://localhost:3000/ten-years/" rel="alternate" type="text/html" title="下一个十年" />
-<published>2016-10-20T00:00:00-06:00</published>
-<updated>2016-10-20T00:00:00-06:00</updated>
+<published>2016-10-20T00:00:00-04:00</published>
+<updated>2016-10-20T00:00:00-04:00</updated>
 <id>http://localhost:3000/ten-years</id>
 <content type="html" xml:base="http://localhost:3000/ten-years/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/ten-years.jpg&quot; /&gt;&lt;/p&gt;
 
@@ -306,8 +411,8 @@ Intel Core i7
 <entry>
 <title>Tools you need in Sierra</title>
 <link href="http://localhost:3000/tools-you-need-in-Sierra/" rel="alternate" type="text/html" title="Tools you need in Sierra" />
-<published>2016-10-17T00:00:00-06:00</published>
-<updated>2016-10-17T00:00:00-06:00</updated>
+<published>2016-10-17T00:00:00-04:00</published>
+<updated>2016-10-17T00:00:00-04:00</updated>
 <id>http://localhost:3000/tools-you-need-in-Sierra</id>
 <content type="html" xml:base="http://localhost:3000/tools-you-need-in-Sierra/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/sierra.jpg&quot; /&gt;&lt;/p&gt;
 
@@ -347,8 +452,8 @@ Intel Core i7
 <entry>
 <title>何为孤独</title>
 <link href="http://localhost:3000/alone/" rel="alternate" type="text/html" title="何为孤独" />
-<published>2016-10-16T00:00:00-06:00</published>
-<updated>2016-10-16T00:00:00-06:00</updated>
+<published>2016-10-16T00:00:00-04:00</published>
+<updated>2016-10-16T00:00:00-04:00</updated>
 <id>http://localhost:3000/alone</id>
 <content type="html" xml:base="http://localhost:3000/alone/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/alone.jpg&quot; /&gt;&lt;/p&gt;
 
@@ -358,26 +463,6 @@ Intel Core i7
 
 &lt;p&gt;小强单身，一被注意，马上敞开心扉，以为坦率，废话连篇，貌似轻浮，实为孤独。&lt;/p&gt;
 </content>
-<category term="thoughts" />
-<summary></summary>
-</entry>
-<entry>
-<title>What I learned from upgrading to Sierra</title>
-<link href="http://localhost:3000/what-I-learned-from-upgrading-my-os/" rel="alternate" type="text/html" title="What I learned from upgrading to Sierra" />
-<published>2016-10-15T00:00:00-06:00</published>
-<updated>2016-10-15T00:00:00-06:00</updated>
-<id>http://localhost:3000/what-I-learned-from-upgrading-my-os</id>
-<content type="html" xml:base="http://localhost:3000/what-I-learned-from-upgrading-my-os/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/learning.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I upgraded my work machine,  a 2013 MacBook Pro, to Sierra Thursday morning. I did use Time Machine to back up my files in case upgrading went wrong. Sierra was stunning at the beginning of the day. Although I didn’t care Siri at all, but I enjoyed the new OS in general, especially the new Storage Mangement feature, which I thought Apple should have done it a while ago. Now, I no longer need third party application to optimize my space. However, I ended up not liking Sierra by the end of the day.&lt;/p&gt;
-
-&lt;p&gt;I like to update my applications right away when there are updates. Probably because I am a developer, an update has always meant more than a patch to me, it represents a product of an iteration and a result of teamwork. However, when it comes to upgrading the OS of my work machine, I had to be careful. I had many customizations added to my work machine, I ran a bunch of open source tools to keep my workflow productive. On top of that, I am a Tmux and Vim user. Since all Tmux and Vim packages and plugins are from open source, compatibility of newer OS update takes time to develop. With all these in my mind, I didn’t update right away. I waited a couple of weeks after the official release, I consulted with some of my co-workers who did upgrade. Everything seemed working fine. Some of their machines are highly customized as well, which made me feel comfortable to upgrade. So, I did it on Thursday morning.&lt;/p&gt;
-
-&lt;p&gt;The first bug I noted was Karabiner, a must have keybinding tool for my workflow, didn’t work at all. I went to their Github repo trying to find answers, realized there were same Issues have been reported and marked bug for days. Then I saw my iTerm had four weird tiny spaces around it when I maximized the window, which bugged the crap out of me. Additionally, Dota2 had a serious mouse delay when moving the cursor to the edge. I couldn’t even enjoy the game. On top of that, there were some other smaller issues that I could barely tolerate. Therefore, I thought about going back to El Captian. It would fix all of the problems. Then, it got me thinking. If I refuse to adopt new things, choose going back. It is not what I wanted in the first place. I am going to stick with Sierra. I am going forward and not looking back. What about the problems? Simple, finding ways to solve them. I am a developer, I do what I am good at, finding solutions to the problems.&lt;/p&gt;
-
-&lt;p&gt;Whether you like it or not, technology is moving forward. Instead of staying in the same place and complaining, adopting is the key to existence.&lt;/p&gt;
-</content>
-<category term="technology" />
 <category term="thoughts" />
 <summary></summary>
 </entry>
