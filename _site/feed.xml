@@ -3,14 +3,45 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2017-01-01T14:14:48-05:00</updated>
+<updated>2017-01-03T15:06:04-07:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
 <entry>
+<title>年少还需狂《海洋奇缘》影评</title>
+<link href="http://localhost:3000/moana-review/" rel="alternate" type="text/html" title="年少还需狂《海洋奇缘》影评" />
+<published>2017-01-03T00:00:00-07:00</published>
+<updated>2017-01-03T00:00:00-07:00</updated>
+<id>http://localhost:3000/moana-review</id>
+<content type="html" xml:base="http://localhost:3000/moana-review/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/Moana.jpg&quot; style=&quot;display:block; margin:0 auto;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;既然是公主片，既然有小动物当你小弟，既然有好听的音乐，既然有暖心的结局。剧情什么的，随它去吧。&lt;/p&gt;
+
+&lt;p&gt;亮点台词：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Are you going to sing? I am going to throw up.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Why am I princess? Because you wear a dress, and you have an animal as your side-kick.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;剧情：&lt;/p&gt;
+
+&lt;p&gt;海上的游牧民族本在美丽的海岛上过着安逸的生活。可世界不太平，岛上的食物链遭到破坏，被大海选中的公主，又一次通过自己的勇敢和打不死的动物小强拯救了自己的族人。&lt;/p&gt;
+
+&lt;p&gt;个人认为比《冰雪奇缘》好看，抛开我比较喜欢夏天的原因，冒险的正能量至始至终贯穿整个影片，更给冬天的心灵送去一股暖流。巨石强森的配音即幽默又出彩，好几个面部表情明明就是强森自己（貌似强森 也有岛民的血统，开朗大块头）。这次的动物小强是个公鸡，玩的不是慧萌，而是傻萌。音乐好听还燃，歌词里面充满了力量，和岛民健壮的体魄完美结合。结局振奋且激昂。（权力的游戏第7季结尾既视感）&lt;/p&gt;
+
+&lt;p&gt;最后鸡汤一句：也许，今天我们亏欠的正是那颗没能曾经为自由而飞的腐朽之心。&lt;/p&gt;
+</content>
+<category term="Film Review" />
+<summary></summary>
+</entry>
+<entry>
 <title>健身之路</title>
 <link href="http://localhost:3000/road/" rel="alternate" type="text/html" title="健身之路" />
-<published>2016-12-29T00:00:00-05:00</published>
-<updated>2016-12-29T00:00:00-05:00</updated>
+<published>2016-12-29T00:00:00-07:00</published>
+<updated>2016-12-29T00:00:00-07:00</updated>
 <id>http://localhost:3000/road</id>
 <content type="html" xml:base="http://localhost:3000/road/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/fitness.jpg&quot; style=&quot;width: 500px; display: block; margin: 0 auto;&quot; /&gt;&lt;/p&gt;
 
@@ -124,8 +155,8 @@
 <entry>
 <title>救人还是救世 《奇异博士》影评</title>
 <link href="http://localhost:3000/dr-strange-review/" rel="alternate" type="text/html" title="救人还是救世 《奇异博士》影评" />
-<published>2016-12-09T00:00:00-05:00</published>
-<updated>2016-12-09T00:00:00-05:00</updated>
+<published>2016-12-09T00:00:00-07:00</published>
+<updated>2016-12-09T00:00:00-07:00</updated>
 <id>http://localhost:3000/dr-strange-review</id>
 <content type="html" xml:base="http://localhost:3000/dr-strange-review/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/doctor-strange.jpg&quot; /&gt;&lt;/p&gt;
 
@@ -166,8 +197,8 @@
 <entry>
 <title>MacBook Pro with Touch Bar 模糊测评</title>
 <link href="http://localhost:3000/macbook-pro-touch-bar-review/" rel="alternate" type="text/html" title="MacBook Pro with Touch Bar 模糊测评" />
-<published>2016-12-07T00:00:00-05:00</published>
-<updated>2016-12-07T00:00:00-05:00</updated>
+<published>2016-12-07T00:00:00-07:00</published>
+<updated>2016-12-07T00:00:00-07:00</updated>
 <id>http://localhost:3000/macbook-pro-touch-bar-review</id>
 <content type="html" xml:base="http://localhost:3000/macbook-pro-touch-bar-review/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/macbookprotouchbar.jpg&quot; /&gt;&lt;/p&gt;
 
@@ -229,8 +260,8 @@ Intel Core i7
 <entry>
 <title>How to Set Color Scheme in Neovim</title>
 <link href="http://localhost:3000/neovim-true-color/" rel="alternate" type="text/html" title="How to Set Color Scheme in Neovim" />
-<published>2016-10-31T00:00:00-04:00</published>
-<updated>2016-10-31T00:00:00-04:00</updated>
+<published>2016-10-31T00:00:00-06:00</published>
+<updated>2016-10-31T00:00:00-06:00</updated>
 <id>http://localhost:3000/neovim-true-color</id>
 <content type="html" xml:base="http://localhost:3000/neovim-true-color/">&lt;p&gt;Making a color scheme looks the way it should be in Vim is notoriously cumbersome. Cut to the chase. I am going to share some tips with you on how to set the color scheme correct in Vim and Tmux.&lt;/p&gt;
 
@@ -294,8 +325,8 @@ Intel Core i7
 <entry>
 <title>Switching to Hyperterm</title>
 <link href="http://localhost:3000/switching-to-hyperterm/" rel="alternate" type="text/html" title="Switching to Hyperterm" />
-<published>2016-10-28T00:00:00-04:00</published>
-<updated>2016-10-28T00:00:00-04:00</updated>
+<published>2016-10-28T00:00:00-06:00</published>
+<updated>2016-10-28T00:00:00-06:00</updated>
 <id>http://localhost:3000/switching-to-hyperterm</id>
 <content type="html" xml:base="http://localhost:3000/switching-to-hyperterm/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/hyperterm-colortheme.jpg&quot; /&gt;&lt;/p&gt;
 
@@ -312,8 +343,8 @@ Intel Core i7
 <entry>
 <title>简单聊聊对新Macbook Pro的看法</title>
 <link href="http://localhost:3000/new-macbookpro/" rel="alternate" type="text/html" title="简单聊聊对新Macbook Pro的看法" />
-<published>2016-10-27T00:00:00-04:00</published>
-<updated>2016-10-27T00:00:00-04:00</updated>
+<published>2016-10-27T00:00:00-06:00</published>
+<updated>2016-10-27T00:00:00-06:00</updated>
 <id>http://localhost:3000/new-macbookpro</id>
 <content type="html" xml:base="http://localhost:3000/new-macbookpro/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/mbp.jpg&quot; /&gt;&lt;/p&gt;
 
@@ -366,8 +397,8 @@ Intel Core i7
 <entry>
 <title>那些年，总是追不到的妹子</title>
 <link href="http://localhost:3000/meizi/" rel="alternate" type="text/html" title="那些年，总是追不到的妹子" />
-<published>2016-10-25T00:00:00-04:00</published>
-<updated>2016-10-25T00:00:00-04:00</updated>
+<published>2016-10-25T00:00:00-06:00</published>
+<updated>2016-10-25T00:00:00-06:00</updated>
 <id>http://localhost:3000/meizi</id>
 <content type="html" xml:base="http://localhost:3000/meizi/">&lt;p&gt;最近两天，我和小伙伴一前一后各自被甩。吸取教训，再接再厉。顺便回忆一下过去，感慨一下现实。&lt;/p&gt;
 
@@ -387,8 +418,8 @@ Intel Core i7
 <entry>
 <title>下一个十年</title>
 <link href="http://localhost:3000/ten-years/" rel="alternate" type="text/html" title="下一个十年" />
-<published>2016-10-20T00:00:00-04:00</published>
-<updated>2016-10-20T00:00:00-04:00</updated>
+<published>2016-10-20T00:00:00-06:00</published>
+<updated>2016-10-20T00:00:00-06:00</updated>
 <id>http://localhost:3000/ten-years</id>
 <content type="html" xml:base="http://localhost:3000/ten-years/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/ten-years.jpg&quot; /&gt;&lt;/p&gt;
 
@@ -421,8 +452,8 @@ Intel Core i7
 <entry>
 <title>Tools you need in Sierra</title>
 <link href="http://localhost:3000/tools-you-need-in-Sierra/" rel="alternate" type="text/html" title="Tools you need in Sierra" />
-<published>2016-10-17T00:00:00-04:00</published>
-<updated>2016-10-17T00:00:00-04:00</updated>
+<published>2016-10-17T00:00:00-06:00</published>
+<updated>2016-10-17T00:00:00-06:00</updated>
 <id>http://localhost:3000/tools-you-need-in-Sierra</id>
 <content type="html" xml:base="http://localhost:3000/tools-you-need-in-Sierra/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/sierra.jpg&quot; /&gt;&lt;/p&gt;
 
@@ -457,23 +488,6 @@ Intel Core i7
 &lt;p&gt;Somebody once said &lt;em&gt;Tools are ultimate procrastination&lt;/em&gt;. However to others, tools are motivation.&lt;/p&gt;
 </content>
 <category term="Sierra" />
-<summary></summary>
-</entry>
-<entry>
-<title>何为孤独</title>
-<link href="http://localhost:3000/alone/" rel="alternate" type="text/html" title="何为孤独" />
-<published>2016-10-16T00:00:00-04:00</published>
-<updated>2016-10-16T00:00:00-04:00</updated>
-<id>http://localhost:3000/alone</id>
-<content type="html" xml:base="http://localhost:3000/alone/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/alone.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;小强昨天没有继续和朋友去喝酒，因为小强不能像朋友一样在取悦别人，陪笑之后回到家还能在温暖的家人旁边做回自己。叫了个计程车，回到家连澡也不想洗，躺在床上刷着朋友少的可怜的朋友圈。看着别人的快乐，都和自己无关，傻笑着，在酒精的作用下，小强在不知不觉中睡着了，灯也没来得及关。&lt;/p&gt;
-
-&lt;p&gt;小强起床之后，称了一下体重，轻了一磅。小强认为这也是动力。喝了杯浓咖啡，简单洗漱后，就去公司了。周末的公司，空，静，幽。没有哪里比这里更适合写东西了。除了保安每一个小时的巡逻，连个能打扰小强的人影也没有。小强写东西要思考，每隔一会儿都会站起来走走。站在窗边看着远方总能给小强带来一种莫名的幸福感。小强写东西喜欢反复复读，效率来讲不高，但绝对是认真对待。终于写完了，加个好看的图片，也许能把意境带出来。小强贴在微信朋友圈，接下来就是不厌其烦的打开微信，期待右下角会有个赞。几天后唯一的留言还是小强自己贴的地址。&lt;/p&gt;
-
-&lt;p&gt;小强单身，一被注意，马上敞开心扉，以为坦率，废话连篇，貌似轻浮，实为孤独。&lt;/p&gt;
-</content>
-<category term="thoughts" />
 <summary></summary>
 </entry>
 </feed>
