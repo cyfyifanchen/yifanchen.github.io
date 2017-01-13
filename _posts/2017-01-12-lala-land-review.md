@@ -1,5 +1,5 @@
 ---
-title: "向往之城《la la land》影评"
+title: "向往之城《La La Land》影评"
 layout: post
 date: 2017-01-12
 tag:
