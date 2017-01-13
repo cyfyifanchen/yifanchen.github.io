@@ -3,9 +3,34 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2017-01-10T13:50:11-07:00</updated>
+<updated>2017-01-12T17:09:09-07:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
+<entry>
+<title>向往之城《la la land》影评</title>
+<link href="http://localhost:3000/lala-land-review/" rel="alternate" type="text/html" title="向往之城《la la land》影评" />
+<published>2017-01-12T00:00:00-07:00</published>
+<updated>2017-01-12T00:00:00-07:00</updated>
+<id>http://localhost:3000/lala-land-review</id>
+<content type="html" xml:base="http://localhost:3000/lala-land-review/">&lt;p&gt;&lt;img src=&quot;{{ site.url }}/assets/images/lalaland.jpg&quot; style=&quot;display:block; margin: 0 auto;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;《La La Land》成金球奖最大赢家，独揽7项大奖。本来不想写影评的，毕竟自己水平有限，对音乐剧太门外汉，但是，照这势头，奥斯卡雄起的赶脚。我叉 ，我还是赶紧把自己的想法写出来吧。（还有很重要的一点，我灰常喜欢洛杉矶,  别问为什么，迪士尼在这里）。&lt;/p&gt;
+
+&lt;p&gt;音乐剧，处处体现着导演对 LA（洛杉矶）的热爱。码头，天文馆，棕榈树，柏油马路，烦躁的堵车和炎热的天气，这些场景构建出了独一无二的 LA。影片开始的舞曲《Another Day Of Sun》，恰到好处地说出了 LA 人的心声，天天日晒不下雨。《City Of Stars》一言多意， Seb 自己在码头上面跳唱的时候，感慨着自己的感情和事业。（我当时在想，多球有寓意的名字，不是正在说很多好莱坞明星都住在这里吗。）&lt;/p&gt;
+
+&lt;p&gt;电影看到一半的时候大概猜到了不完美的结局。但是导演对结尾的处理并不伤感，同时，也是我认为电影最精彩的一部分，通过 Seb 为 Mia 演奏的一首充满感情的钢琴曲勾勒出两人无法完成的另一个人生，恰到好处得让观众看到了不完美中的完美。&lt;/p&gt;
+
+&lt;p&gt;另外，不得不提下片中的爵士乐。低调，内敛，不张扬，细腻的曲调里夹杂着丰富的感情，非常好听。我的一个小伙伴吹萨克斯的，玩的就是爵士乐。只怪他一直找借口说没有钢琴搭配的爵士乐不好听，所以，从来不给我们演奏，貌似我现在也理解了。如果是从宣传角度来说，最有收获的是 LA 这个城市的话，爵士乐绝对紧随其后。我本不听爵士乐的人，这两天也在 Spotfiy 上面各种听，好感顿生。&lt;/p&gt;
+
+&lt;p&gt;去过洛杉矶很多次了，喜欢那里的天气，喜欢那里的氛围。丰富的美食和多元的文化让这个城市对我有着无法抗拒的吸引力。也许，真实的 LA 不如我的憧憬。但，对我来说，这份假想不仅仅代表的一种可能。而是，心灵上的寄托，情感上的归属。也许，雾里看花才最美。&lt;/p&gt;
+
+&lt;p&gt;P.S.&lt;/p&gt;
+
+&lt;p&gt;话说，男人还是会门乐器比较好。&lt;/p&gt;
+</content>
+<category term="Film Review" />
+<summary></summary>
+</entry>
 <entry>
 <title>年少还需狂《海洋奇缘》影评</title>
 <link href="http://localhost:3000/moana-review/" rel="alternate" type="text/html" title="年少还需狂《海洋奇缘》影评" />
@@ -454,47 +479,6 @@ Intel Core i7
 <category term="thought" />
 <category term="china" />
 <category term="technology" />
-<summary></summary>
-</entry>
-<entry>
-<title>Tools you need in Sierra</title>
-<link href="http://localhost:3000/tools-you-need-in-Sierra/" rel="alternate" type="text/html" title="Tools you need in Sierra" />
-<published>2016-10-17T00:00:00-06:00</published>
-<updated>2016-10-17T00:00:00-06:00</updated>
-<id>http://localhost:3000/tools-you-need-in-Sierra</id>
-<content type="html" xml:base="http://localhost:3000/tools-you-need-in-Sierra/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/sierra.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;In my previous blog &lt;a href=&quot;{{site.url}}/what-I-learned-from-upgrading-my-os&quot;&gt;What I learned from upgrading to Sierra&lt;/a&gt;. I pointed out one of the professional characteristics that I have lacked for a long time – problem-solving in an objective way. In this blog, I am going to explain how I moved on to Sierra. Additionally, I will introduce some excellent tools.&lt;/p&gt;
-
-&lt;p&gt;As you know, I am a big fan of using keybindings to boost my productivity. It’s hard to set everything up, but I like doing it. In El Captian, I used a bunch of different tools to make my cumbersome workflow just under my fingertips. I am OCD with my tools, and they have to be the ways I like. Otherwise, I won’t work until I tweak them to. There are pros and cons of being stubborn. But, as a developer, being stubborn is always on the right side. Life is much more rewarding when using something others don’t know how, isn’t it?&lt;/p&gt;
-
-&lt;h2 id=&quot;karabiner&quot;&gt;Karabiner&lt;/h2&gt;
-
-&lt;p&gt;Karabiner isn’t working correctly in macOS 10.12 Sierra. Regarding the creator, &lt;a href=&quot;https://github.com/tekezo&quot; class=&quot;user-mention&quot;&gt;@tekezo&lt;/a&gt;, of Karabiner. Apple changed generic keyboard and mouse drivers on Sierra that made an impact to Karabiner, which caused the ineffectiveness. Therefore, Karabiner needs to be re-structured, &lt;a href=&quot;https://github.com/tekzo&quot; class=&quot;user-mention&quot;&gt;@tekzo&lt;/a&gt; can’t give an estimate now.&lt;/p&gt;
-
-&lt;h2 id=&quot;karabiner-elements&quot;&gt;Karabiner-Elements&lt;/h2&gt;
-
-&lt;p&gt;At the same time, &lt;a href=&quot;https://github.com/tekezo&quot; class=&quot;user-mention&quot;&gt;@tekezo&lt;/a&gt; introduced Karabiner-Elements, a much simpler versioned Karabiner(UI below), that is compatible on Sierra. I downloaded it and tried it. It lacked tons features. I didn’t think it was enough to do what I needed. So I moved on.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/karabiner-elements-settings.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;bettertouchtool&quot;&gt;BetterTouchTool&lt;/h2&gt;
-
-&lt;p&gt;I used BTT a long time ago. I downloaded it initially for the sweet window snapping feature. Then I found out there were all sorts of options. So I mapped &lt;code class=&quot;highlighter-rouge&quot;&gt;hjkl&lt;/code&gt; as &lt;code class=&quot;highlighter-rouge&quot;&gt;arrow&lt;/code&gt; keys liked the image showing below. I then stopped using it because it lacked key repeat feature. But, now I don’t seem to have other options. Okay, let’s give a try. So, I set it up and sent the Author an email hoping there might be a way to tweak the key repeat. Meanwhile, I kept looking for other better options. Why?Because being proactive might turn things around.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/btt-setting.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;keyboard-maestro&quot;&gt;Keyboard Maestro&lt;/h2&gt;
-
-&lt;p&gt;The best always comes last, right? All I needed was patience and persistence. I found Keyboard Maestro from somebody’s comment on Karabiner’s Issue board. I downloaded and tried it. The UI was intuitive to use and there were tons options I could manipulate with. More importantly, it had &lt;code class=&quot;highlighter-rouge&quot;&gt;key-down&lt;/code&gt; options meant key repeat is available!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/keyboard-maestro-setting.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
-
-&lt;p&gt;Somebody once said &lt;em&gt;Tools are ultimate procrastination&lt;/em&gt;. However to others, tools are motivation.&lt;/p&gt;
-</content>
-<category term="Sierra" />
 <summary></summary>
 </entry>
 </feed>
