@@ -3,18 +3,63 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2017-01-12T17:09:09-07:00</updated>
+<updated>2017-01-16T17:52:54-07:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
 <entry>
-<title>向往之城《la la land》影评</title>
-<link href="http://localhost:3000/lala-land-review/" rel="alternate" type="text/html" title="向往之城《la la land》影评" />
+<title>印象城市 - 纽约</title>
+<link href="http://localhost:3000/new-york/" rel="alternate" type="text/html" title="印象城市 - 纽约" />
+<published>2017-01-16T00:00:00-07:00</published>
+<updated>2017-01-16T00:00:00-07:00</updated>
+<id>http://localhost:3000/new-york</id>
+<content type="html" xml:base="http://localhost:3000/new-york/">&lt;p&gt;&lt;img src=&quot;{{ site.url }}/assets/images/nyc.jpg&quot; style=&quot;display:block; margin: 0 auto;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;2016年初开始写博客，原意只想写一些软件开发上面的心得。写着写着才发现写真实的想法更有趣，接着影评和感受就开始多了，也许鸡汤，可能矫情。但，对我来说，这一年的心路伴随着笔下的光阴，见证着昨天，记录着今天，期待着明天。&lt;/p&gt;
+
+&lt;p&gt;就在几天前，小伙伴的儿子刚刚来到这个世界。照片里的小家伙，眼睛细长，头发茂密，安详得躺在妈妈怀里，俨然一副睡醒就要征战世界的样子，和我朋友儿时一样的臭屁。小家伙，健康的成长吧，美好的童年正在等你。&lt;/p&gt;
+
+&lt;p&gt;切入主题，如果说写影评是个机会可以从新梳理思路以自己的角度理解电影的话。那么这个《印象城市》系列 （这名字好像不是我原创 ，总之脑海里就浮现出来了），就作为旅途中，记录着自己对未知世界的认知吧。&lt;/p&gt;
+
+&lt;p&gt;纽约，一个伟大的城市。这个在美国东海岸的港口，不仅仅代表了美国，更能从中看出世界，其富饶的行行业业和形形色色印证着这个国家的虽短却宽的年轮。华尔街的尔虞我诈，第五大道的名利斗争，中央公园美如画的春夏秋冬，还有那屹立不倒的自由女神像，美国精神的体现。（我叉，写不下去了，这段太官方）。&lt;/p&gt;
+
+&lt;h2 id=&quot;section&quot;&gt;人文&lt;/h2&gt;
+
+&lt;p&gt;有幸认识了在纽约住了很久的朋友。被他们款待之余，也从他们身上看到了都市年轻人典型的生活方式 - Work Hard Play Hard。&lt;/p&gt;
+
+&lt;p&gt;朋友们工作日压力大，只能全身心地努力工作。下班后的时间是个盼头，大家都会尽情放松，激情娱乐，好吃好玩的应有尽有。这个年轻人的战场，在夜晚，尽职地扮演着其配角 - 不夜之城。在不休息的情况下，提供娱乐的场所和可口的饭菜，让年轻人在这快节奏的生活里尽情地调节。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-1&quot;&gt;美食&lt;/h2&gt;
+
+&lt;p&gt;法拉盛，一个聚集了所有中华美食的地方，八大菜系，包罗万象。洛杉矶的美食遍布各地，一天如果想吃两个餐馆，需要开车折腾，不计划好的话，大部分时间会浪费在车上。相反，纽约的法拉盛，把所有的美食都汇集到一起，来去方便，即便是去曼哈顿，把车停在法拉盛再乘地铁也是明智的做法。&lt;/p&gt;
+
+&lt;p&gt;如果说我没去纽约之前，对法拉盛有偏见的话，想法现在改变了。法拉盛是个很棒的地方，各式各样的年轻人，交谈着自己感兴趣的话题。饭店的老板都是同龄人，服务热情，满满的归属感。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-2&quot;&gt;景点&lt;/h2&gt;
+
+&lt;p&gt;很遗憾，由于天气和时间的原因，没能到中央公园散散步，也没能到自由女神面前抬抬头。但是，很接地气得逛了逛时代广场，挤了挤曼哈顿的地铁，顺便在 Bryant Prak 啃了啃煎饼，足矣。&lt;/p&gt;
+
+&lt;p&gt;夜晚的曼哈顿，灯火辉煌，熙熙攘攘。路边烧烤热狗升起的焦烟，混杂着油炸坚果的甜香，在零下的气温中徐徐上升。热气后面的广告牌，云里雾里。街边各色各样的卖艺人，渲染出每个过路人的好奇心。时而想起的警笛声和流动的广告声给这个本该真实的场景涂上了艺术的一笔。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-3&quot;&gt;未末&lt;/h2&gt;
+
+&lt;p&gt;纽约，一个迷人的城市，碍于时间的原因我没能够充分了解你，也正因为如此，那未揭面纱后面的真容更吸引着我的下次到访。&lt;/p&gt;
+
+&lt;p&gt;P.S.&lt;/p&gt;
+
+&lt;p&gt;旅行，还是夏天好。&lt;/p&gt;
+</content>
+<category term="Cities" />
+<summary></summary>
+</entry>
+<entry>
+<title>向往之城《La La Land》影评</title>
+<link href="http://localhost:3000/lala-land-review/" rel="alternate" type="text/html" title="向往之城《La La Land》影评" />
 <published>2017-01-12T00:00:00-07:00</published>
 <updated>2017-01-12T00:00:00-07:00</updated>
 <id>http://localhost:3000/lala-land-review</id>
 <content type="html" xml:base="http://localhost:3000/lala-land-review/">&lt;p&gt;&lt;img src=&quot;{{ site.url }}/assets/images/lalaland.jpg&quot; style=&quot;display:block; margin: 0 auto;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;《La La Land》成金球奖最大赢家，独揽7项大奖。本来不想写影评的，毕竟自己水平有限，对音乐剧太门外汉，但是，照这势头，奥斯卡雄起的赶脚。我叉 ，我还是赶紧把自己的想法写出来吧。（还有很重要的一点，我灰常喜欢洛杉矶,  别问为什么，迪士尼在这里）。&lt;/p&gt;
+&lt;p&gt;《La La Land》成金球奖最大赢家，独揽7项大奖。本来不想写影评的，毕竟自己水平有限，对音乐剧太门外汉，但是，照这势头，奥斯卡雄起的赶脚。我叉 ，我还是赶紧把自己的想法写出来吧。（还有很重要的一点，我灰常喜欢洛杉矶，  别问为什么，迪士尼在这里）。&lt;/p&gt;
 
 &lt;p&gt;音乐剧，处处体现着导演对 LA（洛杉矶）的热爱。码头，天文馆，棕榈树，柏油马路，烦躁的堵车和炎热的天气，这些场景构建出了独一无二的 LA。影片开始的舞曲《Another Day Of Sun》，恰到好处地说出了 LA 人的心声，天天日晒不下雨。《City Of Stars》一言多意， Seb 自己在码头上面跳唱的时候，感慨着自己的感情和事业。（我当时在想，多球有寓意的名字，不是正在说很多好莱坞明星都住在这里吗。）&lt;/p&gt;
 
@@ -446,39 +491,5 @@ Intel Core i7
 </content>
 <category term="story" />
 <summary>最近两天，我和小伙伴一前一后各自被甩。吸取教训，再接再厉。顺便回忆一下过去，感慨一下现实。</summary>
-</entry>
-<entry>
-<title>下一个十年</title>
-<link href="http://localhost:3000/ten-years/" rel="alternate" type="text/html" title="下一个十年" />
-<published>2016-10-20T00:00:00-06:00</published>
-<updated>2016-10-20T00:00:00-06:00</updated>
-<id>http://localhost:3000/ten-years</id>
-<content type="html" xml:base="http://localhost:3000/ten-years/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/ten-years.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;MacBook Pro上的中文输入法我一直在用MacOS自带的，谈不上特别难用，但是我也早已习惯了。一直以来被自己的惰性驱使而没有去寻求更好的输入法软件，作为软件工程师，惭愧。&lt;/p&gt;
-
-&lt;p&gt;前天，随便谷歌了时下流行的中文输入法，看到了搜狗。随意地去他们的网站看了下。由于职业原因直接看了他们的源代码，整齐有序，加强了好感。下载安装之后，发现确实好用。在设置偏好的时候，发现很多细节做得很棒，用户体验立即得到了提升。同时，认识到自己在早知道搜狗的情况下，由于抵触心理没有尝试，而差点错过了一款好软件的错误心理。&lt;/p&gt;
-
-&lt;p&gt;小时候，听流行乐。有歌手感慨，从港台来的歌手起点比内地歌手要高。当时无感的话，多年后想起。原来，从那时起，我已随波逐流。&lt;/p&gt;
-
-&lt;p&gt;来美国之后，接触过各个国家的人。很多看法在经历之后开始改变。错误的心态通常是在错误的环境下生成。走出错误的环境，改变对人对事的心态需要的则是时间，经历，沉淀和思考。&lt;/p&gt;
-
-&lt;p&gt;即使我们在天天告诫自己需要客观看待事物的时候，也走不出本能給主观上带进的误区。很多时候，我们在潜意识下随波逐流的給从未了解的事物戴标签，结果，我们埋没了一个发现机会的同时，也腐朽了自己善于探索的灵魂。&lt;/p&gt;
-
-&lt;p&gt;我们现在很幸运地生活在一个大互联网时代，看到科技在一直的进步，而带动的生机，改变的人文则是科技背后更大的价值。我们身边优秀且认真做事的人很多，专注的科技公司也不少。努力做好一件事，其价值远远大于意义。昨天我看锤子科技的发布会的时候，当老罗在介绍 big bang 和 one step 异常激动的时候，我理解他的想法。这两个产品的交互和体验设计确实是业内第一个，这种敢想敢做的风格比技术上的突破更为可贵。&lt;/p&gt;
-
-&lt;p&gt;今天，我们对产品的要求在逐步提升。促使了各个公司之间的良性竞争，结果就是竞争之后留下的精良技术。如果说，过去20年我们在当世界工厂是在积累和沉淀。那么，今天我们把自己的才华，创新，专注和勤奋加入已经炉火纯青的生产线，站在巨人的肩膀看世界还会远吗？&lt;/p&gt;
-
-&lt;p&gt;下一个十年，国内肯定会出现很多世界级的科技公司，我翘首以盼。&lt;/p&gt;
-
-&lt;p&gt;P.S&lt;/p&gt;
-
-&lt;p&gt;写在10/20/2016, 我希望10/20/2026的时候再回来看这个博文。&lt;/p&gt;
-
-</content>
-<category term="thought" />
-<category term="china" />
-<category term="technology" />
-<summary></summary>
 </entry>
 </feed>
