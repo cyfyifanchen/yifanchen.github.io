@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2017-01-16T19:41:27-07:00</updated>
+<updated>2017-02-01T15:36:18-07:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
 <entry>
@@ -38,7 +38,7 @@
 
 &lt;p&gt;很遗憾，由于天气和时间的原因，没能到中央公园散散步，也没能到自由女神面前抬抬头。但是，很接地气得逛了逛时代广场，挤了挤曼哈顿的地铁，顺便在 Bryant Prak 啃了啃煎饼，足矣。&lt;/p&gt;
 
-&lt;p&gt;夜晚的曼哈顿，灯火辉煌，熙熙攘攘。路边烧烤热狗升起的焦烟，混杂着油炸坚果的甜香，在零下的气温中徐徐上升。热气后面的广告牌，云里雾里。街边各色各样的卖艺人，渲染出每个过路人的好奇心。时而想起的警笛声和流动在空气中的广告声给这个本该真实的场景涂上了艺术的一笔。&lt;/p&gt;
+&lt;p&gt;夜晚的曼哈顿，灯火辉煌，熙熙攘攘。路边烧烤油炸升起的炊烟，夹杂着烤热狗的焦香 ，混杂着炸坚果的甜香，在零下的气温中徐徐上升。热气后面的广告牌，云里雾里。街边各色各样的卖艺人，渲染出每个过路人的好奇心。时而想起的警笛声和流动在空气中的广告声给这个本该真实的场景涂上了艺术的一笔。&lt;/p&gt;
 
 &lt;h2 id=&quot;section-3&quot;&gt;未末&lt;/h2&gt;
 
@@ -122,11 +122,7 @@
 <id>http://localhost:3000/road</id>
 <content type="html" xml:base="http://localhost:3000/road/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/fitness.jpg&quot; style=&quot;width: 500px; display: block; margin: 0 auto;&quot; /&gt;&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;If you want someting you hever had, you must be willing to do something you have never done.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;首先，我不是营养学家也不是健身家，所以下面说得信息可能会存在不准确的地方，如果你发现，你可以指出来，我会及时改正。同时， 分享一些经验，希望可以帮助想减肥和健身的朋友：）&lt;/p&gt;
+&lt;p&gt;首先，我不是营养学家也不是健身家，所以下面说得信息可能会存在不准确的地方，如果你发现，你可以指出来，我会及时改正。同时， 分享一些经验，希望可以帮助想减肥和健身的朋友, 祝福大家都可以早日达成自己的目标 ：）&lt;/p&gt;
 
 &lt;h3 id=&quot;section&quot;&gt;目标：&lt;/h3&gt;
 
@@ -227,6 +223,7 @@
 &lt;p&gt;最后，你如果感觉这个过程很痛苦，那么恭喜你，你的身体已经开始和你的大脑斗争了，你唯一要做的就是 - 坚持。&lt;/p&gt;
 </content>
 <category term="Health" />
+<category term="Fitness" />
 <summary></summary>
 </entry>
 <entry>
