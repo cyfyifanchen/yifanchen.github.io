@@ -36,3 +36,9 @@ star: false
 那么，直接摄入脂肪比摄入 Simple Carbs 堆积下来脂肪更好？是的。因为细胞壁（Cell Walls）把直接摄入的脂肪转换成更活跃的胰岛素，加快新陈代谢，促进血糖平衡。换言之，我们虽然在吃脂肪，但是消耗的脂肪更多。同时，也不会频繁感觉到饿，形成良性循环。
 
 讲了这么多，只是想说出不同的饮食减肥方式。今天，大家为了漂亮，开发出很多激进的节食方式，在长期保持身材上面只会有害无利。相反，知道食物的特质，规律，找到属于自己，并且健康的饮食方式，才是长期保持身材的王道。
+
+Resources:
+
+* <a href="https://health.clevelandclinic.org/2016/02/sugar-vs-fat-which-is-worse-for-weight-gain/" target="_blank">Sugar or Fat: What’s Worse for Your Waistline? (Infographic)</a>
+
+* <a href="https://health.clevelandclinic.org/2016/01/dont-let-the-wrong-carbohydrates-hijack-your-health/" target="_blank">Don’t Let the Wrong Carbohydrates Hijack Your Health</a>
