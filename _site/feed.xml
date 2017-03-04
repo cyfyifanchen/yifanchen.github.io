@@ -3,12 +3,38 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2017-02-23T17:57:25-07:00</updated>
+<updated>2017-03-04T16:51:58-07:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
 <entry>
-<title>脂肪和糖</title>
-<link href="http://localhost:3000/fat-and-sugar/" rel="alternate" type="text/html" title="脂肪和糖" />
+<title>侠盗之分《新世界》影评</title>
+<link href="http://localhost:3000/new-world-review/" rel="alternate" type="text/html" title="侠盗之分《新世界》影评 " />
+<published>2017-03-04T00:00:00-07:00</published>
+<updated>2017-03-04T00:00:00-07:00</updated>
+<id>http://localhost:3000/new-world-review</id>
+<content type="html" xml:base="http://localhost:3000/new-world-review/">&lt;p&gt;&lt;img src=&quot;{{ site.url }}/assets/images/new-world.jpg&quot; style=&quot;display:block; margin: 0 auto;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;最近看了一些韩国电影，必须承认韩国电影和我印象里的韩剧完全不是一个档次，今天的韩国电影在亚洲，甚至世界有都着鲜明的风格和相当的影响力。&lt;/p&gt;
+
+&lt;p&gt;韩国电影崛起的基石是由于民主化的推进，在 1980 年代彻底废除了电影的审查制度，只剩分级制度之后，创作环境得到充分发挥，之后人才辈出，在 1990 年代开始出现好的片子，之后的 20 年我们经常可以看到极好的片子，乃至影响全国。政府可以无限黑，人性可以无限暗，也正因为如此，韩国电影把很残酷的现实通过艺术表现的淋漓尽致。&lt;/p&gt;
+
+&lt;p&gt;电影《新世界》，这个 2013 年的卧底黑帮电影，把政府又彻底地黑了个底朝天。看完的朋友大概都会被警方为达目的而不择手段嘘声不已。导演用李子成的视角向观众展示了，代表不同立场的黑白之争。李子成本来一个想结束自己卧底生涯的人， 却被警方的各种威逼利用而操控，毫无人情可言。面对警方，李子成由本来的强硬，无奈，哀求再到最后的放弃和转变，一步一步被警方逼到了无路可走。反而，是自己卧底的一方更给了自己最大的精神需求，信任和情义。&lt;/p&gt;
+
+&lt;p&gt;电影里最出彩的角色当属丁青，这个看似很二逼，不按常理出牌的大哥，恰当地诠释了伪大哥的定义。虽然表面玩世不恭，天天嬉皮笑脸，但是背后做事极其细腻，顾全大局的同时，坚持道义。即使警方设套借刀杀人的时候，丁青也能准确做出判断，而不会相信警方的把戏。更可贵的是，虽知道自己最亲近的兄弟是卧底的时候，依然选择保护兄弟。导演也巧妙得在影片结束的解释了两兄弟的情谊的由来。&lt;/p&gt;
+
+&lt;p&gt;侠盗本代表了不同立场。但，影片里的侠为了利益而用出连盗也不愿启齿的手段时，侠盗的定义出现了转变，正邪开始变得模糊。这恰恰是电影最精彩的地方 – 难道为了正义，就允许不择手段?&lt;/p&gt;
+
+&lt;p&gt;P.S&lt;/p&gt;
+
+&lt;p&gt;穿着笔挺的西装，在小弟的护航下，拿出金色的 Zippo，点上一根香烟，深吸一口，再徐徐吐出，时而眉头紧锁，时而装作沉思。男人的黑帮情结，也不过如此了吧。&lt;/p&gt;
+
+</content>
+<category term="Film Review" />
+<summary></summary>
+</entry>
+<entry>
+<title>多吃脂肪 少吃碳水</title>
+<link href="http://localhost:3000/fat-and-sugar/" rel="alternate" type="text/html" title="多吃脂肪 少吃碳水" />
 <published>2017-02-23T00:00:00-07:00</published>
 <updated>2017-02-23T00:00:00-07:00</updated>
 <id>http://localhost:3000/fat-and-sugar</id>
@@ -454,60 +480,6 @@ Intel Core i7
 </content>
 <category term="Hyperterm" />
 <category term="iTerm2" />
-<summary></summary>
-</entry>
-<entry>
-<title>简单聊聊对新Macbook Pro的看法</title>
-<link href="http://localhost:3000/new-macbookpro/" rel="alternate" type="text/html" title="简单聊聊对新Macbook Pro的看法" />
-<published>2016-10-27T00:00:00-06:00</published>
-<updated>2016-10-27T00:00:00-06:00</updated>
-<id>http://localhost:3000/new-macbookpro</id>
-<content type="html" xml:base="http://localhost:3000/new-macbookpro/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/mbp.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;北京时间10月28号凌晨，苹果&amp;lt;Hello, Again&amp;gt;的发布会如期而至。开场很苹果，又秀了一把科技服务人类的感情牌。貌似某位导演说过，感情的才是世界的 。凑巧，苹果也懂这个道理。然后，库克按照惯例地介绍苹果今年的各项记录。&lt;/p&gt;
-
-&lt;p&gt;接着就是重头戏–新款的Macbook Pro。这是自2012年夏天视网膜屏幕之后的换代升级。我从下面几点逐一介绍。&lt;/p&gt;
-
-&lt;h3 id=&quot;section&quot;&gt;外观&lt;/h3&gt;
-
-&lt;p&gt;外观基本还是维持了一体式的设计，更轻更薄外，机身和屏幕的连接处也像 Macbook一样改为了金属。苹果商标不再亮了。屏幕的边框虽然是小了一点，但是为什么依然感觉可以在上面无节操地跑火车？&lt;/p&gt;
-
-&lt;h3 id=&quot;touch-bar&quot;&gt;Touch Bar&lt;/h3&gt;
-
-&lt;p&gt;今天之前的传言是叫Magic Touch Bar, 我还是有点意外竟然没有叫这个名字。不可否认，Touch Bar对功能键的利用是个非常聪明的决定，苹果也确实有这个能力可以让其他软件商做出对Touch Bar的优化。但是，毕竟受限在那么细的一个长条形里，体验上，不会有苹果介绍的那么好用。我的建议是，别报太高预期，把它当做一个对系统输入的小丢丢新鲜体验。&lt;/p&gt;
-
-&lt;h3 id=&quot;section-1&quot;&gt;触摸板&lt;/h3&gt;
-&lt;p&gt;为什么这么大？我隐约感觉他们会把magic pencil拿在上面用。&lt;/p&gt;
-
-&lt;h3 id=&quot;section-2&quot;&gt;接口&lt;/h3&gt;
-
-&lt;p&gt;果然没有Lighting的接口，这说明我们还需要一根转接线来给iPhone充电。即使我在理解大方向的前提下，也依然得吐槽一回。我现在更好奇，这是不是间接证明下代 iPhone转接口的更换或者会采用无线充电技术。好处是，被苹果这么一搞，希望以后的什么这接口，那接口，全全统一。&lt;/p&gt;
-
-&lt;h3 id=&quot;section-3&quot;&gt;显卡&lt;/h3&gt;
-
-&lt;p&gt;我有点不爽没有在13寸上面加独立的显卡的选项。但是15寸上面 AMD的显卡，独显可以达4GB 的显存。 玩游戏的话， 建议入。 如果你要说我用Mac 玩游戏小白的话，出门下楼看我另一个博文《苹果玩游戏》。&lt;/p&gt;
-
-&lt;h3 id=&quot;section-4&quot;&gt;键盘&lt;/h3&gt;
-
-&lt;p&gt;第二代蝴蝶机制的键盘，第一代是被用到了Macbook上面，小期待第二代的手感。&lt;/p&gt;
-
-&lt;h3 id=&quot;section-5&quot;&gt;内存&lt;/h3&gt;
-
-&lt;p&gt;还是不给32GB的内存吗？这让我怎么装虚拟机？&lt;/p&gt;
-
-&lt;h3 id=&quot;section-6&quot;&gt;电池&lt;/h3&gt;
-
-&lt;p&gt;还是10个小时，没什么亮点。&lt;/p&gt;
-
-&lt;h3 id=&quot;section-7&quot;&gt;便携&lt;/h3&gt;
-
-&lt;p&gt;13寸和15寸都较前代轻了半磅。&lt;/p&gt;
-
-&lt;h3 id=&quot;section-8&quot;&gt;总结&lt;/h3&gt;
-
-&lt;p&gt;总的来说，这次Macbook Pro的换代达到了我要的预期，性能上的加强和便携上的提升已经令我满意。我是个程序员，对电脑是比较挑的。那么，对于普通消费者，没有更换的必要。最后，透过表面，我觉得苹果依然在各种试水，今天Touch Bar的出现就是未来物理键盘在笔记本电脑上消失的征兆。不过 ，也别悲观，未来的交互和输入也许出现革命性的改变，所以，好的科技是要试出来的。&lt;/p&gt;
-</content>
-<category term="Macbook Pro" />
 <summary></summary>
 </entry>
 </feed>
