@@ -3,9 +3,376 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-11-28T16:19:15-07:00</updated>
+<updated>2017-02-23T17:57:25-07:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
+<entry>
+<title>脂肪和糖</title>
+<link href="http://localhost:3000/fat-and-sugar/" rel="alternate" type="text/html" title="脂肪和糖" />
+<published>2017-02-23T00:00:00-07:00</published>
+<updated>2017-02-23T00:00:00-07:00</updated>
+<id>http://localhost:3000/fat-and-sugar</id>
+<content type="html" xml:base="http://localhost:3000/fat-and-sugar/">&lt;p&gt;&lt;img src=&quot;{{ site.url }}/assets/images/fatandsugar.jpg&quot; style=&quot;display:block; margin: 0 auto;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;好博文无需开场白，裸奔到主题。&lt;/p&gt;
+
+&lt;p&gt;我们每天需要的能量来自3个营养源：碳水化合物，脂肪，蛋白质。今天先不聊蛋白质，主要围绕碳水化合物和脂肪来挖挖不同的饮食减肥方式。&lt;/p&gt;
+
+&lt;p&gt;碳水化合物（carbohydrate，以下简称 carbs）进入到身体之后会被转换成葡萄糖 （Glucose），当过多摄入 carbs 的时候，身体细胞会对胰岛素（insulin）产生麻木，造成血糖平衡过低，减缓新陈代谢，从而无法消耗，堆积成脂肪。&lt;/p&gt;
+
+&lt;p&gt;当然，不是所有的 carbs 都是坏的。carbs 又分成 Complex Carbs 和 Simple Carbs。Complex Carbs 是我们日常吃的主食，大多来自小麦，谷物，和淀粉。Simple Carbs 是经过加工提炼出带有甜晶的糖份。市面上的零食，饮料，甜点，啤酒里面都有这种被加工过的糖份。&lt;/p&gt;
+
+&lt;p&gt;先来了解一下两者的区别，Complex Carbs 有益于身体，卡里路低，提供了足够的纤维（Fiber）和丰富维他命的同时，进入身体之后分解成葡萄糖的速度慢，给我们足够的时间去消化，不易堆积。相反，Simple Carbs 无益于身体，卡里路高，分解速度很快，普通人根本没有足够时间去消化，从而轻易形成脂肪。&lt;/p&gt;
+
+&lt;p&gt;糖（Simple Carbs），一个奇妙的东西，它甜，是对味蕾的褒奖。当味觉得到满足时候，事物更显美好。甜美，甘甜这些美好的词，都在潜意识里影响我们对糖的认知。营养界里流行这样一句话：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Sugar is addictive, it is just as addictive as Cocaine.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;糖和可卡因的上瘾程度不相上下&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;话虽然哗众取宠，但是也有相当的根据。我们的身体里，有个叫酵母菌（Yeast Candida）的东东，这家伙是我们喜欢吃糖的罪魁祸首，如果我们肆无忌惮的让酵母菌随意繁殖，结果就是他们越吃越多，越多越想吃，造成恶性循坏，完全毁坏新城代谢机能，无法做出任何消耗，直接堆积成脂肪。除此之外，还会降低我们的免疫力，造成多种疾病，比如糖尿病和肥胖症。&lt;/p&gt;
+
+&lt;p&gt;了解了好的和坏的 carbs，再来聊聊脂肪。脂肪，这个看上去很刺眼的词，从减肥和健康的角度出发，比糖（Simple Carbs) 更好。为什么？&lt;/p&gt;
+
+&lt;p&gt;脂肪是堆积在身体里面的油脂，提供给身体必须的能量，更是身体机能运作必不可少的一部分。身体所需的温度来自脂肪，更使皮肤看上去光滑，让人看上去年轻。当然我们讲的是天然脂肪，而非经过加工的脂肪。可以说，好脂肪对身体的益处多多好过糖。除了健身狂热者之外，大部分人都应该让自己身体的脂肪含量处于一个健康的地步。普通人的脂肪含量大概是 15% - 30%。 有些搞健身的哥们说自己的体脂低到 3% - 4%。这些人，以后不用和他们讲话了因为他在扯淡。目前的测量技术根本无法精确的测量出一个人的体脂到底是什么状况。&lt;/p&gt;
+
+&lt;p&gt;那么，直接摄入脂肪比摄入 Simple Carbs 堆积下来脂肪更好？是的。因为细胞壁（Cell Walls）把直接摄入的脂肪转换成更活跃的胰岛素，加快新陈代谢，促进血糖平衡。换言之，我们虽然在吃脂肪，但是消耗的脂肪更多。同时，也不会频繁感觉到饿，形成良性循环。&lt;/p&gt;
+
+&lt;p&gt;讲了这么多，只是想说出不同的饮食减肥方式。今天，大家为了漂亮，开发出很多激进的节食方式，在长期保持身材上面只会有害无利。相反，知道食物的特质，规律，找到属于自己，并且健康的饮食方式，才是长期保持身材的王道。&lt;/p&gt;
+</content>
+<category term="Fitness" />
+<category term="Health" />
+<summary></summary>
+</entry>
+<entry>
+<title>印象城市 - 纽约</title>
+<link href="http://localhost:3000/new-york/" rel="alternate" type="text/html" title="印象城市 - 纽约" />
+<published>2017-01-16T00:00:00-07:00</published>
+<updated>2017-01-16T00:00:00-07:00</updated>
+<id>http://localhost:3000/new-york</id>
+<content type="html" xml:base="http://localhost:3000/new-york/">&lt;p&gt;&lt;img src=&quot;{{ site.url }}/assets/images/nyc.jpg&quot; style=&quot;display:block; margin: 0 auto;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;2016年初开始写博客，原意只想写一些软件开发上面的心得。写着写着才发现写真实的想法更有趣，接着影评和感受就开始多了，也许鸡汤，可能矫情。但，对我来说，这一年的心路伴随着笔下的光阴，见证着昨天，记录着今天，期待着明天。&lt;/p&gt;
+
+&lt;p&gt;就在几天前，小伙伴的儿子刚刚来到这个世界。照片里的小家伙，眼睛细长，头发茂密，安详得躺在妈妈怀里，俨然一副睡醒就要征战世界的样子，和我朋友儿时一样的臭屁。小家伙，健康的成长吧，美好的童年正在等你。&lt;/p&gt;
+
+&lt;p&gt;切入主题，如果说写影评是个机会可以从新梳理思路以自己的角度理解电影的话。那么这个《印象城市》系列 （这名字好像不是我原创 ，总之脑海里就浮现出来了），就作为旅途中，记录着自己对未知世界的认知吧。&lt;/p&gt;
+
+&lt;p&gt;纽约，一个伟大的城市。这个坐落在美国东海岸的港口之城，不仅仅代表了美国的繁荣，更能从中看出世界的兴衰，其富饶的行行业业和形形色色印证着这个国家的虽短却宽的年轮。华尔街的尔虞我诈，第五大道的名利斗争，中央公园美如画的春夏秋冬，还有那屹立不倒的自由女神像，美国永恒精神的体现。（我叉，写不下去了，这段太官方）。&lt;/p&gt;
+
+&lt;h2 id=&quot;section&quot;&gt;人文&lt;/h2&gt;
+
+&lt;p&gt;有幸认识了在纽约住了很久的朋友。被他们款待之余，也从他们身上看到了都市年轻人典型的生活方式 - Work Hard Play Hard。&lt;/p&gt;
+
+&lt;p&gt;年轻人工作日压力大，只能全身心地努力工作。下班后的时间是个盼头，大家都会尽情放松，激情娱乐，好吃好玩的一应俱全。这个年轻人的战场，在夜晚，淋漓尽致地扮演着其配角角色 - 不夜之城。在不休息的情况下，提供各种娱乐的场所和美味可口的饭菜，让年轻人在这快节奏的生活里尽情地调节，补充。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-1&quot;&gt;美食&lt;/h2&gt;
+
+&lt;p&gt;法拉盛，一个聚集了所有中华美食的地方，八大菜系，无所不有，包罗万象。洛杉矶的美食遍布各地，交通极为不便。一天如果想吃两个餐馆，需要开车折腾，不计划好的话，大部分时间会浪费在车上。相反，纽约的法拉盛，把所有的美食都汇集到一起，来去方便，即便是去曼哈顿，把车停在法拉盛再乘地铁也是明智的做法。&lt;/p&gt;
+
+&lt;p&gt;如果说我没去纽约之前，对法拉盛有偏见的话，想法现在改变了。法拉盛是个很棒的地方，各式各样打扮时尚年轻人，交谈着自己感兴趣的话。饭店的老板都是同龄人，服务热情，满满的归属感。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-2&quot;&gt;景点&lt;/h2&gt;
+
+&lt;p&gt;很遗憾，由于天气和时间的原因，没能到中央公园散散步，也没能到自由女神面前抬抬头。但是，很接地气得逛了逛时代广场，挤了挤曼哈顿的地铁，顺便在 Bryant Prak 啃了啃煎饼，足矣。&lt;/p&gt;
+
+&lt;p&gt;夜晚的曼哈顿，灯火辉煌，熙熙攘攘。路边烧烤油炸升起的炊烟，夹杂着烤热狗的焦香 ，混杂着炸坚果的甜香，在零下的气温中徐徐上升。热气后面的广告牌，云里雾里。街边各色各样的卖艺人，渲染出每个过路人的好奇心。时而想起的警笛声和流动在空气中的广告声给这个本该真实的场景涂上了艺术的一笔。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-3&quot;&gt;未末&lt;/h2&gt;
+
+&lt;p&gt;纽约，一个迷人的城市，碍于时间的原因我没能够充分了解你，也正因为如此，那未揭面纱后面的真容更吸引着我的下次到访。&lt;/p&gt;
+
+&lt;p&gt;P.S.&lt;/p&gt;
+
+&lt;p&gt;旅行，还是夏天好。&lt;/p&gt;
+</content>
+<category term="Cities" />
+<summary></summary>
+</entry>
+<entry>
+<title>向往之城《La La Land》影评</title>
+<link href="http://localhost:3000/lala-land-review/" rel="alternate" type="text/html" title="向往之城《La La Land》影评" />
+<published>2017-01-12T00:00:00-07:00</published>
+<updated>2017-01-12T00:00:00-07:00</updated>
+<id>http://localhost:3000/lala-land-review</id>
+<content type="html" xml:base="http://localhost:3000/lala-land-review/">&lt;p&gt;&lt;img src=&quot;{{ site.url }}/assets/images/lalaland.jpg&quot; style=&quot;display:block; margin: 0 auto;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;《La La Land》成金球奖最大赢家，独揽7项大奖。本来不想写影评的，毕竟自己水平有限，对音乐剧太门外汉，但是，照这势头，奥斯卡雄起的赶脚。我叉 ，我还是赶紧把自己的想法写出来吧。（还有很重要的一点，我灰常喜欢洛杉矶，  别问为什么，迪士尼在这里）。&lt;/p&gt;
+
+&lt;p&gt;音乐剧，处处体现着导演对 LA（洛杉矶）的热爱。码头，天文馆，棕榈树，柏油马路，烦躁的堵车和炎热的天气，这些场景构建出了独一无二的 LA。影片开始的舞曲《Another Day Of Sun》，恰到好处地说出了 LA 人的心声，天天日晒不下雨。《City Of Stars》一言多意， Seb 自己在码头上面跳唱的时候，感慨着自己的感情和事业。（我当时在想，多球有寓意的名字，不是正在说很多好莱坞明星都住在这里吗。）&lt;/p&gt;
+
+&lt;p&gt;电影看到一半的时候大概猜到了不完美的结局。但是导演对结尾的处理并不伤感，同时，也是我认为电影最精彩的一部分，通过 Seb 为 Mia 演奏的一首充满感情的钢琴曲勾勒出两人无法完成的另一个人生，恰到好处得让观众看到了不完美中的完美。&lt;/p&gt;
+
+&lt;p&gt;另外，不得不提下片中的爵士乐。低调，内敛，不张扬，细腻的曲调里夹杂着丰富的感情，非常好听。我的一个小伙伴吹萨克斯的，玩的就是爵士乐。只怪他一直找借口说没有钢琴搭配的爵士乐不好听，所以，从来不给我们演奏，貌似我现在也理解了。如果是从宣传角度来说，最有收获的是 LA 这个城市的话，爵士乐绝对紧随其后。我本不听爵士乐的人，这两天也在 Spotfiy 上面各种听，好感顿生。&lt;/p&gt;
+
+&lt;p&gt;去过洛杉矶很多次了，喜欢那里的天气，喜欢那里的氛围。丰富的美食和多元的文化让这个城市对我有着无法抗拒的吸引力。也许，真实的 LA 不如我的憧憬。但，对我来说，这份假想不仅仅代表的一种可能。而是，心灵上的寄托，情感上的归属。也许，雾里看花才最美。&lt;/p&gt;
+
+&lt;p&gt;P.S.&lt;/p&gt;
+
+&lt;p&gt;话说，男人还是会门乐器比较好。&lt;/p&gt;
+</content>
+<category term="Film Review" />
+<summary></summary>
+</entry>
+<entry>
+<title>年少还需狂《海洋奇缘》影评</title>
+<link href="http://localhost:3000/moana-review/" rel="alternate" type="text/html" title="年少还需狂《海洋奇缘》影评" />
+<published>2017-01-03T00:00:00-07:00</published>
+<updated>2017-01-03T00:00:00-07:00</updated>
+<id>http://localhost:3000/moana-review</id>
+<content type="html" xml:base="http://localhost:3000/moana-review/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/Moana.jpg&quot; style=&quot;display:block; margin:0 auto;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;既然是公主片，既然有小动物当小弟，既然有好听的音乐，既然有暖心的结局。剧情什么的，随它去吧。&lt;/p&gt;
+
+&lt;p&gt;鄙视那帮天天剧情剧情的人。卧槽, 这是公主片，看的就是大家开心，目的就是心灵上的触动 。作为孩童，看的是美好。作为成人，看的是童真。你在这儿找毛的剧情？&lt;/p&gt;
+
+&lt;p&gt;亮点台词：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Are you going to sing? I am going to throw up.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Why am I a princess? Because you wear a dress, and you have an animal as your side-kick.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;剧情：&lt;/p&gt;
+
+&lt;p&gt;海上的游牧民族本在美丽的海岛上过着安逸的生活。可世界不太平，岛上的食物链遭到破坏，被大海选中的公主，又一次通过自己的勇敢和打不死的动物小强拯救了自己的族人。&lt;/p&gt;
+
+&lt;p&gt;个人认为比《冰雪奇缘》好看，抛开我比较喜欢夏天的原因，冒险的正能量至始至终贯穿整个影片，更给冬天的心灵送去一股暖流。巨石强森的配音即幽默又出彩，好几个面部表情明明就是强森自己（貌似强森也有岛民的血统，开朗的大块头）。这次的动物小强是个公鸡，耍得不是可爱乖巧 ，
+而是卖起的傻萌气质。迪士尼的音乐就不用多说了，从来都是精品中的精品。几首歌的歌词和旋律充满了力量，把冒险的精神和岛民积极向上的状态完美结合。最后的结局，当音乐再次响起，情绪被带动，振奋且激昂。（《权力的游戏》第7季结尾既视感)&lt;/p&gt;
+
+&lt;p&gt;最后鸡汤一句：也许，今天我们亏欠的正是那颗没能曾经为自由而飞的腐朽之心。&lt;/p&gt;
+
+&lt;p&gt;P.S.&lt;/p&gt;
+
+&lt;p&gt;迪士尼这种擅长玩 IP 的公司，对于动画片的制作从来都是大手笔。也许我们做不出这么厉害的动画片，但是我们要看到自己的不足，如果说多年前的《宝莲灯》是个好开篇的话， 那么这些年 ，貌似我们自己的动画片又退步到了起点。迪士尼的公主很有可能翻新，意味着会有新的中国公主出现。到时，我只是不希望我们自己的公主 IP 是被别的公司做出来的。&lt;/p&gt;
+</content>
+<category term="Film Review" />
+<summary></summary>
+</entry>
+<entry>
+<title>健身之路</title>
+<link href="http://localhost:3000/road/" rel="alternate" type="text/html" title="健身之路" />
+<published>2016-12-29T00:00:00-07:00</published>
+<updated>2016-12-29T00:00:00-07:00</updated>
+<id>http://localhost:3000/road</id>
+<content type="html" xml:base="http://localhost:3000/road/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/fitness.jpg&quot; style=&quot;width: 500px; display: block; margin: 0 auto;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;首先，我不是营养学家也不是健身家，所以下面说得信息可能会存在不准确的地方，如果你发现，你可以指出来，我会及时改正。同时， 分享一些经验，希望可以帮助想减肥和健身的朋友, 祝福大家都可以早日达成自己的目标 ：）&lt;/p&gt;
+
+&lt;h3 id=&quot;section&quot;&gt;目标：&lt;/h3&gt;
+
+&lt;p&gt;目标一定要明确。减肥？塑型？增肌？根据需要，选出合适的方法，剩下的就是对意志力的考验。 我的目标是减体脂。对于只是想减肥的朋友，不用锻炼, 控制饮食就可以了。想变大块儿的朋友, 加倍吃，加倍练。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-1&quot;&gt;食谱：&lt;/h3&gt;
+
+&lt;p&gt;关于食谱，非常非常重要，他们常说80%是饮食，20%是锻炼。所以，记住一些理论还是有必要的。&lt;/p&gt;
+
+&lt;h4 id=&quot;section-2&quot;&gt;食物的万金油理论：&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;好吃可口 = 胖&lt;/li&gt;
+  &lt;li&gt;调味酱 = 胖 （老干妈，豆瓣酱等）&lt;/li&gt;
+  &lt;li&gt;油炸 = 胖&lt;/li&gt;
+  &lt;li&gt;主食 = 胖&lt;/li&gt;
+  &lt;li&gt;零食 = 胖&lt;/li&gt;
+  &lt;li&gt;饮料 = 胖&lt;/li&gt;
+  &lt;li&gt;啤酒 = 胖&lt;/li&gt;
+  &lt;li&gt;火锅 = 胖&lt;/li&gt;
+  &lt;li&gt;下馆子 = 胖&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;section-3&quot;&gt;可以放心吃的：&lt;/h4&gt;
+
+&lt;p&gt;肉类:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;鸡肉: 瘦且有营养&lt;/li&gt;
+  &lt;li&gt;牛肉: 瘦牛肉&lt;/li&gt;
+  &lt;li&gt;猪肉: 尽量吃瘦的, 五花肉什么的，还是看看算了。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;蔬菜类：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;西蓝花&lt;/li&gt;
+  &lt;li&gt;芹菜&lt;/li&gt;
+  &lt;li&gt;胡萝卜&lt;/li&gt;
+  &lt;li&gt;青辣椒&lt;/li&gt;
+  &lt;li&gt;红辣椒&lt;/li&gt;
+  &lt;li&gt;豆角&lt;/li&gt;
+  &lt;li&gt;马铃薯，红薯，冬瓜之类带淀粉的尽量别吃&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;蛋白质：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;蛋清 （蛋清里有足够的我们需要的蛋白质，蛋黄能不吃就别吃）&lt;/li&gt;
+  &lt;li&gt;豆腐（非油炸）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;饮料类:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;不含糖分的饮料都可以&lt;/li&gt;
+  &lt;li&gt;黑咖啡&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;绝对不能吃的：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;主食：米，面，面包，淀粉类&lt;/li&gt;
+  &lt;li&gt;零食：糖，巧克力，薯片, 所有零食最好都别碰。&lt;/li&gt;
+  &lt;li&gt;甜点：蛋糕&lt;/li&gt;
+  &lt;li&gt;各种油炸：薯条，油条&lt;/li&gt;
+  &lt;li&gt;饮料：啤酒，啤酒，啤酒&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;section-4&quot;&gt;烹饪：&lt;/h4&gt;
+
+&lt;p&gt;蒸煮最好，烧烤其次，最后再用抄。 尽量不要用油,超市有卖没有热量的油，可以随便用。盐和胡椒粉是你的好朋友。喜欢辣的可以放干辣椒，酱油也没有问题。切记，老干妈豆瓣酱之类别吃。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-5&quot;&gt;锻炼：&lt;/h3&gt;
+&lt;p&gt;早上：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;20 俯卧撑 x 5 组&lt;/li&gt;
+  &lt;li&gt;50 仰卧起坐 x 4 组&lt;/li&gt;
+  &lt;li&gt;1 分钟 右侧平板支撑 Right Side Plank&lt;/li&gt;
+  &lt;li&gt;1 分钟 左侧平板支撑 Left Side Plank&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;晚上：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;20 俯卧撑 x 5 组&lt;/li&gt;
+  &lt;li&gt;30 仰卧起坐 x 2 组&lt;/li&gt;
+  &lt;li&gt;1 分钟 平板支撑 Plank x 2 组&lt;/li&gt;
+  &lt;li&gt;1 分钟 右侧平板支撑 Right Side Plank x 2 组&lt;/li&gt;
+  &lt;li&gt;1 分钟 左侧平板支撑 Left Side Plank x 2 组&lt;/li&gt;
+  &lt;li&gt;30 秒脚蹬自行车 x 2 组&lt;/li&gt;
+  &lt;li&gt;30 秒坐姿并腿抱膝 x 2 组&lt;/li&gt;
+  &lt;li&gt;30 秒仰卧两头起 x 2 组&lt;/li&gt;
+  &lt;li&gt;30 秒坐姿并脚上摆腿 x 2 组&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;最后，你如果感觉这个过程很痛苦，那么恭喜你，你的身体已经开始和你的大脑斗争了，你唯一要做的就是 - 坚持。&lt;/p&gt;
+</content>
+<category term="Health" />
+<category term="Fitness" />
+<summary></summary>
+</entry>
+<entry>
+<title>救人还是救世 《奇异博士》影评</title>
+<link href="http://localhost:3000/dr-strange-review/" rel="alternate" type="text/html" title="救人还是救世 《奇异博士》影评" />
+<published>2016-12-09T00:00:00-07:00</published>
+<updated>2016-12-09T00:00:00-07:00</updated>
+<id>http://localhost:3000/dr-strange-review</id>
+<content type="html" xml:base="http://localhost:3000/dr-strange-review/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/doctor-strange.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;周五晚上，百无聊赖，索性约了个朋友看电影。有段时间没进电影院了，加上很多同事对《奇异博士》的好评，好生期待。&lt;/p&gt;
+
+&lt;p&gt;我对电影的理解一直保持在一个简单肤浅的地步。有情，有声，有剧，有乐就是一个好电影。今天的商业电影只要是在资金充足的情况下都可以拍出浓浓的爆米花味，娱乐观众，抢占票房绰绰有余。而漫威对自己电影的投资也一向不手软，何况自己玩的不是单票电影 ，而是系列电影。所以，近几年的漫威的电影基本都被印上了一个好且燃的标签。即便这样 ，在我看来《奇异博士》也只是交出了勉强及格的答卷。&lt;/p&gt;
+
+&lt;p&gt;英雄的固定成长套路：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;诞生 – 成长 – 我是谁 – 成型&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;传统英雄电影逃不出英雄固定成长套路的模式  。也只有符合这个最基本模式的时候，英雄人物平凡的一面才会得到充实和饱满的体现，让观众感同身受同时，沉浸于剧情之中。漫威的美国队长，蜘蛛侠，钢铁侠都是在体验过非凡经历，被迫成长，并且在怀疑自我之后，才拥有最终的完整英雄形象。即使是非传统英雄索尔，也是在被自己弟弟洛基陷害，丢失力量之后，打入凡间，重新认识自己才成为众神之一的雷神。&lt;/p&gt;
+
+&lt;p&gt;再侃侃最不像英雄的英雄蝙蝠侠（准确来说，黑暗骑士），这个 DC 的招牌之一，在没有任何超能力，也没有基因变异的情况下，硬生生的拉拢了全球几乎所有的动漫粉丝。只要喜欢美国动漫文化的，没有几个不喜欢蝙蝠侠的。诺兰的蝙蝠侠三部曲，更是把本是商业电影的英雄电影带到了一个新高度，从不同的角度诠释了一个超级英雄的诞生，成长 ，自疑和成型。同时，我也一直以为这就是为什么《黑暗骑士》三部曲能饱受影评人喜欢的最主要原因。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;人生没有白走的路，每一步都算数。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;综上所述，超级英雄的经历和成长就应该在电影里占有相当重要的地位 。
+显而易见，《奇异博士》在这上面做得并不好 。奇异博士的诞生基本就是被一笔带过。诞生的原因更是差强人意，虽然可能是为了符合原著，但是感觉其说服力不足。相比于其他英雄，对其成长的描写更是模糊不清。甚至直接让奇异博士通过其自身的天赋把所有技能短时间内学会。（好吧，医生现实中开挂，漫画里更是加倍的开。）大反派第一次带着小弟和史蒂文打斗过后，史蒂文依然没有意识到自己身为魔法师英雄肩上的责任，坚持自己救人不杀人的医生之道，执意要做回自己的老本行。直到剧情让他没有时间思考直接被拉回战场接着打斗。最后，当自己的师傅被重伤，与其灵魂在弥留之际的交流之后才隐约意识到自己的责任 – 救人还是救世。&lt;/p&gt;
+
+&lt;p&gt;说回剧情 ，代入感明显不够。史蒂文几次心理上的转变更没有得到充分的刻画，还好卡斯阵容强大， 演员的个人魅力得到了充分的发挥，弥补了情节上的空白。史蒂文和克里斯丁的感情戏也不够吸引人。按理说，Rachel McAdams 这种甜心演员，对各路男演员应该是百搭，但是他俩之间就是没有应有的化学反应（是我错觉吗？貌似卷福和英国人的气质更能出现化学反应）。反而是那块几次出现的手表成了史蒂文最大的感情寄托，貌似表和他的感情交流比克里斯丁和他的感情互动还深(镜头有特写表背面的刻字，是我的挚爱）。还好，影片中穿插着不少接地气儿的笑点和彩蛋，给生硬的剧情和感情戏的添了些许色彩。&lt;/p&gt;
+
+&lt;p&gt;身为魔法系英雄，各种魔法炫技本该是电影最大的看点，但可能是我期望太高的缘故。两场最主要的打斗，伦敦和香港 ，两个最大的魔法技能，空间转换和时间转换都太似曾相识了，我是说太似曾相识了。&lt;/p&gt;
+
+&lt;p&gt;影片的最后，史蒂文站在伦敦总部的窗户边，看着自己满是伤疤，依然不能灵活活动的双手，若有所思。然后，拿起克里斯丁送的手表。意味深长的望着窗外，也许那时的史蒂文想的不再是救人，而是救世。可能，那一刻才是一个英雄的诞生。&lt;/p&gt;
+
+&lt;p&gt;P.S.&lt;/p&gt;
+
+&lt;p&gt;影片的配乐和其他漫威电影差的不是一点半点，我理解你不可能每个电影都找 Hans Zimmer 或者 Henry Jackman 这样的大神来，但是，拜托，认真点，不要把恐怖电影的音效直接拿来好吗？&lt;/p&gt;
+</content>
+<category term="film review" />
+<summary></summary>
+</entry>
+<entry>
+<title>MacBook Pro with Touch Bar 模糊测评</title>
+<link href="http://localhost:3000/macbook-pro-touch-bar-review/" rel="alternate" type="text/html" title="MacBook Pro with Touch Bar 模糊测评" />
+<published>2016-12-07T00:00:00-07:00</published>
+<updated>2016-12-07T00:00:00-07:00</updated>
+<id>http://localhost:3000/macbook-pro-touch-bar-review</id>
+<content type="html" xml:base="http://localhost:3000/macbook-pro-touch-bar-review/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/macbookprotouchbar.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;暴了一次人品。黑色星期五，意外地在苹果店发现有自己想要的新 MacBook Pro with Touch Bar 的配置，带了一台回家。已经用了两个多星期了，随便从几个方面谈谈主观上的模糊感受。&lt;/p&gt;
+
+&lt;p&gt;模糊感受，没有任何数据的非客观评价。所以，下面的测评没有任何实际数据，想看数据的朋友，出门左转，youtube 上面有各种跑分情况。&lt;/p&gt;
+
+&lt;h2 id=&quot;section&quot;&gt;机型&lt;/h2&gt;
+
+&lt;p&gt;13 英寸
+Intel Core i7
+16 Momery
+512 GB SSD
+深空灰&lt;/p&gt;
+
+&lt;p&gt;很棒的尺寸，以至于让我有点想迫不及待地做飞机，再也不用有在飞机上打开电脑就狗带的感觉了。风扇噪音的降低和散热的控制都较前代很大的提升。我喜欢坐在沙发上工作，听着 Spotify 写码，声音开很大，长时间放在腿上没有较前代很热的感觉。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-1&quot;&gt;接口&lt;/h2&gt;
+
+&lt;p&gt;4个 USB Type C 接口设计的做法确实激进，甚至有点扯淡，我想用电脑给手机冲电还需要转接器，草泥马，用户体验去哪了？&lt;/p&gt;
+
+&lt;p&gt;然而，如果从反方向思考一下这个问题，不难推测接下来几代苹果产品以及笔记本电脑的发展反向。结论就是：又一次，苹果激进地开了一次头。很多用户互忽略了一个工程上的技术问题，科技的进步往往是伴随着取舍递进的。今天的产品设计，特别是与生活息息相关的电子产品，每一毫米的内部空间节省都需要在结构上重新设计。拿手机为例，内部空间极其紧凑，能节省的每一毫米都是一种胜利。3.5 毫米的耳机插孔本身已经占用了不少空间，再加上手机内部的连接圈，不用我说你也知道占用了多少空间。所以，3.5 毫米耳机插孔的消失是必然的，只是时间问题。&lt;/p&gt;
+
+&lt;p&gt;相同的道理，为便携而诞生的笔记本电脑和平板电脑，接口的减少和统一也只是时间问题。昨天我同事问我要一个 PDF 的电子书，我直接 AirDrop 给他，无线且逼格。蓝牙5马上就要出了，300米的范围，2倍多的传输速度，完全可以满足日常的使用。技术的进步，时代的改变，总需要有人第一个站出来。当下，有这个能力能在硬件上面让整个产业做自己小弟的大哥也只有苹果了。（微软也想通过 Surface 系列做大哥）&lt;/p&gt;
+
+&lt;p&gt;所以，想开点，接口激进的做法就是进步的表现。另外，USB Type C 接口的传输是其他接口速度的很多倍。最后，电源在4个接口上都可以用的设计也算是弥补了失去 Magsafe 的补偿吧。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-2&quot;&gt;键盘&lt;/h2&gt;
+
+&lt;p&gt;我很喜欢这第二代蝶式键盘。每个按键的背光设计，视觉上的 时代感突飞猛进。虽然键程很短，打起字来却很舒服，准确率由于键面的增大和蝶式结构的平稳性提升了很多。顺便说一下，我同时也特别喜欢机械键盘，家里用的是我定制的 WASD 青轴。两个键盘各有利弊，使用场景不一样。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-3&quot;&gt;屏幕&lt;/h2&gt;
+
+&lt;p&gt;新屏幕的亮度提高了很多，现在即使是背光，也可以轻易地看到屏幕上的内容。记得我用上代 MacBook Pro 的时候。每天到下午，光线反射到屏幕上的时候，需要变换位置才能看清屏幕，现在不需要了。&lt;/p&gt;
+
+&lt;h2 id=&quot;touch-bar&quot;&gt;Touch Bar&lt;/h2&gt;
+
+&lt;p&gt;Touch  Bar 可以说是这次 MacBook Pro 最大的卖点，以至于苹果在 Keynote 上专门花大把时间来展示。奇怪的是，Touch Bar 对我没有很大的吸引力。我之前小小地担心了 esc 键的触碰的问题。后来觉得可笑，苹果这种天天宣传用户体验的公司，触碰这些事情应该用不到我操心。果不其然，虽然 esc 键视觉上不在最左边，但是程序上是在最左边。&lt;/p&gt;
+
+&lt;p&gt;当然，Touch Bar 以后的开发可以非常让人期待。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-4&quot;&gt;触控板&lt;/h2&gt;
+
+&lt;p&gt;触控板面积很大，我坚信这样设计的原因肯定是打算把 Magic Pen 拿过来用。因为面积的增大，不正规的打字姿势会造成一些不必要的误碰，需要一点时间适应。如果你打字姿势正确的话，完全没有问题。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-5&quot;&gt;续航&lt;/h2&gt;
+
+&lt;p&gt;续航很烂，没有宣传的10小时，我在开着 Spotify 的情况下写代码，大概也就5小时左右。希望接下来的版本升级可以优化续航。（Sierra 我一直不是很喜欢，没有 El Captian 好用，续航就是其中一个方面。）&lt;/p&gt;
+
+&lt;h2 id=&quot;section-6&quot;&gt;总结&lt;/h2&gt;
+
+&lt;p&gt;价钱还是贵，不卖肾买不起。不过，我很清楚，买苹果的产品，买的不是跑分机器，而是一个集合了工业设计，用户体验，系统整合，外加咖啡店逼格光环的产品。&lt;/p&gt;
+
+</content>
+<category term="Macbook Pro" />
+<category term="Review" />
+<summary></summary>
+</entry>
 <entry>
 <title>How to Set Color Scheme in Neovim</title>
 <link href="http://localhost:3000/neovim-true-color/" rel="alternate" type="text/html" title="How to Set Color Scheme in Neovim" />
@@ -141,235 +508,6 @@
 &lt;p&gt;总的来说，这次Macbook Pro的换代达到了我要的预期，性能上的加强和便携上的提升已经令我满意。我是个程序员，对电脑是比较挑的。那么，对于普通消费者，没有更换的必要。最后，透过表面，我觉得苹果依然在各种试水，今天Touch Bar的出现就是未来物理键盘在笔记本电脑上消失的征兆。不过 ，也别悲观，未来的交互和输入也许出现革命性的改变，所以，好的科技是要试出来的。&lt;/p&gt;
 </content>
 <category term="Macbook Pro" />
-<summary></summary>
-</entry>
-<entry>
-<title>那些年，总是追不到的妹子</title>
-<link href="http://localhost:3000/meizi/" rel="alternate" type="text/html" title="那些年，总是追不到的妹子" />
-<published>2016-10-25T00:00:00-06:00</published>
-<updated>2016-10-25T00:00:00-06:00</updated>
-<id>http://localhost:3000/meizi</id>
-<content type="html" xml:base="http://localhost:3000/meizi/">&lt;p&gt;最近两天，我和小伙伴一前一后各自被甩。吸取教训，再接再厉。顺便回忆一下过去，感慨一下现实。&lt;/p&gt;
-
-&lt;p&gt;小学的好儿童，初中的混小子，高中的不着边际。仿佛这是大部分不爱学习男孩的小学，中学和高中。我们这群受计划生育影响，出身在1980末期的男孩身上有不少通病，臭屁，叛逆，特立独行，自以为是。上学的时候，不爱学习，逃课上网吧，上课的时候看漫画，睡觉。在那个年少无知的年代，只会盯着那个班里最漂亮的女孩。结果草泥马，班花一般都只中意班草，而班草通常都是别人家的孩子。&lt;/p&gt;
-
-&lt;p&gt;高中后，胆子大了，开始张扬地隔班撩妹。扯淡的是，学校都要求穿校服，为了给妹子留下深刻印象，能做文章的只有发型。拼了命和学校对着干，能多长一毫米，绝对不剪，视发型为一切。球场上一定要装出自己如乔丹二代，即使投不进，姿势也要迷倒所有人。无奈身边总有几个学习好，篮球好，长得帅的混蛋同学，什么也不用做就吸引了无数注意力，结果草泥马，妹子的心都跟着他们走了。&lt;/p&gt;
-
-&lt;p&gt;在上学的时候，我们的身边会有各种各样的妹子。有霸气班长，有漂亮的课代表，有可爱微胖的，有从来没讲过话的，有成为朋友的，也有暗恋的，还有表白遭拒的。貌似生活既是如此，总会有那么一个令人心动的女孩，你喜欢她，但却出于某种原因追不到。原来的我们天真地以为，只要工作了，稳定了，认真了， 妹子都可以追得到。夏天总是会回来，滋味会变吗？&lt;/p&gt;
-
-&lt;p&gt;上班后，终于以为有资本可以任性地追女孩子的时候，才发现爱情里仅剩的甘甜也早已被现实的残酷和外界的压力榨得丝毫不剩。很多时候，希望自己是头野兽，蜷缩在孤堡里，渴望贝拉的出现。结果呢？&lt;/p&gt;
-
-&lt;p&gt;那些年，总也追不到的妹子，对你们来说，我们是路人。但对我们来说我，你们是成长的路灯。&lt;/p&gt;
-</content>
-<category term="story" />
-<summary>最近两天，我和小伙伴一前一后各自被甩。吸取教训，再接再厉。顺便回忆一下过去，感慨一下现实。</summary>
-</entry>
-<entry>
-<title>下一个十年</title>
-<link href="http://localhost:3000/ten-years/" rel="alternate" type="text/html" title="下一个十年" />
-<published>2016-10-20T00:00:00-06:00</published>
-<updated>2016-10-20T00:00:00-06:00</updated>
-<id>http://localhost:3000/ten-years</id>
-<content type="html" xml:base="http://localhost:3000/ten-years/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/ten-years.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;MacBook Pro上的中文输入法我一直在用MacOS自带的，谈不上特别难用，但是我也早已习惯了。一直以来被自己的惰性驱使而没有去寻求更好的输入法软件，作为软件工程师，惭愧。&lt;/p&gt;
-
-&lt;p&gt;前天，随便谷歌了时下流行的中文输入法，看到了搜狗。随意地去他们的网站看了下。由于职业原因直接看了他们的源代码，整齐有序，加强了好感。下载安装之后，发现确实好用。在设置偏好的时候，发现很多细节做得很棒，用户体验立即得到了提升。同时，认识到自己在早知道搜狗的情况下，由于抵触心理没有尝试，而差点错过了一款好软件的错误心理。&lt;/p&gt;
-
-&lt;p&gt;小时候，听流行乐。有歌手感慨，从港台来的歌手起点比内地歌手要高。当时无感的话，多年后想起。原来，从那时起，我已随波逐流。&lt;/p&gt;
-
-&lt;p&gt;来美国之后，接触过各个国家的人。很多看法在经历之后开始改变。错误的心态通常是在错误的环境下生成。走出错误的环境，改变对人对事的心态需要的则是时间，经历，沉淀和思考。&lt;/p&gt;
-
-&lt;p&gt;即使我们在天天告诫自己需要客观看待事物的时候，也走不出本能給主观上带进的误区。很多时候，我们在潜意识下随波逐流的給从未了解的事物戴标签，结果，我们埋没了一个发现机会的同时，也腐朽了自己善于探索的灵魂。&lt;/p&gt;
-
-&lt;p&gt;我们现在很幸运地生活在一个大互联网时代，看到科技在一直的进步，而带动的生机，改变的人文则是科技背后更大的价值。我们身边优秀且认真做事的人很多，专注的科技公司也不少。努力做好一件事，其价值远远大于意义。昨天我看锤子科技的发布会的时候，当老罗在介绍 big bang 和 one step 异常激动的时候，我理解他的想法。这两个产品的交互和体验设计确实是业内第一个，这种敢想敢做的风格比技术上的突破更为可贵。&lt;/p&gt;
-
-&lt;p&gt;今天，我们对产品的要求在逐步提升。促使了各个公司之间的良性竞争，结果就是竞争之后留下的精良技术。如果说，过去20年我们在当世界工厂是在积累和沉淀。那么，今天我们把自己的才华，创新，专注和勤奋加入已经炉火纯青的生产线，站在巨人的肩膀看世界还会远吗？&lt;/p&gt;
-
-&lt;p&gt;下一个十年，国内肯定会出现很多世界级的科技公司，我翘首以盼。&lt;/p&gt;
-
-&lt;p&gt;P.S&lt;/p&gt;
-
-&lt;p&gt;写在10/20/2016, 我希望10/20/2026的时候再回来看这个博文。&lt;/p&gt;
-
-</content>
-<category term="thought" />
-<category term="china" />
-<category term="technology" />
-<summary></summary>
-</entry>
-<entry>
-<title>Tools you need in Sierra</title>
-<link href="http://localhost:3000/tools-you-need-in-Sierra/" rel="alternate" type="text/html" title="Tools you need in Sierra" />
-<published>2016-10-17T00:00:00-06:00</published>
-<updated>2016-10-17T00:00:00-06:00</updated>
-<id>http://localhost:3000/tools-you-need-in-Sierra</id>
-<content type="html" xml:base="http://localhost:3000/tools-you-need-in-Sierra/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/sierra.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;In my previous blog &lt;a href=&quot;{{site.url}}/what-I-learned-from-upgrading-my-os&quot;&gt;What I learned from upgrading to Sierra&lt;/a&gt;. I pointed out one of the professional characteristics that I have lacked for a long time – problem-solving in an objective way. In this blog, I am going to explain how I moved on to Sierra. Additionally, I will introduce some excellent tools.&lt;/p&gt;
-
-&lt;p&gt;As you know, I am a big fan of using keybindings to boost my productivity. It’s hard to set everything up, but I like doing it. In El Captian, I used a bunch of different tools to make my cumbersome workflow just under my fingertips. I am OCD with my tools, and they have to be the ways I like. Otherwise, I won’t work until I tweak them to. There are pros and cons of being stubborn. But, as a developer, being stubborn is always on the right side. Life is much more rewarding when using something others don’t know how, isn’t it?&lt;/p&gt;
-
-&lt;h2 id=&quot;karabiner&quot;&gt;Karabiner&lt;/h2&gt;
-
-&lt;p&gt;Karabiner isn’t working correctly in macOS 10.12 Sierra. Regarding the creator, &lt;a href=&quot;https://github.com/tekezo&quot; class=&quot;user-mention&quot;&gt;@tekezo&lt;/a&gt;, of Karabiner. Apple changed generic keyboard and mouse drivers on Sierra that made an impact to Karabiner, which caused the ineffectiveness. Therefore, Karabiner needs to be re-structured, &lt;a href=&quot;https://github.com/tekzo&quot; class=&quot;user-mention&quot;&gt;@tekzo&lt;/a&gt; can’t give an estimate now.&lt;/p&gt;
-
-&lt;h2 id=&quot;karabiner-elements&quot;&gt;Karabiner-Elements&lt;/h2&gt;
-
-&lt;p&gt;At the same time, &lt;a href=&quot;https://github.com/tekezo&quot; class=&quot;user-mention&quot;&gt;@tekezo&lt;/a&gt; introduced Karabiner-Elements, a much simpler versioned Karabiner(UI below), that is compatible on Sierra. I downloaded it and tried it. It lacked tons features. I didn’t think it was enough to do what I needed. So I moved on.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/karabiner-elements-settings.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;bettertouchtool&quot;&gt;BetterTouchTool&lt;/h2&gt;
-
-&lt;p&gt;I used BTT a long time ago. I downloaded it initially for the sweet window snapping feature. Then I found out there were all sorts of options. So I mapped &lt;code class=&quot;highlighter-rouge&quot;&gt;hjkl&lt;/code&gt; as &lt;code class=&quot;highlighter-rouge&quot;&gt;arrow&lt;/code&gt; keys liked the image showing below. I then stopped using it because it lacked key repeat feature. But, now I don’t seem to have other options. Okay, let’s give a try. So, I set it up and sent the Author an email hoping there might be a way to tweak the key repeat. Meanwhile, I kept looking for other better options. Why?Because being proactive might turn things around.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/btt-setting.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;keyboard-maestro&quot;&gt;Keyboard Maestro&lt;/h2&gt;
-
-&lt;p&gt;The best always comes last, right? All I needed was patience and persistence. I found Keyboard Maestro from somebody’s comment on Karabiner’s Issue board. I downloaded and tried it. The UI was intuitive to use and there were tons options I could manipulate with. More importantly, it had &lt;code class=&quot;highlighter-rouge&quot;&gt;key-down&lt;/code&gt; options meant key repeat is available!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/keyboard-maestro-setting.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
-
-&lt;p&gt;Somebody once said &lt;em&gt;Tools are ultimate procrastination&lt;/em&gt;. However to others, tools are motivation.&lt;/p&gt;
-</content>
-<category term="Sierra" />
-<summary></summary>
-</entry>
-<entry>
-<title>何为孤独</title>
-<link href="http://localhost:3000/alone/" rel="alternate" type="text/html" title="何为孤独" />
-<published>2016-10-16T00:00:00-06:00</published>
-<updated>2016-10-16T00:00:00-06:00</updated>
-<id>http://localhost:3000/alone</id>
-<content type="html" xml:base="http://localhost:3000/alone/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/alone.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;小强昨天没有继续和朋友去喝酒，因为小强不能像朋友一样在取悦别人，陪笑之后回到家还能在温暖的家人旁边做回自己。叫了个计程车，回到家连澡也不想洗，躺在床上刷着朋友少的可怜的朋友圈。看着别人的快乐，都和自己无关，傻笑着，在酒精的作用下，小强在不知不觉中睡着了，灯也没来得及关。&lt;/p&gt;
-
-&lt;p&gt;小强起床之后，称了一下体重，轻了一磅。小强认为这也是动力。喝了杯浓咖啡，简单洗漱后，就去公司了。周末的公司，空，静，幽。没有哪里比这里更适合写东西了。除了保安每一个小时的巡逻，连个能打扰小强的人影也没有。小强写东西要思考，每隔一会儿都会站起来走走。站在窗边看着远方总能给小强带来一种莫名的幸福感。小强写东西喜欢反复复读，效率来讲不高，但绝对是认真对待。终于写完了，加个好看的图片，也许能把意境带出来。小强贴在微信朋友圈，接下来就是不厌其烦的打开微信，期待右下角会有个赞。几天后唯一的留言还是小强自己贴的地址。&lt;/p&gt;
-
-&lt;p&gt;小强单身，一被注意，马上敞开心扉，以为坦率，废话连篇，貌似轻浮，实为孤独。&lt;/p&gt;
-</content>
-<category term="thoughts" />
-<summary></summary>
-</entry>
-<entry>
-<title>What I learned from upgrading to Sierra</title>
-<link href="http://localhost:3000/what-I-learned-from-upgrading-my-os/" rel="alternate" type="text/html" title="What I learned from upgrading to Sierra" />
-<published>2016-10-15T00:00:00-06:00</published>
-<updated>2016-10-15T00:00:00-06:00</updated>
-<id>http://localhost:3000/what-I-learned-from-upgrading-my-os</id>
-<content type="html" xml:base="http://localhost:3000/what-I-learned-from-upgrading-my-os/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/learning.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I upgraded my work machine,  a 2013 MacBook Pro, to Sierra Thursday morning. I did use Time Machine to back up my files in case upgrading went wrong. Sierra was stunning at the beginning of the day. Although I didn’t care Siri at all, but I enjoyed the new OS in general, especially the new Storage Mangement feature, which I thought Apple should have done it a while ago. Now, I no longer need third party application to optimize my space. However, I ended up not liking Sierra by the end of the day.&lt;/p&gt;
-
-&lt;p&gt;I like to update my applications right away when there are updates. Probably because I am a developer, an update has always meant more than a patch to me, it represents a product of an iteration and a result of teamwork. However, when it comes to upgrading the OS of my work machine, I had to be careful. I had many customizations added to my work machine, I ran a bunch of open source tools to keep my workflow productive. On top of that, I am a Tmux and Vim user. Since all Tmux and Vim packages and plugins are from open source, compatibility of newer OS update takes time to develop. With all these in my mind, I didn’t update right away. I waited a couple of weeks after the official release, I consulted with some of my co-workers who did upgrade. Everything seemed working fine. Some of their machines are highly customized as well, which made me feel comfortable to upgrade. So, I did it on Thursday morning.&lt;/p&gt;
-
-&lt;p&gt;The first bug I noted was Karabiner, a must have keybinding tool for my workflow, didn’t work at all. I went to their Github repo trying to find answers, realized there were same Issues have been reported and marked bug for days. Then I saw my iTerm had four weird tiny spaces around it when I maximized the window, which bugged the crap out of me. Additionally, Dota2 had a serious mouse delay when moving the cursor to the edge. I couldn’t even enjoy the game. On top of that, there were some other smaller issues that I could barely tolerate. Therefore, I thought about going back to El Captian. It would fix all of the problems. Then, it got me thinking. If I refuse to adopt new things, choose going back. It is not what I wanted in the first place. I am going to stick with Sierra. I am going forward and not looking back. What about the problems? Simple, finding ways to solve them. I am a developer, I do what I am good at, finding solutions to the problems.&lt;/p&gt;
-
-&lt;p&gt;Whether you like it or not, technology is moving forward. Instead of staying in the same place and complaining, adopting is the key to existence.&lt;/p&gt;
-</content>
-<category term="technology" />
-<category term="thoughts" />
-<summary></summary>
-</entry>
-<entry>
-<title>纵使胯下良驹赛过赤兔，仍不及科技产业发展迅速</title>
-<link href="http://localhost:3000/wechat/" rel="alternate" type="text/html" title="纵使胯下良驹赛过赤兔，仍不及科技产业发展迅速" />
-<published>2016-10-15T00:00:00-06:00</published>
-<updated>2016-10-15T00:00:00-06:00</updated>
-<id>http://localhost:3000/wechat</id>
-<content type="html" xml:base="http://localhost:3000/wechat/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/horse.jpg&quot; style=&quot;display: block; margin: 0 auto;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;纵使胯下良驹赛过赤兔，仍不及科技产业发展迅速。&lt;/p&gt;
-
-&lt;p&gt;中国互联网行业的成功，用的不是背景，玩的不是资源，赢的是民生。这解释了为什么众多国外科技大佬打遍世界无敌手的一套拿到中国，却是吃不了兜着走。即使强如谷歌，猛如优步，面对百度和滴滴，也是各种跪。Facebook小扎各种来访，这么努力的情况下，Facebook的前景如何？就算顺利解禁，面对微信，我们自己的社交分享平台，还是得跪。&lt;/p&gt;
-
-&lt;p&gt;从大局上讲，科技行业和互联网行业发展的快，但不精。当然，如果能在有规范的情况下，我相信可以达到既快又精。微信应用号，表面看是带来对开发者的便利，提供一个容易进入的平台，鼓励更多开发者为自己服务。实质上，却是一个规范的树立。当然，像我之前讲的（请看我的另一个博文&lt;a href=&quot;{{site.url}}/virtual-realitiy/&quot;&gt;Virtual Reality&lt;/a&gt;)， 规范这东西不是随随便便就可以制定的，而且制定者的目的很强。腾讯走的这一步，背后的野心很亮。&lt;/p&gt;
-
-&lt;p&gt;不用过多介绍微信，这个屌到可以付钱，约炮和等等的软件，未来的可能性无穷大。然而，应用号可以把这个可能性带到另一个纬度。腾讯是想提供一个平台，让大众来发挥。微软和黑莓在手机领域的惨败就是低估了用户对开发者应用的依赖性。如果说很多人对刚收购诺基亚的微软Windows手机有期待的话，那么用了一年之后的发现没有任何App更新的情况下，估计是跳海的心都有了。腾讯，做法显然聪明很多，发展应用号，树立规范，提升应用号的App的质量，服务大众。从用户体验的角度来说，微信独一无二的优势是在不离开微信的时候进行其他操作。一旦微信上的应用程序多起来了，腾讯就会在这个游戏里面扮演主动的角色。小目标可以实现对数据的收集和整合，加以无私或自私的利用。大目标可以是再次提升用户对微信的依赖性，这离开发自己的系统还远吗？&lt;/p&gt;
-
-&lt;p&gt;两个字总结微信为何如此之强，数据。今天是个大数据的时代，未来任何一个成功商业的可能性都是通过数据的收集，分析，组合和整合计算出来的。每天的吃什么，穿什么，做什么，赞什么，小部分人聊无所谓，上亿人聊就很有所谓。&lt;/p&gt;
-
-&lt;p&gt;应用号，一个规范的树立，成功与否，都会加鞭良驹追赶科技的速度。&lt;/p&gt;
-</content>
-<category term="wechat" />
-<category term="technology" />
-<category term="direction" />
-<summary></summary>
-</entry>
-<entry>
-<title>Virtual Reality</title>
-<link href="http://localhost:3000/virtual-reality/" rel="alternate" type="text/html" title="Virtual Reality" />
-<published>2016-10-07T00:00:00-06:00</published>
-<updated>2016-10-07T00:00:00-06:00</updated>
-<id>http://localhost:3000/virtual-reality</id>
-<content type="html" xml:base="http://localhost:3000/virtual-reality/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/vr.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;虚拟现实, 简单聊一下它的今天与明天。&lt;/p&gt;
-
-&lt;h2 id=&quot;section&quot;&gt;种类&lt;/h2&gt;
-
-&lt;p&gt;虚拟现实就是VR, 英语Virtual Reality的缩写。同时还有AR(Augmented Reality), MR(Mixed Reality), CR(Cinematic Reality). 后面的3个都是在VR的基础上延伸出来的。理由很简单，VR在今天的技术下有相当的局限性。可以这样理解，后面的3个R都是在VR的概念上加以改变来服务当下的需求。所以，有理由相信接下来的几年会出现更多的R。&lt;/p&gt;
-
-&lt;h2 id=&quot;section-1&quot;&gt;交互&lt;/h2&gt;
-
-&lt;p&gt;交互，交流互动的简写。这个在几年前完全不存在的词，在今天被频繁提及到。如果说过去的我们是适应工具，那么今天是工具适应我们。如何有效的让用户和产品进行交流互动是今天产品设计上面非常重要的一步，更直接影响到用户体验。所以说，只有内外兼具的产品才会深得人心。&lt;/p&gt;
-
-&lt;p&gt;看过《钢铁侠》的朋友，一定会对Jarvis印象深刻。骚尼和Jarvis的互动出现在两个方面。第一，语言。第二，触控。语言是人工智能，达到Jarvis地步，需要算法有很大的提升。触控则是软硬件的双向结合。剧里骚尼通过摆动手臂和手势完成对软件的操作，这在今天通过照相机里的动作捕捉技术是可以完成的。但是，这个交互不现实，道理很简单，缺乏反馈。人类的手臂和双手在没有物理反馈的情况下长时间举在空中，是个非常不舒服的过程，更别说体验了。所以，这个交互是不成立的。&lt;/p&gt;
-
-&lt;p&gt;那么，交互在今天的VR是什么一种情况呢？首先，我们需要列出2016年市面上有的VR产品:&lt;/p&gt;
-
-&lt;table align=&quot;center&quot; style=&quot;border:1px solid lightgray; width:100%; color:#666; padding:10px;&quot;&gt;
-    &lt;tr&gt;
-      &lt;td align=&quot;left&quot;&gt;&lt;b&gt;Company&lt;/b&gt;&lt;/td&gt;
-      &lt;td align=&quot;left&quot;&gt;&lt;b&gt;Hardware&lt;/b&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td align=&quot;left&quot;&gt;Google&lt;/td&gt;
-      &lt;td align=&quot;left&quot;&gt;Cardboard&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td align=&quot;left&quot;&gt;Microsoft&lt;/td&gt;
-      &lt;td align=&quot;left&quot;&gt;Hololens&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td align=&quot;left&quot;&gt;Sony&lt;/td&gt;
-      &lt;td align=&quot;left&quot;&gt;PlayStation VR&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td align=&quot;left&quot;&gt;Oculus&lt;/td&gt;
-      &lt;td align=&quot;left&quot;&gt;Rift CV1&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td align=&quot;left&quot;&gt;HTC&lt;/td&gt;
-      &lt;td align=&quot;left&quot;&gt;VIVE&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td align=&quot;left&quot;&gt;Samsung&lt;/td&gt;
-      &lt;td align=&quot;left&quot;&gt;Gear VR&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;p&gt;很明显，这些产品都是都是头戴式显示器(HMD - Head Mounted Display）。记得小时候去科技馆学习天文，沉浸在一个球形的大房间里面通过180度的显示器观看太阳系的结构，那是我第一次感受VR。今天，头戴式显示器的目的就是要把VR平民化，给开发者提供一个平台，真正的把VR大众化，让每一个人都可以身临其境的感受。&lt;/p&gt;
-
-&lt;p&gt;相比于视觉上的交互，触觉上的更多元化一点。有各种样子的遥控器，触控器，还有触控手套。但是，多元在此并非好事，缺乏规范。规范的竖立不是一两天会出现的，而是需要多年时间的迭代更新来产生。&lt;/p&gt;
-
-&lt;h2 id=&quot;section-2&quot;&gt;体验&lt;/h2&gt;
-
-&lt;p&gt;体验，一个比互动更复杂的概念。如果说互动可以简单理解为一种交流模式的话，那么体验就上升到感官层面了例如温度，气味或者风速。今天好的界面设计和用户体验建立在用户直觉的感应上。有人做过这样一个有趣的实验，在平板电脑里放上1岁宝宝喜欢看的图片，需要上下滑动来浏览。然后，看看1岁宝宝是怎样体验这个平板电脑的。结果出乎意料，宝宝非常迅速直觉的摸索到了滑动。想想看，一个1岁的宝宝能有如此的反应，那么体验上的设计在平板电脑上先进到了什么样一种情况？&lt;/p&gt;
-
-&lt;p&gt;就像之前讲到的，体验还有更为复杂，难以解释的一面。目前的VR在刚刚可以满足视觉，触觉和听觉的情况下，指不定那一天可以强大到给我们带来心灵和感情上的体验。&lt;/p&gt;
-
-&lt;h2 id=&quot;section-3&quot;&gt;展望&lt;/h2&gt;
-
-&lt;p&gt;VR在现阶段还处于探索的地步，需要完整的融入我们的生活还需要一段时间。想象10年前，当我们惊讶于第一代iPhone可以浏览网页的时候，谁能想到今天的智能手机可以强大到如此的地步。而我们要做的就是，适应。&lt;/p&gt;
-</content>
-<category term="thoughts" />
-<category term="virtual reality" />
 <summary></summary>
 </entry>
 </feed>

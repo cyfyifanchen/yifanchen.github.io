@@ -1,6 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:3000/fat-and-sugar/</loc>
+<lastmod>2017-02-23T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:3000/new-york/</loc>
+<lastmod>2017-01-16T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:3000/lala-land-review/</loc>
+<lastmod>2017-01-12T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:3000/moana-review/</loc>
+<lastmod>2017-01-03T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:3000/road/</loc>
+<lastmod>2016-12-29T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:3000/dr-strange-review/</loc>
+<lastmod>2016-12-09T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:3000/macbook-pro-touch-bar-review/</loc>
+<lastmod>2016-12-07T00:00:00-07:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:3000/neovim-true-color/</loc>
 <lastmod>2016-10-31T00:00:00-06:00</lastmod>
 </url>
@@ -195,10 +223,10 @@
 <loc>http://localhost:3000/about/</loc>
 </url>
 <url>
-<loc>http://localhost:3000/blog/</loc>
+<loc>http://localhost:3000/</loc>
 </url>
 <url>
-<loc>http://localhost:3000/</loc>
+<loc>http://localhost:3000/blog/</loc>
 </url>
 <url>
 <loc>http://localhost:3000/projects/</loc>
