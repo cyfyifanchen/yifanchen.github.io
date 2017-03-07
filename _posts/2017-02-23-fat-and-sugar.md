@@ -37,6 +37,10 @@ star: false
 
 讲了这么多，只是想说出不同的饮食减肥方式。今天，大家为了漂亮，开发出很多激进的节食方式，在长期保持身材上面只会有害无利。相反，知道食物的特质，规律，找到属于自己，并且健康的饮食方式，才是长期保持身材的王道。
 
+> Why is sugar addictive?
+
+*When we eat foods that contain a lot of sugar, a massive amount of dopamine is released in an area of the brain called the Nucleus Accumbens. ... The exact same brain centers are at play. People who have a certain predisposition to addiction become addicted to these foods and lose control over their consumption.*
+
 Resources:
 
 * <a href="https://health.clevelandclinic.org/2016/02/sugar-vs-fat-which-is-worse-for-weight-gain/" target="_blank">Sugar or Fat: What’s Worse for Your Waistline? (Infographic)</a>
