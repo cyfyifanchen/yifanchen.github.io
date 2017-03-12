@@ -41,6 +41,10 @@ star: false
 
 *When we eat foods that contain a lot of sugar, a massive amount of dopamine is released in an area of the brain called the Nucleus Accumbens. ... The exact same brain centers are at play. People who have a certain predisposition to addiction become addicted to these foods and lose control over their consumption.*
 
+*P.S.*
+
+*多巴胺，一个神奇的东西。*
+
 Resources:
 
 * <a href="https://health.clevelandclinic.org/2016/02/sugar-vs-fat-which-is-worse-for-weight-gain/" target="_blank">Sugar or Fat: What’s Worse for Your Waistline? (Infographic)</a>
