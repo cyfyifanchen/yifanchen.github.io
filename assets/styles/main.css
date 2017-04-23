@@ -1190,10 +1190,3 @@ pre {
   -webkit-transition: all ease-in-out 0.2s;
           transition: all ease-in-out 0.2s;
 }
-
-.link-to-author {
-  font-style: italic;
-  text-decoration: none;
-  color: lightgray;
-  font-size: 13px;
-}
