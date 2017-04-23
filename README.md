@@ -12,3 +12,13 @@ I completely forgot the dependencies of the site, had to have a friend reminding
     npm i
     npm i -g gulp-cli
 
+
+Issues when running bundler:
+
+    While executing gem ... (Errno::EPERM)
+    Operation not permitted - /usr/bin/bundle
+
+    sudo gem install bundler -n /usr/local/bin
+
+
+
