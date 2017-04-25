@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2017-04-23T19:23:51-06:00</updated>
+<updated>2017-04-25T15:28:23-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
 <entry>
@@ -79,7 +79,7 @@
 
 &lt;p&gt;始于缘分，感于相似，叹于共通，陷于彼此，终于爱情，永于幸福。&lt;/p&gt;
 
-&lt;p&gt;我愿为你，免疫障碍，无惧等待，不计路程， 执子携手，与之携老。&lt;/p&gt;
+&lt;p&gt;我愿为你，免疫障碍，无惧等待，不计路程，执子携手，与之携老。&lt;/p&gt;
 
 </content>
 <category term="thoughts" />
@@ -235,7 +235,9 @@
 <published>2017-01-16T00:00:00-07:00</published>
 <updated>2017-01-16T00:00:00-07:00</updated>
 <id>http://localhost:3000/new-york</id>
-<content type="html" xml:base="http://localhost:3000/new-york/">&lt;p&gt;&lt;img src=&quot;{{ site.url }}/assets/images/nyc.jpg&quot; style=&quot;display:block; margin: 0 auto;&quot; /&gt;&lt;/p&gt;
+<content type="html" xml:base="http://localhost:3000/new-york/">&lt;p&gt;&lt;img src=&quot;{{ site.url }}/assets/images/nyc.svg&quot; style=&quot;display:block; margin: 0 auto;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;link-to-author&quot; style=&quot;           font-style: italic;           text-decoration: none;           color: lightgray;           font-size: 13px;          &quot; href=&quot;http://www.freepik.com&quot;&gt;Illustration Designed by Freepik&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;2016年初开始写博客，原意只想写一些软件开发上面的心得。写着写着才发现写真实的想法更有趣，接着影评和感受就开始多了，也许鸡汤，可能矫情。但，对我来说，这一年的心路伴随着笔下的光阴，见证着昨天，记录着今天，期待着明天。&lt;/p&gt;
 
