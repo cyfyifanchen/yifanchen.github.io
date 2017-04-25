@@ -9,7 +9,16 @@ blog: true
 star: false
 ---
 
-<img src="{{ site.url }}/assets/images/fatandsugar.jpg" style="display:block; margin: 0 auto;" />
+<img src="{{ site.url }}/assets/images/fat.svg" style="display:block; margin: 0 auto;" />
+
+<a class="link-to-author"
+   style="
+          font-style: italic;
+          text-decoration: none;
+          color: lightgray;
+          font-size: 13px;
+         "
+href="http://www.freepik.com">Illustration Designed by Freepik</a>
 
 好博文无需开场白，裸奔到主题。
 
