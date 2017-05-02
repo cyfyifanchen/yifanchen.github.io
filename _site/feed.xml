@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2017-04-25T16:02:59-06:00</updated>
+<updated>2017-05-01T20:39:26-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
 <entry>
@@ -12,7 +12,7 @@
 <published>2017-04-11T00:00:00-06:00</published>
 <updated>2017-04-11T00:00:00-06:00</updated>
 <id>http://localhost:3000/she-says</id>
-<content type="html" xml:base="http://localhost:3000/she-says/">&lt;p&gt;&lt;img src=&quot;{{ site.url }}/assets/images/she-says.svg&quot; style=&quot;width: 700px; display:block; margin: 0 auto;&quot; /&gt;&lt;/p&gt;
+<content type="html" xml:base="http://localhost:3000/she-says/">&lt;p&gt;&lt;img src=&quot;{{ site.url }}/assets/images/she-says.jpg&quot; style=&quot;width: 700px; display:block; margin: 0 auto;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a class=&quot;link-to-author&quot; style=&quot;           font-style: italic;           text-decoration: none;           color: lightgray;           font-size: 13px;          &quot; href=&quot;http://www.freepik.com&quot;&gt;Illustration Designed by Freepik&lt;/a&gt;&lt;/p&gt;
 
