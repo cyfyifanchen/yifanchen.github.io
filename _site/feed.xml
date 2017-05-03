@@ -3,9 +3,32 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2017-05-01T20:39:26-06:00</updated>
+<updated>2017-05-03T11:20:45-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
+<entry>
+<title>勇气</title>
+<link href="http://localhost:3000/courage/" rel="alternate" type="text/html" title="勇气" />
+<published>2017-05-03T00:00:00-06:00</published>
+<updated>2017-05-03T00:00:00-06:00</updated>
+<id>http://localhost:3000/courage</id>
+<content type="html" xml:base="http://localhost:3000/courage/">&lt;p&gt;&lt;img src=&quot;{{ site.url }}/assets/images/courage.svg&quot; style=&quot;width: 700px; display:block; margin: 0 auto;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;link-to-author&quot; style=&quot;           font-style: italic;           text-decoration: none;           color: lightgray;           font-size: 13px;          &quot; href=&quot;http://www.freepik.com&quot;&gt;Illustration Designed by Freepik&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;又是一年，又是没有签证。依然嬉皮笑脸，依旧废话连篇。也许，打从开始，就后知后觉，没心没肺。&lt;/p&gt;
+
+&lt;p&gt;小时候，老师常说小强浮躁。而立之年，老强仍然浮躁。是好事，心态还在。或坏事，青春已去。&lt;/p&gt;
+
+&lt;p&gt;留学，冷暖自知。十年光阴，转瞬即逝。结果是否重要，仁者见仁。当一个抉择不在单纯的时候我，真话和实话之间仅是妥协。留或回，只剩权衡。&lt;/p&gt;
+
+&lt;p&gt;再复杂的理由，再合理的借口，与回家二字比较，也只是苍白力伐。&lt;/p&gt;
+
+&lt;p&gt;有样东西，当你一无所有的时候，你会拥有它。而当你不再一无所有的时候，你便会失去它，这就是勇气。&lt;/p&gt;
+</content>
+<category term="thoughts" />
+<summary></summary>
+</entry>
 <entry>
 <title>她说~我说</title>
 <link href="http://localhost:3000/she-says/" rel="alternate" type="text/html" title="她说~我说" />
@@ -339,118 +362,6 @@
 &lt;p&gt;&lt;em&gt;迪士尼这种擅长玩 IP 的公司，对于动画片的制作从来都是大手笔。也许我们做不出这么厉害的动画片，但是我们要看到自己的不足，如果说多年前的《宝莲灯》是个好开篇的话， 那么这些年 ，貌似我们自己的动画片又退步到了起点。迪士尼的公主很有可能翻新，意味着会有新的中国公主出现。到时，我只是不希望我们自己的公主 IP 是被别的公司做出来的。&lt;/em&gt;&lt;/p&gt;
 </content>
 <category term="Film Review" />
-<summary></summary>
-</entry>
-<entry>
-<title>健身之路</title>
-<link href="http://localhost:3000/road/" rel="alternate" type="text/html" title="健身之路" />
-<published>2016-12-29T00:00:00-07:00</published>
-<updated>2016-12-29T00:00:00-07:00</updated>
-<id>http://localhost:3000/road</id>
-<content type="html" xml:base="http://localhost:3000/road/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/fitness.jpg&quot; style=&quot;width: 500px; display: block; margin: 0 auto;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;首先，我不是营养学家也不是健身家，所以下面说得信息可能会存在不准确的地方，如果你发现，你可以指出来，我会及时改正。同时， 分享一些经验，希望可以帮助想减肥和健身的朋友, 祝福大家都可以早日达成自己的目标 ：）&lt;/p&gt;
-
-&lt;h3 id=&quot;section&quot;&gt;目标：&lt;/h3&gt;
-
-&lt;p&gt;目标一定要明确。减肥？塑型？增肌？根据需要，选出合适的方法，剩下的就是对意志力的考验。 我的目标是减体脂。对于只是想减肥的朋友，不用锻炼, 控制饮食就可以了。想变大块儿的朋友, 加倍吃，加倍练。&lt;/p&gt;
-
-&lt;h3 id=&quot;section-1&quot;&gt;食谱：&lt;/h3&gt;
-
-&lt;p&gt;关于食谱，非常非常重要，他们常说80%是饮食，20%是锻炼。所以，记住一些理论还是有必要的。&lt;/p&gt;
-
-&lt;h4 id=&quot;section-2&quot;&gt;食物的万金油理论：&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;好吃可口 = 胖&lt;/li&gt;
-  &lt;li&gt;调味酱 = 胖 （老干妈，豆瓣酱等）&lt;/li&gt;
-  &lt;li&gt;油炸 = 胖&lt;/li&gt;
-  &lt;li&gt;主食 = 胖&lt;/li&gt;
-  &lt;li&gt;零食 = 胖&lt;/li&gt;
-  &lt;li&gt;饮料 = 胖&lt;/li&gt;
-  &lt;li&gt;啤酒 = 胖&lt;/li&gt;
-  &lt;li&gt;火锅 = 胖&lt;/li&gt;
-  &lt;li&gt;下馆子 = 胖&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;section-3&quot;&gt;可以放心吃的：&lt;/h4&gt;
-
-&lt;p&gt;肉类:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;鸡肉: 瘦且有营养&lt;/li&gt;
-  &lt;li&gt;牛肉: 瘦牛肉&lt;/li&gt;
-  &lt;li&gt;猪肉: 尽量吃瘦的, 五花肉什么的，还是看看算了。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;蔬菜类：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;西蓝花&lt;/li&gt;
-  &lt;li&gt;芹菜&lt;/li&gt;
-  &lt;li&gt;胡萝卜&lt;/li&gt;
-  &lt;li&gt;青辣椒&lt;/li&gt;
-  &lt;li&gt;红辣椒&lt;/li&gt;
-  &lt;li&gt;豆角&lt;/li&gt;
-  &lt;li&gt;马铃薯，红薯，冬瓜之类带淀粉的尽量别吃&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;蛋白质：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;蛋清 （蛋清里有足够的我们需要的蛋白质，蛋黄能不吃就别吃）&lt;/li&gt;
-  &lt;li&gt;豆腐（非油炸）&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;饮料类:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;不含糖分的饮料都可以&lt;/li&gt;
-  &lt;li&gt;黑咖啡&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;绝对不能吃的：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;主食：米，面，面包，淀粉类&lt;/li&gt;
-  &lt;li&gt;零食：糖，巧克力，薯片, 所有零食最好都别碰。&lt;/li&gt;
-  &lt;li&gt;甜点：蛋糕&lt;/li&gt;
-  &lt;li&gt;各种油炸：薯条，油条&lt;/li&gt;
-  &lt;li&gt;饮料：啤酒，啤酒，啤酒&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;section-4&quot;&gt;烹饪：&lt;/h4&gt;
-
-&lt;p&gt;蒸煮最好，烧烤其次，最后再用抄。 尽量不要用油,超市有卖没有热量的油，可以随便用。盐和胡椒粉是你的好朋友。喜欢辣的可以放干辣椒，酱油也没有问题。切记，老干妈豆瓣酱之类别吃。&lt;/p&gt;
-
-&lt;h3 id=&quot;section-5&quot;&gt;锻炼：&lt;/h3&gt;
-&lt;p&gt;早上：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;20 俯卧撑 x 5 组&lt;/li&gt;
-  &lt;li&gt;50 仰卧起坐 x 4 组&lt;/li&gt;
-  &lt;li&gt;1 分钟 右侧平板支撑 Right Side Plank&lt;/li&gt;
-  &lt;li&gt;1 分钟 左侧平板支撑 Left Side Plank&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;晚上：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;20 俯卧撑 x 5 组&lt;/li&gt;
-  &lt;li&gt;30 仰卧起坐 x 2 组&lt;/li&gt;
-  &lt;li&gt;1 分钟 平板支撑 Plank x 2 组&lt;/li&gt;
-  &lt;li&gt;1 分钟 右侧平板支撑 Right Side Plank x 2 组&lt;/li&gt;
-  &lt;li&gt;1 分钟 左侧平板支撑 Left Side Plank x 2 组&lt;/li&gt;
-  &lt;li&gt;30 秒脚蹬自行车 x 2 组&lt;/li&gt;
-  &lt;li&gt;30 秒坐姿并腿抱膝 x 2 组&lt;/li&gt;
-  &lt;li&gt;30 秒仰卧两头起 x 2 组&lt;/li&gt;
-  &lt;li&gt;30 秒坐姿并脚上摆腿 x 2 组&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;最后，你如果感觉这个过程很痛苦，那么恭喜你，你的身体已经开始和你的大脑斗争了，你唯一要做的就是 - 坚持。&lt;/p&gt;
-</content>
-<category term="Health" />
-<category term="Fitness" />
 <summary></summary>
 </entry>
 </feed>
