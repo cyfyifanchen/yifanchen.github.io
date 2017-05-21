@@ -3,9 +3,39 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2017-05-03T11:20:45-06:00</updated>
+<updated>2017-05-21T13:19:36-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
+<entry>
+<title>521</title>
+<link href="http://localhost:3000/521/" rel="alternate" type="text/html" title="521" />
+<published>2017-05-21T00:00:00-06:00</published>
+<updated>2017-05-21T00:00:00-06:00</updated>
+<id>http://localhost:3000/521</id>
+<content type="html" xml:base="http://localhost:3000/521/">&lt;p&gt;&lt;img src=&quot;{{ site.url }}/assets/images/521.svg&quot; style=&quot;width: 700px; display:block; margin: 0 auto;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;link-to-author&quot; style=&quot;           font-style: italic;           text-decoration: none;           color: lightgray;           font-size: 13px;          &quot; href=&quot;http://www.freepik.com&quot;&gt;Illustration Designed by Freepik&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;我等的是你 &lt;br /&gt;
+亦或是幻想中的你 &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;你要的是我 &lt;br /&gt;
+亦或是想像中的我 &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;臆測  堆疊 &lt;br /&gt;
+靜候  噎著   遠似借著餘溫 &lt;br /&gt;
+靠近  織夢 &lt;br /&gt;
+凝視  形單   近似擁抱孤獨 &lt;br /&gt;&lt;/p&gt;
+
+&lt;p style=&quot;font-style: italic; float: right;&quot;&gt;
+- 微微 &lt;br /&gt;
+2017.05.21
+&lt;/p&gt;
+
+</content>
+<category term="thoughts" />
+<summary></summary>
+</entry>
 <entry>
 <title>勇气</title>
 <link href="http://localhost:3000/courage/" rel="alternate" type="text/html" title="勇气" />
@@ -20,9 +50,9 @@
 
 &lt;p&gt;小时候，老师常说小强浮躁。而立之年，老强仍然浮躁。是好事，心态还在。或坏事，青春已去。&lt;/p&gt;
 
-&lt;p&gt;留学，冷暖自知。十年光阴，转瞬即逝。结果是否重要，仁者见仁。当一个抉择不在单纯的时候我，真话和实话之间仅是妥协。留或回，只剩权衡。&lt;/p&gt;
+&lt;p&gt;留学，冷暖自知。十年光阴，转瞬即逝。结果是否重要，仁者见仁。当一个抉择不在单纯的时候，真话和实话之间仅是妥协。留或回，只剩权衡。&lt;/p&gt;
 
-&lt;p&gt;再复杂的理由，再合理的借口，与回家二字比较，也只是苍白力伐。&lt;/p&gt;
+&lt;p&gt;再复杂的理由，再合理的借口，与回家二字比较，也只是苍白力乏。&lt;/p&gt;
 
 &lt;p&gt;有样东西，当你一无所有的时候，你会拥有它。而当你不再一无所有的时候，你便会失去它，这就是勇气。&lt;/p&gt;
 </content>
@@ -322,44 +352,6 @@
 &lt;p&gt;&lt;em&gt;P.S.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;话说，男人还是会门乐器比较好。&lt;/em&gt;&lt;/p&gt;
-</content>
-<category term="Film Review" />
-<summary></summary>
-</entry>
-<entry>
-<title>年少还需狂《海洋奇缘》影评</title>
-<link href="http://localhost:3000/moana-review/" rel="alternate" type="text/html" title="年少还需狂《海洋奇缘》影评" />
-<published>2017-01-03T00:00:00-07:00</published>
-<updated>2017-01-03T00:00:00-07:00</updated>
-<id>http://localhost:3000/moana-review</id>
-<content type="html" xml:base="http://localhost:3000/moana-review/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/Moana.jpg&quot; style=&quot;display:block; margin:0 auto;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;既然是公主片，既然有小动物当小弟，既然有好听的音乐，既然有暖心的结局。剧情什么的，随它去吧。&lt;/p&gt;
-
-&lt;p&gt;鄙视那帮天天剧情剧情的人。卧槽, 这是公主片，看的就是大家开心，目的就是心灵上的触动 。作为孩童，看的是美好。作为成人，看的是童真。你在这儿找毛的剧情？&lt;/p&gt;
-
-&lt;p&gt;亮点台词：&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Are you going to sing? I am going to throw up.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Why am I a princess? Because you wear a dress, and you have an animal as your side-kick.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;剧情：&lt;/p&gt;
-
-&lt;p&gt;海上的游牧民族本在美丽的海岛上过着安逸的生活。可世界不太平，岛上的食物链遭到破坏，被大海选中的公主，又一次通过自己的勇敢和打不死的动物小强拯救了自己的族人。&lt;/p&gt;
-
-&lt;p&gt;个人认为比《冰雪奇缘》好看，抛开我比较喜欢夏天的原因，冒险的正能量至始至终贯穿整个影片，更给冬天的心灵送去一股暖流。巨石强森的配音即幽默又出彩，好几个面部表情明明就是强森自己（貌似强森也有岛民的血统，开朗的大块头）。这次的动物小强是个公鸡，耍得不是可爱乖巧 ，
-而是卖起的傻萌气质。迪士尼的音乐就不用多说了，从来都是精品中的精品。几首歌的歌词和旋律充满了力量，把冒险的精神和岛民积极向上的状态完美结合。最后的结局，当音乐再次响起，情绪被带动，振奋且激昂。（《权力的游戏》第7季结尾既视感)&lt;/p&gt;
-
-&lt;p&gt;最后鸡汤一句：也许，今天我们亏欠的正是那颗没能曾经为自由而飞的腐朽之心。&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;P.S.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;迪士尼这种擅长玩 IP 的公司，对于动画片的制作从来都是大手笔。也许我们做不出这么厉害的动画片，但是我们要看到自己的不足，如果说多年前的《宝莲灯》是个好开篇的话， 那么这些年 ，貌似我们自己的动画片又退步到了起点。迪士尼的公主很有可能翻新，意味着会有新的中国公主出现。到时，我只是不希望我们自己的公主 IP 是被别的公司做出来的。&lt;/em&gt;&lt;/p&gt;
 </content>
 <category term="Film Review" />
 <summary></summary>
