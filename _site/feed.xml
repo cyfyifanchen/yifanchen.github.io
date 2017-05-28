@@ -3,9 +3,37 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2017-05-21T13:19:36-06:00</updated>
+<updated>2017-05-28T15:45:36-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
+<entry>
+<title>当她把我当世界</title>
+<link href="http://localhost:3000/long-distance/" rel="alternate" type="text/html" title="当她把我当世界" />
+<published>2017-05-28T00:00:00-06:00</published>
+<updated>2017-05-28T00:00:00-06:00</updated>
+<id>http://localhost:3000/long-distance</id>
+<content type="html" xml:base="http://localhost:3000/long-distance/">&lt;p&gt;&lt;img src=&quot;{{ site.url }}/assets/images/long-distance.jpg&quot; style=&quot;width: 700px; display:block; margin: 0 auto;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;link-to-author&quot; style=&quot;           font-style: italic;           text-decoration: none;           color: lightgray;           font-size: 13px;          &quot; href=&quot;http://www.freepik.com&quot;&gt;Illustration Designed by Freepik&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;女友住在基隆，一座紧挨台北的沿海老城。她在这里长大，她常说比起新城的朝气，自己更喜欢老城的温暖。有机会的话，她一定要带我来这里，感同身受这个她从小长大的地方。&lt;/p&gt;
+
+&lt;p&gt;女友很忙，是公司高层，负责战略，同时管的事情杂七杂八，需要出面和政府打交道，晚上更需要参加企业家 EMBA，周末的安排也是满得不行。奇怪的是，她总能抽出很多时间来粘我，一心一意的和我聊天，从不干别的。&lt;/p&gt;
+
+&lt;p&gt;细想，女友付出的比我多得多， 她尽量把差事都推开，每天等着我起床，可以和我聊天。每晚睡觉之前，即使眼睛都困得睁不开了，依然嘴硬不愿意挂电话，无非是想多和我聊会儿。&lt;/p&gt;
+
+&lt;p&gt;女友常形容我后知后觉，感情的事当下感觉不到。我则打趣说，better late than never。说来有趣，我神经大条，什么都没给她的时候就大言不惭得问她当我女票，她竟然还答应了。有时，我开玩笑说她没眼光，找了一个不靠谱的家伙，不仅是异地，还异国。她总是说，对她好就行了。&lt;/p&gt;
+
+&lt;p&gt;爱，也许就应该简单到，她让我心动，我给她期待。&lt;/p&gt;
+
+&lt;p&gt;上周，我在公司参加了一个黑客马拉松的活动，24 小时没有合眼。回家之后，发视频给她，说我累了要休息。她则说自己想去骑脚踏车，说罢，便起身准备。她换好衣服，来到车库之后，嘀嘀咕咕得说需要这个和那个，接着又开始叮叮咚咚得粘东西。期间，手机不慎跌落了两次，还不小心把手给划破了。我有点不耐烦，责怪她把手弄破了， 更不理解骑车出门竟然需要这么久。她却毫不在意，继续乐此不疲得鼓捣着手里的零件，原来她是想把架子和手机固定在脚踏车上。当她把脚踏车推出车库之后，才告诉我她的目的。她说，知道我累了，为了让我放松心情，只是想在我睡觉之前，骑着脚踏车带我去看看海，心情好了，不烦躁了， 才能睡好。&lt;/p&gt;
+
+&lt;p&gt;如果有天，有人把我当世界， 我还不懂得珍惜，那么，我失去的不仅仅会是一个世界。&lt;/p&gt;
+
+</content>
+<category term="thoughts" />
+<summary></summary>
+</entry>
 <entry>
 <title>521</title>
 <link href="http://localhost:3000/521/" rel="alternate" type="text/html" title="521" />
@@ -329,31 +357,6 @@
 &lt;p&gt;&lt;em&gt;旅行，还是夏天好。&lt;/em&gt;&lt;/p&gt;
 </content>
 <category term="Cities" />
-<summary></summary>
-</entry>
-<entry>
-<title>向往之城《La La Land》影评</title>
-<link href="http://localhost:3000/lala-land-review/" rel="alternate" type="text/html" title="向往之城《La La Land》影评" />
-<published>2017-01-12T00:00:00-07:00</published>
-<updated>2017-01-12T00:00:00-07:00</updated>
-<id>http://localhost:3000/lala-land-review</id>
-<content type="html" xml:base="http://localhost:3000/lala-land-review/">&lt;p&gt;&lt;img src=&quot;{{ site.url }}/assets/images/lalaland.jpg&quot; style=&quot;display:block; margin: 0 auto;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;《La La Land》成金球奖最大赢家，独揽7项大奖。本来不想写影评的，毕竟自己水平有限，对音乐剧太门外汉，但是，照这势头，奥斯卡雄起的赶脚。我叉 ，我还是赶紧把自己的想法写出来吧。（还有很重要的一点，我灰常喜欢洛杉矶，  别问为什么，迪士尼在这里）。&lt;/p&gt;
-
-&lt;p&gt;音乐剧，处处体现着导演对 LA（洛杉矶）的热爱。码头，天文馆，棕榈树，柏油马路，烦躁的堵车和炎热的天气，这些场景构建出了独一无二的 LA。影片开始的舞曲《Another Day Of Sun》，恰到好处地说出了 LA 人的心声，天天日晒不下雨。《City Of Stars》一言多意， Seb 自己在码头上面跳唱的时候，感慨着自己的感情和事业。（我当时在想，多球有寓意的名字，不是正在说很多好莱坞明星都住在这里吗。）&lt;/p&gt;
-
-&lt;p&gt;电影看到一半的时候大概猜到了不完美的结局。但是导演对结尾的处理并不伤感，同时，也是我认为电影最精彩的一部分，通过 Seb 为 Mia 演奏的一首充满感情的钢琴曲勾勒出两人无法完成的另一个人生，恰到好处得让观众看到了不完美中的完美。&lt;/p&gt;
-
-&lt;p&gt;另外，不得不提下片中的爵士乐。低调，内敛，不张扬，细腻的曲调里夹杂着丰富的感情，非常好听。我的一个小伙伴吹萨克斯的，玩的就是爵士乐。只怪他一直找借口说没有钢琴搭配的爵士乐不好听，所以，从来不给我们演奏，貌似我现在也理解了。如果是从宣传角度来说，最有收获的是 LA 这个城市的话，爵士乐绝对紧随其后。我本不听爵士乐的人，这两天也在 Spotfiy 上面各种听，好感顿生。&lt;/p&gt;
-
-&lt;p&gt;去过洛杉矶很多次了，喜欢那里的天气，喜欢那里的氛围。丰富的美食和多元的文化让这个城市对我有着无法抗拒的吸引力。也许，真实的 LA 不如我的憧憬。但，对我来说，这份假想不仅仅代表的一种可能。而是，心灵上的寄托，情感上的归属。也许，雾里看花才最美。&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;P.S.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;话说，男人还是会门乐器比较好。&lt;/em&gt;&lt;/p&gt;
-</content>
-<category term="Film Review" />
 <summary></summary>
 </entry>
 </feed>
