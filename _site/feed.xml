@@ -3,9 +3,66 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2017-05-31T11:45:51-06:00</updated>
+<updated>2017-06-06T18:44:02-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
+<entry>
+<title>完美的爱情</title>
+<link href="http://localhost:3000/my-beauty-of-love/" rel="alternate" type="text/html" title="完美的爱情" />
+<published>2017-06-06T00:00:00-06:00</published>
+<updated>2017-06-06T00:00:00-06:00</updated>
+<id>http://localhost:3000/my-beauty-of-love</id>
+<content type="html" xml:base="http://localhost:3000/my-beauty-of-love/">&lt;p&gt;&lt;img src=&quot;{{ site.url }}/assets/images/the-beauty-of-love.jpg&quot; style=&quot;width: 700px; display:block; margin: 0 auto;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;link-to-author&quot; style=&quot;           font-style: italic;           text-decoration: none;           color: lightgray;           font-size: 13px;          &quot; href=&quot;http://www.freepik.com&quot;&gt;Illustration Designed by Freepik&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;最美好的愛情 &lt;br /&gt;
+你給的是我所期待的 &lt;br /&gt;
+而我做的總讓你覺得剛剛好 &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;我們的愛情 &lt;br /&gt;
+從一開始便注定 &lt;br /&gt;
+如平壤狂風中的小火苗 &lt;br /&gt;
+時而久旱 &lt;br /&gt;
+便騷動萬里風火燎原 &lt;br /&gt;
+時而遇水 &lt;br /&gt;
+瞬即殘弱無半點生息 &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;沒有任何參考值可以予以慰藉 &lt;br /&gt;
+雲裡霧裡總是在索求的 &lt;br /&gt;
+不過就是那點 &lt;br /&gt;
+彼此相愛的證據 &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;站在峰頂 &lt;br /&gt;
+俯視大河細川密佈蜿蜒 &lt;br /&gt;
+再困難的局面 &lt;br /&gt;
+也得以步步迎聚匯流 &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;靜臥山腳 &lt;br /&gt;
+仰望漫天散落斗斗星辰 &lt;br /&gt;
+再恬靜的等候 &lt;br /&gt;
+也顯得嬴弱亦亂無章法 &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;這一頁篇章 &lt;br /&gt;
+有著雲霧裡的朦朧開端 &lt;br /&gt;
+有著久旱遇水的炙熱愛戀 &lt;br /&gt;
+有著峰頂山尖的重重關卡 &lt;br /&gt;
+有著滿夜星空的點點等待 &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;我墊起腳尖 &lt;br /&gt;
+隨著你的舞步 &lt;br /&gt;
+期盼著 &lt;br /&gt;
+最終樂曲的前奏 &lt;br /&gt;&lt;/p&gt;
+
+&lt;p style=&quot;font-style: italic; float: right;&quot;&gt;
+- 微微 &lt;br /&gt;
+2017.06.06
+&lt;/p&gt;
+
+</content>
+<category term="thoughts" />
+<summary></summary>
+</entry>
 <entry>
 <title>一个世界</title>
 <link href="http://localhost:3000/one-world/" rel="alternate" type="text/html" title="一个世界" />
@@ -22,7 +79,7 @@
 
 &lt;p&gt;细想，女友付出的比我多得多， 她尽量把事情都做完，每早等着我起床，可以和我聊天。每晚睡觉之前，即使眼睛都困得睁不开了，依然嘴硬不愿意挂电话，无非是想多和我聊会儿。&lt;/p&gt;
 
-&lt;p&gt;女友常形容我后知后觉，感情的事当下感觉不到。我则打趣说，BBetter late than never。说来有趣，我神经大条，什么都没给她的时候就大言不惭得问她当我女票，她竟然还答应了。有时，我开玩笑说她没眼光，找了一个不靠谱的家伙，不仅是异地，还异国。她总是说，对她好就行了。&lt;/p&gt;
+&lt;p&gt;女友常形容我后知后觉，感情的事当下感觉不到。我则打趣说，Better late than never。说来有趣，我神经大条，什么都没给她的时候就大言不惭得问她当我女票，她竟然还答应了。有时，我开玩笑说她没眼光，找了一个不靠谱的家伙，不仅是异地，还异国。她总是说，对她好就行了。&lt;/p&gt;
 
 &lt;p&gt;爱，也许就应该简单到，她让我心动，我给她期待。&lt;/p&gt;
 
@@ -309,53 +366,6 @@
 </content>
 <category term="Fitness" />
 <category term="Health" />
-<summary></summary>
-</entry>
-<entry>
-<title>印象城市 - 纽约</title>
-<link href="http://localhost:3000/new-york/" rel="alternate" type="text/html" title="印象城市 - 纽约" />
-<published>2017-01-16T00:00:00-07:00</published>
-<updated>2017-01-16T00:00:00-07:00</updated>
-<id>http://localhost:3000/new-york</id>
-<content type="html" xml:base="http://localhost:3000/new-york/">&lt;p&gt;&lt;img src=&quot;{{ site.url }}/assets/images/nyc.svg&quot; style=&quot;display:block; margin: 0 auto;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&quot;link-to-author&quot; style=&quot;           font-style: italic;           text-decoration: none;           color: lightgray;           font-size: 13px;          &quot; href=&quot;http://www.freepik.com&quot;&gt;Illustration Designed by Freepik&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;2016年初开始写博客，原意只想写一些软件开发上面的心得。写着写着才发现写真实的想法更有趣，接着影评和感受就开始多了，也许鸡汤，可能矫情。但，对我来说，这一年的心路伴随着笔下的光阴，见证着昨天，记录着今天，期待着明天。&lt;/p&gt;
-
-&lt;p&gt;就在几天前，小伙伴的儿子刚刚来到这个世界。照片里的小家伙，眼睛细长，头发茂密，安详得躺在妈妈怀里，俨然一副睡醒就要征战世界的样子，和我朋友儿时一样的臭屁。小家伙，健康的成长吧，美好的童年正在等你。&lt;/p&gt;
-
-&lt;p&gt;切入主题，如果说写影评是个机会可以从新梳理思路以自己的角度理解电影的话。那么这个《印象城市》系列 （这名字好像不是我原创 ，总之脑海里就浮现出来了），就作为旅途中，记录着自己对未知世界的认知吧。&lt;/p&gt;
-
-&lt;p&gt;纽约，一个伟大的城市。这个坐落在美国东海岸的港口之城，不仅仅代表了美国的繁荣，更能从中看出世界的兴衰，其富饶的行行业业和形形色色印证着这个国家的虽短却宽的年轮。华尔街的尔虞我诈，第五大道的名利斗争，中央公园美如画的春夏秋冬，还有那屹立不倒的自由女神像，美国永恒精神的体现。（我叉，写不下去了，这段太官方）。&lt;/p&gt;
-
-&lt;h2 id=&quot;section&quot;&gt;人文&lt;/h2&gt;
-
-&lt;p&gt;有幸认识了在纽约住了很久的朋友。被他们款待之余，也从他们身上看到了都市年轻人典型的生活方式 - Work Hard Play Hard。&lt;/p&gt;
-
-&lt;p&gt;年轻人工作日压力大，只能全身心地努力工作。下班后的时间是个盼头，大家都会尽情放松，激情娱乐，好吃好玩的一应俱全。这个年轻人的战场，在夜晚，淋漓尽致地扮演着其配角角色 - 不夜之城。在不休息的情况下，提供各种娱乐的场所和美味可口的饭菜，让年轻人在这快节奏的生活里尽情地调节，补充。&lt;/p&gt;
-
-&lt;h2 id=&quot;section-1&quot;&gt;美食&lt;/h2&gt;
-
-&lt;p&gt;法拉盛，一个聚集了所有中华美食的地方，八大菜系，无所不有，包罗万象。洛杉矶的美食遍布各地，交通极为不便。一天如果想吃两个餐馆，需要开车折腾，不计划好的话，大部分时间会浪费在车上。相反，纽约的法拉盛，把所有的美食都汇集到一起，来去方便，即便是去曼哈顿，把车停在法拉盛再乘地铁也是明智的做法。&lt;/p&gt;
-
-&lt;p&gt;如果说我没去纽约之前，对法拉盛有偏见的话，想法现在改变了。法拉盛是个很棒的地方，各式各样打扮时尚年轻人，交谈着自己感兴趣的话。饭店的老板都是同龄人，服务热情，满满的归属感。&lt;/p&gt;
-
-&lt;h2 id=&quot;section-2&quot;&gt;景点&lt;/h2&gt;
-
-&lt;p&gt;很遗憾，由于天气和时间的原因，没能到中央公园散散步，也没能到自由女神面前抬抬头。但是，很接地气得逛了逛时代广场，挤了挤曼哈顿的地铁，顺便在 Bryant Prak 啃了啃煎饼，足矣。&lt;/p&gt;
-
-&lt;p&gt;夜晚的曼哈顿，灯火辉煌，熙熙攘攘。路边烧烤油炸升起的炊烟，夹杂着烤热狗的焦香 ，混杂着炸坚果的甜香，在零下的气温中徐徐上升。热气后面的广告牌，云里雾里。街边各色各样的卖艺人，渲染出每个过路人的好奇心。时而想起的警笛声和流动在空气中的广告声给这个本该真实的场景涂上了艺术的一笔。&lt;/p&gt;
-
-&lt;h2 id=&quot;section-3&quot;&gt;未末&lt;/h2&gt;
-
-&lt;p&gt;纽约，一个迷人的城市，碍于时间的原因我没能够充分了解你，也正因为如此，那未揭面纱后面的真容更吸引着我的下次到访。&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;P.S.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;旅行，还是夏天好。&lt;/em&gt;&lt;/p&gt;
-</content>
-<category term="Cities" />
 <summary></summary>
 </entry>
 </feed>
