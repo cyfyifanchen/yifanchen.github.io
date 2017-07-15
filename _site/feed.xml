@@ -3,9 +3,40 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2017-07-11T18:38:34-06:00</updated>
+<updated>2017-07-15T14:41:44-06:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
+<entry>
+<title>第 100 天</title>
+<link href="http://localhost:3000/100-days/" rel="alternate" type="text/html" title="第 100 天" />
+<published>2017-07-14T00:00:00-06:00</published>
+<updated>2017-07-14T00:00:00-06:00</updated>
+<id>http://localhost:3000/100-days</id>
+<content type="html" xml:base="http://localhost:3000/100-days/">&lt;p&gt;&lt;img src=&quot;{{ site.url }}/assets/images/100days.svg&quot; style=&quot;width: 700px; display:block; margin: 0 auto;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;link-to-author&quot; style=&quot;           font-style: italic;           text-decoration: none;           color: lightgray;           font-size: 13px;          &quot; href=&quot;http://www.freepik.com&quot;&gt;Illustration Designed by Freepik&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;今年的早些时候，和朋友去了月老庙，祈求祝福。&lt;/p&gt;
+
+&lt;p&gt;次月，闺蜜便介绍她老公的哥们，一个水瓶男，给我认识。基于对水瓶本身的了解 ，再加之闺蜜介绍，近四年没有感情进展的我决定给自己一个机会，去认真得了解他。&lt;/p&gt;
+
+&lt;p&gt;这家伙是一个典型的水瓶男，废话多，爱耍宝，满嘴跑火车。总是给自己挖坑，奋不顾身跳进去，再使尽解数爬出来。我笑他不喜欢天下太平，他却不以为然，乐此不疲。不管我说多少次，这家伙总是在和我讲话的时候分心，自由不受拘束到不靠谱。不仅这样，他还有个热心肠，分不清轻重，无关紧要的忙，也要帮，通常折腾得自己很累，还把我搞得既生气又无奈。甚至在我们一起一个月的时候，还夸张到跑出去和别的女生吃饭。&lt;/p&gt;
+
+&lt;p&gt;水瓶男，说好听点是天马行空，难听点就是个不折不扣的神经病，永远想不到他下一步要干什么。&lt;/p&gt;
+
+&lt;p&gt;大概两周前的一天，他照常在下班时间叫我起床。可是还刚没有讲上两句话，他又开始分心和他的好基友聊天，我当时就感觉被冷落，要求他多陪我一会儿。还好，他态度好，道歉后就认真了一会儿。可没过多久，他又开始敷衍，问他干什么，他说在健身。我当下无语，怨他不专心，他就找各种借口… 最后通话还是以不开心收场。 我到了公司之后，就忙于各种会议，好不容易抽空坐下来，桌上还有一些资料要审核，想起早上的事情，总觉得这家伙是习惯性三心二意，一点儿也不靠谱。这时，他发视讯过来，我以为他要道歉，便点开了视讯。奇怪的是，他拿着个自拍杆，坐在车子的后备箱上，戴个棒球帽对着镜头笑得若无其事。看来他大晚上跑出去了，我正准备念他在干什么，突然听见背景音乐在放《烟火的季节》，然后他就问我想不想看烟火， 我还没反应过来，他便拿着长火机点燃了地上的烟火。在熟悉的歌曲中，烟花一束一束飞向夜空，绚烂地绽放，五颜六色，色彩斑斓，照亮了屏幕中的我。我想，这就是他吧，先搞点事情出来，再搞点浪漫出来。&lt;/p&gt;
+
+&lt;p&gt;上个月，我在日本新宿出差的时候和老板在工作上出现分歧。大晚上跑到星巴克买了杯摩卡，打了电话给水瓶男，他就在电话上一直搞笑，讲那些有的没的。我嘴上不笑，但心里很甜，明知这家伙又再跑火车，但也宁愿相信他。听着听着，心情确实好了不少。第二天一大早，前台就通知我说有礼物，酒店怎么可能有礼物？我到前台发现是玫瑰花，有水瓶男的署名。原来，这家伙根据我在新宿星巴克的位置判断出我入住的酒店，打电话在当地买了花送给我，希望我心情好起来。&lt;/p&gt;
+
+&lt;p&gt;其实，当我在月老庙的时候，幸福就在走进，而我们要做的便是，抓牢它。&lt;/p&gt;
+&lt;p style=&quot;font-style: italic; float: right;&quot;&gt;
+- 以微之名 &lt;br /&gt;
+写在第 100 天
+&lt;/p&gt;
+</content>
+<category term="weiwei" />
+<summary></summary>
+</entry>
 <entry>
 <title>刚刚好</title>
 <link href="http://localhost:3000/just-enough/" rel="alternate" type="text/html" title="刚刚好" />
@@ -319,26 +350,6 @@
 &lt;p&gt;&lt;em&gt;P.S&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;剧中有个中国演员，争议很大。我想说，一个人有今天的成就，无论是机遇，运气，背景，或者是不会被注意到的努力，我们只看到了表面。恶意的谩骂和无尽的诋毁，意义一点不大。如果趣味低级，把快乐建立在恶意攻击别人的基础上，我相信这样的人生永远也不会快乐起来。&lt;/em&gt;&lt;/p&gt;
-</content>
-<category term="Film Review" />
-<summary></summary>
-</entry>
-<entry>
-<title>小鹿撞城堡《美女与野兽》影评</title>
-<link href="http://localhost:3000/beauty-and-the-beast-review/" rel="alternate" type="text/html" title="小鹿撞城堡《美女与野兽》影评" />
-<published>2017-03-21T00:00:00-06:00</published>
-<updated>2017-03-21T00:00:00-06:00</updated>
-<id>http://localhost:3000/beauty-and-the-beast-review</id>
-<content type="html" xml:base="http://localhost:3000/beauty-and-the-beast-review/">&lt;p&gt;&lt;img src=&quot;{{ site.url }}/assets/images/beauty-and-the-beast.jpg&quot; style=&quot;display:block; margin: 0 auto;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;《美女与野兽》一直是公主片里面 IP 经营最好的，没有之一。迪士尼必然不会怠慢真人版，光是选角的两个人，从颜值，学历，品德来看都没有任何争议。本是一个在美国创作的童话，但是由于故事是以法国为背景，大不列颠演员身上的文化底蕴可以得到充分发挥。如果说前几年，迪士尼动画片在皮克斯和梦工厂的围剿下四面楚歌的话，这两年的片子明显又回到了原来的感觉 - 我是公主片大佬，你服不服？&lt;/p&gt;
-
-&lt;p&gt;经典的故事，唯美的画面，动听的配乐，浪漫的场景，符合任何一个人对爱情的憧憬和幻想。叙事流畅，舞美细腻，细节完美，当用现代的技术把经典再次呈现的时候，最好的致敬就是还原。整片的还原度非常高，很多细节有过之而无不及。餐具招待贝儿吃饭的歌舞，美轮美奂，美倒美利坚。保护城堡的打斗的群架让人目不暇接。唯一美中不足的就是全片的高潮，那段羡煞旁人的舞蹈，为什么没有美到要报警，结束得有点仓促，让人意犹未尽。我只希望时间再多一点，灯光再明一点，裙子再飘一点，眼神再骚一点。&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;P.S.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;它有故事，它有学识，它有品位。它绅士，它幽默，它跳舞，它看莎士比亚。它嗓音浑厚，口音英伦，高大威猛。当它单手把你托进它广域胸怀的时候，你的小鹿是否已经撞晕？清醒一下，环顾四周，小鹿在乱撞的不是墙，而是一整座华丽的城堡。&lt;/em&gt;&lt;/p&gt;
-
 </content>
 <category term="Film Review" />
 <summary></summary>
