@@ -27,8 +27,8 @@ href="http://www.freepik.com">Illustration Designed by Freepik</a>
 
 思考，why。<br />
 
-是她的生日。<br />
+因为是她的生日。<br />
 
 而同一天，是他的快乐日，非常非常快乐。<br />
 
-爱情就是给她过生日幸福过给他过生日。<br />
+爱情就是她的生日幸福过他的生日。<br />
