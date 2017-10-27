@@ -27,8 +27,8 @@ href="http://www.freepik.com">Illustration Designed by Freepik</a>
 
 思考，why。<br />
 
-是女孩的生日。<br />
+是她的生日。<br />
 
-而同一天，是男孩的快乐日，非常非常快乐。<br />
+而同一天，是他的快乐日，非常非常快乐。<br />
 
-爱情就是给她过生日，比给自己过生日幸福。<br />
+爱情就是给她过生日幸福过给他过生日。<br />
