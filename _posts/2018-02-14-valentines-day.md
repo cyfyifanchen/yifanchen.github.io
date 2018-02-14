@@ -8,7 +8,7 @@ blog: true
 star: false
 ---
 
-<img src="{{ site.url }}/assets/images/valentines-day.jpg" style="width: 700px; display:block; margin: 0 auto;" />
+<img src="{{ site.url }}/assets/images/214.jpg" style="width: 700px; display:block; margin: 0 auto;" />
 
 <a class="link-to-author"
    style="
