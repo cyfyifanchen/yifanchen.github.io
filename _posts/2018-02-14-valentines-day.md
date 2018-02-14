@@ -8,7 +8,7 @@ blog: true
 star: false
 ---
 
-<img src="{{ site.url }}/assets/images/valentines-day.png" style="width: 700px; display:block; margin: 0 auto;" />
+<img src="https://www.cyfyifanchen.com/assets/images/valentines-day.png" style="width: 700px; display:block; margin: 0 auto;" />
 
 <a class="link-to-author"
    style="
