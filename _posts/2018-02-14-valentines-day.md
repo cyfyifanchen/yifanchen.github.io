@@ -23,7 +23,7 @@ href="http://www.freepik.com">Illustration Designed by Freepik</a>
 
 去年的这个时候，我单身，憧憬来年脱单。
 
-今年的这个时候，我脱单，怀念去年单身。（这话只能心里搁着，被我女友知道，她闹死我）。
+今年的这个时候，我脱单，怀念去年单身。
 
 明年的这个时候，我…，留点悬念。
 
@@ -38,3 +38,4 @@ href="http://www.freepik.com">Illustration Designed by Freepik</a>
 明年的这个时候，我回顾十年之前，我守候十年之后，只因有你。
 
 最后，愿你情人节快乐。
+
