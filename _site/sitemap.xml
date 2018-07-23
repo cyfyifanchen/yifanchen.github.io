@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:3000/the-hero/</loc>
+<lastmod>2018-06-20T00:00:00+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:3000/the-365th-day/</loc>
+<lastmod>2018-04-05T00:00:00+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:3000/valentines-day/</loc>
+<lastmod>2018-02-14T00:00:00+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:3000/merry-christmas/</loc>
+<lastmod>2017-12-25T00:00:00+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:3000/her-birthday/</loc>
+<lastmod>2017-10-27T00:00:00+08:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:3000/one-person-one-primose-one-purpose/</loc>
 <lastmod>2017-10-03T00:00:00+08:00</lastmod>
 </url>
