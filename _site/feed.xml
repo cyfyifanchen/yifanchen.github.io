@@ -3,47 +3,69 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2018-07-10T15:05:44+08:00</updated>
+<updated>2018-10-09T15:34:40+08:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
 <entry>
-<title>The Hero</title>
-<link href="http://localhost:3000/the-hero/" rel="alternate" type="text/html" title="The Hero" />
-<published>2018-06-20T00:00:00+08:00</published>
-<updated>2018-06-20T00:00:00+08:00</updated>
-<id>http://localhost:3000/the-hero</id>
-<content type="html" xml:base="http://localhost:3000/the-hero/">&lt;p&gt;&lt;img src=&quot;https://www.cyfyifanchen.com/assets/images/the-hero.jpg&quot; style=&quot;width: 700px; display:block; margin: 0 auto;&quot; /&gt;&lt;/p&gt;
+<title>一座古城，一对新人，一言承诺，一生鉴定</title>
+<link href="http://localhost:3000/chiang-mai/" rel="alternate" type="text/html" title="一座古城，一对新人，一言承诺，一生鉴定" />
+<published>2018-10-02T00:00:00+08:00</published>
+<updated>2018-10-02T00:00:00+08:00</updated>
+<id>http://localhost:3000/chiang-mai</id>
+<content type="html" xml:base="http://localhost:3000/chiang-mai/">&lt;style&gt;
+ul li {line-height: unset;}
+ &lt;/style&gt;
 
-&lt;p&gt;&lt;a class=&quot;link-to-author&quot; style=&quot;           font-style: italic;           text-decoration: none;           color: lightgray;           font-size: 13px;          &quot; href=&quot;http://www.freepik.com&quot;&gt;Illustration Designed by Yifan Chen &amp;amp; Freepik&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;flexslider&quot;&gt;
+  &lt;ul class=&quot;slides&quot;&gt;
+    &lt;li&gt;
+      &lt;img src=&quot;/assets/images/sliders/chiangmai/1.jpg&quot; /&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;img src=&quot;/assets/images/sliders/chiangmai/2.jpg&quot; /&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;img src=&quot;/assets/images/sliders/chiangmai/3.jpg&quot; /&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;img src=&quot;/assets/images/sliders/chiangmai/4.jpg&quot; /&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;img src=&quot;/assets/images/sliders/chiangmai/5.jpg&quot; /&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;img src=&quot;/assets/images/sliders/chiangmai/6.jpg&quot; /&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;img src=&quot;/assets/images/sliders/chiangmai/7.jpg&quot; /&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;img src=&quot;/assets/images/sliders/chiangmai/8.jpg&quot; /&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
 
-&lt;p&gt;因为成长《前任3》影评&lt;/p&gt;
+&lt;p&gt;女友的好友结婚，我们送给新人的礼物是一次旅行，地点是清迈。在这个历史悠久的古城中，文化吸引着世界各地的游人，随处可见的寺庙，虔诚朝拜的僧人，各式各样的水果，无处不在的动物，玲琅满目的木制工艺，仿佛一切都能原始归真，生机无限。在这个会微笑的城市中，言语满载祝福，气氛不紧不慢，环境舒适自然，故事从新出发，旅途从心开始。&lt;/p&gt;
 
-&lt;p&gt;周末的时候，陪女友看了《前任3》，爱情中的忍让，心酸和无奈&lt;/p&gt;
+&lt;p&gt;关键词：微笑&lt;/p&gt;
 
-&lt;p&gt;也许，正因为这样，两个人当初才走到了一起。
-也许，正因为这个，两个人注定要分开。&lt;/p&gt;
+&lt;p&gt;当一个人对你微笑的时候，很简单。但如果每个人，无论职业，性别和年龄，都能对你微笑的时候，这便是习俗。一次计程车出行，坐在后排的我，仔细地打量着这个城市，当车子在一个交通灯前停下时，从后赶来一对骑电动车的父女，小姑娘看上去 10 来岁的样子，梳了个高高的马尾，正紧紧地抱着父亲。正当我为电动车的安全，陷入沉思的时候，小姑娘扭头看到了搭车的我，随之给了我一个暖人的微笑。我先是惊讶，便立马惭愧起来，我想，作为一个成年人的我，经历远多于一个的孩童，真诚上，却远输一个孩童。&lt;/p&gt;
 
-&lt;p&gt;对我来说，这不是一个悲剧，而是一个喜剧。&lt;/p&gt;
+&lt;p&gt;关键词：动物&lt;/p&gt;
 
-&lt;p&gt;在爱情中，勇敢的那一方是可爱的。&lt;/p&gt;
+&lt;p&gt;我喜欢动物，也曾打卡不少动物园。清迈的夜间动物园绝对是非一般的体验，大猫们不仅没有在睡觉，还摆好 Pose 给你看。鹿们，牛们和猪们都和商量好了一样直接到身边蹭吃蹭喝。物种也是多，除了企鹅，北极熊等极地气候的动物，其他都基本在这里了。 这里还有我最喜欢的猎豹，它们不仅身材苗条，线条优美，还能一拳 KO。&lt;/p&gt;
 
-&lt;p&gt;对啊，这就是成长，&lt;/p&gt;
+&lt;p&gt;关键词：夜市&lt;/p&gt;
 
-&lt;p&gt;所以体会不到孟云和林家&lt;/p&gt;
+&lt;p&gt;夜市文化在清迈很重要，从每天的小夜市到周末包罗万象的大夜市，只有想不到，没有看不到。清迈夜市很繁忙，人挤人，但环境却出奇的好，整个夜市看不到清洁工和公共垃圾桶，地上却没有烟头和口水。如果我们自诩大国，以经济为傲的话，我希望有一天我们也可以以爱护环境为傲。&lt;/p&gt;
 
-&lt;p&gt;女友说他很喜欢这部电影，&lt;/p&gt;
+&lt;p&gt;清迈，一座古城，相比于繁华的都市，她清新自然，她满载微笑。一句萨瓦迪卡，带来的不仅是问候礼节，更是都市生活中日渐稀少的人情味。&lt;/p&gt;
 
-&lt;p&gt;昨天，陪女友看了《前任》&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;P.S&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;然后，她打电话过来说，给她点时间，她不会再管我了。&lt;/p&gt;
-
-&lt;p&gt;对啊，谁没有前任，谁被伤害，谁去伤害，缅怀前任，珍惜现任。感谢&lt;/p&gt;
-
-&lt;p&gt;对啊，没有前任，没有伤害，又哪来的成长？&lt;/p&gt;
-
-&lt;p&gt;很多年前，有人告诉我，几乎所有的人都认为&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;祝福新人，白头到老，吵吵更健康&lt;/em&gt;&lt;/p&gt;
 </content>
-<category term="weiwei" />
+<category term="cities" />
 <summary></summary>
 </entry>
 <entry>

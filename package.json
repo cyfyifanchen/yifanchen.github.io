@@ -28,5 +28,8 @@
   "scripts": {
     "build": "bundle exec jekyll build",
     "test": "bundle exec htmlproof ./_site"
+  },
+  "dependencies": {
+    "flexslider": "^2.7.1"
   }
 }
