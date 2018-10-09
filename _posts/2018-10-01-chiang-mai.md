@@ -9,7 +9,7 @@ star: false
 ---
 <style>
 ul li {line-height: unset;}
- </style>
+</style>
 
 <div class="flexslider">
   <ul class="slides">
@@ -58,4 +58,4 @@ ul li {line-height: unset;}
 
 *P.S*
 
-*祝福新人，白头到老，吵吵更健康*
+*祝福新人，白头到老，吵吵更健康~*
