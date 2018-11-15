@@ -9,38 +9,49 @@ star: false
 ---
 <style>
 ul li {line-height: unset;}
+.img-wrapper {
+  width: 130%;
+  margin-left: -15%;
+}
+.fl {
+  float: left;
+  font-size: 50px;
+  line-height: 50px;
+  padding-top: 0;
+  padding-right: 8px;
+  padding-left: 3px;
+}
 </style>
 
-<div class="flexslider">
-  <ul class="slides">
-    <li>
-      <img src="/assets/images/sliders/chiangmai/1.jpg" />
-    </li>
-    <li>
-      <img src="/assets/images/sliders/chiangmai/2.jpg" />
-    </li>
-    <li>
-      <img src="/assets/images/sliders/chiangmai/3.jpg" />
-    </li>
-    <li>
-      <img src="/assets/images/sliders/chiangmai/4.jpg" />
-    </li>
-    <li>
-      <img src="/assets/images/sliders/chiangmai/5.jpg" />
-    </li>
-    <li>
-      <img src="/assets/images/sliders/chiangmai/6.jpg" />
-    </li>
-    <li>
-      <img src="/assets/images/sliders/chiangmai/7.jpg" />
-    </li>
-    <li>
-      <img src="/assets/images/sliders/chiangmai/8.jpg" />
-    </li>
-  </ul>
+<div class="img-wrapper">
+   <div class="flexslider">
+     <ul class="slides">
+       <li>
+         <img src="/assets/images/sliders/chiangmai/1.jpg" />
+       </li>
+       <li>
+         <img src="/assets/images/sliders/chiangmai/2.jpg" />
+       </li>
+       <li>
+         <img src="/assets/images/sliders/chiangmai/3.jpg" />
+       </li>
+       <li>
+         <img src="/assets/images/sliders/chiangmai/4.jpg" />
+       </li>
+       <li>
+         <img src="/assets/images/sliders/chiangmai/5.jpg" />
+       </li>
+       <li>
+         <img src="/assets/images/sliders/chiangmai/6.jpg" />
+       </li>
+       <li>
+         <img src="/assets/images/sliders/chiangmai/7.jpg" />
+       </li>
+     </ul>
+   </div>
 </div>
 
-女友的好友结婚，我们送给新人的礼物是一次旅行，地点是清迈。在这个历史悠久的古城中，文化吸引着世界各地的游人，随处可见的寺庙，虔诚朝拜的僧人，各式各样的水果，无处不在的动物，玲琅满目的木制工艺，仿佛一切都能原始归真，生机无限。在这个会微笑的城市中，言语满载祝福，气氛不紧不慢，环境舒适自然，故事从新出发，旅途从心开始。
+<span class="fl">女</span>友的好友结婚，我们送给新人的礼物是一次旅行，地点是清迈。在这个历史悠久的古城中，文化吸引着世界各地的游人，随处可见的寺庙，虔诚朝拜的僧人，各式各样的水果，无处不在的动物，玲琅满目的木制工艺，仿佛一切都能原始归真，生机无限。在这个会微笑的城市中，言语满载祝福，气氛不紧不慢，环境舒适自然，故事从新出发，旅途从心开始。
 
 关键词：微笑
 

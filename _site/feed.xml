@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2018-10-09T15:34:40+08:00</updated>
+<updated>2018-11-15T23:40:24+08:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
 <entry>
@@ -14,38 +14,49 @@
 <id>http://localhost:3000/chiang-mai</id>
 <content type="html" xml:base="http://localhost:3000/chiang-mai/">&lt;style&gt;
 ul li {line-height: unset;}
- &lt;/style&gt;
+.img-wrapper {
+  width: 130%;
+  margin-left: -15%;
+}
+.fl {
+  float: left;
+  font-size: 50px;
+  line-height: 50px;
+  padding-top: 0;
+  padding-right: 8px;
+  padding-left: 3px;
+}
+&lt;/style&gt;
 
-&lt;div class=&quot;flexslider&quot;&gt;
-  &lt;ul class=&quot;slides&quot;&gt;
-    &lt;li&gt;
-      &lt;img src=&quot;/assets/images/sliders/chiangmai/1.jpg&quot; /&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
-      &lt;img src=&quot;/assets/images/sliders/chiangmai/2.jpg&quot; /&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
-      &lt;img src=&quot;/assets/images/sliders/chiangmai/3.jpg&quot; /&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
-      &lt;img src=&quot;/assets/images/sliders/chiangmai/4.jpg&quot; /&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
-      &lt;img src=&quot;/assets/images/sliders/chiangmai/5.jpg&quot; /&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
-      &lt;img src=&quot;/assets/images/sliders/chiangmai/6.jpg&quot; /&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
-      &lt;img src=&quot;/assets/images/sliders/chiangmai/7.jpg&quot; /&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
-      &lt;img src=&quot;/assets/images/sliders/chiangmai/8.jpg&quot; /&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
+&lt;div class=&quot;img-wrapper&quot;&gt;
+   &lt;div class=&quot;flexslider&quot;&gt;
+     &lt;ul class=&quot;slides&quot;&gt;
+       &lt;li&gt;
+         &lt;img src=&quot;/assets/images/sliders/chiangmai/1.jpg&quot; /&gt;
+       &lt;/li&gt;
+       &lt;li&gt;
+         &lt;img src=&quot;/assets/images/sliders/chiangmai/2.jpg&quot; /&gt;
+       &lt;/li&gt;
+       &lt;li&gt;
+         &lt;img src=&quot;/assets/images/sliders/chiangmai/3.jpg&quot; /&gt;
+       &lt;/li&gt;
+       &lt;li&gt;
+         &lt;img src=&quot;/assets/images/sliders/chiangmai/4.jpg&quot; /&gt;
+       &lt;/li&gt;
+       &lt;li&gt;
+         &lt;img src=&quot;/assets/images/sliders/chiangmai/5.jpg&quot; /&gt;
+       &lt;/li&gt;
+       &lt;li&gt;
+         &lt;img src=&quot;/assets/images/sliders/chiangmai/6.jpg&quot; /&gt;
+       &lt;/li&gt;
+       &lt;li&gt;
+         &lt;img src=&quot;/assets/images/sliders/chiangmai/7.jpg&quot; /&gt;
+       &lt;/li&gt;
+     &lt;/ul&gt;
+   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p&gt;女友的好友结婚，我们送给新人的礼物是一次旅行，地点是清迈。在这个历史悠久的古城中，文化吸引着世界各地的游人，随处可见的寺庙，虔诚朝拜的僧人，各式各样的水果，无处不在的动物，玲琅满目的木制工艺，仿佛一切都能原始归真，生机无限。在这个会微笑的城市中，言语满载祝福，气氛不紧不慢，环境舒适自然，故事从新出发，旅途从心开始。&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;女&lt;/span&gt;友的好友结婚，我们送给新人的礼物是一次旅行，地点是清迈。在这个历史悠久的古城中，文化吸引着世界各地的游人，随处可见的寺庙，虔诚朝拜的僧人，各式各样的水果，无处不在的动物，玲琅满目的木制工艺，仿佛一切都能原始归真，生机无限。在这个会微笑的城市中，言语满载祝福，气氛不紧不慢，环境舒适自然，故事从新出发，旅途从心开始。&lt;/p&gt;
 
 &lt;p&gt;关键词：微笑&lt;/p&gt;
 
@@ -63,7 +74,7 @@ ul li {line-height: unset;}
 
 &lt;p&gt;&lt;em&gt;P.S&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;祝福新人，白头到老，吵吵更健康&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;祝福新人，白头到老，吵吵更健康~&lt;/em&gt;&lt;/p&gt;
 </content>
 <category term="cities" />
 <summary></summary>
