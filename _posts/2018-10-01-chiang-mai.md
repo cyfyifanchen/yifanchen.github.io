@@ -10,8 +10,8 @@ star: false
 <style>
 ul li {line-height: unset;}
 .img-wrapper {
-  width: 130%;
-  margin-left: -15%;
+  width: 112%;
+  margin-left: -6%;
 }
 .fl {
   float: left;

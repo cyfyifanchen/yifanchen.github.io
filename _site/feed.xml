@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2018-11-15T23:40:24+08:00</updated>
+<updated>2018-11-19T21:06:38+08:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
 <entry>
@@ -15,8 +15,9 @@
 <content type="html" xml:base="http://localhost:3000/chiang-mai/">&lt;style&gt;
 ul li {line-height: unset;}
 .img-wrapper {
-  width: 130%;
-  margin-left: -15%;
+  width: 112%;
+  position: relateive;
+  margin-left: -6%;
 }
 .fl {
   float: left;
