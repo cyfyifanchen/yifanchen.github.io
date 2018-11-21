@@ -3,9 +3,68 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2018-11-19T21:06:38+08:00</updated>
+<updated>2018-11-22T03:13:34+08:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
+<entry>
+<title>Greatest Couple</title>
+<link href="http://localhost:3000/greatest-couple/" rel="alternate" type="text/html" title="Greatest Couple" />
+<published>2018-11-22T00:00:00+08:00</published>
+<updated>2018-11-22T00:00:00+08:00</updated>
+<id>http://localhost:3000/greatest-couple</id>
+<content type="html" xml:base="http://localhost:3000/greatest-couple/">&lt;style&gt;
+ul li {line-height: unset;}
+
+.img-wrapper {
+  width: 112%;
+  margin-left: -6%;
+}
+ 
+.fl {
+  float: left;
+  font-size: 50px;
+  line-height: 50px;
+  padding-top: 0;
+  padding-right: 8px;
+  padding-left: 3px;
+}
+&lt;/style&gt;
+
+&lt;div class=&quot;img-wrapper&quot;&gt;
+
+&lt;img src=&quot;https://www.cyfyifanchen.com/assets/images/follow-heart.gif&quot; /&gt;
+
+&lt;a class=&quot;link-to-author&quot; style=&quot;
+          font-style: italic;
+          text-decoration: none;
+          color: lightgray;
+          font-size: 13px;
+          display: block;
+          margin-top: 10px;
+         &quot; href=&quot;https://dribbble.com/UIcousin&quot;&gt;Illustration by Qinjian on Dribbble&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;audio style=&quot;display: block; margin: 30px auto; width: 90%;&quot; src=&quot;https://www.cyfyifanchen.com/assets/audio/follow-heart.mp3&quot; controls=&quot;controls&quot;&gt;&lt;/audio&gt;
+
+&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;在&lt;/span&gt;在美国生活的时候，喜欢看「老友记」，经典的桥段，诙谐的对话，鲜明的性格，温馨的情感。欣赏剧中每个人的乐观精神，羡慕他们对生活的态度，嫉妒他们每次争执过后友谊的升华，最最喜欢 Monica 和 Chandler 这对 Couple，小吵小闹， 欢喜冤家，希望自己也能早日找到 「Moncia」，知心朋友，亲密爱人，当一回 Greatest Couple.&lt;/p&gt;
+
+&lt;p&gt;美国是个无聊的地方，如果说上学的时候还有学校这个社交圈的话，那么毕业工作后，上班党的社交圈就小得可怜了。似乎生活，除了公司就是家，因为无事可做，不得不去健身房撸铁，撸多伤身，哥们看不下去了，把自己老婆的闺蜜牵线给我，陌生的人，熟悉的心，爱情的种子不但发芽，并且蹭蹭蹭。我们两个都长期在国外生活，三观相符，兴趣相近，很快便成为知心朋友，亲密爱人。对于异国问题，一贯现实的自己，不知从何时开始理想主义，并迅速实践，果断决定，为了爱情，放弃美国的一切。&lt;/p&gt;
+
+&lt;p&gt;回国后，女友和我依然面对异地的挑战，还好相比于异国的 15 个小时，现在的 1.5 个小时已经令我们很知足了。我们约好，我飞台北一次，她来上海一次，不想飞的时候，就约定在第三城市见面，顺便旅游。也不知道上辈子拯救了哪个村儿，和女友这样的旅游大咖出行，一个字，爽。住什么样的饭店，吃什么样的食物，赏什么样的风光都会被她打理得井井有条，而我只需要尽情享受。平时，我们每天视频，或许我拯救的是整个世界，换来个女友陪我打游戏，一个可爱的小辅助，加攻加防，做视野，美滋滋。&lt;/p&gt;
+
+&lt;p&gt;没回国之前，女友担心我不适应国内的生活，经受不住诱惑，会变坏，现在看来，她的担心是多余的，因为除了体重，其他还是原来的样子。Greatest Couple 一定会互相进步，带给彼此更好的自己，女友和我也不例外。擅长交际的她，不仅介绍人脉给我，还会买书给我，督促我进步，而我，乐观的性格带给她开心之余监督她健康饮食，积极健身。&lt;/p&gt;
+
+&lt;p&gt;通常的的异地恋，在环境的左右下，很容易说散就散，讲好听点是成长，难听却是无责，疲惫的身心经不起距离给爱情拷上的枷锁，余温过后剩下的无奈在两地之间，略显苍白，却又无可奈何。异地，始于对单纯的渴望，伴随着对目标的想往，以及对结果的期待，过程易被忽略，却实为爱情的本质，尤为珍贵，往往纯真的东西唯有在时间的印证下，方能见其价值。也许，碍于现实，我们不得不妥协生活的初衷。那么面对爱情，勇往直前，不计结果，才能还原其本质。&lt;/p&gt;
+
+&lt;p&gt;我不缺勇气，我感激给我勇气的那个人。&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;P.S.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;有位智者常言，爱情还是要好好谈得~&lt;/em&gt;&lt;/p&gt;
+</content>
+<category term="wei wei" />
+<summary></summary>
+</entry>
 <entry>
 <title>一座古城，一对新人，一言承诺，一生鉴定</title>
 <link href="http://localhost:3000/chiang-mai/" rel="alternate" type="text/html" title="一座古城，一对新人，一言承诺，一生鉴定" />
@@ -16,7 +75,6 @@
 ul li {line-height: unset;}
 .img-wrapper {
   width: 112%;
-  position: relateive;
   margin-left: -6%;
 }
 .fl {
@@ -355,63 +413,6 @@ By 1 promise.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;在这个激情的夏天，扔掉手里的卫生纸，放下心中的苍老师。无论你钟情的是妹子还是汉子，让他们为你而 hot。男人不需要一直有腹肌，一生至少要一次。&lt;/em&gt;&lt;/p&gt;
 </content>
 <category term="Film Review" />
-<summary></summary>
-</entry>
-<entry>
-<title>完美的爱情</title>
-<link href="http://localhost:3000/my-beauty-of-love/" rel="alternate" type="text/html" title="完美的爱情" />
-<published>2017-06-06T00:00:00+08:00</published>
-<updated>2017-06-06T00:00:00+08:00</updated>
-<id>http://localhost:3000/my-beauty-of-love</id>
-<content type="html" xml:base="http://localhost:3000/my-beauty-of-love/">&lt;p&gt;&lt;img src=&quot;{{ site.url }}/assets/images/the-beauty-of-love.jpg&quot; style=&quot;width: 700px; display:block; margin: 0 auto;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&quot;link-to-author&quot; style=&quot;           font-style: italic;           text-decoration: none;           color: lightgray;           font-size: 13px;          &quot; href=&quot;http://www.freepik.com&quot;&gt;Illustration Designed by Freepik&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;最美好的愛情 &lt;br /&gt;
-你給的是我所期待的 &lt;br /&gt;
-而我做的總讓你覺得剛剛好 &lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;我們的愛情 &lt;br /&gt;
-從一開始便注定 &lt;br /&gt;
-如平壤狂風中的小火苗 &lt;br /&gt;
-時而久旱 &lt;br /&gt;
-便騷動萬里風火燎原 &lt;br /&gt;
-時而遇水 &lt;br /&gt;
-瞬即殘弱無半點生息 &lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;沒有任何參考值可以予以慰藉 &lt;br /&gt;
-雲裡霧裡總是在索求的 &lt;br /&gt;
-不過就是那點 &lt;br /&gt;
-彼此相愛的證據 &lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;站在峰頂 &lt;br /&gt;
-俯視大河細川密佈蜿蜒 &lt;br /&gt;
-再困難的局面 &lt;br /&gt;
-也得以步步迎聚匯流 &lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;靜臥山腳 &lt;br /&gt;
-仰望漫天散落斗斗星辰 &lt;br /&gt;
-再恬靜的等候 &lt;br /&gt;
-也顯得嬴弱亦亂無章法 &lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;這一頁篇章 &lt;br /&gt;
-有著雲霧裡的朦朧開端 &lt;br /&gt;
-有著久旱遇水的炙熱愛戀 &lt;br /&gt;
-有著峰頂山尖的重重關卡 &lt;br /&gt;
-有著滿夜星空的點點等待 &lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;我墊起腳尖 &lt;br /&gt;
-隨著你的舞步 &lt;br /&gt;
-期盼著 &lt;br /&gt;
-最終樂曲的前奏 &lt;br /&gt;&lt;/p&gt;
-
-&lt;p style=&quot;font-style: italic; float: right;&quot;&gt;
-- 微微 &lt;br /&gt;
-2017.06.06
-&lt;/p&gt;
-
-</content>
-<category term="weiwei" />
 <summary></summary>
 </entry>
 </feed>
