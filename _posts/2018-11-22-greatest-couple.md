@@ -10,7 +10,7 @@ star: false
 <style>
 ul li {line-height: unset;}
 
-.img-wrapper {
+.wrapper-hero {
   width: 112%;
   margin-left: -6%;
 }
@@ -25,7 +25,7 @@ ul li {line-height: unset;}
 }
 </style>
 
-<div class="img-wrapper">
+<div class="wrapper-hero">
 
 <img src="https://www.cyfyifanchen.com/assets/images/follow-heart.gif" />
 
@@ -43,7 +43,7 @@ href="https://dribbble.com/UIcousin">Illustration by Qinjian on Dribbble</a>
 
 <audio style="display: block; margin: 30px auto; width: 90%;" src="https://www.cyfyifanchen.com/assets/audio/follow-heart.mp3" controls="controls" ></audio>
 
-<span class="fl">在</span>在美国生活的时候，喜欢看「老友记」，经典的桥段，诙谐的对话，鲜明的性格，温馨的情感。欣赏剧中每个人的乐观精神，羡慕他们对生活的态度，嫉妒他们每次争执过后友谊的升华，最最喜欢 Monica 和 Chandler 这对 Couple，小吵小闹， 欢喜冤家，希望自己也能早日找到 「Moncia」，知心朋友，亲密爱人，当一回 Greatest Couple。
+<span class="fl">在</span>美国生活的时候，喜欢看「老友记」，经典的桥段，诙谐的对话，鲜明的性格，温馨的情感。欣赏剧中每个人的乐观精神，羡慕他们对生活的态度，嫉妒他们每次争执过后友谊的升华，最最喜欢 Monica 和 Chandler 这对 Couple，小吵小闹， 欢喜冤家，希望自己也能早日找到 「Moncia」，知心朋友，亲密爱人，当一回 Greatest Couple。
 
 美国是个无聊的地方，如果说上学的时候还有学校这个社交圈的话，那么毕业工作后，上班党的社交圈就小得可怜了。似乎生活，除了公司就是家，因为无事可做，不得不去健身房撸铁，撸多伤身，哥们看不下去了，把自己老婆的闺蜜牵线给我，陌生的人，熟悉的心，爱情的种子不但发芽，并且蹭蹭蹭。我们都长期在国外生活，三观相符，兴趣相投，很快便成为知心朋友，亲密爱人。对于异国问题，一贯现实的自己，不知哪里来的勇气，果断决定，为了爱情，放弃美国的一切。
 
