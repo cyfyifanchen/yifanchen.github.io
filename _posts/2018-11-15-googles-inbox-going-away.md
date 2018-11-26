@@ -27,7 +27,7 @@ ul li {line-height: unset;}
 
 <div class="wrapper-hero">
 
-<img src="https://www.cyfyifanchen.com/assets/images/googles-inbox.jpg" />
+<img src="{{site.url}}/assets/images/googles-inbox.jpg" />
 
 <a class="link-to-author"
    style="

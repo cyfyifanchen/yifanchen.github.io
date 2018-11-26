@@ -27,7 +27,7 @@ ul li {line-height: unset;}
 
 <div class="wrapper-hero">
 
-<img src="https://www.cyfyifanchen.com/assets/images/follow-heart.gif" />
+<img src="{{site.url}}/assets/images/follow-heart.gif" />
 
 <a class="link-to-author"
    style="
@@ -41,7 +41,7 @@ ul li {line-height: unset;}
 href="https://dribbble.com/UIcousin">Illustration by Qinjian on Dribbble</a>
 </div>
 
-<audio style="display: block; margin: 30px auto; width: 90%;" src="https://www.cyfyifanchen.com/assets/audio/follow-heart.mp3" controls="controls" ></audio>
+<audio style="display: block; margin: 30px auto; width: 90%;" src="{{site.url}}/assets/audio/follow-heart.mp3" controls="controls" ></audio>
 
 <span class="fl">在</span>美国生活的时候，喜欢看「老友记」，经典的桥段，诙谐的对话，鲜明的性格，温馨的情感。欣赏剧中每个人的乐观精神，羡慕他们对生活的态度，嫉妒他们每次争执过后友谊的升华，最最喜欢 Monica 和 Chandler 这对 Couple，小吵小闹， 欢喜冤家，希望自己也能早日找到 「Moncia」，知心朋友，亲密爱人，当一回 Greatest Couple。
 

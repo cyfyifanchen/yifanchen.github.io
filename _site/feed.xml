@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2018-11-23T16:12:26+08:00</updated>
+<updated>2018-11-26T16:13:36+08:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
 <entry>
@@ -32,7 +32,7 @@ ul li {line-height: unset;}
 
 &lt;div class=&quot;wrapper-hero&quot;&gt;
 
-&lt;img src=&quot;https://www.cyfyifanchen.com/assets/images/follow-heart.gif&quot; /&gt;
+&lt;img src=&quot;{{site.url}}/assets/images/follow-heart.gif&quot; /&gt;
 
 &lt;a class=&quot;link-to-author&quot; style=&quot;
           font-style: italic;
@@ -44,7 +44,7 @@ ul li {line-height: unset;}
          &quot; href=&quot;https://dribbble.com/UIcousin&quot;&gt;Illustration by Qinjian on Dribbble&lt;/a&gt;
 &lt;/div&gt;
 
-&lt;audio style=&quot;display: block; margin: 30px auto; width: 90%;&quot; src=&quot;https://www.cyfyifanchen.com/assets/audio/follow-heart.mp3&quot; controls=&quot;controls&quot;&gt;&lt;/audio&gt;
+&lt;audio style=&quot;display: block; margin: 30px auto; width: 90%;&quot; src=&quot;{{site.url}}/assets/audio/follow-heart.mp3&quot; controls=&quot;controls&quot;&gt;&lt;/audio&gt;
 
 &lt;p&gt;&lt;span class=&quot;fl&quot;&gt;在&lt;/span&gt;美国生活的时候，喜欢看「老友记」，经典的桥段，诙谐的对话，鲜明的性格，温馨的情感。欣赏剧中每个人的乐观精神，羡慕他们对生活的态度，嫉妒他们每次争执过后友谊的升华，最最喜欢 Monica 和 Chandler 这对 Couple，小吵小闹， 欢喜冤家，希望自己也能早日找到 「Moncia」，知心朋友，亲密爱人，当一回 Greatest Couple。&lt;/p&gt;
 
@@ -91,7 +91,7 @@ ul li {line-height: unset;}
 
 &lt;div class=&quot;wrapper-hero&quot;&gt;
 
-&lt;img src=&quot;https://www.cyfyifanchen.com/assets/images/googles-inbox.jpg&quot; /&gt;
+&lt;img src=&quot;{{site.url}}/assets/images/googles-inbox.jpg&quot; /&gt;
 
 &lt;a class=&quot;link-to-author&quot; style=&quot;
           font-style: italic;
@@ -103,13 +103,14 @@ ul li {line-height: unset;}
          &quot; href=&quot;https://images.google.com&quot;&gt;Image by Google Image&lt;/a&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;I&lt;/span&gt; can’t believe that Google’s Inbox is going away. As usual, I went to Inbox to browse my emails this morning, shockingly saw a popup saying that Google is shutting down Inbox by March 2019, and they encourage Inbox users to use Gmail instead. Although Google claims Gmail already has Inbox features implemented and people adopted them very well, I still think Inbox is way more personal.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;S&lt;/span&gt; o Google’s Inbox is going away. As usual, I went to Inbox to browse my emails this morning, shockingly saw a popup saying that Google will no longer support Inbox by the end of March 2019, and they encourage Inbox users to use Gmail instead. Although Google claims Gmail already has most Inbox features implemented and people adopted them very well, I still think Inbox is way more personal than Gmail when using on a daily basis.&lt;/p&gt;
 
-&lt;p&gt;Almost exactly four years ago, Google launched Inbox, a new way of emailing. The entire purpose of Inbox is offering a clean and neat UI that allows users to get rid of cluttered emails and keep inbox empty. Not only the UI was well done, but the UX was also great, it presented a concept of showing people archiving read emails. This feature took a hit at the time because people were not used to seeing their inboxs empty. For me, I liked it and adopted it quickly. I loved to see  ‘a sun floating in the middle of my screen’, on a concept level, to-dos completed.&lt;/p&gt;
+&lt;p&gt;Almost exactly four years ago, Google launched Inbox, a new way of emailing. Inbox was made by Gmail Team, from what I could tell, Inbox is more on a casual side and relatively Gmail is more business-ish. The goal of Inbox is offering a clean UI and a fresh UX that allows users to get rid of cluttered emails and keep inbox empty. Along with that, Google also introduced Bundle to the Inbox, which bundles user’s emails into different categories such as Updates, Purchases, Promos, and Trips. These brand new features were unfamiliar to users at first, so they took a hit. Some people stuck with Gmail, and others, who didn’t fear about the learning curve, enhanced their emailing experience, apparently, I was one of them. 
+I liked Inbox right after it got launched. I liked the simplified design and vivid color scheme. I loved to see  “a sun floating in the middle of my screen”, on a concept level, to-dos completed.&lt;/p&gt;
 
-&lt;p&gt;So what happened? Why is Google taking away the Inbox? Well, that I don’t know, but subtle clues, along the way, hinted the decision today. First of all, Google never updated UI of Inbox since it was launched. Secondly, it took up to a year to patch the design issue on Inbox’s iOS app. Last but not least, the search functionality is not even a fraction of Google’s Search.&lt;/p&gt;
+&lt;p&gt;So what happened? Why is Google taking away the Inbox? Well, that I don’t know, but subtle clues, along the way, hinted the decision today. First of all, Google never updated UI of Inbox since it was launched. Secondly, it took up to a year to patch the design issue on Inbox’s iOS app. Last but not least, the search functionality can’t even compare to Google’s search, it was not smart enough to find emails I was looking for, I always ended up finding emails by navigating.&lt;/p&gt;
 
-&lt;p&gt;Realistically, a product itself doesn’t present a value, people who use it does.  In other words, if the cost of maintaining a product is too high, and the value is too low, then the product shouldn’t be maintained.&lt;/p&gt;
+&lt;p&gt;Realistically, a product itself doesn’t represent a value, people who use it does.  In other words, if the cost of maintaining a product is too high, and the value is too low, then the product shouldn’t be maintained.&lt;/p&gt;
 
 &lt;p&gt;I shrugged my shoulder, thinking ‘maybe it was not as good as I thought it would be’. I then moved my mouse cursor to the Applications Folder, dragged an icon, that was strange yet familiar, to the Dock.&lt;/p&gt;
 
@@ -197,9 +198,37 @@ ul li {line-height: unset;}
 <published>2018-04-05T00:00:00+08:00</published>
 <updated>2018-04-05T00:00:00+08:00</updated>
 <id>http://localhost:3000/the-365th-day</id>
-<content type="html" xml:base="http://localhost:3000/the-365th-day/">&lt;p&gt;&lt;img src=&quot;https://www.cyfyifanchen.com/assets/images/the-365th-day.jpg&quot; style=&quot;width: 700px; display:block; margin: 0 auto;&quot; /&gt;&lt;/p&gt;
+<content type="html" xml:base="http://localhost:3000/the-365th-day/">&lt;style&gt;
+ul li {line-height: unset;}
 
-&lt;p&gt;&lt;a class=&quot;link-to-author&quot; style=&quot;           font-style: italic;           text-decoration: none;           color: lightgray;           font-size: 13px;          &quot; href=&quot;http://www.freepik.com&quot;&gt;Illustration Designed by Yifan Chen &amp;amp; Freepik&lt;/a&gt;&lt;/p&gt;
+.wrapper-hero {
+  width: 112%;
+  margin-left: -6%;
+}
+ 
+.fl {
+  float: left;
+  font-size: 50px;
+  line-height: 50px;
+  padding-top: 0;
+  padding-right: 8px;
+  padding-left: 3px;
+}
+&lt;/style&gt;
+
+&lt;div class=&quot;wrapper-hero&quot;&gt;
+
+&lt;img src=&quot;{{site.url}}/assets/images/the-365th-day.jpg&quot; /&gt;
+
+&lt;a class=&quot;link-to-author&quot; style=&quot;
+          font-style: italic;
+          text-decoration: none;
+          color: lightgray;
+          font-size: 13px;
+          display: block;
+          margin-top: 10px;
+         &quot; href=&quot;https://www.freepik.com&quot;&gt;Illustration Designed by Yifan Chen &amp;amp; Freepik&lt;/a&gt;
+&lt;/div&gt;
 
 &lt;p&gt;第 -18 天：“你好，我叫陈亦凡，交个朋友吧。”&lt;/p&gt;
 
@@ -260,9 +289,9 @@ ul li {line-height: unset;}
 <published>2018-02-14T00:00:00+08:00</published>
 <updated>2018-02-14T00:00:00+08:00</updated>
 <id>http://localhost:3000/valentines-day</id>
-<content type="html" xml:base="http://localhost:3000/valentines-day/">&lt;p&gt;&lt;img src=&quot;https://www.cyfyifanchen.com/assets/images/valentines-day.png&quot; style=&quot;width: 700px; display:block; margin: 0 auto;&quot; /&gt;&lt;/p&gt;
+<content type="html" xml:base="http://localhost:3000/valentines-day/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/valentines-day.png&quot; style=&quot;width: 700px; display:block; margin: 0 auto;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a class=&quot;link-to-author&quot; style=&quot;           font-style: italic;           text-decoration: none;           color: lightgray;           font-size: 13px;          &quot; href=&quot;http://www.freepik.com&quot;&gt;Illustration Designed by Freepik&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;link-to-author&quot; style=&quot;           font-style: italic;           text-decoration: none;           color: lightgray;           font-size: 13px;          &quot; href=&quot;https://www.freepik.com&quot;&gt;Illustration Designed by Freepik&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;情人节，2 月 14 日，2018 年。&lt;/p&gt;
 
@@ -294,9 +323,39 @@ ul li {line-height: unset;}
 <published>2017-12-25T00:00:00+08:00</published>
 <updated>2017-12-25T00:00:00+08:00</updated>
 <id>http://localhost:3000/merry-christmas</id>
-<content type="html" xml:base="http://localhost:3000/merry-christmas/">&lt;p&gt;&lt;img src=&quot;{{ site.url }}/assets/images/merry-christmas.jpg&quot; style=&quot;width: 700px; display:block; margin: 0 auto;&quot; /&gt;&lt;/p&gt;
+<content type="html" xml:base="http://localhost:3000/merry-christmas/">&lt;style&gt;
+ul li {line-height: unset;}
 
-&lt;p&gt;女友生在年末，我生在次年年初，我们之间也就差几个月。我反而总爱开玩笑说她比我大一岁，她很是不喜欢，骨子里，她只想做一个小女人，但偏偏，成长过程中，女友的父母对她的要求甚是严格，造就了她现在强势的一面， 这样的她在职场上如鱼得水，干练好强的气场吓走了不少男生 ，搞得自己好几年没有谈恋爱。而我，趁虚而入，在今年的春天，捡了这个幸福的漏。&lt;/p&gt;
+.wrapper-hero {
+  width: 112%;
+  margin-left: -6%;
+}
+ 
+.fl {
+  float: left;
+  font-size: 50px;
+  line-height: 50px;
+  padding-top: 0;
+  padding-right: 8px;
+  padding-left: 3px;
+}
+&lt;/style&gt;
+
+&lt;div class=&quot;wrapper-hero&quot;&gt;
+
+&lt;img src=&quot;{{site.url}}/assets/images/merry-christmas.gif&quot; /&gt;
+
+&lt;a class=&quot;link-to-author&quot; style=&quot;
+          font-style: italic;
+          text-decoration: none;
+          color: lightgray;
+          font-size: 13px;
+          display: block;
+          margin-top: 10px;
+         &quot; href=&quot;https://dribbble.com/UIcousin&quot;&gt;Illustration by Qinjian on Dribbble&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;女&lt;/span&gt;友生在年末，我生在次年年初，我们之间也就差几个月。我反而总爱开玩笑说她比我大一岁，她很是不喜欢，骨子里，她只想做一个小女人，但偏偏，成长过程中，女友的父母对她的要求甚是严格，造就了她现在强势的一面， 这样的她在职场上如鱼得水，干练好强的气场吓走了不少男生 ，搞得自己好几年没有谈恋爱。而我，趁虚而入，在今年的春天，捡了这个幸福的漏。&lt;/p&gt;
 
 &lt;p&gt;追女友的时候，靠的就是死缠烂打，每天嘴里不是在跑火车，就是在扯飞机。她这样的女孩 ，没见过如此 low 的攻势，肯定招架不住，于是乎，轻轻松松被我坑到了手。后来女友常说便宜我了，所以我才不懂得珍惜。其实，她错了，就算不便宜我，我依然不会珍惜。&lt;/p&gt;
 
@@ -320,7 +379,7 @@ ul li {line-height: unset;}
 <id>http://localhost:3000/her-birthday</id>
 <content type="html" xml:base="http://localhost:3000/her-birthday/">&lt;p&gt;&lt;img src=&quot;{{ site.url }}/assets/images/bday.svg&quot; style=&quot;width: 700px; display:block; margin: 0 auto;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a class=&quot;link-to-author&quot; style=&quot;           font-style: italic;           text-decoration: none;           color: lightgray;           font-size: 13px;          &quot; href=&quot;http://www.freepik.com&quot;&gt;Illustration Designed by Freepik&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;link-to-author&quot; style=&quot;           font-style: italic;           text-decoration: none;           color: lightgray;           font-size: 13px;          &quot; href=&quot;https://www.freepik.com&quot;&gt;Illustration Designed by Freepik&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;早晨，醒来，洗漱，惊现： &lt;br /&gt;&lt;/p&gt;
 
@@ -375,7 +434,7 @@ By 1 promise.&lt;/p&gt;
 <id>http://localhost:3000/100-days</id>
 <content type="html" xml:base="http://localhost:3000/100-days/">&lt;p&gt;&lt;img src=&quot;{{ site.url }}/assets/images/100days.svg&quot; style=&quot;width: 700px; display:block; margin: 0 auto;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a class=&quot;link-to-author&quot; style=&quot;           font-style: italic;           text-decoration: none;           color: lightgray;           font-size: 13px;          &quot; href=&quot;http://www.freepik.com&quot;&gt;Illustration Designed by Freepik&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;link-to-author&quot; style=&quot;           font-style: italic;           text-decoration: none;           color: lightgray;           font-size: 13px;          &quot; href=&quot;https://www.freepik.com&quot;&gt;Illustration Designed by Freepik&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;今年的早些时候，和朋友去了月老庙，祈求祝福。&lt;/p&gt;
 

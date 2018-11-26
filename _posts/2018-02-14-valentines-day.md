@@ -8,7 +8,7 @@ blog: true
 star: false
 ---
 
-<img src="https://www.cyfyifanchen.com/assets/images/valentines-day.png" style="width: 700px; display:block; margin: 0 auto;" />
+<img src="{{site.url}}/assets/images/valentines-day.png" style="width: 700px; display:block; margin: 0 auto;" />
 
 <a class="link-to-author"
    style="
@@ -17,7 +17,7 @@ star: false
           color: lightgray;
           font-size: 13px;
          "
-href="http://www.freepik.com">Illustration Designed by Freepik</a>
+href="https://www.freepik.com">Illustration Designed by Freepik</a>
 
 情人节，2 月 14 日，2018 年。
 

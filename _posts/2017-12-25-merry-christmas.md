@@ -7,10 +7,41 @@ tag:
 blog: true
 star: false
 ---
+<style>
+ul li {line-height: unset;}
 
-<img src="{{ site.url }}/assets/images/merry-christmas.jpg" style="width: 700px; display:block; margin: 0 auto;" />
+.wrapper-hero {
+  width: 112%;
+  margin-left: -6%;
+}
+ 
+.fl {
+  float: left;
+  font-size: 50px;
+  line-height: 50px;
+  padding-top: 0;
+  padding-right: 8px;
+  padding-left: 3px;
+}
+</style>
 
-女友生在年末，我生在次年年初，我们之间也就差几个月。我反而总爱开玩笑说她比我大一岁，她很是不喜欢，骨子里，她只想做一个小女人，但偏偏，成长过程中，女友的父母对她的要求甚是严格，造就了她现在强势的一面， 这样的她在职场上如鱼得水，干练好强的气场吓走了不少男生 ，搞得自己好几年没有谈恋爱。而我，趁虚而入，在今年的春天，捡了这个幸福的漏。
+<div class="wrapper-hero">
+
+<img src="{{site.url}}/assets/images/merry-christmas.gif" />
+
+<a class="link-to-author"
+   style="
+          font-style: italic;
+          text-decoration: none;
+          color: lightgray;
+          font-size: 13px;
+          display: block;
+          margin-top: 10px;
+         "
+href="https://dribbble.com/UIcousin">Illustration by Qinjian on Dribbble</a>
+</div>
+
+<span class="fl">女</span>友生在年末，我生在次年年初，我们之间也就差几个月。我反而总爱开玩笑说她比我大一岁，她很是不喜欢，骨子里，她只想做一个小女人，但偏偏，成长过程中，女友的父母对她的要求甚是严格，造就了她现在强势的一面， 这样的她在职场上如鱼得水，干练好强的气场吓走了不少男生 ，搞得自己好几年没有谈恋爱。而我，趁虚而入，在今年的春天，捡了这个幸福的漏。
 
 追女友的时候，靠的就是死缠烂打，每天嘴里不是在跑火车，就是在扯飞机。她这样的女孩 ，没见过如此 low 的攻势，肯定招架不住，于是乎，轻轻松松被我坑到了手。后来女友常说便宜我了，所以我才不懂得珍惜。其实，她错了，就算不便宜我，我依然不会珍惜。
 

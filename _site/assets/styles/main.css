@@ -270,7 +270,7 @@ html {
 }
 body {
   line-height: 1;
-  font: 16px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 17px -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans;
 }
 color alpha {
   -webkit-font-smoothing: antialiased;
@@ -280,7 +280,7 @@ h1,
 h2,
 h3,
 h4 {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans;
   color: #333;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
@@ -676,7 +676,7 @@ pre {
 }
 .author > .toright > .name {
   font-size: 1.5rem;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans;
   font-weight: 500;
   margin: 6px 0 0;
 }
@@ -693,7 +693,7 @@ pre {
   }
 }
 .author > .toright > .bio {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans;
   font-weight: 300;
   color: #aaa;
   font-size: 1.3rem;
