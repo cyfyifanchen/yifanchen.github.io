@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2018-11-27T03:19:30+08:00</updated>
+<updated>2018-11-29T08:44:44+08:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
 <entry>
@@ -30,21 +30,17 @@ ul li {line-height: unset;}
 }
 &lt;/style&gt;
 
-&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;前&lt;/span&gt;前段时间，公司的运营反应说数据准确性不可靠，无法制定详细的运营战略，老板故安排我调研数据的可靠性，本以为调研类的工作不好进展，但是一段时间查下来，结果虽然不是很明显，但是答案还是有的。&lt;/p&gt;
+&lt;p&gt;&lt;span classclass=&quot;fl&quot;&gt;前&lt;/span&gt;前段时间，公司的运营反应说数据准确性不可靠，无法制定详细的运营战略，老板故安排我调研数据的可靠性，本以为调研类的工作不好进展，但是一段时间查下来，结果虽然不是很明显，但是答案还是有的。&lt;/p&gt;
 
 &lt;p&gt;现在市面上的 data solutions 很多，除了我们大家熟知的 Google Analytics，其他还有五花八门的，比如专门针对 Facebook 平台的 Pixel，在自己平台用的 Snap Pixel，能查到具体个人和 business 的 Leadfeeder，有 detailed user behaviors 的 Kissmetrics，有擅长 Campaign 的 GoSquared 等。还有根据 data 衍生出来的其他行业，比如针对电商的 related products 和广告的 campaign source tracking 等等。对于初创公司而言，在不了解什么样的 data 对自己有价值的时候，与其选择付费用 data solutions，不如老老实实用  Google Analytics。Google Analytics 的功能非常非常丰富，以助于很多新手看到繁琐的界面，反而不知道从哪里入手，而成为其他 data solutions 嘴里的一个「缺点」。&lt;/p&gt;
 
 &lt;p&gt;终归是 Google，深知如果每个数据都需要埋点的话，那运营和开发之间的 gap 会越来越深(哈， 话说本来就很深)，所以后面推出的 Google Tag Manager，可以说不仅很好得解决了这个问题，也从根本上把 Development 和 Marketing 分开了。&lt;/p&gt;
 
-&lt;p&gt;其实，收集 data 大可不不必在 client side 用 cookies 来解决。Analysts 可以直接看自己的 server log，看有多少 requests， 什么样的 IP，user-agent 的种类都可以清晰看到。今天的 Analysts 用 cookie 的主要原因是可以收集更 personal 的 data。这就是我们为什么在登录很多网站的时候，会出现允许 cookie 访问的提示（每个国家不一样，如 GDPR）。Analysts 通过 cookie 收集永的浏览习惯，再根据自己的算法给出漂亮的表格。&lt;/p&gt;
+&lt;p&gt;其实，收集 data 大可不不必在 client side 用 cookies 来解决。Analysts 可以直接看自己的 server log，看有多少 requests， 什么样的 IP，user-agent 的种类都可以清晰看到。今天的 Analysts 用 cookie 的主要原因是可以收集更 personal 的 data。这就是我们为什么在登录很多网站的时候，会出现允许 cookie 访问的提示（每个国家不一样，如 GDPR）。Analysts 通过 cookie 收集用户的浏览习惯，再根据自己的算法给出漂亮的表格。&lt;/p&gt;
 
 &lt;p&gt;但是，为什么数据会总是出现不匹配的情况呢？每家的数据都无法匹配上，让我如何运营？其实，这就是有趣的地方。第一，每个 analysts 的算法不一样。第二，每个 analysts 的对象不一样。所以，会出现不准确的情况，尤其是在 client side 的数据。&lt;/p&gt;
 
-&lt;p&gt;未完待续~&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;P.S.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;有位智者常言，爱情还是要好好谈得~&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;未完待续~&lt;/em&gt;&lt;/p&gt;
 </content>
 <category term="thoughts" />
 <summary></summary>
@@ -97,7 +93,7 @@ ul li {line-height: unset;}
 
 &lt;p&gt;没回国之前，女友担心我不适应国内的生活，经受不住诱惑，会变坏，现在看来，她的担心是多余的，因为除了体重，其他还是原来的样子。Greatest Couple 一定会互相进步，带给彼此更好的自己。女友和我也不例外，从小家里做生意的她，人脉多，资源强，她不仅介绍人脉给我，还会买书给我，督促我进步，而我，乐观的性格带给她开心之余，监督她健康饮食，积极健身。&lt;/p&gt;
 
-&lt;p&gt;通常的的异地恋，在环境的左右下，很容易说散就散，讲好听点是成长，难听却是无责，疲惫的身心经不起距离给爱情拷上的枷锁，余温过后剩下的无奈在两地之间，略显苍白，却又无可奈何。异地，始于对单纯的渴望，伴随着对目标的想往，以及对结果的期待，过程易被忽略，却实为爱情的本质，尤为珍贵，往往纯真的东西唯有在时间的印证下，方能见其价值。也许，碍于现实，我们不得不妥协生活的初衷。那么面对爱情，勇往直前，不计结果，才能还原其本质。&lt;/p&gt;
+&lt;p&gt;通常的的异地恋，在环境的左右下，很容易说散就散，讲好听点是成长，难听却是无责，疲惫的身心经不起距离给爱情拷上的枷锁，余温过后剩下的无奈在两地之间，略显苍白，却又无可奈何。异地，始于对单纯的渴望，伴随着对目标的想往，以及对结果的期待，过程易被忽略，却尤为珍贵，往往纯真的东西唯有在时间的印证下，方能见其真谛。也许，碍于现实，我们不得不妥协生活的初衷。那么面对爱情，勇往直前，不计结果，才能还原她的本质。&lt;/p&gt;
 
 &lt;p&gt;我不缺勇气，我感激给我勇气的那个人。&lt;/p&gt;
 
