@@ -232,13 +232,6 @@
     } ,
   
     {
-      "title"    : "何为孤独",
-      "tags"     : "thoughts",
-      "url"      : "/alone/",
-      "date"     : "16 Oct 2016"
-    } ,
-  
-    {
       "title"    : "What I learned from upgrading to Sierra",
       "tags"     : "technology and thoughts",
       "url"      : "/what-I-learned-from-upgrading-my-os/",
