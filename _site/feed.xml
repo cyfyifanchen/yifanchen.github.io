@@ -3,49 +3,9 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2019-04-04T10:17:47+08:00</updated>
+<updated>2019-04-04T21:48:56+08:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
-<entry>
-<title>Next Chapter</title>
-<link href="http://localhost:3000/next-chapter/" rel="alternate" type="text/html" title="Next Chapter" />
-<published>2019-04-04T00:00:00+08:00</published>
-<updated>2019-04-04T00:00:00+08:00</updated>
-<id>http://localhost:3000/next-chapter</id>
-<content type="html" xml:base="http://localhost:3000/next-chapter/">&lt;style&gt;
-
-.wrapper-hero {
-  width: 112%;
-  margin-left: -6%;
-}
- 
-.fl {
-  float: left;
-  font-size: 50px;
-  line-height: 50px;
-  padding-top: 0;
-  padding-right: 8px;
-  padding-left: 3px;
-}
-
-.center {
-  margin: 0 auto;
-}
-&lt;/style&gt;
-
-&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;我&lt;/span&gt;们总会记得为他人做得一点，而忽略了他人为我们做得一片，我们从不会知道这一点一片改变了谁，而谁又改变了我们。&lt;/p&gt;
-
-&lt;p&gt;而这些以为在取舍之间的该改变变，在经过之后，才知道，命运，自有它的安排，每一次的开始和每一遍的结束，都完整了我们必须行走的历程。&lt;/p&gt;
-
-&lt;p&gt;缘起缘落，过往并不会随着分合离散而消失，它化作无声的祝福，躲在你我身边，为的是，对我们下段感情的保驾护航。&lt;/p&gt;
-
-&lt;p&gt;你问我有没有惋惜，我想，有惋惜的，才叫成长。&lt;/p&gt;
-
-&lt;p&gt;感谢陪伴，祝你幸福。&lt;/p&gt;
-</content>
-<category term="thoughts" />
-<summary></summary>
-</entry>
 <entry>
 <title>数据~啊~数据</title>
 <link href="http://localhost:3000/oh-my-data/" rel="alternate" type="text/html" title="数据~啊~数据" />
@@ -456,6 +416,34 @@ ul li {line-height: unset;}
 &lt;p&gt;&lt;em&gt;P.S.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;它有故事，它有学识，它有品位。它绅士，它幽默，它跳舞，它看莎士比亚。它嗓音浑厚，口音英伦，高大威猛。当它单手把你托进它广域胸怀的时候，你的小鹿是否已经撞晕？清醒一下，环顾四周，小鹿在乱撞的不是墙，而是一整座华丽的城堡。&lt;/em&gt;&lt;/p&gt;
+
+</content>
+<category term="Film Review" />
+<summary></summary>
+</entry>
+<entry>
+<title>侠盗之分《新世界》影评</title>
+<link href="http://localhost:3000/new-world-review/" rel="alternate" type="text/html" title="侠盗之分《新世界》影评" />
+<published>2017-03-04T00:00:00+08:00</published>
+<updated>2017-03-04T00:00:00+08:00</updated>
+<id>http://localhost:3000/new-world-review</id>
+<content type="html" xml:base="http://localhost:3000/new-world-review/">&lt;p&gt;&lt;img src=&quot;{{ site.url }}/assets/images/new-world.jpg&quot; style=&quot;display:block; margin: 0 auto;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;最近看了一些韩国电影，必须承认韩国电影和我印象里的韩剧完全不是一个档次，今天的韩国电影在亚洲，甚至世界有都着鲜明的风格和相当的影响力。&lt;/p&gt;
+
+&lt;p&gt;韩国电影崛起的基石是由于民主化的推进，在 1980 年代彻底废除了电影的审查制度，只剩分级制度之后，创作环境得到充分发挥，之后人才辈出，在 1990 年代开始出现好的片子，之后的 20 年我们经常可以看到极好的片子，乃至影响全国。政府可以无限黑，人性可以无限暗，也正因为如此，韩国电影把很残酷的现实通过艺术表现得淋漓尽致。&lt;/p&gt;
+
+&lt;p&gt;电影《新世界》，这个 2013 年的卧底黑帮电影，把政府又彻底地黑了个底朝天。看完的朋友大概都会被警方为达目的而不择手段嘘声不已。导演用李子成的视角向观众展示了，代表不同立场的黑白之争。李子成本来一个想结束自己卧底生涯的人， 却被警方的各种威逼利用而操控，毫无人情可言。面对警方，李子成由本来的强硬，无奈，哀求再到最后的放弃和转变，一步一步被警方逼到了无路可走。反而，是自己卧底的一方更给了自己最大的精神需求，信任和情义。&lt;/p&gt;
+
+&lt;p&gt;电影里最出彩的角色当属丁青，这个看似很二逼，不按常理出牌的大哥，恰当地诠释了伪大哥的定义。虽然表面玩世不恭，天天嬉皮笑脸，但是背后做事极其细腻，顾全大局的同时，坚持道义。即使警方设套借刀杀人的时候，丁青也能准确做出判断，而不会相信警方的把戏。更可贵的是，虽知道自己最亲近的兄弟是卧底的时候，依然选择保护兄弟。导演也巧妙得在影片结束的解释了两兄弟的情谊的由来。&lt;/p&gt;
+
+&lt;p&gt;另外，不得不赞一下影片的原声，绝对的世界级水平。压抑，沉稳，城府，背叛，情义和抉择，无一不完美地体现在配乐里。结尾的黑化伴随着内敛的音乐，观影的情绪瞬间被升华。好的原声不一定造就好的电影，但是好的电影不能没有好的原声。&lt;/p&gt;
+
+&lt;p&gt;侠盗本代表了不同立场。但，影片里的侠为了利益而用出连盗也不愿启齿的手段时，侠盗的定义出现了转变，正邪开始变得模糊。这也是电影最精彩的地方 – 难道为了正义，就允许不择手段?&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;P.S.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;身着笔挺西装，前后马仔护航，拿出金色 Zippo，点上一根香烟，深深吸上一口，缓缓徐徐吐出，眼睛说故事， 表情草泥马，时而眉头紧锁，时而故作沉思。男人的黑帮情结，也不过如此了吧。&lt;/em&gt;&lt;/p&gt;
 
 </content>
 <category term="Film Review" />
