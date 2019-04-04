@@ -3,17 +3,16 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2019-03-02T07:37:10+08:00</updated>
+<updated>2019-04-04T10:17:47+08:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yifan Chen</title>
 <entry>
-<title>Web Development 2019</title>
-<link href="http://localhost:3000/web-development-2019/" rel="alternate" type="text/html" title="Web Development 2019" />
-<published>2018-12-25T00:00:00+08:00</published>
-<updated>2018-12-25T00:00:00+08:00</updated>
-<id>http://localhost:3000/web-development-2019</id>
-<content type="html" xml:base="http://localhost:3000/web-development-2019/">&lt;style&gt;
-ul li {line-height: unset;}
+<title>Next Chapter</title>
+<link href="http://localhost:3000/next-chapter/" rel="alternate" type="text/html" title="Next Chapter" />
+<published>2019-04-04T00:00:00+08:00</published>
+<updated>2019-04-04T00:00:00+08:00</updated>
+<id>http://localhost:3000/next-chapter</id>
+<content type="html" xml:base="http://localhost:3000/next-chapter/">&lt;style&gt;
 
 .wrapper-hero {
   width: 112%;
@@ -28,9 +27,21 @@ ul li {line-height: unset;}
   padding-right: 8px;
   padding-left: 3px;
 }
+
+.center {
+  margin: 0 auto;
+}
 &lt;/style&gt;
 
-&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;最&lt;/span&gt;近，在 Medium 上看到一个文章，甚好，转发并且梳理一下自己的看法。&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;我&lt;/span&gt;们总会记得为他人做得一点，而忽略了他人为我们做得一片，我们从不会知道这一点一片改变了谁，而谁又改变了我们。&lt;/p&gt;
+
+&lt;p&gt;而这些以为在取舍之间的该改变变，在经过之后，才知道，命运，自有它的安排，每一次的开始和每一遍的结束，都完整了我们必须行走的历程。&lt;/p&gt;
+
+&lt;p&gt;缘起缘落，过往并不会随着分合离散而消失，它化作无声的祝福，躲在你我身边，为的是，对我们下段感情的保驾护航。&lt;/p&gt;
+
+&lt;p&gt;你问我有没有惋惜，我想，有惋惜的，才叫成长。&lt;/p&gt;
+
+&lt;p&gt;感谢陪伴，祝你幸福。&lt;/p&gt;
 </content>
 <category term="thoughts" />
 <summary></summary>
@@ -84,7 +95,6 @@ ul li {line-height: unset;}
 
 &lt;a href=&#39;https://github.com/media&#39; class=&#39;user-mention&#39;&gt;@media&lt;/a&gt; screen (min-width: 1000px) { 
   .wrapper-hero {
-    border: 1px solid red;
   }
  }
 
@@ -137,7 +147,7 @@ ul li {line-height: unset;}
 
 &lt;p&gt;&lt;em&gt;有位智者常言，爱情还是要好好谈得~&lt;/em&gt;&lt;/p&gt;
 </content>
-<category term="wei wei" />
+<category term="story" />
 <summary></summary>
 </entry>
 <entry>
@@ -268,19 +278,16 @@ ul li {line-height: unset;}
 <summary></summary>
 </entry>
 <entry>
-<title>The 365th Day</title>
-<link href="http://localhost:3000/the-365th-day/" rel="alternate" type="text/html" title="The 365th Day" />
-<published>2018-04-05T00:00:00+08:00</published>
-<updated>2018-04-05T00:00:00+08:00</updated>
-<id>http://localhost:3000/the-365th-day</id>
-<content type="html" xml:base="http://localhost:3000/the-365th-day/">&lt;style&gt;
-ul li {line-height: unset;}
-
+<title>第 100 天</title>
+<link href="http://localhost:3000/100-days/" rel="alternate" type="text/html" title="第 100 天" />
+<published>2017-07-14T00:00:00+08:00</published>
+<updated>2017-07-14T00:00:00+08:00</updated>
+<id>http://localhost:3000/100-days</id>
+<content type="html" xml:base="http://localhost:3000/100-days/">&lt;style&gt;
 .wrapper-hero {
   width: 112%;
   margin-left: -6%;
 }
- 
 .fl {
   float: left;
   font-size: 50px;
@@ -292,120 +299,77 @@ ul li {line-height: unset;}
 &lt;/style&gt;
 
 &lt;div class=&quot;wrapper-hero&quot;&gt;
-
-&lt;img src=&quot;{{site.url}}/assets/images/the-365th-day.jpg&quot; /&gt;
+&lt;img src=&quot;{{ site.url }}/assets/images/100days.svg&quot; style=&quot;width: display:block; margin: 0 auto;&quot; /&gt;
 
 &lt;a class=&quot;link-to-author&quot; style=&quot;
           font-style: italic;
           text-decoration: none;
           color: lightgray;
           font-size: 13px;
-          display: block;
-          margin-top: 10px;
-         &quot; href=&quot;https://www.freepik.com&quot;&gt;Illustration Designed by Yifan Chen &amp;amp; Freepik&lt;/a&gt;
+         &quot; href=&quot;https://www.freepik.com&quot;&gt;Illustration Designed by Freepik&lt;/a&gt;
 &lt;/div&gt;
 
-&lt;p&gt;第 -18 天：“你好，我叫陈亦凡，交个朋友吧。”&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;今&lt;/span&gt;年的早些时候，和朋友去了月老庙，祈求祝福。&lt;/p&gt;
 
-&lt;p&gt;第 -15 天：“我要去工作喽，你早点休息吧，你的明天早上，我的今天晚上聊。”&lt;/p&gt;
+&lt;p&gt;次月，闺蜜便介绍她老公的哥们，一个水瓶男，给我认识。基于对水瓶本身的了解 ，再加之闺蜜介绍，近四年没有感情进展的我决定给自己一个机会，去认真得了解他。&lt;/p&gt;
 
-&lt;p&gt;第 -14 天：“早上好，萌物好心情~”&lt;/p&gt;
+&lt;p&gt;他是一个典型的水瓶男，废话多，爱耍宝，满嘴跑火车。总是给自己挖坑，奋不顾身跳进去，再使尽解数爬出来。我笑他不喜欢天下太平，他却不以为然，乐此不疲。不管我说多少次，他总是在和我讲话的时候分心，自由不受拘束到不靠谱。不仅这样，他还有个所谓的热心肠，分不清轻重，无关紧要的忙，也要帮，通常折腾得自己很累，还把我搞得既生气又无奈。甚至在我们一起一个月的时候，还夸张到跑出去和别的女生吃饭。&lt;/p&gt;
 
-&lt;p&gt;第 -13 天：”你看「美女与野兽」了吗？哈，你还看我写的影评了？”&lt;/p&gt;
+&lt;p&gt;水瓶男，说好听是天马行空，难听就是神经质，永远猜不到他下一步要干什么。&lt;/p&gt;
 
-&lt;p&gt;第 -8 天： “天啊，我们竟然聊了 9 个多小时的电话。”&lt;/p&gt;
+&lt;p&gt;大概两周前的一天，他照常在下班时间叫我起床。可是还刚没有讲上两句话，他又开始分心和他的好基友聊天，我当时就感觉被冷落，要求他多陪我一会儿。还好，他态度好，道歉后就认真了一会儿。可没过多久，他又开始敷衍，问他干什么，他说在健身。我当下无语，怨他不专心，他就找各种借口… 最后通话还是以不开心收场。 我到了公司之后，就忙于各种会议，好不容易抽空坐下来，桌上还有一些资料要审核，想起早上的事情，总觉得他是习惯性三心二意，一点儿也不靠谱。这时，他发视讯过来，我以为他要道歉，便点开了视讯。奇怪的是，他拿着个自拍杆，坐在车子的后备箱上，戴个棒球帽对着镜头笑得若无其事。看来他大晚上跑出去了，我正准备念他在干什么，突然听见背景音乐在放《烟火的季节》，然后他就问我想不想看烟火， 我还没反应过来，他便从后备箱上跳下来，拿着长火机点燃了地上的烟火。在熟悉的歌曲中，烟花一束一束飞向夜空，绚烂地绽放，犹如满天星，五颜六色，色彩斑斓，照亮了我，更暖了心。&lt;/p&gt;
 
-&lt;p&gt;第 -5 天：“在沙巴生病了，注意好身体，我打电话提醒你吃药吧。“&lt;/p&gt;
+&lt;p&gt;我想，这就是他吧，先搞点事情出来，再搞点浪漫出来。&lt;/p&gt;
 
-&lt;p&gt;第 -4 天：“诶，你怎么不讲话？第一次讲话很奇怪吗？”&lt;/p&gt;
+&lt;p&gt;上个月，我在东京新宿出差的时候和老板在工作上出现分歧。大晚上跑到星巴克买了杯摩卡，打了电话给水瓶男，他就在电话上一直搞笑，讲那些有的没的。我嘴上不笑，但心里很甜，明知这家伙又再跑火车，但也宁愿相信他。听着听着，心情确实好了不少。第二天一大早，酒店前台就通知我说有礼物，酒店怎么可能有礼物，我以为搞错了。我到前台后才发现是玫瑰花，有水瓶男的署名。原来，他根据我在新宿星巴克的位置判断出我入住的酒店，打电话在当地买了花送给我，希望我心情好起来。&lt;/p&gt;
 
-&lt;p&gt;第 -1 天：”你明天就回台北了，等到家后，我有话对你讲。“&lt;/p&gt;
-
-&lt;p&gt;第 1 天： ”你愿意当我女朋友吗？”&lt;/p&gt;
-
-&lt;p&gt;第 3 天： “我叫你 bae 吧， before anything else。“&lt;/p&gt;
-
-&lt;p&gt;第 31 天： ”Happy 1 month anniversary~”&lt;/p&gt;
-
-&lt;p&gt;第 32 天：“没事，我只是和朋友吃个饭，别担心啦。“&lt;/p&gt;
-
-&lt;p&gt;第 51 天：”我周末要参加公司举办的 Hackathon，奖金拿来给你买礼物吧。“&lt;/p&gt;
-
-&lt;p&gt;第 84 天：”你喜欢烟火吗？“&lt;/p&gt;
-
-&lt;p&gt;第 100 天：“知道今天什么日子吗？我们的 100 天纪念日。我不仅记得，你还有礼物哦~“&lt;/p&gt;
-
-&lt;p&gt;第 180 天：“明天就要去台北看你喽。”&lt;/p&gt;
-
-&lt;p&gt;第 181 天：“哈喽，终于见面了，和我心里的一样嘛。“&lt;/p&gt;
-
-&lt;p&gt;第 241 天：“酒店的花你喜欢吗？走，我们明天去迪士尼。“&lt;/p&gt;
-
-&lt;p&gt;第 242 天：”上海迪士尼是我去过最不像迪士尼的迪士尼，因为这里不用排队啊。”&lt;/p&gt;
-
-&lt;p&gt;第 244 天：”最不喜欢送人去机场了， 特别是送你去机场。好啦，我 promise 会来台北陪你跨年。”&lt;/p&gt;
-
-&lt;p&gt;第 304 天：“5，4，3，2，1：Happy new year~。“&lt;/p&gt;
-
-&lt;p&gt;第 306 天：”我回去了，我已经等不及在上海看到你了。”&lt;/p&gt;
-
-&lt;p&gt;第 336 天：“两个人第一次去陌生的地方旅游，别人都说这是检验情侣最好的方式，我对我们有信心。”&lt;/p&gt;
-
-&lt;p&gt;第 340 天：”虽然不喜欢，但我肯定要请假送你去机场啊。“&lt;/p&gt;
-
-&lt;p&gt;第 365 天：“我去酒店前台拿个东西，你先回房间吧。嘿嘿，今天是我们一周年，我肯定要来台北，亲手把花送给你，周年快乐。“&lt;/p&gt;
+&lt;p&gt;其实，当我在月老庙的时候，幸福就在走进。而当听他满嘴跑火车的时候，幸福已在身边。&lt;/p&gt;
 </content>
-<category term="weiwei" />
+<category term="story" />
 <summary></summary>
 </entry>
 <entry>
-<title>Happy Valentine’s Day</title>
-<link href="http://localhost:3000/valentines-day/" rel="alternate" type="text/html" title="Happy Valentine&#39;s Day" />
-<published>2018-02-14T00:00:00+08:00</published>
-<updated>2018-02-14T00:00:00+08:00</updated>
-<id>http://localhost:3000/valentines-day</id>
-<content type="html" xml:base="http://localhost:3000/valentines-day/">&lt;p&gt;&lt;img src=&quot;{{site.url}}/assets/images/valentines-day.png&quot; style=&quot;width: 700px; display:block; margin: 0 auto;&quot; /&gt;&lt;/p&gt;
+<title>男儿当健身《速8》影评</title>
+<link href="http://localhost:3000/fate-of-furious-review/" rel="alternate" type="text/html" title="男儿当健身《速8》影评" />
+<published>2017-06-17T00:00:00+08:00</published>
+<updated>2017-06-17T00:00:00+08:00</updated>
+<id>http://localhost:3000/fate-of-furious-review</id>
+<content type="html" xml:base="http://localhost:3000/fate-of-furious-review/">&lt;p&gt;&lt;img src=&quot;{{ site.url }}/assets/images/fast8.jpg&quot; style=&quot;display:block; margin: 0 auto;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a class=&quot;link-to-author&quot; style=&quot;           font-style: italic;           text-decoration: none;           color: lightgray;           font-size: 13px;          &quot; href=&quot;https://www.freepik.com&quot;&gt;Illustration Designed by Freepik&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;几周前看了《速8》，忙里偷闲写下影评。&lt;/p&gt;
 
-&lt;p&gt;情人节，2 月 14 日，2018 年。&lt;/p&gt;
+&lt;p&gt;截止到今天，12 亿美元的全球票房和影史第 11 的排名，影片的商业成绩已经超过了《哈利波特》和《加勒比海盗》系列。无论你想不想看下一部，只要这个数据在，环球必定会赚这个钱。《速9》依然会拍，剧情依然轰轰轰，感情依然家家家，车子依然飞飞飞，发型依然光光光。&lt;/p&gt;
 
-&lt;p&gt;去年的这个时候，我单身，憧憬来年脱单。&lt;/p&gt;
+&lt;p&gt;我是从《速4》开始在电影院看。印象最深的就是保罗坐在蓝色 Skyline R34 引擎盖上笑得灿烂的样子（一直认为 R34 比 R35 好看）。剧情围绕老唐为莱蒂复仇展开。彪悍老唐，胸肌撑爆白衬衫，拉轰的同时，不忘用痴情撩妹。Gal Gadot 那时还没开始 Wonder，穿衣就凸。正所谓，无沟便凸，凸凸更健康。这不，已经凸到正义联盟里了。&lt;/p&gt;
 
-&lt;p&gt;今年的这个时候，我脱单，怀念去年单身。&lt;/p&gt;
+&lt;p&gt;《速5》的时候，强森来了。全片的看点无非聚焦在，肌肉与肌肉的对抗，肢体与肢体的碰撞，我勒个去，那叫一个基。当两个有线条的男人穿着背心，用胸肌作为武器在地上各种打斗（缠绵）的时刻，我仿佛已经忘记了飙车的存在。&lt;/p&gt;
 
-&lt;p&gt;明年的这个时候，我…，留点悬念。&lt;/p&gt;
+&lt;p&gt;《速6》里，老唐的青梅竹马又鬼使神差得复活了。强森一看，哎呦，有戏。就凭我和老唐的胸肌碰碰碰，我就知道他肯定会插上一手。 于是乎，带着他基情对象爱人的照片奔去巴西。老唐什么人，老子女人活了，自己怎可能不问不管，带着一票兄弟风风火火飚到大不列颠。&lt;/p&gt;
 
-&lt;p&gt;后年的这个时候，要住在一起，结局无悬念，过程嘛，吵吵才幸福。&lt;/p&gt;
+&lt;p&gt;《速7》来到了迪拜，斯坦森送完快递，找不到雇主，钢了强森不过瘾，顺便找老唐搞搞基，单枪匹马杀到迪拜。老唐把车都跑出了反物理定律，云层之间各种飞。可惜，那年，那车和那人还在。这年，这车在，这人却不在，一路走好，保罗。&lt;/p&gt;
 
-&lt;p&gt;时光一转，2 月 14 日，2028 年。&lt;/p&gt;
+&lt;p&gt;《速8》直接跑在冰上钢潜艇，各种杂技，各种秀。反派换做塞隆，造型虽然有点逊， 智商更是下限。你开个飞机满世界乱跑，反侦察能力连个项链里的追踪器也查不出吗？斯坦森和强森的嘴炮，以及和 baby 的互动，又是圈粉的节奏。&lt;/p&gt;
 
-&lt;p&gt;去年的这个时候，我期盼下个十年。&lt;/p&gt;
+&lt;p&gt;过洞道，拉金库，怼坦克，偷飞机，钢潜艇。老唐，你是不是打算下次带着兄弟们去盗卫星？&lt;/p&gt;
 
-&lt;p&gt;今年的这个时候，我执念上个十年。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;P.S&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;明年的这个时候，我回顾十年之前，我守候十年之后，只因有你。&lt;/p&gt;
-
-&lt;p&gt;最后，愿你情人节快乐。&lt;/p&gt;
-
+&lt;p&gt;&lt;em&gt;在这个激情的夏天，扔掉手里的卫生纸，放下心中的苍老师。无论你钟情的是妹子还是汉子，让他们为你而 hot。男人不需要一直有腹肌，一生至少要一次。&lt;/em&gt;&lt;/p&gt;
 </content>
-<category term="weiwei" />
+<category term="Film Review" />
 <summary></summary>
 </entry>
 <entry>
-<title>Merry Christmas</title>
-<link href="http://localhost:3000/merry-christmas/" rel="alternate" type="text/html" title="Merry Christmas" />
-<published>2017-12-25T00:00:00+08:00</published>
-<updated>2017-12-25T00:00:00+08:00</updated>
-<id>http://localhost:3000/merry-christmas</id>
-<content type="html" xml:base="http://localhost:3000/merry-christmas/">&lt;style&gt;
-ul li {line-height: unset;}
-
+<title>一个世界</title>
+<link href="http://localhost:3000/one-world/" rel="alternate" type="text/html" title="一个世界" />
+<published>2017-05-28T00:00:00+08:00</published>
+<updated>2017-05-28T00:00:00+08:00</updated>
+<id>http://localhost:3000/one-world</id>
+<content type="html" xml:base="http://localhost:3000/one-world/">&lt;style&gt;
 .wrapper-hero {
   width: 112%;
   margin-left: -6%;
 }
- 
 .fl {
   float: left;
   font-size: 50px;
@@ -417,88 +381,84 @@ ul li {line-height: unset;}
 &lt;/style&gt;
 
 &lt;div class=&quot;wrapper-hero&quot;&gt;
-
-&lt;img src=&quot;{{site.url}}/assets/images/merry-christmas.gif&quot; /&gt;
+&lt;img src=&quot;{{ site.url }}/assets/images/long-distance.jpg&quot; style=&quot;display:block; margin: 0 auto;&quot; /&gt;
 
 &lt;a class=&quot;link-to-author&quot; style=&quot;
           font-style: italic;
           text-decoration: none;
           color: lightgray;
           font-size: 13px;
-          display: block;
-          margin-top: 10px;
-         &quot; href=&quot;https://dribbble.com/UIcousin&quot;&gt;Illustration by Qinjian on Dribbble&lt;/a&gt;
+         &quot; href=&quot;http://www.freepik.com&quot;&gt;Illustration Designed by Freepik&lt;/a&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;女&lt;/span&gt;友生在年末，我生在次年年初，我们之间也就差几个月。我反而总爱开玩笑说她比我大一岁，她很是不喜欢，骨子里，她只想做一个小女人，但偏偏，成长过程中，女友的父母对她的要求甚是严格，造就了她现在强势的一面， 这样的她在职场上如鱼得水，干练好强的气场吓走了不少男生 ，搞得自己好几年没有谈恋爱。而我，趁虚而入，在今年的春天，捡了这个幸福的漏。&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;女&lt;/span&gt;友住在基隆，一座紧挨台北的沿海老城。她在这里长大，她常说比起新城的朝气，自己更喜欢老城的温暖。有机会的话，她一定要带我来这里，感同身受这个她从小长大的地方。&lt;/p&gt;
 
-&lt;p&gt;追女友的时候，靠的就是死缠烂打，每天嘴里不是在跑火车，就是在扯飞机。她这样的女孩 ，没见过如此 low 的攻势，肯定招架不住，于是乎，轻轻松松被我坑到了手。后来女友常说便宜我了，所以我才不懂得珍惜。其实，她错了，就算不便宜我，我依然不会珍惜。&lt;/p&gt;
+&lt;p&gt;女友很忙，负责公司的人力资源和战略部署，同时管的事情杂七杂八，需要出面和政府打交道，晚上更需要参加企业家 EMBA，周末的安排也是满得不行。奇怪的是，她总能抽出很多时间来粘我，一心一意得和我聊天，从不干别的。&lt;/p&gt;
 
-&lt;p&gt;女友一直很清楚，什么样的人能给她带来幸福，一个大肩膀，可以挡风遮雨。累了，有个胸怀可以靠，困了，有个手臂可以抱，疺了，窝在家里，倦了，出国散心。仔细想，这得多难啊。所以，她不如变得超级物质算了，一个包包，换我一个月清闲。&lt;/p&gt;
+&lt;p&gt;细想，女友付出的比我多得多， 她尽量把事情都做完，每早等着我起床，可以和我聊天。每晚睡觉之前，即使眼睛都困得睁不开了，依然嘴硬不愿意挂电话，无非是想多和我聊会儿。&lt;/p&gt;
 
-&lt;p&gt;我爱自由，女友爱管，她不喜欢我分心，可我总在发呆。她会难过，觉得我不在意，但我会变着法子给她带去惊喜。她怪我不记得她的行程，但重要的日子我总会提前打算。我们也会争吵，但总是马上和好。我们也会感慨，但信心依旧。&lt;/p&gt;
+&lt;p&gt;女友常形容我后知后觉，感情的事当下感觉不到。我则打趣说，Better late than never。说来有趣，我神经大条，什么都没给她的时候就大言不惭得问她当我女票，她竟然还答应了。有时，我开玩笑说她没眼光，找了一个不靠谱的家伙，不仅是异地，还异国。她总是说，对她好就行了。&lt;/p&gt;
 
-&lt;p&gt;爱情不过如此，包容，理解，还有从未改变的心动。&lt;/p&gt;
+&lt;p&gt;爱，也许就应该简单到，她让我心动，我给她期待。&lt;/p&gt;
 
-&lt;p&gt;2017 年春，我认识了一个叫微微的女孩，她长相甜美，声音可爱，说起话来头头是道。我想，我很幸运，因为这个圣诞节，有你。&lt;/p&gt;
+&lt;p&gt;上周，我在公司参加了一个黑客马拉松的活动，24 小时没有合眼。回家之后，发视频给她，说我累了要休息。她说自己想去骑脚踏车，说罢，便起身准备。她换好衣服，来到车库之后，嘀嘀咕咕得说需要这个和那个，接着又开始叮叮咚咚得粘东西。期间，手机不慎跌落了两次，还不小心把手给划破了。我有点不耐烦，责怪她把手弄破了， 更不理解骑车出门竟然需要这么久。她却毫不在意，继续乐此不疲得鼓捣着手里的零件，原来她是想把架子和手机固定在脚踏车上。当她把脚踏车推出车库之后，才告诉我她的目的。她说，“我知道你累了，为了让你放松心情，我只是想在你睡觉之前，骑着脚踏车带你去看海，心情好了， 才能睡好。”&lt;/p&gt;
 
+&lt;p&gt;如果有天，有人把我当世界， 我还不懂得珍惜，那么，我失去的不仅仅会是一个世界。&lt;/p&gt;
 </content>
-<category term="weiwei" />
+<category term="story" />
 <summary></summary>
 </entry>
 <entry>
-<title>Her Birthday</title>
-<link href="http://localhost:3000/her-birthday/" rel="alternate" type="text/html" title="Her Birthday" />
-<published>2017-10-27T00:00:00+08:00</published>
-<updated>2017-10-27T00:00:00+08:00</updated>
-<id>http://localhost:3000/her-birthday</id>
-<content type="html" xml:base="http://localhost:3000/her-birthday/">&lt;p&gt;&lt;img src=&quot;{{ site.url }}/assets/images/bday.svg&quot; style=&quot;width: 700px; display:block; margin: 0 auto;&quot; /&gt;&lt;/p&gt;
+<title>看我太空拳《猩猩打怪》影评</title>
+<link href="http://localhost:3000/kong-review/" rel="alternate" type="text/html" title="看我太空拳《猩猩打怪》影评" />
+<published>2017-03-29T00:00:00+08:00</published>
+<updated>2017-03-29T00:00:00+08:00</updated>
+<id>http://localhost:3000/kong-review</id>
+<content type="html" xml:base="http://localhost:3000/kong-review/">&lt;p&gt;&lt;img src=&quot;{{ site.url }}/assets/images/kong.jpg&quot; style=&quot;display:block; margin: 0 auto;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a class=&quot;link-to-author&quot; style=&quot;           font-style: italic;           text-decoration: none;           color: lightgray;           font-size: 13px;          &quot; href=&quot;https://www.freepik.com&quot;&gt;Illustration Designed by Freepik&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;几周前看了《金刚：骷髅岛》，犹犹豫豫要不要写影评，最终还是决定写点什么。&lt;/p&gt;
 
-&lt;p&gt;早晨，醒来，洗漱，惊现： &lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;作为一个爆米花电影，剧情的发展和走向合情合理，没有意外。几个演员的表演也中规中矩，负责搞笑和担任颜值的都交上了满意的答卷，塞缪尔演绎的固执军官形象令人生厌，很是出彩。&lt;/p&gt;
 
-&lt;p&gt;发型帅到爆，细看，皮肤细腻了，眼神坚毅了，腹肌明显了，貌似身高也增了，神清气爽。&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;片中有提到秩序的维护，猩猩作为骷髅岛上面的老大，是秩序的体现，更是岛上生态圈里必不可少的一环，少了猩猩， 整岛遭殃。同时，因为故事背景是越南战争，所以不可避免地，小小讲了下反战。&lt;/p&gt;
 
-&lt;p&gt;又特么帅了，感叹，这让其他男同胞怎么混？&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;影片最精彩的莫过于最后的肉搏，两脚大脸怪的抗击打能力强到离谱。正好，满足了我刚刚（金刚）各种拉轰耍帅。&lt;/p&gt;
 
-&lt;p&gt;思考，why。&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;刚刚第一式 – 天降大拳头。只见，天空突暗，貌似有个毛茸茸的家伙，弹跳力夸张，直接高到挡住了太阳。而且毛茸茸还懂物理，高度 + 体重 + 速度 + 地心引力 + 拳头的力量足以让两脚大脸怪立即眩晕。第一回合，KO，刚刚胜利。&lt;/p&gt;
 
-&lt;p&gt;因为是她的生日。&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;刚刚第二式 - 心中有剑，万物皆是剑。我刚刚抄起一跟巨型竹棍，心无杂念，万剑归心，我戳，我戳，我戳戳戳。无奈，两脚怪虽脸大，但是敏捷过高，我刚各种 miss，两角怪抓住机会，一个头槌把我刚怼倒。第二回合，KO，两脚大脸怪胜利。&lt;/p&gt;
 
-&lt;p&gt;而同一天，是他的快乐日，非常非常快乐。&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;刚刚第三式 - 色诱流星锤。我刚拿起轮船铁锚，旋转两圈，铁链缠身，貌似 SM，实则色诱。两脚怪一看到胸毛加铁链的组合，各种懵逼，我刚一看战术有效，流星锤甩起来，直砸你脸。第三回合，KO，刚刚胜利。&lt;/p&gt;
 
-&lt;p&gt;爱情就是她的生日幸福过他的生日。&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;刚刚奥义 - 万力合一，无敌太空拳。这时，我刚血红，蓝满，续气，曝气，下前下前 A。刺棱 – 脸部特写，表情狰狞无限，喊声响彻天空，震动整岛。“太-空-拳”，只打两角怪的大脸， 正中目标（档毛啊，你不知道奥义档也没用吗？）虽然你脸大，没用我家洗面奶，但我就是想打。最终回，KO，Prefect，刚刚胜利。&lt;/p&gt;
+
+&lt;p&gt;经过此次战役，刚刚成功晋级下一轮，对手是外表丑陋，内心卡哇伊的岛国神兽 - 哥斯拉。&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;P.S&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;剧中有个中国演员，争议很大。我想说，一个人有今天的成就，无论是机遇，运气，背景，或者是不会被注意到的努力，我们只看到了表面。恶意的谩骂和无尽的诋毁，意义一点不大。如果趣味低级，把快乐建立在恶意攻击别人的基础上，我相信这样的人生永远也不会快乐起来。&lt;/em&gt;&lt;/p&gt;
 </content>
-<category term="weiwei" />
+<category term="Film Review" />
 <summary></summary>
 </entry>
 <entry>
-<title>One Person One Promise One Purpose</title>
-<link href="http://localhost:3000/one-person-one-primose-one-purpose/" rel="alternate" type="text/html" title="One Person One Promise One Purpose" />
-<published>2017-10-03T00:00:00+08:00</published>
-<updated>2017-10-03T00:00:00+08:00</updated>
-<id>http://localhost:3000/one-person-one-primose-one-purpose</id>
-<content type="html" xml:base="http://localhost:3000/one-person-one-primose-one-purpose/">&lt;p&gt;&lt;img src=&quot;{{ site.url }}/assets/images/one-person.jpg&quot; style=&quot;width: 700px; display:block; margin: 0 auto;&quot; /&gt;&lt;/p&gt;
+<title>小鹿撞城堡《美女与野兽》影评</title>
+<link href="http://localhost:3000/beauty-and-the-beast-review/" rel="alternate" type="text/html" title="小鹿撞城堡《美女与野兽》影评" />
+<published>2017-03-21T00:00:00+08:00</published>
+<updated>2017-03-21T00:00:00+08:00</updated>
+<id>http://localhost:3000/beauty-and-the-beast-review</id>
+<content type="html" xml:base="http://localhost:3000/beauty-and-the-beast-review/">&lt;p&gt;&lt;img src=&quot;{{ site.url }}/assets/images/beauty-and-the-beast.jpg&quot; style=&quot;display:block; margin: 0 auto;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a class=&quot;link-to-author&quot; style=&quot;           font-style: italic;           text-decoration: none;           color: lightgray;           font-size: 13px;          &quot; href=&quot;http://www.freepik.com&quot;&gt;Illustration Designed by Freepik&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;《美女与野兽》一直是公主片里面 IP 经营最好的，没有之一。迪士尼必然不会怠慢真人版，光是选角的两个人，从颜值，学历，品德来看都没有任何争议。本是一个在美国创作的童话，但是由于故事是以法国为背景，大不列颠演员身上的文化底蕴可以得到充分发挥。如果说前几年，迪士尼动画片在皮克斯和梦工厂的围剿下四面楚歌的话，这两年的片子明显又回到了原来的感觉 - 我是公主片大佬，你服不服？&lt;/p&gt;
 
-&lt;p&gt;6 Months, &lt;br /&gt;
-26 weeks, &lt;br /&gt;
-181 days, &lt;br /&gt;
-4344 hours. &lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;经典的故事，唯美的画面，动听的配乐，浪漫的场景，符合任何一个人对爱情的憧憬和幻想。叙事流畅，舞美细腻，细节完美，当用现代的技术把经典再次呈现的时候，最好的致敬就是还原。整片的还原度非常高，很多细节有过之而无不及。餐具招待贝儿吃饭的歌舞，美轮美奂，美倒美利坚。保护城堡的打斗的群架让人目不暇接。唯一美中不足的就是全片的高潮，那段羡煞旁人的舞蹈，为什么没有美到要报警，结束得有点仓促，让人意犹未尽。我只希望时间再多一点，灯光再明一点，裙子再飘一点，眼神再骚一点。&lt;/p&gt;
 
-&lt;p&gt;2 Continents, &lt;br /&gt;
-3 Time Zones, &lt;br /&gt;
-5 Cities, &lt;br /&gt;
-10 Locations. &lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;P.S.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Because 1 person, &lt;br /&gt;
-For 1 purpose, &lt;br /&gt;
-By 1 promise.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;它有故事，它有学识，它有品位。它绅士，它幽默，它跳舞，它看莎士比亚。它嗓音浑厚，口音英伦，高大威猛。当它单手把你托进它广域胸怀的时候，你的小鹿是否已经撞晕？清醒一下，环顾四周，小鹿在乱撞的不是墙，而是一整座华丽的城堡。&lt;/em&gt;&lt;/p&gt;
 
 </content>
-<category term="weiwei" />
+<category term="Film Review" />
 <summary></summary>
 </entry>
 </feed>

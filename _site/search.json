@@ -1,10 +1,10 @@
 [
   
     {
-      "title"    : "Web Development 2019",
+      "title"    : "Next Chapter",
       "tags"     : "thoughts",
-      "url"      : "/web-development-2019/",
-      "date"     : "25 Dec 2018"
+      "url"      : "/next-chapter/",
+      "date"     : "04 Apr 2019"
     } ,
   
     {
@@ -16,7 +16,7 @@
   
     {
       "title"    : "Greatest Couple",
-      "tags"     : "wei wei",
+      "tags"     : "story",
       "url"      : "/greatest-couple/",
       "date"     : "22 Nov 2018"
     } ,
@@ -36,52 +36,10 @@
     } ,
   
     {
-      "title"    : "The 365th Day",
-      "tags"     : "weiwei",
-      "url"      : "/the-365th-day/",
-      "date"     : "05 Apr 2018"
-    } ,
-  
-    {
-      "title"    : "Happy Valentine&#39;s Day",
-      "tags"     : "weiwei",
-      "url"      : "/valentines-day/",
-      "date"     : "14 Feb 2018"
-    } ,
-  
-    {
-      "title"    : "Merry Christmas",
-      "tags"     : "weiwei",
-      "url"      : "/merry-christmas/",
-      "date"     : "25 Dec 2017"
-    } ,
-  
-    {
-      "title"    : "Her Birthday",
-      "tags"     : "weiwei",
-      "url"      : "/her-birthday/",
-      "date"     : "27 Oct 2017"
-    } ,
-  
-    {
-      "title"    : "One Person One Promise One Purpose",
-      "tags"     : "weiwei",
-      "url"      : "/one-person-one-primose-one-purpose/",
-      "date"     : "03 Oct 2017"
-    } ,
-  
-    {
       "title"    : "第 100 天",
-      "tags"     : "weiwei",
+      "tags"     : "story",
       "url"      : "/100-days/",
       "date"     : "14 Jul 2017"
-    } ,
-  
-    {
-      "title"    : "刚刚好",
-      "tags"     : "weiwei",
-      "url"      : "/just-enough/",
-      "date"     : "17 Jun 2017"
     } ,
   
     {
@@ -92,38 +50,10 @@
     } ,
   
     {
-      "title"    : "完美的爱情",
-      "tags"     : "weiwei",
-      "url"      : "/my-beauty-of-love/",
-      "date"     : "06 Jun 2017"
-    } ,
-  
-    {
       "title"    : "一个世界",
-      "tags"     : "love",
+      "tags"     : "story",
       "url"      : "/one-world/",
       "date"     : "28 May 2017"
-    } ,
-  
-    {
-      "title"    : "521",
-      "tags"     : "weiwei",
-      "url"      : "/521/",
-      "date"     : "21 May 2017"
-    } ,
-  
-    {
-      "title"    : "她说~我说",
-      "tags"     : "love",
-      "url"      : "/she-says/",
-      "date"     : "11 Apr 2017"
-    } ,
-  
-    {
-      "title"    : "在一起",
-      "tags"     : "love",
-      "url"      : "/together/",
-      "date"     : "05 Apr 2017"
     } ,
   
     {

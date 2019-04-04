@@ -3,7 +3,7 @@ title: "Greatest Couple"
 layout: post
 date: 2018-11-22
 tag:
-- wei wei
+- story
 blog: true
 star: false
 ---
@@ -11,7 +11,6 @@ star: false
 
 @media screen (min-width: 1000px) { 
   .wrapper-hero {
-    border: 1px solid red;
   }
  }
 
