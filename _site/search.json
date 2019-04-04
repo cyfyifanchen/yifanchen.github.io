@@ -1,6 +1,13 @@
 [
   
     {
+      "title"    : "Next Chapter",
+      "tags"     : "story",
+      "url"      : "/next-chapter/",
+      "date"     : "05 Apr 2019"
+    } ,
+  
+    {
       "title"    : "数据~啊~数据",
       "tags"     : "thoughts",
       "url"      : "/oh-my-data/",
