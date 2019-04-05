@@ -20,5 +20,5 @@ Issues when running bundler:
 
     sudo gem install bundler -n /usr/local/bin
 
-
+Github page now supports custom domain with HTTPS, don't forget to add or udpate the CNAME next time.
 
