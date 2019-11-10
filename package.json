@@ -1,17 +1,17 @@
 {
-  "name": "indigo",
+  "name": "cyf",
   "version": "0.1.0",
   "main": "gulpfile.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sergiokopplin/indigo.git"
+    "url": ""
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sergiokopplin/indigo/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/sergiokopplin/indigo#readme",
+  "homepage": "",
   "devDependencies": {
     "autoprefixer-stylus": "^0.8.1",
     "browser-sync": "^2.10.1",
