@@ -444,11 +444,13 @@ pre {
   display: flex;
   -ms-flex-pack: center;
       justify-content: center;
+  padding: 60px 0;
 }
 @media only screen and (max-width: 400px) {
   .blog {
     -ms-flex-flow: row wrap;
         flex-flow: row wrap;
+    padding: 0 0 40px 0;
   }
 }
 .home > .list,

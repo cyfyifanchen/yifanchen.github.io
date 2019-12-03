@@ -9,6 +9,8 @@ star: false
 ---
 <iframe width="1917" height="716" src="https://www.youtube.com/embed/ANtSWq-zI0s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+One of the best videos I've seen this year need to take notes of it.
+
 > Frameworks should be distinguished by the design tradeoffs they offer on scope, render mechanism, and state mechanism, rather than on popularity and community based metrics.
 
 ## Scope
