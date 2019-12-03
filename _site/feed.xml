@@ -1,82 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:3000/" rel="alternate" type="text/html" /><updated>2019-12-03T10:12:20+08:00</updated><id>http://localhost:3000/feed.xml</id><title type="html">Yifan Chen</title><entry><title type="html">What it Means to be an Architect</title><link href="http://localhost:3000/what-it-means-to-be-an-architect/" rel="alternate" type="text/html" title="What it Means to be an Architect" /><published>2019-12-01T00:00:00+08:00</published><updated>2019-12-01T00:00:00+08:00</updated><id>http://localhost:3000/what-it-means-to-be-an-architect</id><content type="html" xml:base="http://localhost:3000/what-it-means-to-be-an-architect/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;W&lt;/span&gt;e often head the very same question.&lt;/p&gt;</content><author><name></name></author><category term="dev" /><summary type="html">We often head the very same question.</summary></entry><entry><title type="html">Above the fold</title><link href="http://localhost:3000/above-the-fold/" rel="alternate" type="text/html" title="Above the fold" /><published>2019-11-12T00:00:00+08:00</published><updated>2019-11-12T00:00:00+08:00</updated><id>http://localhost:3000/above-the-fold</id><content type="html" xml:base="http://localhost:3000/above-the-fold/"></content><author><name></name></author><category term="dev" /><summary type="html"></summary></entry><entry><title type="html">Auth JWT on Client Side</title><link href="http://localhost:3000/auth-within-client-side/" rel="alternate" type="text/html" title="Auth JWT on Client Side" /><published>2019-09-30T00:00:00+08:00</published><updated>2019-09-30T00:00:00+08:00</updated><id>http://localhost:3000/auth-within-client-side</id><content type="html" xml:base="http://localhost:3000/auth-within-client-side/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;我&lt;/span&gt;们总会记得为他人做得一点，而忽略了他人为我们做得一片，我们从不会知道这一点一片改变了谁，或者谁又改变了我们。命运总是在不知不觉中安排着我们还不知道的事情，而这些以为在取舍之间的该改变变，在经过之后，才懂得，命运，自有它的道理，每一次的开始和每一遍的结束，都完整了我们必须行走的历程。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:3000/" rel="alternate" type="text/html" /><updated>2019-12-03T10:29:10+08:00</updated><id>http://localhost:3000/feed.xml</id><title type="html">Yifan Chen</title><entry><title type="html">What it Means to be an Architect</title><link href="http://localhost:3000/what-it-means-to-be-an-architect/" rel="alternate" type="text/html" title="What it Means to be an Architect" /><published>2019-12-01T00:00:00+08:00</published><updated>2019-12-01T00:00:00+08:00</updated><id>http://localhost:3000/what-it-means-to-be-an-architect</id><content type="html" xml:base="http://localhost:3000/what-it-means-to-be-an-architect/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;&lt;/span&gt;&lt;/p&gt;</content><author><name></name></author><category term="dev" /><summary type="html"></summary></entry><entry><title type="html">Above the fold</title><link href="http://localhost:3000/above-the-fold/" rel="alternate" type="text/html" title="Above the fold" /><published>2019-11-12T00:00:00+08:00</published><updated>2019-11-12T00:00:00+08:00</updated><id>http://localhost:3000/above-the-fold</id><content type="html" xml:base="http://localhost:3000/above-the-fold/"></content><author><name></name></author><category term="dev" /><summary type="html"></summary></entry><entry><title type="html">Auth JWT on Client Side</title><link href="http://localhost:3000/auth-within-client-side/" rel="alternate" type="text/html" title="Auth JWT on Client Side" /><published>2019-09-30T00:00:00+08:00</published><updated>2019-09-30T00:00:00+08:00</updated><id>http://localhost:3000/auth-within-client-side</id><content type="html" xml:base="http://localhost:3000/auth-within-client-side/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;&lt;/span&gt;&lt;/p&gt;</content><author><name></name></author><category term="dev" /><summary type="html"></summary></entry><entry><title type="html">Rethinking CI</title><link href="http://localhost:3000/rethinking-ci/" rel="alternate" type="text/html" title="Rethinking CI" /><published>2019-09-05T00:00:00+08:00</published><updated>2019-09-05T00:00:00+08:00</updated><id>http://localhost:3000/rethinking-ci</id><content type="html" xml:base="http://localhost:3000/rethinking-ci/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;&lt;/span&gt;&lt;/p&gt;</content><author><name></name></author><category term="dev" /><summary type="html"></summary></entry><entry><title type="html">Karabiner Element Config</title><link href="http://localhost:3000/karabiner-element-config/" rel="alternate" type="text/html" title="Karabiner Element Config" /><published>2019-08-15T00:00:00+08:00</published><updated>2019-08-15T00:00:00+08:00</updated><id>http://localhost:3000/karabiner-element-config</id><content type="html" xml:base="http://localhost:3000/karabiner-element-config/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;K&lt;/span&gt;eyboad Mastro was what I was using for a couple of years, it did the job while Karabiner wasn’t able to keep up with macOS updates. I liked it and felt quite comfortable with tons cofigs, but I was not a fan of paying it annually. I ended up switching back to Karabiner, and this post is going to share how my setup is, maybe you find it helpful.&lt;/p&gt;</content><author><name></name></author><category term="dev" /><summary type="html">Keyboad Mastro was what I was using for a couple of years, it did the job while Karabiner wasn’t able to keep up with macOS updates. I liked it and felt quite comfortable with tons cofigs, but I was not a fan of paying it annually. I ended up switching back to Karabiner, and this post is going to share how my setup is, maybe you find it helpful.</summary></entry><entry><title type="html">What can we do with WASM</title><link href="http://localhost:3000/what-can-we-do-with-wasm/" rel="alternate" type="text/html" title="What can we do with WASM" /><published>2019-06-12T00:00:00+08:00</published><updated>2019-06-12T00:00:00+08:00</updated><id>http://localhost:3000/what-can-we-do-with-wasm</id><content type="html" xml:base="http://localhost:3000/what-can-we-do-with-wasm/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;&lt;/span&gt;&lt;/p&gt;</content><author><name></name></author><category term="dev" /><summary type="html"></summary></entry><entry><title type="html">Seeking the Balance of Framework Design</title><link href="http://localhost:3000/seeking-balance-in-framework-design/" rel="alternate" type="text/html" title="Seeking the Balance of Framework Design" /><published>2019-05-15T00:00:00+08:00</published><updated>2019-05-15T00:00:00+08:00</updated><id>http://localhost:3000/seeking-balance-in-framework-design</id><content type="html" xml:base="http://localhost:3000/seeking-balance-in-framework-design/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;O&lt;/span&gt;ne of the best videos I’ve seen this year, surprisingly have I not seen any blogs about it. Well, if you aren’t going to take a note, I am.&lt;/p&gt;</content><author><name></name></author><category term="dev" /><summary type="html">One of the best videos I’ve seen this year, surprisingly have I not seen any blogs about it. Well, if you aren’t going to take a note, I am.</summary></entry><entry><title type="html">Next Chapter</title><link href="http://localhost:3000/next-chapter/" rel="alternate" type="text/html" title="Next Chapter" /><published>2019-04-05T00:00:00+08:00</published><updated>2019-04-05T00:00:00+08:00</updated><id>http://localhost:3000/next-chapter</id><content type="html" xml:base="http://localhost:3000/next-chapter/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;我&lt;/span&gt;们总会记得为他人做得一点，而忽略了他人为我们做得一片，我们从不会知道这一点一片改变了谁，或者谁又改变了我们。命运总是在不知不觉中安排着我们还不知道的事情，而这些以为在取舍之间的该改变变，在经过之后，才懂得，命运，自有它的道理，每一次的开始和每一遍的结束，都完整了我们必须行走的历程。&lt;/p&gt;
 
 &lt;p&gt;缘起缘落，并不会随着分合离散而消失，它化作无声的祝福，躲在你我身边，为我们的下段感情保驾护航。&lt;/p&gt;
 
-&lt;p&gt;感谢陪伴，祝你幸福。&lt;/p&gt;</content><author><name></name></author><category term="dev" /><summary type="html">我们总会记得为他人做得一点，而忽略了他人为我们做得一片，我们从不会知道这一点一片改变了谁，或者谁又改变了我们。命运总是在不知不觉中安排着我们还不知道的事情，而这些以为在取舍之间的该改变变，在经过之后，才懂得，命运，自有它的道理，每一次的开始和每一遍的结束，都完整了我们必须行走的历程。</summary></entry><entry><title type="html">Rethinking CI</title><link href="http://localhost:3000/rethinking-ci/" rel="alternate" type="text/html" title="Rethinking CI" /><published>2019-09-05T00:00:00+08:00</published><updated>2019-09-05T00:00:00+08:00</updated><id>http://localhost:3000/rethinking-ci</id><content type="html" xml:base="http://localhost:3000/rethinking-ci/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;感&lt;/span&gt;觉 CI 已经被我们用坏了。&lt;/p&gt;</content><author><name></name></author><category term="dev" /><summary type="html">感觉 CI 已经被我们用坏了。</summary></entry><entry><title type="html">Karabiner Element Config</title><link href="http://localhost:3000/karabiner-element-config/" rel="alternate" type="text/html" title="Karabiner Element Config" /><published>2019-08-15T00:00:00+08:00</published><updated>2019-08-15T00:00:00+08:00</updated><id>http://localhost:3000/karabiner-element-config</id><content type="html" xml:base="http://localhost:3000/karabiner-element-config/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;K&lt;/span&gt;eyboad Mastro was what I was using for a couple of years, it did the job while Karabiner wasn’t able to keep up with macOS updates. I liked it and felt quite comfortable with tons cofigs, but I was not a fan of paying it annually. I ended up switching back to Karabiner, and this post is going to share how my setup is, maybe you find it helpful.&lt;/p&gt;</content><author><name></name></author><category term="dev" /><summary type="html">Keyboad Mastro was what I was using for a couple of years, it did the job while Karabiner wasn’t able to keep up with macOS updates. I liked it and felt quite comfortable with tons cofigs, but I was not a fan of paying it annually. I ended up switching back to Karabiner, and this post is going to share how my setup is, maybe you find it helpful.</summary></entry><entry><title type="html">What can we do with WASM</title><link href="http://localhost:3000/what-can-we-do-with-wasm/" rel="alternate" type="text/html" title="What can we do with WASM" /><published>2019-06-12T00:00:00+08:00</published><updated>2019-06-12T00:00:00+08:00</updated><id>http://localhost:3000/what-can-we-do-with-wasm</id><content type="html" xml:base="http://localhost:3000/what-can-we-do-with-wasm/">&lt;style&gt;
-.wrapper-hero {
-width: 112%;
-margin-left: -6%;
-}
-
-.fl {
-float: left;
-font-size: 50px;
-line-height: 50px;
-padding-top: 0;
-padding-right: 8px;
-padding-left: 3px;
-}
-&lt;/style&gt;
-
-&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;我&lt;/span&gt;们总会记得为他人做得一点，而忽略了他人为我们做得一片，我们从不会知道这一点一片改变了谁，或者谁又改变了我们。命运总是在不知不觉中安排着我们还不知道的事情，而这些以为在取舍之间的该改变变，在经过之后，才懂得，命运，自有它的道理，每一次的开始和每一遍的结束，都完整了我们必须行走的历程。&lt;/p&gt;
-
-&lt;p&gt;缘起缘落，并不会随着分合离散而消失，它化作无声的祝福，躲在你我身边，为我们的下段感情保驾护航。&lt;/p&gt;
-
-&lt;p&gt;感谢陪伴，祝你幸福。&lt;/p&gt;</content><author><name></name></author><category term="dev" /><summary type="html"></summary></entry><entry><title type="html">Seeking the Balance of Framework Design</title><link href="http://localhost:3000/seeking-balance-in-framework-design/" rel="alternate" type="text/html" title="Seeking the Balance of Framework Design" /><published>2019-05-15T00:00:00+08:00</published><updated>2019-05-15T00:00:00+08:00</updated><id>http://localhost:3000/seeking-balance-in-framework-design</id><content type="html" xml:base="http://localhost:3000/seeking-balance-in-framework-design/">&lt;style&gt;
-.wrapper-hero {
-width: 112%;
-margin-left: -6%;
-}
-
-.fl {
-float: left;
-font-size: 50px;
-line-height: 50px;
-padding-top: 0;
-padding-right: 8px;
-padding-left: 3px;
-}
-&lt;/style&gt;
-
-&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;O&lt;/span&gt;ne of the best videos I’ve seen this year, surprisingly have I not seen any blogs about it. Well, if you aren’t going to take a note, I am.&lt;/p&gt;</content><author><name></name></author><category term="dev" /><summary type="html"></summary></entry><entry><title type="html">Next Chapter</title><link href="http://localhost:3000/next-chapter/" rel="alternate" type="text/html" title="Next Chapter" /><published>2019-04-05T00:00:00+08:00</published><updated>2019-04-05T00:00:00+08:00</updated><id>http://localhost:3000/next-chapter</id><content type="html" xml:base="http://localhost:3000/next-chapter/">&lt;style&gt;
-.wrapper-hero {
-width: 112%;
-margin-left: -6%;
-}
-
-.fl {
-float: left;
-font-size: 50px;
-line-height: 50px;
-padding-top: 0;
-padding-right: 8px;
-padding-left: 3px;
-}
-&lt;/style&gt;
-
-&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;我&lt;/span&gt;们总会记得为他人做得一点，而忽略了他人为我们做得一片，我们从不会知道这一点一片改变了谁，或者谁又改变了我们。命运总是在不知不觉中安排着我们还不知道的事情，而这些以为在取舍之间的该改变变，在经过之后，才懂得，命运，自有它的道理，每一次的开始和每一遍的结束，都完整了我们必须行走的历程。&lt;/p&gt;
-
-&lt;p&gt;缘起缘落，并不会随着分合离散而消失，它化作无声的祝福，躲在你我身边，为我们的下段感情保驾护航。&lt;/p&gt;
-
-&lt;p&gt;感谢陪伴，祝你幸福。&lt;/p&gt;</content><author><name></name></author><category term="story" /><summary type="html"></summary></entry><entry><title type="html">Oh my data</title><link href="http://localhost:3000/oh-my-data/" rel="alternate" type="text/html" title="Oh my data" /><published>2018-11-25T00:00:00+08:00</published><updated>2018-11-25T00:00:00+08:00</updated><id>http://localhost:3000/oh-my-data</id><content type="html" xml:base="http://localhost:3000/oh-my-data/">&lt;style&gt;
-ul li {line-height: unset;}
-
-.wrapper-hero {
-  width: 112%;
-  margin-left: -6%;
-}
-
-.fl {
-  float: left;
-  font-size: 50px;
-  line-height: 50px;
-  padding-top: 0;
-  padding-right: 8px;
-  padding-left: 3px;
-}
-&lt;/style&gt;
-
-&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;前&lt;/span&gt;段时间，公司的运营反应说数据准确性不可靠，无法制定详细的运营战略，老板故安排我调研数据的可靠性，本以为调研类的工作不好进展，但是一段时间查下来，结果虽然不是很明显，但是答案还是有的。&lt;/p&gt;
+&lt;p&gt;感谢陪伴，祝你幸福。&lt;/p&gt;</content><author><name></name></author><category term="story" /><summary type="html">我们总会记得为他人做得一点，而忽略了他人为我们做得一片，我们从不会知道这一点一片改变了谁，或者谁又改变了我们。命运总是在不知不觉中安排着我们还不知道的事情，而这些以为在取舍之间的该改变变，在经过之后，才懂得，命运，自有它的道理，每一次的开始和每一遍的结束，都完整了我们必须行走的历程。</summary></entry><entry><title type="html">Oh my data</title><link href="http://localhost:3000/oh-my-data/" rel="alternate" type="text/html" title="Oh my data" /><published>2018-11-25T00:00:00+08:00</published><updated>2018-11-25T00:00:00+08:00</updated><id>http://localhost:3000/oh-my-data</id><content type="html" xml:base="http://localhost:3000/oh-my-data/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;前&lt;/span&gt;段时间，公司的运营反应说数据准确性不可靠，无法制定详细的运营战略，老板故安排我调研数据的可靠性，本以为调研类的工作不好进展，但是一段时间查下来，结果虽然不是很明显，但是答案还是有的。&lt;/p&gt;
 
 &lt;p&gt;现在市面上的 data solutions 很多，除了我们大家熟知的 Google Analytics，其他还有五花八门的，比如专门针对 Facebook 平台的 Pixel，在自己平台用的 Snap Pixel，能查到具体个人和 business 的 Leadfeeder，有 detailed user behaviors 的 Kissmetrics，有擅长 Campaign 的 GoSquared 等。还有根据 data 衍生出来的其他行业，比如针对电商的 related products 和广告的 campaign source tracking 等等。对于初创公司而言，在不了解什么样的 data 对自己有价值的时候，与其选择付费用 data solutions，不如老老实实用  Google Analytics。Google Analytics 的功能非常非常丰富，以助于很多新手看到繁琐的界面，反而不知道从哪里入手，而成为其他 data solutions 嘴里的一个「缺点」。&lt;/p&gt;
 
@@ -86,7 +12,7 @@ ul li {line-height: unset;}
 
 &lt;p&gt;但是，为什么数据会总是出现不匹配的情况呢？每家的数据都无法匹配上，让我如何运营？其实，这就是有趣的地方。第一，每个 analysts 的算法不一样。第二，每个 analysts 的对象不一样。所以，会出现不准确的情况，尤其是在 client side 的数据。&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;未完待续~&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><category term="dev" /><summary type="html"></summary></entry><entry><title type="html">Greatest Couple</title><link href="http://localhost:3000/greatest-couple/" rel="alternate" type="text/html" title="Greatest Couple" /><published>2018-11-22T00:00:00+08:00</published><updated>2018-11-22T00:00:00+08:00</updated><id>http://localhost:3000/greatest-couple</id><content type="html" xml:base="http://localhost:3000/greatest-couple/">&lt;style&gt;
+&lt;p&gt;&lt;em&gt;未完待续~&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><category term="dev" /><summary type="html">前段时间，公司的运营反应说数据准确性不可靠，无法制定详细的运营战略，老板故安排我调研数据的可靠性，本以为调研类的工作不好进展，但是一段时间查下来，结果虽然不是很明显，但是答案还是有的。</summary></entry><entry><title type="html">Greatest Couple</title><link href="http://localhost:3000/greatest-couple/" rel="alternate" type="text/html" title="Greatest Couple" /><published>2018-11-22T00:00:00+08:00</published><updated>2018-11-22T00:00:00+08:00</updated><id>http://localhost:3000/greatest-couple</id><content type="html" xml:base="http://localhost:3000/greatest-couple/">&lt;style&gt;
 
 @media screen (min-width: 1000px) {
   .wrapper-hero {

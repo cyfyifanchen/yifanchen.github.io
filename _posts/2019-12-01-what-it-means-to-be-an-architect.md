@@ -8,4 +8,4 @@ blog: true
 star: false
 ---
 
-<span class="fl">W</span>e often head the very same question.
+<span class="fl"></span>

@@ -15,14 +15,6 @@ ul li {line-height: unset;}
   margin-left: -6%;
 }
 
-.fl {
-  float: left;
-  font-size: 50px;
-  line-height: 50px;
-  padding-top: 0;
-  padding-right: 8px;
-  padding-left: 3px;
-}
 </style>
 
 <div class="wrapper-hero">

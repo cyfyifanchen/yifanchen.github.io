@@ -8,4 +8,4 @@ blog: true
 star: false
 ---
 
-<span class="fl">感</span>觉 CI 已经被我们用坏了。
+<span class="fl"></span>
