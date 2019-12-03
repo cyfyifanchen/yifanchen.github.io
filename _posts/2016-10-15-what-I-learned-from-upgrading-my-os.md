@@ -3,8 +3,7 @@ title: "What I learned from upgrading to Sierra"
 layout: post
 date: 2016-10-15
 tag:
-- technology
-- thoughts
+- dev
 blog: true
 star: false
 ---

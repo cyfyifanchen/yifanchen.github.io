@@ -4,31 +4,17 @@ layout: post
 date: 2018-11-22
 tag:
 - story
-blog: true
+life: true
 star: false
 ---
 <style>
 
-@media screen (min-width: 1000px) { 
+@media screen (min-width: 1000px) {
   .wrapper-hero {
   }
  }
 
 ul li {line-height: unset;}
-
-.wrapper-hero {
-  width: 112%;
-  margin-left: -6%;
-}
- 
-.fl {
-  float: left;
-  font-size: 50px;
-  line-height: 50px;
-  padding-top: 0;
-  padding-right: 8px;
-  padding-left: 3px;
-}
 </style>
 
 <div class="wrapper-hero">
@@ -61,6 +47,4 @@ href="https://dribbble.com/UIcousin">Illustration by Qinjian on Dribbble</a>
 
 我不缺勇气，我感激给我勇气的那个人。
 
-*P.S.*
-
-*有位智者常言，爱情还是要好好谈得~*
+*BGM: Your first light my eventide*

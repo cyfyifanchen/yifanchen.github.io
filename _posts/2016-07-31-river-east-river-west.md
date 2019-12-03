@@ -5,7 +5,7 @@ date: 2016-07-31
 tag:
 - technologies
 - thoughts
-blog: true
+life: true
 star: false
 ---
 

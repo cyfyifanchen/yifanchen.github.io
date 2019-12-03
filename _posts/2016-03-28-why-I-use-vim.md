@@ -3,9 +3,7 @@ title: "Why I use Vim"
 layout: post
 date: 2016-03-28
 tag:
-- Vim
-- tmux
-- zsh
+- dev
 blog: true
 star: false
 ---

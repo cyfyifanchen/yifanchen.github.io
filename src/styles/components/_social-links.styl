@@ -18,7 +18,7 @@
             transform translate3d(0,0,0)
 
         &:before
-            content attr(data-title)
+            content none
             display inline-block
             position absolute
             bottom -34px
@@ -37,7 +37,7 @@
             z-index 99
 
         &:after
-            content ""
+            content none
             position absolute
             top 35px
             left 13px
@@ -52,8 +52,10 @@
             z-index 100
 
         &:hover:after
+          content none
             opacity 1
             transform translate3d(0,0,0)
+
 
     > .icon
         transition all ease-in-out .2s

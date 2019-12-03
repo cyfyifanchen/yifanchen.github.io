@@ -3,8 +3,8 @@ title: "救人还是救世《奇异博士》影评"
 layout: post
 date: 2016-12-09
 tag:
-- film review
-blog: true
+- film
+life: true
 star: false
 ---
 

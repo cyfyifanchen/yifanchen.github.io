@@ -3,8 +3,8 @@ title: "看我太空拳《猩猩打怪》影评"
 layout: post
 date: 2017-03-29
 tag:
-- Film Review
-blog: true
+- film
+life: true
 star: false
 ---
 

@@ -3,9 +3,7 @@ title: "macOS Shortcuts Collection"
 layout: post
 date: 2016-03-15
 tag:
-- shortcuts
-- keymapping
-- OSX
+- dev
 blog: true
 star: false
 ---

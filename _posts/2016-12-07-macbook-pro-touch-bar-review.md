@@ -1,5 +1,5 @@
 ---
-title: "MacBook Pro with Touch Bar 模糊测评"
+title: "MacBook Pro with Touch Bar"
 layout: post
 date: 2016-12-07
 tag:

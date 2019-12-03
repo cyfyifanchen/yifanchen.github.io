@@ -1,7 +1,22 @@
+.header
+  min-width 285px
+
+  +mobile()
+    flex-basis auto
+    margin-top 15%
+
 .header-home
     display block
-    margin 0 auto
+    position fixed
+    top 20%
     text-align center
+
+    +mobile()
+      position static
+
+    > h1
+      text-transform uppercase
+      font-weight 400
 
     > .link > .selfie
         width 125px

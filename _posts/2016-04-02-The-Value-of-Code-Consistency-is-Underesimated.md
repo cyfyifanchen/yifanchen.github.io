@@ -1,11 +1,9 @@
 ---
 title: "The Value of Code Consistency is Underestimated"
 layout: post
-date: 2016-04-03 
+date: 2016-04-03
 tag:
-- thoughts 
-- team
-- design
+- dev
 blog: true
 star: false
 ---

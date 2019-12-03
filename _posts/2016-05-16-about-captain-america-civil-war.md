@@ -3,9 +3,8 @@ title: "关于美队3 - 内战"
 layout: post
 date: 2016-05-17
 tag:
-- Captain America
-- Film Review
-blog: true
+- film
+life: true
 star: false
 ---
 

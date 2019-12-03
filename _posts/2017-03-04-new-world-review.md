@@ -3,8 +3,8 @@ title: "侠盗之分《新世界》影评"
 layout: post
 date: 2017-03-04
 tag:
-- Film Review
-blog: true
+- film
+life: true
 star: false
 ---
 

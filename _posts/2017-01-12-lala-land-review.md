@@ -3,8 +3,8 @@ title: "向往之城《La La Land》影评"
 layout: post
 date: 2017-01-12
 tag:
-- Film Review
-blog: true
+- film
+life: true
 star: false
 ---
 

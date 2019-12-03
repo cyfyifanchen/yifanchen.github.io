@@ -4,7 +4,7 @@ layout: post
 date: 2019-04-05
 tag:
 - story
-blog: true
+life: true
 star: false
 ---
 <style>

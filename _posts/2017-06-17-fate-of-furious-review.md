@@ -3,8 +3,8 @@ title: "男儿当健身《速8》影评"
 layout: post
 date: 2017-06-17
 tag:
-- Film Review
-blog: true
+- film
+life: true
 star: false
 ---
 

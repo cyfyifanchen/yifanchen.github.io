@@ -3,7 +3,7 @@ title: "Tools you need in Sierra"
 layout: post
 date: 2016-10-17
 tag:
-- Sierra
+- dev
 blog: true
 star: false
 ---

@@ -1,11 +1,9 @@
 ---
 title: "Getting linters working in Atom and Vim"
 layout: post
-date: 2016-04-08 
+date: 2016-04-08
 tag:
-- vim 
-- atom
-- linters
+- dev
 blog: true
 star: false
 ---
@@ -39,13 +37,13 @@ Then, the rest is to config Syntastic to call the correct litner.
     set statusline+=%#warningmsg#
     set statusline+=%{SyntasticStatuslineFlag()}
     set statusline+=%*
-    
+
     let g:syntastic_javascript_checkers = ['jscs']
     let g:syntastic_html_tidy_exec = 'tidy5'
     let jshint2_read = 1
     let jshint2_save = 1
     let g:syntastic_check_on_open = 1
-    
+
     "dispaly all errors for mutiple checkers
     let g:syntastic_aggregate_errors = 1
 

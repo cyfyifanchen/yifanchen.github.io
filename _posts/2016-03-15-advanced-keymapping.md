@@ -3,11 +3,9 @@ title: "Advanced Keymapping"
 layout: post
 date: 2016-03-20 22:44
 tag:
-- keymapping
-- karabiner
-- shotcuts
+- dev
 blog: true
-star: true
+star: false
 ---
 
 ## Advanced Keymapping

@@ -3,9 +3,7 @@ title: "Swap screenshot shortcuts"
 layout: post
 date: 2016-03-30
 tag:
-- Apple
-- Shortcuts
-- Tips
+- dev
 blog: true
 star: false
 ---

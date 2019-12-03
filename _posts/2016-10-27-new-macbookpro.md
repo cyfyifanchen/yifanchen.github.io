@@ -1,6 +1,6 @@
 ---
-title: "简单聊聊对新Macbook Pro的看法"
-layout: post
+title: "What do I think about the new MBP"
+lauout: post
 date: 2016-10-27
 tag:
 - Macbook Pro

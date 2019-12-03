@@ -30,11 +30,11 @@ twitter: cyfyifanchen
 #instagram: cyfyifanchen
 # pinterest: mypinterest
 linkedin: cyfyifanchen
-#youtube: cyfyifanchen
-#spotify: cyfyifanchen
-github: yifanchen
-medium: cyfyifanchen
-wechat: cyf
+youtube: cyfyifanchen
+spotify: cyfyifanchen
+github: cyfyifanchen
+# medium: cyfyifanchen
+# wechat: cyf
 email: cyfyifanchen@gmail.com
 
 # do you want a larger site? change the option below
@@ -50,8 +50,9 @@ paginate_path: "blog/:num/"
 projects: false
 
 # if you don't need "about" or "blog", comment them out below
-about: true
 blog: true
+life: true
+about: false
 
 # do you want to show the "read time" of the posts?
 read-time: true

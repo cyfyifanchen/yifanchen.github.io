@@ -2,14 +2,27 @@
     <ul class="list">
         {% if page.title != "Home" %}
             <li class="item">
-                <a class="link" href="{{ site.url }}/">Home</a>
+                <a class="link active" href="{{ site.url }}/">Blog</a>
             </li>
         {% endif %}
 
-        {% if site.blog == true %}
+        <!-- {% if site.blog == true %}
             {% if page.title != "Blog" %}
                 <li class="item">
                     <a class="link" href="{{ site.url }}/blog">Blog</a>
+                </li>
+            {% endif %}
+        {% endif %} -->
+
+        {% if site.life == true %}
+            {% if page.title != "Life" %}
+                <li class="item">
+                    <a class="link active" href="{{ site.url }}/life">Life</a>
+                </li>
+            {% endif %}
+            {% if page.title == "Life" %}
+                <li class="item">
+                    <a class="link active" href="{{ site.url }}/life">123</a>
                 </li>
             {% endif %}
         {% endif %}

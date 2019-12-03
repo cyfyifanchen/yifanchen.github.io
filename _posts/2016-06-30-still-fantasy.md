@@ -6,7 +6,7 @@ tag:
 - Jay Chou
 - Music
 - thoughts
-blog: true
+life: true
 star: false
 ---
 

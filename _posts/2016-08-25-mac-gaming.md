@@ -1,5 +1,5 @@
 ---
-title: "苹果玩游戏"
+title: "Can Apple Play Game"
 layout: post
 date: 2016-08-25
 tag:

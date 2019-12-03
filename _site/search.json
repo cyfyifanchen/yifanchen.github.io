@@ -1,6 +1,55 @@
 [
   
     {
+      "title"    : "What it Means to be an Architect",
+      "tags"     : "dev",
+      "url"      : "/what-it-means-to-be-an-architect/",
+      "date"     : "01 Dec 2019"
+    } ,
+  
+    {
+      "title"    : "Above the fold",
+      "tags"     : "dev",
+      "url"      : "/above-the-fold/",
+      "date"     : "12 Nov 2019"
+    } ,
+  
+    {
+      "title"    : "Auth JWT on Client Side",
+      "tags"     : "dev",
+      "url"      : "/auth-within-client-side/",
+      "date"     : "30 Sep 2019"
+    } ,
+  
+    {
+      "title"    : "Rethinking CI",
+      "tags"     : "dev",
+      "url"      : "/rethinking-ci/",
+      "date"     : "05 Sep 2019"
+    } ,
+  
+    {
+      "title"    : "Karabiner Element Config",
+      "tags"     : "dev",
+      "url"      : "/karabiner-element-config/",
+      "date"     : "15 Aug 2019"
+    } ,
+  
+    {
+      "title"    : "What can we do with WASM",
+      "tags"     : "dev",
+      "url"      : "/what-can-we-do-with-wasm/",
+      "date"     : "12 Jun 2019"
+    } ,
+  
+    {
+      "title"    : "Seeking the Balance of Framework Design",
+      "tags"     : "dev",
+      "url"      : "/seeking-balance-in-framework-design/",
+      "date"     : "15 May 2019"
+    } ,
+  
+    {
       "title"    : "Next Chapter",
       "tags"     : "story",
       "url"      : "/next-chapter/",
@@ -8,8 +57,8 @@
     } ,
   
     {
-      "title"    : "数据~啊~数据",
-      "tags"     : "thoughts",
+      "title"    : "Oh my data",
+      "tags"     : "dev",
       "url"      : "/oh-my-data/",
       "date"     : "25 Nov 2018"
     } ,
@@ -23,14 +72,14 @@
   
     {
       "title"    : "Google&#39;s Inbox is Going Away",
-      "tags"     : "thoughts",
+      "tags"     : "dev",
       "url"      : "/googles-inbox-going-away/",
       "date"     : "15 Nov 2018"
     } ,
   
     {
       "title"    : "一座古城，一对新人，一言承诺，一生鉴定",
-      "tags"     : "cities",
+      "tags"     : "travel",
       "url"      : "/chiang-mai/",
       "date"     : "02 Oct 2018"
     } ,
@@ -44,7 +93,7 @@
   
     {
       "title"    : "男儿当健身《速8》影评",
-      "tags"     : "Film Review",
+      "tags"     : "film",
       "url"      : "/fate-of-furious-review/",
       "date"     : "17 Jun 2017"
     } ,
@@ -58,69 +107,62 @@
   
     {
       "title"    : "看我太空拳《猩猩打怪》影评",
-      "tags"     : "Film Review",
+      "tags"     : "film",
       "url"      : "/kong-review/",
       "date"     : "29 Mar 2017"
     } ,
   
     {
       "title"    : "小鹿撞城堡《美女与野兽》影评",
-      "tags"     : "Film Review",
+      "tags"     : "film",
       "url"      : "/beauty-and-the-beast-review/",
       "date"     : "21 Mar 2017"
     } ,
   
     {
       "title"    : "侠盗之分《新世界》影评",
-      "tags"     : "Film Review",
+      "tags"     : "film",
       "url"      : "/new-world-review/",
       "date"     : "04 Mar 2017"
     } ,
   
     {
       "title"    : "多吃脂肪 少吃碳水",
-      "tags"     : "Fitness and Health",
+      "tags"     : "health",
       "url"      : "/fat-and-sugar/",
       "date"     : "23 Feb 2017"
     } ,
   
     {
       "title"    : "印象城市 - 纽约",
-      "tags"     : "Cities",
+      "tags"     : "travel",
       "url"      : "/new-york/",
       "date"     : "16 Jan 2017"
     } ,
   
     {
       "title"    : "向往之城《La La Land》影评",
-      "tags"     : "Film Review",
+      "tags"     : "film",
       "url"      : "/lala-land-review/",
       "date"     : "12 Jan 2017"
     } ,
   
     {
       "title"    : "年少还需狂《海洋奇缘》影评",
-      "tags"     : "Film Review",
+      "tags"     : "film",
       "url"      : "/moana-review/",
       "date"     : "03 Jan 2017"
     } ,
   
     {
-      "title"    : "健身之路",
-      "tags"     : "Health and Fitness",
-      "url"      : "/road/",
-      "date"     : "29 Dec 2016"
-    } ,
-  
-    {
       "title"    : "救人还是救世《奇异博士》影评",
-      "tags"     : "film review",
+      "tags"     : "film",
       "url"      : "/dr-strange-review/",
       "date"     : "09 Dec 2016"
     } ,
   
     {
-      "title"    : "MacBook Pro with Touch Bar 模糊测评",
+      "title"    : "MacBook Pro with Touch Bar",
       "tags"     : "Macbook Pro and Review",
       "url"      : "/macbook-pro-touch-bar-review/",
       "date"     : "07 Dec 2016"
@@ -141,7 +183,7 @@
     } ,
   
     {
-      "title"    : "简单聊聊对新Macbook Pro的看法",
+      "title"    : "What do I think about the new MBP",
       "tags"     : "Macbook Pro",
       "url"      : "/new-macbookpro/",
       "date"     : "27 Oct 2016"
@@ -155,38 +197,24 @@
     } ,
   
     {
-      "title"    : "下一个十年",
-      "tags"     : "thought, china, and technology",
+      "title"    : "Within ten years",
+      "tags"     : "dev",
       "url"      : "/ten-years/",
       "date"     : "20 Oct 2016"
     } ,
   
     {
       "title"    : "Tools you need in Sierra",
-      "tags"     : "Sierra",
+      "tags"     : "dev",
       "url"      : "/tools-you-need-in-Sierra/",
       "date"     : "17 Oct 2016"
     } ,
   
     {
       "title"    : "What I learned from upgrading to Sierra",
-      "tags"     : "technology and thoughts",
+      "tags"     : "dev",
       "url"      : "/what-I-learned-from-upgrading-my-os/",
       "date"     : "15 Oct 2016"
-    } ,
-  
-    {
-      "title"    : "纵使胯下良驹赛过赤兔，仍不及科技产业发展迅速",
-      "tags"     : "wechat, technology, and direction",
-      "url"      : "/wechat/",
-      "date"     : "15 Oct 2016"
-    } ,
-  
-    {
-      "title"    : "Virtual Reality",
-      "tags"     : "thoughts and virtual reality",
-      "url"      : "/virtual-reality/",
-      "date"     : "07 Oct 2016"
     } ,
   
     {
@@ -197,21 +225,7 @@
     } ,
   
     {
-      "title"    : "无题",
-      "tags"     : "thoughts",
-      "url"      : "/untitled/",
-      "date"     : "18 Sep 2016"
-    } ,
-  
-    {
-      "title"    : "Grunt ES2015 Starterkit",
-      "tags"     : "Projects and Grunt ES2015 Starterkit",
-      "url"      : "/Grunt-ES6-Starterkit/",
-      "date"     : "03 Sep 2016"
-    } ,
-  
-    {
-      "title"    : "苹果玩游戏",
+      "title"    : "Can Apple Play Game",
       "tags"     : "Apple and Mac Gaming",
       "url"      : "/mac-gaming/",
       "date"     : "25 Aug 2016"
@@ -253,20 +267,6 @@
     } ,
   
     {
-      "title"    : "Node Server",
-      "tags"     : "Projects and Node",
-      "url"      : "/node-server/",
-      "date"     : "09 Jul 2016"
-    } ,
-  
-    {
-      "title"    : "Reduxstagram",
-      "tags"     : "Projects, Redux, and React",
-      "url"      : "/reduxgram/",
-      "date"     : "06 Jul 2016"
-    } ,
-  
-    {
       "title"    : "Today is a Present",
       "tags"     : "thought",
       "url"      : "/today-is-present/",
@@ -281,13 +281,6 @@
     } ,
   
     {
-      "title"    : "React Start Kit",
-      "tags"     : "React",
-      "url"      : "/React-Startkit/",
-      "date"     : "23 Jun 2016"
-    } ,
-  
-    {
       "title"    : "React Interactive Menu",
       "tags"     : "React",
       "url"      : "/react-menu/",
@@ -299,20 +292,6 @@
       "tags"     : "wwdc 2016 and Technology",
       "url"      : "/WWDC-2016/",
       "date"     : "14 Jun 2016"
-    } ,
-  
-    {
-      "title"    : "论性格的重要性",
-      "tags"     : "personality and thought",
-      "url"      : "/extrovert-personality/",
-      "date"     : "05 Jun 2016"
-    } ,
-  
-    {
-      "title"    : "机器学习 • 人工智能 • 虚拟现实",
-      "tags"     : "machine learning, AI, and VR",
-      "url"      : "/machine-learning-and-ai/",
-      "date"     : "02 Jun 2016"
     } ,
   
     {
@@ -345,7 +324,7 @@
   
     {
       "title"    : "关于美队3 - 内战",
-      "tags"     : "Captain America and Film Review",
+      "tags"     : "film",
       "url"      : "/about-captain-america-civil-war/",
       "date"     : "17 May 2016"
     } ,
@@ -380,44 +359,37 @@
   
     {
       "title"    : "Getting linters working in Atom and Vim",
-      "tags"     : "vim, atom, and linters",
+      "tags"     : "dev",
       "url"      : "/getting-linters-working-in-atom-and-vim/",
       "date"     : "08 Apr 2016"
     } ,
   
     {
       "title"    : "Google AMP",
-      "tags"     : "thoughts, team, and design",
+      "tags"     : "dev",
       "url"      : "/Using-AMP-Building-Blog/",
       "date"     : "05 Apr 2016"
     } ,
   
     {
       "title"    : "The Value of Code Consistency is Underestimated",
-      "tags"     : "thoughts, team, and design",
+      "tags"     : "dev",
       "url"      : "/The-Value-of-Code-Consistency-is-Underesimated/",
       "date"     : "03 Apr 2016"
     } ,
   
     {
       "title"    : "Swap screenshot shortcuts",
-      "tags"     : "Apple, Shortcuts, and Tips",
+      "tags"     : "dev",
       "url"      : "/swap-screenshot-shortcut/",
       "date"     : "30 Mar 2016"
     } ,
   
     {
       "title"    : "Why I use Vim",
-      "tags"     : "Vim, tmux, and zsh",
+      "tags"     : "dev",
       "url"      : "/why-I-use-vim/",
       "date"     : "28 Mar 2016"
-    } ,
-  
-    {
-      "title"    : "陆续总结一下github上好的前端教程",
-      "tags"     : "github, 中文, and 教程",
-      "url"      : "/github-chinese/",
-      "date"     : "27 Mar 2016"
     } ,
   
     {
@@ -429,7 +401,7 @@
   
     {
       "title"    : "Advanced Keymapping",
-      "tags"     : "keymapping, karabiner, and shotcuts",
+      "tags"     : "dev",
       "url"      : "/advanced-keymapping/",
       "date"     : "20 Mar 2016"
     } ,
@@ -443,7 +415,7 @@
   
     {
       "title"    : "macOS Shortcuts Collection",
-      "tags"     : "shortcuts, keymapping, and OSX",
+      "tags"     : "dev",
       "url"      : "/macos-shortcuts/",
       "date"     : "15 Mar 2016"
     } 
