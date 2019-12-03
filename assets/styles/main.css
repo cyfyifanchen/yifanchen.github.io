@@ -467,6 +467,7 @@ pre {
   .life > .list {
     border: none;
     width: 100%;
+    padding-left: 0;
   }
 }
 .home > .list h1,
@@ -554,7 +555,6 @@ pre {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 16;
   line-height: 1.5;
-  color: #515151 !important;
 }
 .post > .title {
   text-align: center;
@@ -617,6 +617,8 @@ pre {
 }
 .post p {
   color: #515151 !important;
+  font-family: sans-serif;
+  font-weight: lighter;
 }
 .tags {
   margin-top: 125px;
