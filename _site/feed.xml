@@ -1,4 +1,172 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:3000/" rel="alternate" type="text/html" /><updated>2019-12-03T11:25:49+08:00</updated><id>http://localhost:3000/feed.xml</id><title type="html">Yifan Chen</title><entry><title type="html">What it Means to be an Architect</title><link href="http://localhost:3000/what-it-means-to-be-an-architect/" rel="alternate" type="text/html" title="What it Means to be an Architect" /><published>2019-12-01T00:00:00+08:00</published><updated>2019-12-01T00:00:00+08:00</updated><id>http://localhost:3000/what-it-means-to-be-an-architect</id><content type="html" xml:base="http://localhost:3000/what-it-means-to-be-an-architect/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;&lt;/span&gt;&lt;/p&gt;</content><author><name></name></author><category term="dev" /><summary type="html"></summary></entry><entry><title type="html">Above the fold</title><link href="http://localhost:3000/above-the-fold/" rel="alternate" type="text/html" title="Above the fold" /><published>2019-11-12T00:00:00+08:00</published><updated>2019-11-12T00:00:00+08:00</updated><id>http://localhost:3000/above-the-fold</id><content type="html" xml:base="http://localhost:3000/above-the-fold/"></content><author><name></name></author><category term="dev" /><summary type="html"></summary></entry><entry><title type="html">Auth JWT on Client Side</title><link href="http://localhost:3000/auth-within-client-side/" rel="alternate" type="text/html" title="Auth JWT on Client Side" /><published>2019-09-30T00:00:00+08:00</published><updated>2019-09-30T00:00:00+08:00</updated><id>http://localhost:3000/auth-within-client-side</id><content type="html" xml:base="http://localhost:3000/auth-within-client-side/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;&lt;/span&gt;&lt;/p&gt;</content><author><name></name></author><category term="dev" /><summary type="html"></summary></entry><entry><title type="html">Rethinking CI</title><link href="http://localhost:3000/rethinking-ci/" rel="alternate" type="text/html" title="Rethinking CI" /><published>2019-09-05T00:00:00+08:00</published><updated>2019-09-05T00:00:00+08:00</updated><id>http://localhost:3000/rethinking-ci</id><content type="html" xml:base="http://localhost:3000/rethinking-ci/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;&lt;/span&gt;&lt;/p&gt;</content><author><name></name></author><category term="dev" /><summary type="html"></summary></entry><entry><title type="html">Karabiner Element Config</title><link href="http://localhost:3000/karabiner-element-config/" rel="alternate" type="text/html" title="Karabiner Element Config" /><published>2019-08-15T00:00:00+08:00</published><updated>2019-08-15T00:00:00+08:00</updated><id>http://localhost:3000/karabiner-element-config</id><content type="html" xml:base="http://localhost:3000/karabiner-element-config/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;K&lt;/span&gt;eyboad Mastro was what I was using for a couple of years, it did the job while Karabiner wasn’t able to keep up with macOS updates. I liked it and felt quite comfortable with tons cofigs, but I was not a fan of paying it annually. I ended up switching back to Karabiner, and this post is going to share how my setup is, maybe you find it helpful.&lt;/p&gt;</content><author><name></name></author><category term="dev" /><summary type="html">Keyboad Mastro was what I was using for a couple of years, it did the job while Karabiner wasn’t able to keep up with macOS updates. I liked it and felt quite comfortable with tons cofigs, but I was not a fan of paying it annually. I ended up switching back to Karabiner, and this post is going to share how my setup is, maybe you find it helpful.</summary></entry><entry><title type="html">What can we do with WASM</title><link href="http://localhost:3000/what-can-we-do-with-wasm/" rel="alternate" type="text/html" title="What can we do with WASM" /><published>2019-06-12T00:00:00+08:00</published><updated>2019-06-12T00:00:00+08:00</updated><id>http://localhost:3000/what-can-we-do-with-wasm</id><content type="html" xml:base="http://localhost:3000/what-can-we-do-with-wasm/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;&lt;/span&gt;&lt;/p&gt;</content><author><name></name></author><category term="dev" /><summary type="html"></summary></entry><entry><title type="html">Seeking the Balance of Framework Design</title><link href="http://localhost:3000/seeking-balance-in-framework-design/" rel="alternate" type="text/html" title="Seeking the Balance of Framework Design" /><published>2019-05-15T00:00:00+08:00</published><updated>2019-05-15T00:00:00+08:00</updated><id>http://localhost:3000/seeking-balance-in-framework-design</id><content type="html" xml:base="http://localhost:3000/seeking-balance-in-framework-design/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;O&lt;/span&gt;ne of the best videos I’ve seen this year, surprisingly have I not seen any blogs about it. Well, if you aren’t going to take a note, I am.&lt;/p&gt;</content><author><name></name></author><category term="dev" /><summary type="html">One of the best videos I’ve seen this year, surprisingly have I not seen any blogs about it. Well, if you aren’t going to take a note, I am.</summary></entry><entry><title type="html">Next Chapter</title><link href="http://localhost:3000/next-chapter/" rel="alternate" type="text/html" title="Next Chapter" /><published>2019-04-05T00:00:00+08:00</published><updated>2019-04-05T00:00:00+08:00</updated><id>http://localhost:3000/next-chapter</id><content type="html" xml:base="http://localhost:3000/next-chapter/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;我&lt;/span&gt;们总会记得为他人做得一点，而忽略了他人为我们做得一片，我们从不会知道这一点一片改变了谁，或者谁又改变了我们。命运总是在不知不觉中安排着我们还不知道的事情，而这些以为在取舍之间的该改变变，在经过之后，才懂得，命运，自有它的道理，每一次的开始和每一遍的结束，都完整了我们必须行走的历程。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:3000/" rel="alternate" type="text/html" /><updated>2019-12-03T21:46:27+08:00</updated><id>http://localhost:3000/feed.xml</id><title type="html">Yifan Chen</title><entry><title type="html">What it Means to be an Architect</title><link href="http://localhost:3000/what-it-means-to-be-an-architect/" rel="alternate" type="text/html" title="What it Means to be an Architect" /><published>2019-12-01T00:00:00+08:00</published><updated>2019-12-01T00:00:00+08:00</updated><id>http://localhost:3000/what-it-means-to-be-an-architect</id><content type="html" xml:base="http://localhost:3000/what-it-means-to-be-an-architect/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;&lt;/span&gt;&lt;/p&gt;</content><author><name></name></author><category term="dev" /><summary type="html"></summary></entry><entry><title type="html">Above the fold</title><link href="http://localhost:3000/above-the-fold/" rel="alternate" type="text/html" title="Above the fold" /><published>2019-11-12T00:00:00+08:00</published><updated>2019-11-12T00:00:00+08:00</updated><id>http://localhost:3000/above-the-fold</id><content type="html" xml:base="http://localhost:3000/above-the-fold/"></content><author><name></name></author><category term="dev" /><summary type="html"></summary></entry><entry><title type="html">Auth JWT on Client Side</title><link href="http://localhost:3000/auth-within-client-side/" rel="alternate" type="text/html" title="Auth JWT on Client Side" /><published>2019-09-30T00:00:00+08:00</published><updated>2019-09-30T00:00:00+08:00</updated><id>http://localhost:3000/auth-within-client-side</id><content type="html" xml:base="http://localhost:3000/auth-within-client-side/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;&lt;/span&gt;&lt;/p&gt;</content><author><name></name></author><category term="dev" /><summary type="html"></summary></entry><entry><title type="html">Rethinking CI</title><link href="http://localhost:3000/rethinking-ci/" rel="alternate" type="text/html" title="Rethinking CI" /><published>2019-09-05T00:00:00+08:00</published><updated>2019-09-05T00:00:00+08:00</updated><id>http://localhost:3000/rethinking-ci</id><content type="html" xml:base="http://localhost:3000/rethinking-ci/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;&lt;/span&gt;&lt;/p&gt;</content><author><name></name></author><category term="dev" /><summary type="html"></summary></entry><entry><title type="html">Karabiner Element Config</title><link href="http://localhost:3000/karabiner-element-config/" rel="alternate" type="text/html" title="Karabiner Element Config" /><published>2019-08-15T00:00:00+08:00</published><updated>2019-08-15T00:00:00+08:00</updated><id>http://localhost:3000/karabiner-element-config</id><content type="html" xml:base="http://localhost:3000/karabiner-element-config/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;K&lt;/span&gt;eyboad Mastro was what I was using for a couple of years, it did the job while Karabiner wasn’t able to keep up with macOS updates. I liked it and felt quite comfortable with tons cofigs, but I was not a fan of paying it annually. I ended up switching back to Karabiner, and this post is going to share how my setup is, hopefully you find it useful.&lt;/p&gt;</content><author><name></name></author><category term="dev" /><summary type="html">Keyboad Mastro was what I was using for a couple of years, it did the job while Karabiner wasn’t able to keep up with macOS updates. I liked it and felt quite comfortable with tons cofigs, but I was not a fan of paying it annually. I ended up switching back to Karabiner, and this post is going to share how my setup is, hopefully you find it useful.</summary></entry><entry><title type="html">What can we do with WASM</title><link href="http://localhost:3000/what-can-we-do-with-wasm/" rel="alternate" type="text/html" title="What can we do with WASM" /><published>2019-06-12T00:00:00+08:00</published><updated>2019-06-12T00:00:00+08:00</updated><id>http://localhost:3000/what-can-we-do-with-wasm</id><content type="html" xml:base="http://localhost:3000/what-can-we-do-with-wasm/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;&lt;/span&gt;&lt;/p&gt;</content><author><name></name></author><category term="dev" /><summary type="html"></summary></entry><entry><title type="html">Seeking the Balance in Framework Design</title><link href="http://localhost:3000/seeking-balance-in-framework-design/" rel="alternate" type="text/html" title="Seeking the Balance in Framework Design" /><published>2019-05-15T00:00:00+08:00</published><updated>2019-05-15T00:00:00+08:00</updated><id>http://localhost:3000/seeking-balance-in-framework-design</id><content type="html" xml:base="http://localhost:3000/seeking-balance-in-framework-design/">&lt;iframe width=&quot;1917&quot; height=&quot;716&quot; src=&quot;https://www.youtube.com/embed/ANtSWq-zI0s&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Frameworks should be distinguished by the design tradeoffs they offer on scope, render mechanism, and state mechanism, rather than on popularity and community based metrics.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;scope&quot;&gt;Scope&lt;/h2&gt;
+
+&lt;p&gt;Scope refers to what the framework tries to do for its users. Developers need understand the pros and cons to each approach.&lt;/p&gt;
+
+&lt;h3 id=&quot;large-scoped-frameworks&quot;&gt;Large-scoped frameworks&lt;/h3&gt;
+
+&lt;p&gt;Large-scoped frameworks such as Angular or Aurelia favor a top down design, in which most of the conceivable issues that developers will run into have already been factored into the framework design. Features like validation, animation, internationalization, or accessibility are baked into the framework, so developers do not have to implement and integrate their own solutions.&lt;/p&gt;
+
+&lt;p&gt;Frameworks which encompass a large scope may be productive in the short-term with their optimized, built-in abstractions covering most common problems. The associated ecosystem of user-defined libraries may as a result be more consistent and coherent. On the downside, that ecosystem may be smaller. The built-in abstractions may require additional learning and training.&lt;/p&gt;
+
+&lt;p&gt;Highly focused frameworks have fewer concepts to get started with. The larger flexibility allows for a large ecosystem from which user can build arbitrarily complex systems. For the framework team, the smaller maintenance surface means they can more easily explore new ideas (React introducing Hooks) and optimizing their area of focus (React Concurrent Mode). However, users may need to spend time picking up and integrating a sometimes large set of extra libraries with largely varying levels of maintenance and documentation.&lt;/p&gt;
+
+&lt;p&gt;The Progressive approach takes pros and cons from both sides. Developers for instance often celebrate how easy it is to get started with Vue, and the documentation of officially supported libraries. However, Progressive frameworks share the same maintenance burden as frameworks with a large scope, while not being able to exhibit an ecosystem as rich as highly focused frameworks.&lt;/p&gt;
+
+&lt;h3 id=&quot;small-scoped-frameworks&quot;&gt;Small-scoped frameworks&lt;/h3&gt;
+
+&lt;p&gt;On the other end of the scope dimension are highly focused frameworks. Such frameworks are organically built bottom-up by the community around a highly focused core. React for instance sees itself as focusing on the view layer of front-end applications, with other specialized libraries coming together to handle additional concerns such as data fetching (relay), or side-effects (redux-saga).&lt;/p&gt;
+
+&lt;h3 id=&quot;vue-falls-in-middle&quot;&gt;Vue falls in middle&lt;/h3&gt;
+
+&lt;p&gt;Placing the Vue.js framework somewhat in the middle (Progressive framework). On the one hand, Vue largely focuses on the view layer. On the other hand, Vue’s layered design allows for opt-in, official, documented solutions for common problems.&lt;/p&gt;
+
+&lt;h2 id=&quot;rendering-mechanism&quot;&gt;Rendering Mechanism&lt;/h2&gt;
+
+&lt;p&gt;The second dimension of analysis is the view rendering mechanism. This involves how the UI structure is expressed, and how the UI is rendered.&lt;/p&gt;
+
+&lt;p&gt;On the one hand, in frameworks using &lt;code class=&quot;highlighter-rouge&quot;&gt;JSX&lt;/code&gt;, or its &lt;code class=&quot;highlighter-rouge&quot;&gt;TypeScript&lt;/code&gt; version &lt;code class=&quot;highlighter-rouge&quot;&gt;TSX&lt;/code&gt; (such as React, or Stencil), developers can use the full power of the Turing-complete underlying language to express arbitrarily complex logic. Those frameworks usually see the view as data (virtual DOM), with large customization opportunities in user land, including using view data for rendering to alternative targets (rendering into a terminal, or to pdf). On the negative side, the fully dynamic nature of render functions makes it hard to optimize for by default. Such frameworks, like React, may include escape hatches to enable developers to optimize rendering themselves (React’s shouldComponentUpdate and useMemo). Optimizing rendering in those frameworks involves a significant learning phase, as developers may have to deeply acquaint themselves with implementation details of the framework.&lt;/p&gt;
+
+&lt;p&gt;On the other hand, template-based frameworks such as Vue or Svelte, bound the expressiveness of the rendering function to the capability of the template language. Templates are harder to customize out of the possibilities already considered in the template language. The rigid structure however enables optimized-by-default rendering of the UI. In Svelte, for instance, the following template&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;h1&amp;gt; Hello {name} &amp;lt;/h1&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;will result in running the following compiled code when name changes, updating chirurgically only the part of the DOM which needs to be changed:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;p(changed, ctx){
+  if (changed.name) {
+    set_data (t1, ctx.name)
+  }
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Such by-default optimizations are difficult to achieve for frameworks which use a virtual DOM and compute the DOM operations to perform in case of updates by keeping track and diffing two versions of a virtual DOM – thus exhibiting a higher memory and CPU usage profile.&lt;/p&gt;
+
+&lt;p&gt;Evan notes that Vue strikes a middle ground by being template-based by default, with by-default rendering optimizations, while still letting developers falling back to full-fledged JavaScript render functions when the need arises.&lt;/p&gt;
+
+&lt;p&gt;As a third dimension to evaluate framework on, Evan mentions the mechanism by which state is managed by the framework, in particular the reactivity and data synchronization abilities offered by the framework.&lt;/p&gt;
+
+&lt;p&gt;Evan, in his presentation, doubts the existence of a universally best framework:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The framework landscape is like a multi-dimensional space with multiple ever-moving entities, each seeking its own balance point. Where is the perfect balance point? Is a single perfect balance point even optimal for JS devs as a whole? There isn’t a single Good vs. Bad spectrum for frameworks.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Developers need to understand front-end framework design tradeoffs and how that fits the requirements of their projects.&lt;/p&gt;
+
+&lt;h2 id=&quot;state-mechanism&quot;&gt;State Mechanism&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Evan didn’t give much insights regarding the differences of State Mechanism due to the duration of the talk, I am going to do some research and complete it later on&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><category term="dev" /><summary type="html"></summary></entry><entry><title type="html">Putting Prettier Commit-lint Staged-lint into Eslint</title><link href="http://localhost:3000/eslint-cyf/" rel="alternate" type="text/html" title="Putting Prettier Commit-lint Staged-lint into Eslint" /><published>2019-05-01T00:00:00+08:00</published><updated>2019-05-01T00:00:00+08:00</updated><id>http://localhost:3000/eslint-cyf</id><content type="html" xml:base="http://localhost:3000/eslint-cyf/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;C&lt;/span&gt;t to the chase, nobody wants to do code review unless your KPI is code reviewing, which is quite impossible in reality. Code Review thus becomes a buzzword of completion. Without fitted criteria, Code Review usually means, I get my parts done, it’s your turn to review it, so I can chill out and watch YouTube. If there happen to be any problems, the routine goes again. You ended up interrupting others or waiting others to approve for your next action. In programming, we call it &lt;code class=&quot;highlighter-rouge&quot;&gt;blocking-tread&lt;/code&gt;, which is not smart. Therefore, having a proper tool to automate it is ideal in the situation.&lt;/p&gt;
+
+&lt;p&gt;I wrote a &lt;a href=&quot;https://www.npmjs.com/package/eslint-config-cyf&quot;&gt;module&lt;/a&gt; to do such a thing.&lt;/p&gt;
+
+&lt;h2 id=&quot;installing&quot;&gt;Installing&lt;/h2&gt;
+
+&lt;h2 id=&quot;local--per-project-install&quot;&gt;Local / Per Project Install&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;If you don’t already have a &lt;code class=&quot;highlighter-rouge&quot;&gt;package.json&lt;/code&gt; file, create one with &lt;code class=&quot;highlighter-rouge&quot;&gt;npm init&lt;/code&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Then we need to install everything needed by the config:&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;npx install-peerdeps --dev eslint-config-cyf
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;You can see in your package.json there are now a big list of devDependencies.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Create a &lt;code class=&quot;highlighter-rouge&quot;&gt;.eslintrc&lt;/code&gt; file in the root of your project’s directory (it should live where package.json does). Your &lt;code class=&quot;highlighter-rouge&quot;&gt;.eslintrc&lt;/code&gt; file should look like this:&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class=&quot;language-json highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;extends&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;cyf&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Tip: You can alternatively put this object in your &lt;code class=&quot;highlighter-rouge&quot;&gt;package.json&lt;/code&gt; under the property &lt;code class=&quot;highlighter-rouge&quot;&gt;&quot;eslintConfig&quot;:&lt;/code&gt;. This makes one less file in your project.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;You can add two scripts to your package.json to lint and/or fix:&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class=&quot;language-json highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nl&quot;&gt;&quot;scripts&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;lint&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;eslint .&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;lint:fix&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;eslint . --fix&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Now you can manually lint your code by running &lt;code class=&quot;highlighter-rouge&quot;&gt;npm run lint&lt;/code&gt; and fix all fixable issues with &lt;code class=&quot;highlighter-rouge&quot;&gt;npm run lint:fix&lt;/code&gt;. You probably want your editor to do this though.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;global-install&quot;&gt;Global Install&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;First install everything needed:&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;npx install-peerdeps --global eslint-config-cyf
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;(&lt;strong&gt;note:&lt;/strong&gt; npx is not a spelling mistake of &lt;strong&gt;npm&lt;/strong&gt;. &lt;code class=&quot;highlighter-rouge&quot;&gt;npx&lt;/code&gt; comes with when &lt;code class=&quot;highlighter-rouge&quot;&gt;node&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;npm&lt;/code&gt; are installed and makes script running easier)&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Then you need to make a global &lt;code class=&quot;highlighter-rouge&quot;&gt;.eslintrc&lt;/code&gt; file:&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;ESLint will look for one in your home directory&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;~/.eslintrc&lt;/code&gt; for mac&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;C:\Users\username\.eslintrc&lt;/code&gt; for windows&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In your &lt;code class=&quot;highlighter-rouge&quot;&gt;.eslintrc&lt;/code&gt; file, it should look like this:&lt;/p&gt;
+
+&lt;div class=&quot;language-json highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;extends&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;cyf&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;To use from the CLI, you can now run &lt;code class=&quot;highlighter-rouge&quot;&gt;eslint .&lt;/code&gt; or configure your editor as we show next.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;settings&quot;&gt;Settings&lt;/h2&gt;
+
+&lt;p&gt;If you’d like to overwrite eslint or prettier settings, you can add the rules in your &lt;code class=&quot;highlighter-rouge&quot;&gt;.eslintrc&lt;/code&gt; file. The &lt;a href=&quot;https://eslint.org/docs/rules/&quot;&gt;ESLint rules&lt;/a&gt; go directly under &lt;code class=&quot;highlighter-rouge&quot;&gt;&quot;rules&quot;&lt;/code&gt; while &lt;a href=&quot;https://prettier.io/docs/en/options.html&quot;&gt;prettier options&lt;/a&gt; go under &lt;code class=&quot;highlighter-rouge&quot;&gt;&quot;prettier/prettier&quot;&lt;/code&gt;. Note that prettier rules overwrite anything in my config (trailing comma, and single quote), so you’ll need to include those as well.&lt;/p&gt;
+
+&lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;extends&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;
+    &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;cyf&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;],&lt;/span&gt;
+  &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;rules&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;no-console&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;prettier/prettier&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;
+      &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;error&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;trailingComma&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;es5&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+        &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;singleQuote&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;true&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+        &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;printWidth&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;120&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+        &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;tabWidth&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;8&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><category term="dev" /><summary type="html">Ct to the chase, nobody wants to do code review unless your KPI is code reviewing, which is quite impossible in reality. Code Review thus becomes a buzzword of completion. Without fitted criteria, Code Review usually means, I get my parts done, it’s your turn to review it, so I can chill out and watch YouTube. If there happen to be any problems, the routine goes again. You ended up interrupting others or waiting others to approve for your next action. In programming, we call it blocking-tread, which is not smart. Therefore, having a proper tool to automate it is ideal in the situation.</summary></entry><entry><title type="html">Next Chapter</title><link href="http://localhost:3000/next-chapter/" rel="alternate" type="text/html" title="Next Chapter" /><published>2019-04-05T00:00:00+08:00</published><updated>2019-04-05T00:00:00+08:00</updated><id>http://localhost:3000/next-chapter</id><content type="html" xml:base="http://localhost:3000/next-chapter/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;我&lt;/span&gt;们总会记得为他人做得一点，而忽略了他人为我们做得一片，我们从不会知道这一点一片改变了谁，或者谁又改变了我们。命运总是在不知不觉中安排着我们还不知道的事情，而这些以为在取舍之间的该改变变，在经过之后，才懂得，命运，自有它的道理，每一次的开始和每一遍的结束，都完整了我们必须行走的历程。&lt;/p&gt;
 
 &lt;p&gt;缘起缘落，并不会随着分合离散而消失，它化作无声的祝福，躲在你我身边，为我们的下段感情保驾护航。&lt;/p&gt;
 
@@ -12,23 +180,4 @@
 
 &lt;p&gt;但是，为什么数据会总是出现不匹配的情况呢？每家的数据都无法匹配上，让我如何运营？其实，这就是有趣的地方。第一，每个 analysts 的算法不一样。第二，每个 analysts 的对象不一样。所以，会出现不准确的情况，尤其是在 client side 的数据。&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;未完待续~&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><category term="dev" /><summary type="html">前段时间，公司的运营反应说数据准确性不可靠，无法制定详细的运营战略，老板故安排我调研数据的可靠性，本以为调研类的工作不好进展，但是一段时间查下来，结果虽然不是很明显，但是答案还是有的。</summary></entry><entry><title type="html">Greatest Couple</title><link href="http://localhost:3000/greatest-couple/" rel="alternate" type="text/html" title="Greatest Couple" /><published>2018-11-22T00:00:00+08:00</published><updated>2018-11-22T00:00:00+08:00</updated><id>http://localhost:3000/greatest-couple</id><content type="html" xml:base="http://localhost:3000/greatest-couple/">&lt;div class=&quot;wrapper-hero&quot;&gt;
-  &lt;img src=&quot;http://localhost:3000/assets/images/follow-heart.gif&quot; /&gt;
-&lt;a class=&quot;link-to-author&quot; href=&quot;https://dribbble.com/UIcousin&quot;&gt;Illustration by Qinjian on Dribbble&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;audio style=&quot;display: block; margin: 30px auto; width: 90%;&quot; src=&quot;http://localhost:3000/assets/audio/follow-heart.mp3&quot; controls=&quot;controls&quot;&gt;&lt;/audio&gt;
-
-&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;在&lt;/span&gt;美国生活的时候，喜欢看「老友记」，经典的桥段，诙谐的对话，鲜明的性格，温馨的情感。欣赏剧中每个人的乐观精神，羡慕他们对生活的态度，嫉妒他们每次争执过后友谊的升华，最最喜欢 Monica 和 Chandler 这对 Couple，小吵小闹， 欢喜冤家，希望自己也能早日找到 「Moncia」，知心朋友，亲密爱人，当一回 Greatest Couple。&lt;/p&gt;
-
-&lt;p&gt;美国是个无聊的地方，如果说上学的时候还有学校这个社交圈的话，那么毕业工作后，上班党的社交圈就小得可怜了。似乎生活，除了公司就是家，因为无事可做，不得不去健身房撸铁，撸多伤身，哥们看不下去了，把自己老婆的闺蜜牵线给我，陌生的人，熟悉的心，爱情的种子不但发芽，并且蹭蹭蹭。我们都长期在国外生活，三观相符，兴趣相投，很快便成为知心朋友，亲密爱人。对于异国问题，一贯现实的自己，不知哪里来的勇气，果断决定，为了爱情，放弃美国的一切。&lt;/p&gt;
-
-&lt;p&gt;回国后，女友和我依然面对异地的挑战，还好相比于异国的 15 个小时，现在的 1.5 个小时已经令我们很知足。我们约好，我飞台北一次，她来上海一趟，不想飞的时候，就约定在另一个城市见面，顺便旅游。也不知道上辈子拯救了哪个村儿，和女友这样的旅游大咖出行，一个字，爽。住什么样的饭店，吃什么样的食物，赏什么样的风光都会被她打理得井井有条，而我只需要悉心陪伴，尽情享受。平时，我们每天视频，一起 Netflix，无所不聊，又或许我拯救的是整个世界，换来个女友陪我打游戏，一个可爱的小辅助，加攻加防，做视野，美滋滋。&lt;/p&gt;
-
-&lt;p&gt;没回国之前，女友担心我不适应国内的生活，经受不住诱惑，会变坏，现在看来，她的担心是多余的，因为除了体重，其他还是原来的样子。Greatest Couple 一定会互相进步，带给彼此更好的自己。女友和我也不例外，从小家里做生意的她，人脉多，资源广，她不仅介绍机会给我，还会买书给我，鼓励我进步并支持我做自己。而我，乐观的性格带给她开心之余，监督她健康饮食，积极健身。&lt;/p&gt;
-
-&lt;p&gt;通常的的异地恋，在环境的左右下，很容易说散就散，讲好听点是成长，难听却是无责，疲惫的身心经不起距离给爱情拷上的枷锁，余温过后剩下的无奈在两地之间，略显苍白，却又无可奈何。异地，始于对单纯的渴望，伴随着对目标的想往，以及对结果的期待，过程易被忽略，却尤为珍贵，往往纯真的东西唯有在时间的印证下，方能见其真谛。也许，碍于现实，我们不得不妥协生活的初衷。那么面对爱情，勇往直前，不计结果，才能还原她的本质。&lt;/p&gt;
-
-&lt;p&gt;我不缺勇气，我感激给我勇气的那个人。&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;BGM: Your First Light My Eventide by The Echelon Effect&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><category term="story" /><summary type="html">Illustration by Qinjian on Dribbble</summary></entry></feed>
+&lt;p&gt;&lt;em&gt;未完待续~&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><category term="dev" /><summary type="html">前段时间，公司的运营反应说数据准确性不可靠，无法制定详细的运营战略，老板故安排我调研数据的可靠性，本以为调研类的工作不好进展，但是一段时间查下来，结果虽然不是很明显，但是答案还是有的。</summary></entry></feed>

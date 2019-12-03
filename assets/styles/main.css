@@ -591,12 +591,6 @@ pre {
 .post > h4 {
   margin-top: 40px;
 }
-.post > h2 a,
-.post > h3 a,
-.post > h4 a {
-  color: #268bd2;
-  text-decoration: none;
-}
 .post .wrapper-hero {
   width: 112%;
   margin-left: -6%;
@@ -627,6 +621,9 @@ pre {
   font-size: 13px;
   display: block;
   margin-top: 10px;
+}
+.post a {
+  text-decoration: none;
 }
 .tags {
   margin-top: 125px;
@@ -939,11 +936,6 @@ pre {
 .nav-home > .list > .item > .link:hover {
   color: #4b0082;
 }
-.nav > .list > .item > .link:active,
-.nav-home > .list > .item > .link:active {
-  color: #4b0082;
-  text-decoration: none;
-}
 .nav > .list,
 .nav-home > .list {
   padding: 0 13px 0;
@@ -970,6 +962,9 @@ pre {
 }
 .nav-home > .list > .item > .link:hover {
   color: rgba(0,0,0,0.84);
+}
+.nav .list .item .link .active {
+  color: #4b0082;
 }
 .evidence {
   background-image: linear-gradient(to bottom, rgba(39,243,106,0.15), rgba(39,243,106,0.15));

@@ -43,10 +43,17 @@
     } ,
   
     {
-      "title"    : "Seeking the Balance of Framework Design",
+      "title"    : "Seeking the Balance in Framework Design",
       "tags"     : "dev",
       "url"      : "/seeking-balance-in-framework-design/",
       "date"     : "15 May 2019"
+    } ,
+  
+    {
+      "title"    : "Putting Prettier Commit-lint Staged-lint into Eslint",
+      "tags"     : "dev",
+      "url"      : "/eslint-cyf/",
+      "date"     : "01 May 2019"
     } ,
   
     {
