@@ -7,30 +7,9 @@ tag:
 life: true
 star: false
 ---
-<style>
-
-@media screen (min-width: 1000px) {
-  .wrapper-hero {
-  }
- }
-
-ul li {line-height: unset;}
-</style>
-
 <div class="wrapper-hero">
-
-<img src="{{site.url}}/assets/images/follow-heart.gif" />
-
-<a class="link-to-author"
-   style="
-          font-style: italic;
-          text-decoration: none;
-          color: lightgray;
-          font-size: 13px;
-          display: block;
-          margin-top: 10px;
-         "
-href="https://dribbble.com/UIcousin">Illustration by Qinjian on Dribbble</a>
+  <img src="{{site.url}}/assets/images/follow-heart.gif" />
+  <a class="link-to-author" href="https://dribbble.com/UIcousin">Illustration by Qinjian on Dribbble</a>
 </div>
 
 <audio style="display: block; margin: 30px auto; width: 90%;" src="{{site.url}}/assets/audio/follow-heart.mp3" controls="controls" ></audio>
@@ -47,4 +26,4 @@ href="https://dribbble.com/UIcousin">Illustration by Qinjian on Dribbble</a>
 
 我不缺勇气，我感激给我勇气的那个人。
 
-*BGM: Your first light my eventide*
+*BGM: Your First Light My Eventide by The Echelon Effect*

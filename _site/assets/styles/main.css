@@ -620,6 +620,14 @@ pre {
   font-family: sans-serif;
   font-weight: lighter;
 }
+.post .link-to-author {
+  font-style: italic;
+  text-decoration: none;
+  color: #d3d3d3;
+  font-size: 13px;
+  display: block;
+  margin-top: 10px;
+}
 .tags {
   margin-top: 125px;
 }
