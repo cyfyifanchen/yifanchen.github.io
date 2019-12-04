@@ -8,9 +8,9 @@ blog: true
 star: false
 ---
 
-<span class="fl">之</span>前，一直在用 Keyboard Maestro，好用强大，甚至可以直接 map `copy` 在 `clipboard` 上面，trigger 的话，只需要再 map 成不同的 key，而不用再开一个专门记录 copy 的工具，甚至可以 ignore applications，例如，某 keybinding 只在某个 app 里面使用时有效。还可以 input 一个 `preference file`，以便后续使用。此工具可以说是面面俱到，功能强大。然而，it comes with a price, annually, not a fan.  ¯\_(ツ)_/¯
+<span class="fl">之</span>前，一直在用 Keyboard Maestro，好用强大，甚至可以直接 map copy 在 clipboard 上面，trigger 的话，只需要再 map 成不同的 key，而不用再开一个专门记录 copy 的工具，甚至可以 ignore applications，例如，某 keybinding 只在某个 app 里面使用时有效。还可以 input 一个 preference file，以便后续使用。此工具可以说是面面俱到，功能强大。然而，it comes with a price, annually, not a fan.  ¯\_(ツ)_/¯
 
-我在之前的 blog 里面有提到 Karabiner，此神器是位日本大神 Takayama Fumihiko 开源的 project:pray:，16 年因为 macOS Sierra 的升级，internal keybindings 有改，导致当时非常好用的 Karabiner 不再兼容，后来，大神根据 Sierra 的情况，再次开发了 Karabiner Element，并开源。相比于自带 GUI 的 Keyboard Maestro 来说，虽然 Karabiner 需要更加繁琐的配置，但是其性价比则令对手毫无招架之力。所以，不夸张得说，Karabiner Element 可以说是市面上能找到的最好的免费快捷键工具，没有之一 。
+我在之前的 [ blog ](https://cyfyifanchen.com/advanced-keymapping/) 里面有提到 Karabiner，此神器是位日本大神 Takayama Fumihiko 开源的 project:pray:，16 年因为 macOS Sierra 的升级，internal keybindings 有改，导致当时非常好用的 Karabiner 不再兼容，后来，大神根据 Sierra 的情况，再次开发了 Karabiner Element，并开源。相比于自带 GUI 的 Keyboard Maestro 来说，虽然 Karabiner 需要更加繁琐的配置，但是其性价比则令对手毫无招架之力。所以，不夸张得说，Karabiner Element 可以说是市面上能找到的最好的免费快捷键工具，没有之一 。
 
 此 Post 的目的是一个 walk through，用 Karabiner 实现 Keyboard Maestro 的所有功能：
 
@@ -115,7 +115,64 @@ Karabiner 有个 GUI 界面(如下图)，在 Complex Modifications 里面可以 
             ['option'], "right_arrow"
         ]
     ]) % >
+},
+
+<%# -------------------------------------------------- %>
+<%# Change Control + Cammand + Shift + h/l to Command + Shift + Left/Right Arrows %>
+<%# -------------------------------------------------- %>
+{
+    "type": "basic",
+    "from": < %= from("h", ['control'], ['shift'], ['command']) % > ,
+    "to": < %= to([
+        [
+            ['option'], ['shift'], "left_arrow"
+        ]
+    ]) % >
+},
+{
+    "type": "basic",
+    "from": < %= from("l", ['control'], ['shfit'], ['command']) % > ,
+    "to": < %= to([
+        [
+            ['option'], [''], "right_arrow"
+        ]
+    ]) % >
 }
 ```
 
-然而， 不工作。:sweat:
+上面的 Cope Snippet 理论上应工作， 然而， 不工作。:sweat:，好吧，大概是 `syntax` 的问题，得重新去翻翻看 [ doc ](https://pqrs.org/osx/karabiner/document.html#configuration-complex-modifications). Regarding the doc，A2 里面在左右两边都需要 Modifier Flags 的情况并没有被列出来，难道不兼容吗？ :thinking: 这就尴尬了，
+我果断决定换下思维模式，先去 Youtube 刷几个韩国女团看看。
+
+我感觉两边都需要 Modifiers Flags 的需求不应该小众到没有，所以，再去看看别人的配置吧，果然有所发现：
+
+```json
+"manipulators": [
+    {
+        "from": {
+            "key_code": "h",
+            "modifiers": {
+                "mandatory": [
+                    "control"
+                ],
+                "optional": [
+                    "caps_lock",
+                    "command",
+                    "option",
+                    "shift",
+                    "fn"
+                ]
+            }
+        },
+        "to": [
+            {
+                "key_code": "left_arrow"
+            }
+        ],
+        "type": "basic"
+    }
+]
+```
+
+上面的 snippet 就是 A2 和 A3 的实现方式。import 之后，和预期一模一样，完美。
+
+现在来实现，B1, 行动ing.
