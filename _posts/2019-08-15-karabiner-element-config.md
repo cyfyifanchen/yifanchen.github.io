@@ -1,5 +1,5 @@
 ---
-title: "Karabiner Element Config"
+title: "Karabiner Element Config 快捷键神器"
 layout: post
 date: 2019-08-15
 tag:
@@ -8,4 +8,114 @@ blog: true
 star: false
 ---
 
-<span class="fl">K</span>eyboad Mastro was what I was using for a couple of years, it did the job while Karabiner wasn't able to keep up with macOS updates. I liked it and felt quite comfortable with tons cofigs, but I was not a fan of paying it annually. I ended up switching back to Karabiner, and this post is going to share how my setup is, hopefully you find it useful.
+<span class="fl">之</span>前，一直在用 Keyboard Maestro，好用强大，甚至可以直接 map `copy` 在 `clipboard` 上面，trigger 的话，只需要再 map 成不同的 key，而不用再开一个专门记录 copy 的工具，甚至可以 ignore applications，例如，某 keybinding 只在某个 app 里面使用时有效。还可以 input 一个 `preference file`，以便后续使用。此工具可以说是面面俱到，功能强大。然而，it comes with a price, annually, not a fan.  ¯\_(ツ)_/¯
+
+我在之前的 blog 里面有提到 Karabiner，此神器是位日本大神 Takayama Fumihiko 开源的 project:pray:，16 年因为 macOS Sierra 的升级，internal keybindings 有改，导致当时非常好用的 Karabiner 不再兼容，后来，大神根据 Sierra 的情况，再次开发了 Karabiner Element，并开源。相比于自带 GUI 的 Keyboard Maestro 来说，虽然 Karabiner 需要更加繁琐的配置，但是其性价比则令对手毫无招架之力。所以，不夸张得说，Karabiner Element 可以说是市面上能找到的最好的免费快捷键工具，没有之一 。
+
+此 Post 的目的是一个 walk through，用 Karabiner 实现 Keyboard Maestro 的所有功能：
+
+### 需求类目 A：
+
+1. Modifier Flags + key to key
+
+   Use Case: `control` + `h/j/k/l`: `left/up/down/right arrow`.
+
+   Objective: Vi mode-ish navigation.
+
+2. Modifier Flags + key to Modifier Flags + keys
+
+   Use Case: `control` + `command` + `h/j/k/l`: `command` + `left/up/down/right arrow`
+
+    Objective 1: Navigating through beginning and end of a line.
+
+    Objective 2: Navigating top to bottom of a doc.
+
+3. Modifier Flags + Modifier Flags + key to Modifier Flags + Modifier Flags + keys
+
+   Use Case: `control` + `command` + `shift` + `h/j/k/l`: `command` + `shift` + `left/up/down/right arrow`
+
+    Objective 1: Hightlighting through beginning and end of a line.
+
+    Objective 2: Navigating top to bottom of a doc.
+
+### 需求类目 B：
+
+1. Modifier Flags + key to System key
+
+   Use Case: `command` + `shift` + `v`: `clipboard`
+
+   Objective: Tool like Flycut
+
+   Use Case: `command` + `shift` + `f`: `fullscreen`
+
+   Objecrive: Make current app fullscreen with Menu Bar.
+
+好，需求明确了，行动ing。
+
+Karabiner 有个 GUI 界面(如下图)，在 Complex Modifications 里面可以 import 现有的 [ rules ](https://pqrs.org/osx/karabiner/complex_modifications/).
+
+<img src="/assets/images/karabiner.jpg">
+
+如此看来，A1 实现起来就 piece of cake 了。那么问题来了，对于在下这种非一般的玩家来说，A2 和 A3 该如何实现呢？:thinking:
+
+先打开已经配置了 A1 的 `.json` 看看：
+
+```json
+{
+  "title": "Vi Style Arrows",
+  "rules": [
+      {
+          "description": "Change Control + h/j/k/l to Arrows",
+          "manipulators": [
+              {
+                  "type": "basic",
+                  "from": <%= from("h", ['control'], ['caps_lock']) %>,
+                  "to": <%= to([["left_arrow"]]) %>
+              },
+              {
+                  "type": "basic",
+                  "from": <%= from("j", ['control'], ['caps_lock']) %>,
+                  "to": <%= to([["down_arrow"]]) %>
+              },
+              {
+                  "type": "basic",
+                  "from": <%= from("k", ['control'], ['caps_lock']) %>,
+                  "to": <%= to([["up_arrow"]]) %>
+              },
+              {
+                  "type": "basic",
+                  "from": <%= from("l", ['control'], ['caps_lock']) %>,
+                  "to": <%= to([["right_arrow"]]) %>
+              }
+          ]
+      }
+}
+```
+
+一目了然，加入对应的 `keycode` 就好，开始ing:
+
+```json
+<%# -------------------------------------------------- %>
+<%# Change Control + Option + h/l to Option + Left/Right Arrows %>
+<%# -------------------------------------------------- %>
+{
+    "type": "basic",
+    "from": < %= from("h", ['control'], ['option']) % > ,
+    "to": < %= to([
+        [
+            ['option'], "left_arrow"
+        ]
+    ]) % >
+},
+{
+    "type": "basic",
+    "from": < %= from("l", ['control'], ['option']) % > ,
+    "to": < %= to([
+        [
+            ['option'], "right_arrow"
+        ]
+    ]) % >
+}
+```
+
+然而， 不工作。:sweat:
