@@ -9,7 +9,7 @@
 - [x] Following PR of Faraday_middleware issuse
 - [] Maybe move the footer to the bottom on Mobile Devices
 - [] Re-commit `package-lock.json` once vulnerability issues are fixed
-- [] Run speed test,use lighthouse.
+- [] Run speed test, use lighthouse.
 
 ### Currently supported node version:
 
