@@ -54,6 +54,18 @@ star: false
 
    Objecrive: Make current app fullscreen with Menu Bar.
 
+### 需求类目 C:
+
+1. Modifier Flags + key to Linxu styled micro
+
+   Use Case: `ctrl` + `w`: delete back to the last whitespace AKA `option` + `delete` in MacOS
+
+   Objective: Achive Linux styled micro in Karabiner Element
+
+   Walkaround: I could get this working by creating a `.baschrc`.
+
+---
+
 好，需求明确了，行动ing。
 
 Karabiner Element 有个 GUI 界面(如下图)，在 Complex Modifications 里面可以 import 现有的 [ rules ](https://pqrs.org/osx/karabiner/complex_modifications/).
