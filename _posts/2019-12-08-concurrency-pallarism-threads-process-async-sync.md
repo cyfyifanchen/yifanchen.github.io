@@ -101,13 +101,24 @@ Sync 执行中，当有多个任务需要被执行的时候，按序进行。
 
 * 多核异步编译可以实现并行
 
-Translated and upated from a [blog](https://medium.com/swift-india/concurrency-parallelism-threads-processes-async-and-sync-related-39fd951bc61d) on Medium.
+---
+
+## Javascript 异步原理
+
+本地的 javascript 始终都是 single-threaded，只有在 runtime 的环境下才可以实现，并发，异步。
+<div class="sec-img">
+  <img class="post-img" src="../assets/images/concurrency/runtime-enviroment.png">
+  <p class="caption">V8(Heap, Stack), Event Loop, Web API, CB Queue</p>
+</div>
+---
 
 ## References
 
+```
 * https://medium.com/swift-india/concurrency-parallelism-threads-processes-async-and-sync-related-39fd951bc61d
 * https://softwareengineering.stackexchange.com/questions/190719/the-difference-between-concurrent-and-parallel-execution
 * https://stackoverflow.com/questions/748175/asynchronous-vs-synchronous-execution-what-does-it-really-mean
 * https://codewala.net/2015/07/29/concurrency-vs-multi-threading-vs-asynchronous-programming-explained/
 * https://youtu.be/cN_DpYBzKso
 * https://medium.com/flawless-app-stories/basics-of-parallel-programming-with-swift-93fee8425287
+```
