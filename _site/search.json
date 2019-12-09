@@ -1,6 +1,13 @@
 [
   
     {
+      "title"    : "Concurrency, Parallelism, Threads, Processes, Async and Sync",
+      "tags"     : "dev",
+      "url"      : "/concurrency-pallarism-threads-process-async-sync/",
+      "date"     : "01 Dec 2019"
+    } ,
+  
+    {
       "title"    : "What it Means to be an Architect",
       "tags"     : "dev",
       "url"      : "/what-it-means-to-be-an-architect/",

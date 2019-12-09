@@ -1,11 +1,160 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:3000/" rel="alternate" type="text/html" /><updated>2019-12-05T17:44:18+08:00</updated><id>http://localhost:3000/feed.xml</id><title type="html">Yifan Chen</title><entry><title type="html">What it Means to be an Architect</title><link href="http://localhost:3000/what-it-means-to-be-an-architect/" rel="alternate" type="text/html" title="What it Means to be an Architect" /><published>2019-12-01T00:00:00+08:00</published><updated>2019-12-01T00:00:00+08:00</updated><id>http://localhost:3000/what-it-means-to-be-an-architect</id><content type="html" xml:base="http://localhost:3000/what-it-means-to-be-an-architect/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;&lt;/span&gt;&lt;/p&gt;</content><author><name></name></author><category term="dev" /><summary type="html"></summary></entry><entry><title type="html">Above the fold</title><link href="http://localhost:3000/above-the-fold/" rel="alternate" type="text/html" title="Above the fold" /><published>2019-11-12T00:00:00+08:00</published><updated>2019-11-12T00:00:00+08:00</updated><id>http://localhost:3000/above-the-fold</id><content type="html" xml:base="http://localhost:3000/above-the-fold/"></content><author><name></name></author><category term="dev" /><summary type="html"></summary></entry><entry><title type="html">Auth JWT on Client Side</title><link href="http://localhost:3000/auth-within-client-side/" rel="alternate" type="text/html" title="Auth JWT on Client Side" /><published>2019-09-30T00:00:00+08:00</published><updated>2019-09-30T00:00:00+08:00</updated><id>http://localhost:3000/auth-within-client-side</id><content type="html" xml:base="http://localhost:3000/auth-within-client-side/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;&lt;/span&gt;&lt;/p&gt;</content><author><name></name></author><category term="dev" /><summary type="html"></summary></entry><entry><title type="html">Rethinking CI</title><link href="http://localhost:3000/rethinking-ci/" rel="alternate" type="text/html" title="Rethinking CI" /><published>2019-09-05T00:00:00+08:00</published><updated>2019-09-05T00:00:00+08:00</updated><id>http://localhost:3000/rethinking-ci</id><content type="html" xml:base="http://localhost:3000/rethinking-ci/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;如&lt;/span&gt;果有天外星人来参观地球，这个外星人应该不会关心地球的政治，文明或者历史，科技才是目的。如何评判一个国家的科技力量？通常情况下，是以科学论文的形式来衡量，论文被引用的次数便是力量。经典的论文会被引用上万次（没错，就是你脑子里的相对论）。自然指数就是判断维度之一，美国遥遥领先，中国是第二梯队的佼佼者。反观互联网技术，According to Wikipedia，截止到 2019 年，全球&lt;a href=&quot;https://en.wikipedia.org/wiki/List_of_unicorn_startup_companies&quot;&gt;独角兽公司榜单&lt;/a&gt;上面，中国以 125 个排行第一，美国 121 个位居第二，而第三的印度只有 27 个。 榜上的大部分都是互联网公司，所以，从这个维度的数据来讲，中国互联网现在是世界第一。因为我们有着得天独厚的体量优势，其他国家在接下来相当长的一段时间只能力争第二。然而互联网技术，我们还需要正是自己的不足。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:3000/" rel="alternate" type="text/html" /><updated>2019-12-09T10:15:10+08:00</updated><id>http://localhost:3000/feed.xml</id><title type="html">Yifan Chen</title><entry><title type="html">Concurrency, Parallelism, Threads, Processes, Async and Sync</title><link href="http://localhost:3000/concurrency-pallarism-threads-process-async-sync/" rel="alternate" type="text/html" title="Concurrency, Parallelism, Threads, Processes, Async and Sync" /><published>2019-12-01T00:00:00+08:00</published><updated>2019-12-01T00:00:00+08:00</updated><id>http://localhost:3000/concurrency-pallarism-threads-process-async-sync</id><content type="html" xml:base="http://localhost:3000/concurrency-pallarism-threads-process-async-sync/">&lt;h2 id=&quot;concurrency-and-parallelism-并发和并行&quot;&gt;Concurrency and Parallelism 并发和并行&lt;/h2&gt;
+
+&lt;h3 id=&quot;concurrency-并发&quot;&gt;Concurrency 并发&lt;/h3&gt;
+
+&lt;div class=&quot;message&quot;&gt; 一边吃火锅一边唱歌，吃一口火锅，唱一句歌。&lt;/div&gt;
+
+&lt;p&gt;Concurrency， 一起，但不在同一时间段内，进行两个或者多个任务。In computer science world, concurrency 单核情况下，通过 &lt;a href=&quot;http://www.linfo.org/context_switch.html&quot;&gt;context switch&lt;/a&gt; 实现任务之间的跳转。多核情况下，concurrency 由 Parallelism 实现。&lt;/p&gt;
+
+&lt;div class=&quot;sec-img&quot;&gt;
+  &lt;img class=&quot;post-img&quot; src=&quot;../assets/images/concurrency/concurrency.jpg&quot; /&gt;
+  &lt;p class=&quot;caption&quot;&gt;单核，执行通过 context switch 实现&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;parallelism-并行&quot;&gt;Parallelism 并行&lt;/h3&gt;
+
+&lt;div class=&quot;message&quot;&gt;一边吃火锅一边唱歌，吃火锅的同时唱着歌。&lt;/div&gt;
+
+&lt;p&gt;Parallelism， 一起，并在同一时间段内，进行两个或者多个任务。&lt;/p&gt;
+
+&lt;div class=&quot;sec-img&quot;&gt;
+  &lt;img class=&quot;post-img&quot; src=&quot;../assets/images/concurrency/parallelism.jpg&quot; /&gt;
+  &lt;p class=&quot;caption&quot;&gt;一起，并在同一个时间内&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;threads-and-processes-线程和进程&quot;&gt;Threads and Processes 线程和进程&lt;/h2&gt;
+
+&lt;h3 id=&quot;threads-线程&quot;&gt;Threads 线程&lt;/h3&gt;
+
+&lt;div class=&quot;message&quot;&gt;多个手指，多个线程，手指在手上，手为进程&lt;/div&gt;
+
+&lt;p&gt;Threads 在系统里面是可以被执行的最小单位，同时被包含在 processes 之中。&lt;/p&gt;
+
+&lt;h3 id=&quot;processes-进程&quot;&gt;Processes 进程&lt;/h3&gt;
+
+&lt;div class=&quot;message&quot;&gt;手接受任务，可以从单一手指开始工作，稍后在利用其他手指帮忙。&lt;/div&gt;
+
+&lt;p&gt;计算机在跑的一次运行活动，一个程序可以有多个 processes. 通常来讲，process 开始的时候都只有一个主 threads，稍后执行程序的时候，可能会创造多个 threads。&lt;/p&gt;
+
+&lt;div class=&quot;sec-img&quot;&gt;
+&lt;img class=&quot;post-img concurrency&quot; src=&quot;../assets/images/concurrency/distribution-of-processes-and-threads-in-applications.png&quot; /&gt;
+  &lt;p class=&quot;caption&quot;&gt;Processes 和 Threads 的关系&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;synchronous-and-asynchronous-同步和异步&quot;&gt;Synchronous and Asynchronous 同步和异步&lt;/h2&gt;
+
+&lt;h3 id=&quot;synchronous-同步&quot;&gt;Synchronous 同步&lt;/h3&gt;
+
+&lt;div class=&quot;message&quot;&gt;煮完咖啡，包三明治&lt;/div&gt;
+&lt;p&gt;Sync 执行中，当有多个任务需要被执行的时候，按序进行。&lt;/p&gt;
+
+&lt;h3 id=&quot;asynchronous-异步&quot;&gt;Asynchronous 异步&lt;/h3&gt;
+&lt;div class=&quot;message&quot;&gt;煮咖啡的时候，同时包三明治&lt;/div&gt;
+&lt;p&gt;进行一个任务的时候，可以转换并且同时执行另一个任务。&lt;/p&gt;
+
+&lt;h2 id=&quot;同步异步在单核和多核之间的关系&quot;&gt;同步异步在单核和多核之间的关系&lt;/h2&gt;
+
+&lt;h3 id=&quot;同步单核&quot;&gt;同步单核&lt;/h3&gt;
+
+&lt;div class=&quot;sec-img&quot;&gt;
+&lt;img class=&quot;post-img&quot; src=&quot;../assets/images/concurrency/sync-single-threaded.jpg&quot; /&gt;
+  &lt;p class=&quot;caption&quot;&gt;任务等待执行&lt;/p&gt;
+  &lt;/div&gt;
+
+&lt;h3 id=&quot;同步多核&quot;&gt;同步多核&lt;/h3&gt;
+&lt;div class=&quot;sec-img&quot;&gt;
+&lt;img class=&quot;post-img&quot; src=&quot;../assets/images/concurrency/sync-multi-threaded.jpg&quot; /&gt;
+  &lt;p class=&quot;caption&quot;&gt;任务在不同的线程等待在执行&lt;/p&gt;
+  &lt;/div&gt;
+
+&lt;h3 id=&quot;异步单核&quot;&gt;异步单核&lt;/h3&gt;
+
+&lt;div class=&quot;sec-img&quot;&gt;
+&lt;img class=&quot;post-img&quot; src=&quot;../assets/images/concurrency/async-single-threaded.jpg&quot; /&gt;
+  &lt;p class=&quot;caption&quot;&gt;任务跳转执行，无需等待，但在同一时间内只能执行一个任务&lt;/p&gt;
+  &lt;/div&gt;
+
+&lt;h3 id=&quot;异步多核&quot;&gt;异步多核&lt;/h3&gt;
+&lt;div class=&quot;sec-img&quot;&gt;
+&lt;img class=&quot;post-img&quot; src=&quot;../assets/images/concurrency/async-multi-threaded.jpg&quot; /&gt;
+  &lt;p class=&quot;caption&quot;&gt;一起，在同一个时间内，在多个线程分别执行&lt;/p&gt;
+  &lt;/div&gt;
+
+&lt;h2 id=&quot;异步同步程序编制在并发和并行中的关系&quot;&gt;异步同步程序编制在并发和并行中的关系&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;异步编译可以实现并发&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;多核异步编译可以实现并行&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Translated and upated from a &lt;a href=&quot;https://medium.com/swift-india/concurrency-parallelism-threads-processes-async-and-sync-related-39fd951bc61d&quot;&gt;blog&lt;/a&gt; on Medium.&lt;/p&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;https://medium.com/swift-india/concurrency-parallelism-threads-processes-async-and-sync-related-39fd951bc61d&lt;/li&gt;
+  &lt;li&gt;https://softwareengineering.stackexchange.com/questions/190719/the-difference-between-concurrent-and-parallel-execution&lt;/li&gt;
+  &lt;li&gt;https://stackoverflow.com/questions/748175/asynchronous-vs-synchronous-execution-what-does-it-really-mean&lt;/li&gt;
+  &lt;li&gt;https://codewala.net/2015/07/29/concurrency-vs-multi-threading-vs-asynchronous-programming-explained/&lt;/li&gt;
+  &lt;li&gt;https://youtu.be/cN_DpYBzKso&lt;/li&gt;
+  &lt;li&gt;https://medium.com/flawless-app-stories/basics-of-parallel-programming-with-swift-93fee8425287&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="dev" /><summary type="html">Concurrency and Parallelism 并发和并行</summary></entry><entry><title type="html">What it Means to be an Architect</title><link href="http://localhost:3000/what-it-means-to-be-an-architect/" rel="alternate" type="text/html" title="What it Means to be an Architect" /><published>2019-12-01T00:00:00+08:00</published><updated>2019-12-01T00:00:00+08:00</updated><id>http://localhost:3000/what-it-means-to-be-an-architect</id><content type="html" xml:base="http://localhost:3000/what-it-means-to-be-an-architect/">&lt;div class=&quot;message&quot;&gt;It's all about technical tradeoffs&lt;/div&gt;
+
+&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;&lt;/span&gt;&lt;/p&gt;</content><author><name></name></author><category term="dev" /><summary type="html">It's all about technical tradeoffs</summary></entry><entry><title type="html">Above the fold</title><link href="http://localhost:3000/above-the-fold/" rel="alternate" type="text/html" title="Above the fold" /><published>2019-11-12T00:00:00+08:00</published><updated>2019-11-12T00:00:00+08:00</updated><id>http://localhost:3000/above-the-fold</id><content type="html" xml:base="http://localhost:3000/above-the-fold/"></content><author><name></name></author><category term="dev" /><summary type="html"></summary></entry><entry><title type="html">Auth JWT on Client Side</title><link href="http://localhost:3000/auth-within-client-side/" rel="alternate" type="text/html" title="Auth JWT on Client Side" /><published>2019-09-30T00:00:00+08:00</published><updated>2019-09-30T00:00:00+08:00</updated><id>http://localhost:3000/auth-within-client-side</id><content type="html" xml:base="http://localhost:3000/auth-within-client-side/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;F&lt;/span&gt;or so long, we’ve been doing JWT Auth on the backend, what if there’s way to do it on client side?&lt;/p&gt;</content><author><name></name></author><category term="dev" /><summary type="html">For so long, we’ve been doing JWT Auth on the backend, what if there’s way to do it on client side?</summary></entry><entry><title type="html">Rethinking CI</title><link href="http://localhost:3000/rethinking-ci/" rel="alternate" type="text/html" title="Rethinking CI" /><published>2019-09-05T00:00:00+08:00</published><updated>2019-09-05T00:00:00+08:00</updated><id>http://localhost:3000/rethinking-ci</id><content type="html" xml:base="http://localhost:3000/rethinking-ci/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;如&lt;/span&gt;果有天外星人来参观地球，外星人应该不会关心地球的政治，文明或者历史，科技才是目的。如何评判一个国家的科技力量？通常情况下，是以科学论文的形式来衡量，论文被引用的次数便是力量。经典的论文会被引用上万次。自然指数就是标准，这一维度，美国遥遥领先，中国是第二梯队的佼佼者。再看互联网技术，According to Wikipedia，截止到 2019 年，全球&lt;a href=&quot;https://en.wikipedia.org/wiki/List_of_unicorn_startup_companies&quot;&gt;独角兽公司榜单&lt;/a&gt;上面，中国以 125 个排行第一，美国 121 个位居第二，而第三的印度只有 27 个。 榜上的大部分都是互联网公司，所以，从这个维度的数据来讲，中国互联网现在是世界第一。因为我们有着得天独厚的体量优势，其他国家在接下来相当长的一段时间只能力争第二。有这样的成绩固然是好，我们也需要正视自己的不足。&lt;/p&gt;
 
 &lt;p&gt;中国互联网的优势是，有着庞大的体量，且一直在迭代中保持着高速成长，为了应付业务，不得不迭代求变技术，所谓进化出的技术。而美国，多是技术模型的开创，无论是语言，概念，流程，框架或是库，可谓开创出的技术。&lt;/p&gt;
 
-&lt;p&gt;TL; DR
-背景需要阐述清楚。别人开发的东西被我们拿来用， 一定要偷师。CI 被我们拿来用，我们用到了好的一面，坏的一面也不可避免的被拿来用了。而且，似乎还有点被我们玩坏了。 拿 CI 中比较经典的 git workflow 来举例。&lt;/p&gt;
+&lt;h3 id=&quot;tl-dr&quot;&gt;TL; DR&lt;/h3&gt;
 
-&lt;p&gt;&lt;em&gt;to be continued&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><category term="dev" /><summary type="html">如果有天外星人来参观地球，这个外星人应该不会关心地球的政治，文明或者历史，科技才是目的。如何评判一个国家的科技力量？通常情况下，是以科学论文的形式来衡量，论文被引用的次数便是力量。经典的论文会被引用上万次（没错，就是你脑子里的相对论）。自然指数就是判断维度之一，美国遥遥领先，中国是第二梯队的佼佼者。反观互联网技术，According to Wikipedia，截止到 2019 年，全球独角兽公司榜单上面，中国以 125 个排行第一，美国 121 个位居第二，而第三的印度只有 27 个。 榜上的大部分都是互联网公司，所以，从这个维度的数据来讲，中国互联网现在是世界第一。因为我们有着得天独厚的体量优势，其他国家在接下来相当长的一段时间只能力争第二。然而互联网技术，我们还需要正是自己的不足。</summary></entry><entry><title type="html">Karabiner Element Config 快捷键神器</title><link href="http://localhost:3000/karabiner-element-config/" rel="alternate" type="text/html" title="Karabiner Element Config 快捷键神器" /><published>2019-08-15T00:00:00+08:00</published><updated>2019-08-15T00:00:00+08:00</updated><id>http://localhost:3000/karabiner-element-config</id><content type="html" xml:base="http://localhost:3000/karabiner-element-config/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;之&lt;/span&gt;前，一直在用 Keyboard Maestro，好用强大，甚至可以直接 map copy 在 clipboard 上面，trigger 的话，只需要再 map 成不同的 key，而不用再开一个专门记录 copy 的工具，甚至可以 ignore applications，例如，某 keybinding 只在某个 app 里面使用时有效。还可以 input 一个 preference file，以便后续使用。此工具可以说是面面俱到，功能强大。然而，it comes with a price, annually, not a fan.  ¯_(ツ)_/¯&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Good artists copy, great artists steal&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;背景需要阐述清楚。别人开发的东西被我们拿来用， 一定要偷师。CI 被我们拿来用，我们用到了好的一面，坏的一面也不可避免的被拿来用了。而且，似乎还有点被我们玩坏了。 拿 CI 中比较经典的 git workflow 来举例。 Git 是 Linus Torvalds(活着的传奇) 写的一门语言，目的是 version control。因为其丰富的特性，后俩&lt;/p&gt;
+
+&lt;p&gt;让我们来看看 Google 是如何 Code Review 的最佳实践：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;1.Design: Is the code well-designed and appropriate for your system?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;2.Functionality: Does the code behave as the author likely intended? Is the way the code behaves good for its users? Check&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;3.Complexity: Could the code be made simpler? Would another developer be able to easily understand and use this code when they come across it in the future?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;4.Tests: Does the code have correct and well-designed automated tests?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;5.Naming: Did the developer choose clear names for variables, classes, methods, etc.?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;6.Comments: Are the comments clear and useful?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;7.Style: Does the code follow our style guides?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;8.Documentation: Did the developer also update relevant documentation?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;我们假设在今天的团队中没有一个人是来负责检查其他成员代码的话，那么上的&lt;/p&gt;
+
+&lt;p&gt;技术没有好坏，框架没有对错，学会利用工具，不是成为其奴隶。&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;to be continued&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><category term="dev" /><summary type="html">如果有天外星人来参观地球，外星人应该不会关心地球的政治，文明或者历史，科技才是目的。如何评判一个国家的科技力量？通常情况下，是以科学论文的形式来衡量，论文被引用的次数便是力量。经典的论文会被引用上万次。自然指数就是标准，这一维度，美国遥遥领先，中国是第二梯队的佼佼者。再看互联网技术，According to Wikipedia，截止到 2019 年，全球独角兽公司榜单上面，中国以 125 个排行第一，美国 121 个位居第二，而第三的印度只有 27 个。 榜上的大部分都是互联网公司，所以，从这个维度的数据来讲，中国互联网现在是世界第一。因为我们有着得天独厚的体量优势，其他国家在接下来相当长的一段时间只能力争第二。有这样的成绩固然是好，我们也需要正视自己的不足。</summary></entry><entry><title type="html">Karabiner Element Config 快捷键神器</title><link href="http://localhost:3000/karabiner-element-config/" rel="alternate" type="text/html" title="Karabiner Element Config 快捷键神器" /><published>2019-08-15T00:00:00+08:00</published><updated>2019-08-15T00:00:00+08:00</updated><id>http://localhost:3000/karabiner-element-config</id><content type="html" xml:base="http://localhost:3000/karabiner-element-config/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;之&lt;/span&gt;前，一直在用 Keyboard Maestro，好用强大，甚至可以直接 map copy 在 clipboard 上面，trigger 的话，只需要再 map 成不同的 key，而不用再开一个专门记录 copy 的工具，甚至可以 ignore applications，例如，某 keybinding 只在某个 app 里面使用时有效。还可以 input 一个 preference file，以便后续使用。此工具可以说是面面俱到，功能强大。然而，it comes with a price, annually, not a fan.  ¯_(ツ)_/¯&lt;/p&gt;
 
 &lt;p&gt;我在之前的 &lt;a href=&quot;https://cyfyifanchen.com/advanced-keymapping/&quot;&gt; blog &lt;/a&gt; 里面有提到 Karabiner，此神器是位日本大神 Takayama Fumihiko 开源的 project:pray:，2016 年因为 macOS Sierra 的升级，internal keybindings &lt;a href=&quot;https://developer.apple.com/library/archive/technotes/tn2450/_index.html&quot;&gt; TN2450 &lt;/a&gt; 有改，导致当时非常好用的 Karabiner 不再兼容。&lt;/p&gt;
 
@@ -373,14 +522,4 @@
 
 &lt;p&gt;缘起缘落，并不会随着分合离散而消失，它化作无声的祝福，躲在你我身边，为我们的下段感情保驾护航。&lt;/p&gt;
 
-&lt;p&gt;感谢陪伴，祝你幸福。&lt;/p&gt;</content><author><name></name></author><category term="story" /><summary type="html">我们总会记得为他人做得一点，而忽略了他人为我们做得一片，我们从不会知道这一点一片改变了谁，或者谁又改变了我们。命运总是在不知不觉中安排着我们还不知道的事情，而这些以为在取舍之间的该改变变，在经过之后，才懂得，命运，自有它的道理，每一次的开始和每一遍的结束，都完整了我们必须行走的历程。</summary></entry><entry><title type="html">Oh my data</title><link href="http://localhost:3000/oh-my-data/" rel="alternate" type="text/html" title="Oh my data" /><published>2018-11-25T00:00:00+08:00</published><updated>2018-11-25T00:00:00+08:00</updated><id>http://localhost:3000/oh-my-data</id><content type="html" xml:base="http://localhost:3000/oh-my-data/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;前&lt;/span&gt;段时间，公司的运营反应说数据准确性不可靠，无法制定详细的运营战略，老板故安排我调研数据的可靠性，本以为调研类的工作不好进展，但是一段时间查下来，结果虽然不是很明显，但是答案还是有的。&lt;/p&gt;
-
-&lt;p&gt;现在市面上的 data solutions 很多，除了我们大家熟知的 Google Analytics，其他还有五花八门的，比如专门针对 Facebook 平台的 Pixel，在自己平台用的 Snap Pixel，能查到具体个人和 business 的 Leadfeeder，有 detailed user behaviors 的 Kissmetrics，有擅长 Campaign 的 GoSquared 等。还有根据 data 衍生出来的其他行业，比如针对电商的 related products 和广告的 campaign source tracking 等等。对于初创公司而言，在不了解什么样的 data 对自己有价值的时候，与其选择付费用 data solutions，不如老老实实用  Google Analytics。Google Analytics 的功能非常非常丰富，以助于很多新手看到繁琐的界面，反而不知道从哪里入手，而成为其他 data solutions 嘴里的一个「缺点」。&lt;/p&gt;
-
-&lt;p&gt;终归是 Google，深知如果每个数据都需要埋点的话，那运营和开发之间的 gap 会越来越深(哈， 话说本来就很深)，所以后面推出的 Google Tag Manager，可以说不仅很好得解决了这个问题，也从根本上把 Development 和 Marketing 分开了。&lt;/p&gt;
-
-&lt;p&gt;其实，收集 data 大可不不必在 client side 用 cookies 来解决。Analysts 可以直接看自己的 server log，看有多少 requests， 什么样的 IP，user-agent 的种类都可以清晰看到。今天的 Analysts 用 cookie 的主要原因是可以收集更 personal 的 data。这就是我们为什么在登录很多网站的时候，会出现允许 cookie 访问的提示（每个国家不一样，如 GDPR）。Analysts 通过 cookie 收集用户的浏览习惯，再根据自己的算法给出漂亮的表格。&lt;/p&gt;
-
-&lt;p&gt;但是，为什么数据会总是出现不匹配的情况呢？每家的数据都无法匹配上，让我如何运营？其实，这就是有趣的地方。第一，每个 analysts 的算法不一样。第二，每个 analysts 的对象不一样。所以，会出现不准确的情况，尤其是在 client side 的数据。&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;未完待续~&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><category term="dev" /><summary type="html">前段时间，公司的运营反应说数据准确性不可靠，无法制定详细的运营战略，老板故安排我调研数据的可靠性，本以为调研类的工作不好进展，但是一段时间查下来，结果虽然不是很明显，但是答案还是有的。</summary></entry></feed>
+&lt;p&gt;感谢陪伴，祝你幸福。&lt;/p&gt;</content><author><name></name></author><category term="story" /><summary type="html">我们总会记得为他人做得一点，而忽略了他人为我们做得一片，我们从不会知道这一点一片改变了谁，或者谁又改变了我们。命运总是在不知不觉中安排着我们还不知道的事情，而这些以为在取舍之间的该改变变，在经过之后，才懂得，命运，自有它的道理，每一次的开始和每一遍的结束，都完整了我们必须行走的历程。</summary></entry></feed>

@@ -1,7 +1,7 @@
 ---
 title: "Concurrency, Parallelism, Threads, Processes, Async and Sync"
 layout: post
-date: 2019-12-01
+date: 2019-12-08
 tag:
 - dev
 blog: true
