@@ -4,12 +4,12 @@
 
 - [] Rewrite `gulp.js` to support Node LTS
 - [] Rewrite `gulp.js` to be more efficient in dev mode
-- [] Google Alaytics and GTM
-- [] Nav Logtics
+- [] Implement Google Analytics and GTM
+- [] Implement Nav Logtics
 - [x] Following PR of Faraday_middleware issuse
-- [] Maybe move the footer to the bottom on Mobile Devices
 - [] Re-commit `package-lock.json` once vulnerability issues are fixed
 - [] Run speed test, use lighthouse.
+- [] Low: Priority: Maybe move the footer to the bottom on Mobile Devices
 
 ### Currently supported node version:
 
