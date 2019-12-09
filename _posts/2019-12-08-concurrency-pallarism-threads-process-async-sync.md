@@ -32,6 +32,7 @@ Parallelism， 一起，并在同一时间段内，进行两个或者多个任�
   <p class="caption">一起，并在同一个时间内</p>
 </div>
 
+---
 ## Threads and Processes 线程和进程
 
 ### Threads 线程
@@ -51,6 +52,8 @@ Threads 在系统里面是可以被执行的最小单位，同时被包含在 pr
   <p class="caption">Processes 和 Threads 的关系</p>
 </div>
 
+---
+
 ## Synchronous and Asynchronous 同步和异步
 
 ### Synchronous 同步
@@ -62,6 +65,7 @@ Sync 执行中，当有多个任务需要被执行的时候，按序进行。
 <div class="message">煮咖啡的时候，同时包三明治</div>
 进行一个任务的时候，可以转换并且同时执行另一个任务。
 
+---
 ## 同步异步在单核和多核之间的关系
 
 ### 同步单核
@@ -90,6 +94,7 @@ Sync 执行中，当有多个任务需要被执行的时候，按序进行。
   <p class="caption">一起，在同一个时间内，在多个线程分别执行</p>
   </div>
 
+---
 ## 异步同步程序编制在并发和并行中的关系
 
 * 异步编译可以实现并发
