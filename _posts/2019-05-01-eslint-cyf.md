@@ -7,7 +7,7 @@ tag:
 blog: true
 star: false
 ---
-<span class="fl">C</span>t to the chase, nobody wants to do code review unless your KPI is code reviewing, which is quite impossible in reality. Code Review thus becomes a buzzword of completion. Without fitted criteria, Code Review usually means, I get my parts done, it’s your turn to review it, so I can chill out and watch YouTube. If there happen to be any problems, the routine goes again. You ended up interrupting others or waiting others to approve for your next action. In programming, we call it `blocking-tread`, which is not smart. Therefore, having a proper tool to automate it is ideal in the situation.
+<span class="fl">C</span>t to the chase, nobody wants to do code review unless your KPI is code review, which is quite impossible in reality. Code Review thus becomes a buzzword of completion. Without fitted criteria, Code Review usually means, I get my parts done, it’s your turn to review it, so I can chill out and watch YouTube. If there happen to be any problems, the routine goes again. You ended up interrupting others or wait for others to approve for your next action. In programming, we call it `blocking-tread`, which is not smart. Therefore, having a proper tool to automate it is ideal in the situation.
 
 I wrote a <a href="https://www.npmjs.com/package/eslint-config-cyf">module</a> to do such a thing.
 

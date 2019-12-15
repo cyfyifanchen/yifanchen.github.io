@@ -8,45 +8,10 @@
     } ,
   
     {
-      "title"    : "What it Means to be an Architect",
-      "tags"     : "dev",
-      "url"      : "/what-it-means-to-be-an-architect/",
-      "date"     : "01 Dec 2019"
-    } ,
-  
-    {
-      "title"    : "Above the fold",
-      "tags"     : "dev",
-      "url"      : "/above-the-fold/",
-      "date"     : "12 Nov 2019"
-    } ,
-  
-    {
-      "title"    : "Auth JWT on Client Side",
-      "tags"     : "dev",
-      "url"      : "/auth-within-client-side/",
-      "date"     : "30 Sep 2019"
-    } ,
-  
-    {
-      "title"    : "Rethinking CI",
-      "tags"     : "dev",
-      "url"      : "/rethinking-ci/",
-      "date"     : "05 Sep 2019"
-    } ,
-  
-    {
       "title"    : "Karabiner Element Config 快捷键神器",
       "tags"     : "dev",
       "url"      : "/karabiner-element-config/",
       "date"     : "15 Aug 2019"
-    } ,
-  
-    {
-      "title"    : "What can we do with WASM",
-      "tags"     : "dev",
-      "url"      : "/what-can-we-do-with-wasm/",
-      "date"     : "12 Jun 2019"
     } ,
   
     {

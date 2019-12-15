@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:3000/" rel="alternate" type="text/html" /><updated>2019-12-09T16:24:19+08:00</updated><id>http://localhost:3000/feed.xml</id><title type="html">Yifan Chen</title><entry><title type="html">Concurrency, Parallelism, Threads, Processes, Async and Sync</title><link href="http://localhost:3000/concurrency-pallarism-threads-process-async-sync/" rel="alternate" type="text/html" title="Concurrency, Parallelism, Threads, Processes, Async and Sync" /><published>2019-12-08T00:00:00+08:00</published><updated>2019-12-08T00:00:00+08:00</updated><id>http://localhost:3000/concurrency-pallarism-threads-process-async-sync</id><content type="html" xml:base="http://localhost:3000/concurrency-pallarism-threads-process-async-sync/">&lt;h2 id=&quot;concurrency-and-parallelism-并发和并行&quot;&gt;Concurrency and Parallelism 并发和并行&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:3000/" rel="alternate" type="text/html" /><updated>2019-12-15T14:13:23+08:00</updated><id>http://localhost:3000/feed.xml</id><title type="html">Yifan Chen</title><entry><title type="html">Concurrency, Parallelism, Threads, Processes, Async and Sync</title><link href="http://localhost:3000/concurrency-pallarism-threads-process-async-sync/" rel="alternate" type="text/html" title="Concurrency, Parallelism, Threads, Processes, Async and Sync" /><published>2019-12-08T00:00:00+08:00</published><updated>2019-12-08T00:00:00+08:00</updated><id>http://localhost:3000/concurrency-pallarism-threads-process-async-sync</id><content type="html" xml:base="http://localhost:3000/concurrency-pallarism-threads-process-async-sync/">&lt;h2 id=&quot;concurrency-and-parallelism-并发和并行&quot;&gt;Concurrency and Parallelism 并发和并行&lt;/h2&gt;
 
 &lt;h3 id=&quot;concurrency-并发&quot;&gt;Concurrency 并发&lt;/h3&gt;
 
@@ -115,14 +115,7 @@
 * https://codewala.net/2015/07/29/concurrency-vs-multi-threading-vs-asynchronous-programming-explained/
 * https://youtu.be/cN_DpYBzKso
 * https://medium.com/flawless-app-stories/basics-of-parallel-programming-with-swift-93fee8425287
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><category term="dev" /><summary type="html">Concurrency and Parallelism 并发和并行</summary></entry><entry><title type="html">What it Means to be an Architect</title><link href="http://localhost:3000/what-it-means-to-be-an-architect/" rel="alternate" type="text/html" title="What it Means to be an Architect" /><published>2019-12-01T00:00:00+08:00</published><updated>2019-12-01T00:00:00+08:00</updated><id>http://localhost:3000/what-it-means-to-be-an-architect</id><content type="html" xml:base="http://localhost:3000/what-it-means-to-be-an-architect/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;&lt;/span&gt;&lt;/p&gt;</content><author><name></name></author><category term="dev" /><summary type="html"></summary></entry><entry><title type="html">Above the fold</title><link href="http://localhost:3000/above-the-fold/" rel="alternate" type="text/html" title="Above the fold" /><published>2019-11-12T00:00:00+08:00</published><updated>2019-11-12T00:00:00+08:00</updated><id>http://localhost:3000/above-the-fold</id><content type="html" xml:base="http://localhost:3000/above-the-fold/"></content><author><name></name></author><category term="dev" /><summary type="html"></summary></entry><entry><title type="html">Auth JWT on Client Side</title><link href="http://localhost:3000/auth-within-client-side/" rel="alternate" type="text/html" title="Auth JWT on Client Side" /><published>2019-09-30T00:00:00+08:00</published><updated>2019-09-30T00:00:00+08:00</updated><id>http://localhost:3000/auth-within-client-side</id><content type="html" xml:base="http://localhost:3000/auth-within-client-side/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;&lt;/span&gt;&lt;/p&gt;</content><author><name></name></author><category term="dev" /><summary type="html"></summary></entry><entry><title type="html">Rethinking CI</title><link href="http://localhost:3000/rethinking-ci/" rel="alternate" type="text/html" title="Rethinking CI" /><published>2019-09-05T00:00:00+08:00</published><updated>2019-09-05T00:00:00+08:00</updated><id>http://localhost:3000/rethinking-ci</id><content type="html" xml:base="http://localhost:3000/rethinking-ci/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;如&lt;/span&gt;果有天外星人来参观地球，这个外星人应该不会关心地球的政治，文明或者历史，科技才是目的。如何评判一个国家的科技力量？通常情况下，是以科学论文的形式来衡量，论文被引用的次数便是力量。经典的论文会被引用上万次（没错，就是你脑子里的相对论）。自然指数就是判断维度之一，美国遥遥领先，中国是第二梯队的佼佼者。反观互联网技术，According to Wikipedia，截止到 2019 年，全球&lt;a href=&quot;https://en.wikipedia.org/wiki/List_of_unicorn_startup_companies&quot;&gt;独角兽公司榜单&lt;/a&gt;上面，中国以 125 个排行第一，美国 121 个位居第二，而第三的印度只有 27 个。 榜上的大部分都是互联网公司，所以，从这个维度的数据来讲，中国互联网现在是世界第一。因为我们有着得天独厚的体量优势，其他国家在接下来相当长的一段时间只能力争第二。然而互联网技术，我们还需要正是自己的不足。&lt;/p&gt;
-
-&lt;p&gt;中国互联网的优势是，有着庞大的体量，且一直在迭代中保持着高速成长，为了应付业务，不得不迭代求变技术，所谓进化出的技术。而美国，多是技术模型的开创，无论是语言，概念，流程，框架或是库，可谓开创出的技术。&lt;/p&gt;
-
-&lt;p&gt;TL; DR
-背景需要阐述清楚。别人开发的东西被我们拿来用， 一定要偷师。CI 被我们拿来用，我们用到了好的一面，坏的一面也不可避免的被拿来用了。而且，似乎还有点被我们玩坏了。 拿 CI 中比较经典的 git workflow 来举例。&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;to be continued&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><category term="dev" /><summary type="html">如果有天外星人来参观地球，这个外星人应该不会关心地球的政治，文明或者历史，科技才是目的。如何评判一个国家的科技力量？通常情况下，是以科学论文的形式来衡量，论文被引用的次数便是力量。经典的论文会被引用上万次（没错，就是你脑子里的相对论）。自然指数就是判断维度之一，美国遥遥领先，中国是第二梯队的佼佼者。反观互联网技术，According to Wikipedia，截止到 2019 年，全球独角兽公司榜单上面，中国以 125 个排行第一，美国 121 个位居第二，而第三的印度只有 27 个。 榜上的大部分都是互联网公司，所以，从这个维度的数据来讲，中国互联网现在是世界第一。因为我们有着得天独厚的体量优势，其他国家在接下来相当长的一段时间只能力争第二。然而互联网技术，我们还需要正是自己的不足。</summary></entry><entry><title type="html">Karabiner Element Config 快捷键神器</title><link href="http://localhost:3000/karabiner-element-config/" rel="alternate" type="text/html" title="Karabiner Element Config 快捷键神器" /><published>2019-08-15T00:00:00+08:00</published><updated>2019-08-15T00:00:00+08:00</updated><id>http://localhost:3000/karabiner-element-config</id><content type="html" xml:base="http://localhost:3000/karabiner-element-config/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;之&lt;/span&gt;前，一直在用 Keyboard Maestro，好用强大，甚至可以直接 map copy 在 clipboard 上面，trigger 的话，只需要再 map 成不同的 key，而不用再开一个专门记录 copy 的工具，甚至可以 ignore applications，例如，某 keybinding 只在某个 app 里面使用时有效。还可以 input 一个 preference file，以便后续使用。此工具可以说是面面俱到，功能强大。然而，it comes with a price, annually, not a fan.  ¯_(ツ)_/¯&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><category term="dev" /><summary type="html">Concurrency and Parallelism 并发和并行</summary></entry><entry><title type="html">Karabiner Element Config 快捷键神器</title><link href="http://localhost:3000/karabiner-element-config/" rel="alternate" type="text/html" title="Karabiner Element Config 快捷键神器" /><published>2019-08-15T00:00:00+08:00</published><updated>2019-08-15T00:00:00+08:00</updated><id>http://localhost:3000/karabiner-element-config</id><content type="html" xml:base="http://localhost:3000/karabiner-element-config/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;之&lt;/span&gt;前，一直在用 Keyboard Maestro，好用强大，甚至可以直接 map copy 在 clipboard 上面，trigger 的话，只需要再 map 成不同的 key，而不用再开一个专门记录 copy 的工具，甚至可以 ignore applications，例如，某 keybinding 只在某个 app 里面使用时有效。还可以 input 一个 preference file，以便后续使用。此工具可以说是面面俱到，功能强大。然而，it comes with a price, annually, not a fan.  ¯_(ツ)_/¯&lt;/p&gt;
 
 &lt;p&gt;我在之前的 &lt;a href=&quot;https://cyfyifanchen.com/advanced-keymapping/&quot;&gt; blog &lt;/a&gt; 里面有提到 Karabiner，此神器是位日本大神 Takayama Fumihiko 开源的 project:pray:，2016 年因为 macOS Sierra 的升级，internal keybindings &lt;a href=&quot;https://developer.apple.com/library/archive/technotes/tn2450/_index.html&quot;&gt; TN2450 &lt;/a&gt; 有改，导致当时非常好用的 Karabiner 不再兼容。&lt;/p&gt;
 
@@ -316,7 +309,7 @@
 
 &lt;p&gt;上面的 snippet 就是 A2 和 A3 的实现方式。import 之后，和预期一模一样，完美。&lt;/p&gt;
 
-&lt;p&gt;现在来实现，B1, 行动ing.&lt;/p&gt;</content><author><name></name></author><category term="dev" /><summary type="html">之前，一直在用 Keyboard Maestro，好用强大，甚至可以直接 map copy 在 clipboard 上面，trigger 的话，只需要再 map 成不同的 key，而不用再开一个专门记录 copy 的工具，甚至可以 ignore applications，例如，某 keybinding 只在某个 app 里面使用时有效。还可以 input 一个 preference file，以便后续使用。此工具可以说是面面俱到，功能强大。然而，it comes with a price, annually, not a fan. ¯_(ツ)_/¯</summary></entry><entry><title type="html">What can we do with WASM</title><link href="http://localhost:3000/what-can-we-do-with-wasm/" rel="alternate" type="text/html" title="What can we do with WASM" /><published>2019-06-12T00:00:00+08:00</published><updated>2019-06-12T00:00:00+08:00</updated><id>http://localhost:3000/what-can-we-do-with-wasm</id><content type="html" xml:base="http://localhost:3000/what-can-we-do-with-wasm/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;&lt;/span&gt;&lt;/p&gt;</content><author><name></name></author><category term="dev" /><summary type="html"></summary></entry><entry><title type="html">Seeking the Balance in Framework Design</title><link href="http://localhost:3000/seeking-balance-in-framework-design/" rel="alternate" type="text/html" title="Seeking the Balance in Framework Design" /><published>2019-05-15T00:00:00+08:00</published><updated>2019-05-15T00:00:00+08:00</updated><id>http://localhost:3000/seeking-balance-in-framework-design</id><content type="html" xml:base="http://localhost:3000/seeking-balance-in-framework-design/">&lt;iframe width=&quot;1917&quot; height=&quot;716&quot; src=&quot;https://www.youtube.com/embed/ANtSWq-zI0s&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;现在来实现，B1, 行动ing.&lt;/p&gt;</content><author><name></name></author><category term="dev" /><summary type="html">之前，一直在用 Keyboard Maestro，好用强大，甚至可以直接 map copy 在 clipboard 上面，trigger 的话，只需要再 map 成不同的 key，而不用再开一个专门记录 copy 的工具，甚至可以 ignore applications，例如，某 keybinding 只在某个 app 里面使用时有效。还可以 input 一个 preference file，以便后续使用。此工具可以说是面面俱到，功能强大。然而，it comes with a price, annually, not a fan. ¯_(ツ)_/¯</summary></entry><entry><title type="html">Seeking the Balance in Framework Design</title><link href="http://localhost:3000/seeking-balance-in-framework-design/" rel="alternate" type="text/html" title="Seeking the Balance in Framework Design" /><published>2019-05-15T00:00:00+08:00</published><updated>2019-05-15T00:00:00+08:00</updated><id>http://localhost:3000/seeking-balance-in-framework-design</id><content type="html" xml:base="http://localhost:3000/seeking-balance-in-framework-design/">&lt;iframe width=&quot;1917&quot; height=&quot;716&quot; src=&quot;https://www.youtube.com/embed/ANtSWq-zI0s&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;One of the best videos I’ve seen this year need to take notes of it.&lt;/p&gt;
 
@@ -382,7 +375,7 @@
 
 &lt;h2 id=&quot;state-mechanism&quot;&gt;State Mechanism&lt;/h2&gt;
 
-&lt;p&gt;&lt;em&gt;Evan didn’t give much insights regarding the differences of State Mechanism due to the duration of the talk, I am going to do some research and complete it later on&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><category term="dev" /><summary type="html"></summary></entry><entry><title type="html">Putting Prettier Commit-lint Staged-lint into Eslint</title><link href="http://localhost:3000/eslint-cyf/" rel="alternate" type="text/html" title="Putting Prettier Commit-lint Staged-lint into Eslint" /><published>2019-05-01T00:00:00+08:00</published><updated>2019-05-01T00:00:00+08:00</updated><id>http://localhost:3000/eslint-cyf</id><content type="html" xml:base="http://localhost:3000/eslint-cyf/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;C&lt;/span&gt;t to the chase, nobody wants to do code review unless your KPI is code reviewing, which is quite impossible in reality. Code Review thus becomes a buzzword of completion. Without fitted criteria, Code Review usually means, I get my parts done, it’s your turn to review it, so I can chill out and watch YouTube. If there happen to be any problems, the routine goes again. You ended up interrupting others or waiting others to approve for your next action. In programming, we call it &lt;code class=&quot;highlighter-rouge&quot;&gt;blocking-tread&lt;/code&gt;, which is not smart. Therefore, having a proper tool to automate it is ideal in the situation.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Evan didn’t give much insights regarding the differences of State Mechanism due to the duration of the talk, I am going to do some research and complete it later on&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><category term="dev" /><summary type="html"></summary></entry><entry><title type="html">Putting Prettier Commit-lint Staged-lint into Eslint</title><link href="http://localhost:3000/eslint-cyf/" rel="alternate" type="text/html" title="Putting Prettier Commit-lint Staged-lint into Eslint" /><published>2019-05-01T00:00:00+08:00</published><updated>2019-05-01T00:00:00+08:00</updated><id>http://localhost:3000/eslint-cyf</id><content type="html" xml:base="http://localhost:3000/eslint-cyf/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;C&lt;/span&gt;t to the chase, nobody wants to do code review unless your KPI is code reviewing, which is quite impossible in reality. Code Review thus becomes a buzzword of completion. Without fitted criteria, Code Review usually means, I get my parts done, it’s your turn to review it, so I can chill out and watch YouTube. If there happen to be any problems, the routine goes again. You ended up interrupting others or wait for others to approve for your next action. In programming, we call it &lt;code class=&quot;highlighter-rouge&quot;&gt;blocking-tread&lt;/code&gt;, which is not smart. Therefore, having a proper tool to automate it is ideal in the situation.&lt;/p&gt;
 
 &lt;p&gt;I wrote a &lt;a href=&quot;https://www.npmjs.com/package/eslint-config-cyf&quot;&gt;module&lt;/a&gt; to do such a thing.&lt;/p&gt;
 
@@ -486,8 +479,166 @@
     &lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
   &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
 &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><category term="dev" /><summary type="html">Ct to the chase, nobody wants to do code review unless your KPI is code reviewing, which is quite impossible in reality. Code Review thus becomes a buzzword of completion. Without fitted criteria, Code Review usually means, I get my parts done, it’s your turn to review it, so I can chill out and watch YouTube. If there happen to be any problems, the routine goes again. You ended up interrupting others or waiting others to approve for your next action. In programming, we call it blocking-tread, which is not smart. Therefore, having a proper tool to automate it is ideal in the situation.</summary></entry><entry><title type="html">Next Chapter</title><link href="http://localhost:3000/next-chapter/" rel="alternate" type="text/html" title="Next Chapter" /><published>2019-04-05T00:00:00+08:00</published><updated>2019-04-05T00:00:00+08:00</updated><id>http://localhost:3000/next-chapter</id><content type="html" xml:base="http://localhost:3000/next-chapter/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;我&lt;/span&gt;们总会记得为他人做得一点，而忽略了他人为我们做得一片，我们从不会知道这一点一片改变了谁，或者谁又改变了我们。命运总是在不知不觉中安排着我们还不知道的事情，而这些以为在取舍之间的该改变变，在经过之后，才懂得，命运，自有它的道理，每一次的开始和每一遍的结束，都完整了我们必须行走的历程。&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><category term="dev" /><summary type="html">Ct to the chase, nobody wants to do code review unless your KPI is code reviewing, which is quite impossible in reality. Code Review thus becomes a buzzword of completion. Without fitted criteria, Code Review usually means, I get my parts done, it’s your turn to review it, so I can chill out and watch YouTube. If there happen to be any problems, the routine goes again. You ended up interrupting others or wait for others to approve for your next action. In programming, we call it blocking-tread, which is not smart. Therefore, having a proper tool to automate it is ideal in the situation.</summary></entry><entry><title type="html">Next Chapter</title><link href="http://localhost:3000/next-chapter/" rel="alternate" type="text/html" title="Next Chapter" /><published>2019-04-05T00:00:00+08:00</published><updated>2019-04-05T00:00:00+08:00</updated><id>http://localhost:3000/next-chapter</id><content type="html" xml:base="http://localhost:3000/next-chapter/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;我&lt;/span&gt;们总会记得为他人做得一点，而忽略了他人为我们做得一片，我们从不会知道这一点一片改变了谁，或者谁又改变了我们。命运总是在不知不觉中安排着我们还不知道的事情，而这些以为在取舍之间的该改变变，在经过之后，才懂得，命运，自有它的道理，每一次的开始和每一遍的结束，都完整了我们必须行走的历程。&lt;/p&gt;
 
 &lt;p&gt;缘起缘落，并不会随着分合离散而消失，它化作无声的祝福，躲在你我身边，为我们的下段感情保驾护航。&lt;/p&gt;
 
-&lt;p&gt;感谢陪伴，祝你幸福。&lt;/p&gt;</content><author><name></name></author><category term="story" /><summary type="html">我们总会记得为他人做得一点，而忽略了他人为我们做得一片，我们从不会知道这一点一片改变了谁，或者谁又改变了我们。命运总是在不知不觉中安排着我们还不知道的事情，而这些以为在取舍之间的该改变变，在经过之后，才懂得，命运，自有它的道理，每一次的开始和每一遍的结束，都完整了我们必须行走的历程。</summary></entry></feed>
+&lt;p&gt;感谢陪伴，祝你幸福。&lt;/p&gt;</content><author><name></name></author><category term="story" /><summary type="html">我们总会记得为他人做得一点，而忽略了他人为我们做得一片，我们从不会知道这一点一片改变了谁，或者谁又改变了我们。命运总是在不知不觉中安排着我们还不知道的事情，而这些以为在取舍之间的该改变变，在经过之后，才懂得，命运，自有它的道理，每一次的开始和每一遍的结束，都完整了我们必须行走的历程。</summary></entry><entry><title type="html">Oh my data</title><link href="http://localhost:3000/oh-my-data/" rel="alternate" type="text/html" title="Oh my data" /><published>2018-11-25T00:00:00+08:00</published><updated>2018-11-25T00:00:00+08:00</updated><id>http://localhost:3000/oh-my-data</id><content type="html" xml:base="http://localhost:3000/oh-my-data/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;前&lt;/span&gt;段时间，公司的运营反应说数据准确性不可靠，无法制定详细的运营战略，老板故安排我调研数据的可靠性，本以为调研类的工作不好进展，但是一段时间查下来，结果虽然不是很明显，但是答案还是有的。&lt;/p&gt;
+
+&lt;p&gt;现在市面上的 data solutions 很多，除了我们大家熟知的 Google Analytics，其他还有五花八门的，比如专门针对 Facebook 平台的 Pixel，在自己平台用的 Snap Pixel，能查到具体个人和 business 的 Leadfeeder，有 detailed user behaviors 的 Kissmetrics，有擅长 Campaign 的 GoSquared 等。还有根据 data 衍生出来的其他行业，比如针对电商的 related products 和广告的 campaign source tracking 等等。对于初创公司而言，在不了解什么样的 data 对自己有价值的时候，与其选择付费用 data solutions，不如老老实实用  Google Analytics。Google Analytics 的功能非常非常丰富，以助于很多新手看到繁琐的界面，反而不知道从哪里入手，而成为其他 data solutions 嘴里的一个「缺点」。&lt;/p&gt;
+
+&lt;p&gt;终归是 Google，深知如果每个数据都需要埋点的话，那运营和开发之间的 gap 会越来越深(哈， 话说本来就很深)，所以后面推出的 Google Tag Manager，可以说不仅很好得解决了这个问题，也从根本上把 Development 和 Marketing 分开了。&lt;/p&gt;
+
+&lt;p&gt;其实，收集 data 大可不不必在 client side 用 cookies 来解决。Analysts 可以直接看自己的 server log，看有多少 requests， 什么样的 IP，user-agent 的种类都可以清晰看到。今天的 Analysts 用 cookie 的主要原因是可以收集更 personal 的 data。这就是我们为什么在登录很多网站的时候，会出现允许 cookie 访问的提示（每个国家不一样，如 GDPR）。Analysts 通过 cookie 收集用户的浏览习惯，再根据自己的算法给出漂亮的表格。&lt;/p&gt;
+
+&lt;p&gt;但是，为什么数据会总是出现不匹配的情况呢？每家的数据都无法匹配上，让我如何运营？其实，这就是有趣的地方。第一，每个 analysts 的算法不一样。第二，每个 analysts 的对象不一样。所以，会出现不准确的情况，尤其是在 client side 的数据。&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;未完待续~&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><category term="dev" /><summary type="html">前段时间，公司的运营反应说数据准确性不可靠，无法制定详细的运营战略，老板故安排我调研数据的可靠性，本以为调研类的工作不好进展，但是一段时间查下来，结果虽然不是很明显，但是答案还是有的。</summary></entry><entry><title type="html">Greatest Couple</title><link href="http://localhost:3000/greatest-couple/" rel="alternate" type="text/html" title="Greatest Couple" /><published>2018-11-22T00:00:00+08:00</published><updated>2018-11-22T00:00:00+08:00</updated><id>http://localhost:3000/greatest-couple</id><content type="html" xml:base="http://localhost:3000/greatest-couple/">&lt;div class=&quot;wrapper-hero&quot;&gt;
+  &lt;img src=&quot;http://localhost:3000/assets/images/follow-heart.gif&quot; /&gt;
+  &lt;a class=&quot;link-to-author&quot; href=&quot;https://dribbble.com/UIcousin&quot;&gt;Illustration by Qinjian on Dribbble&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;audio style=&quot;display: block; margin: 30px auto; width: 90%;&quot; src=&quot;http://localhost:3000/assets/audio/follow-heart.mp3&quot; controls=&quot;controls&quot;&gt;&lt;/audio&gt;
+
+&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;在&lt;/span&gt;美国生活的时候，喜欢看「老友记」，经典的桥段，诙谐的对话，鲜明的性格，温馨的情感。欣赏剧中每个人的乐观精神，羡慕他们对生活的态度，嫉妒他们每次争执过后友谊的升华，最最喜欢 Monica 和 Chandler 这对 Couple，小吵小闹， 欢喜冤家，希望自己也能早日找到 「Moncia」，知心朋友，亲密爱人，当一回 Greatest Couple。&lt;/p&gt;
+
+&lt;p&gt;美国是个无聊的地方，如果说上学的时候还有学校这个社交圈的话，那么毕业工作后，上班党的社交圈就小得可怜了。似乎生活，除了公司就是家，因为无事可做，不得不去健身房撸铁，撸多伤身，哥们看不下去了，把自己老婆的闺蜜牵线给我，陌生的人，熟悉的心，爱情的种子不但发芽，并且蹭蹭蹭。我们都长期在国外生活，三观相符，兴趣相投，很快便成为知心朋友，亲密爱人。对于异国问题，一贯现实的自己，不知哪里来的勇气，果断决定，为了爱情，放弃美国的一切。&lt;/p&gt;
+
+&lt;p&gt;回国后，女友和我依然面对异地的挑战，还好相比于异国的 15 个小时，现在的 1.5 个小时已经令我们很知足。我们约好，我飞台北一次，她来上海一趟，不想飞的时候，就约定在另一个城市见面，顺便旅游。也不知道上辈子拯救了哪个村儿，和女友这样的旅游大咖出行，一个字，爽。住什么样的饭店，吃什么样的食物，赏什么样的风光都会被她打理得井井有条，而我只需要悉心陪伴，尽情享受。平时，我们每天视频，一起 Netflix，无所不聊，又或许我拯救的是整个世界，换来个女友陪我打游戏，一个可爱的小辅助，加攻加防，做视野，美滋滋。&lt;/p&gt;
+
+&lt;p&gt;没回国之前，女友担心我不适应国内的生活，经受不住诱惑，会变坏，现在看来，她的担心是多余的，因为除了体重，其他还是原来的样子。Greatest Couple 一定会互相进步，带给彼此更好的自己。女友和我也不例外，从小家里做生意的她，人脉多，资源广，她不仅介绍机会给我，还会买书给我，鼓励我进步并支持我做自己。而我，乐观的性格带给她开心之余，监督她健康饮食，积极健身。&lt;/p&gt;
+
+&lt;p&gt;通常的的异地恋，在环境的左右下，很容易说散就散，讲好听点是成长，难听却是无责，疲惫的身心经不起距离给爱情拷上的枷锁，余温过后剩下的无奈在两地之间，略显苍白，却又无可奈何。异地，始于对单纯的渴望，伴随着对目标的想往，以及对结果的期待，过程易被忽略，却尤为珍贵，往往纯真的东西唯有在时间的印证下，方能见其真谛。也许，碍于现实，我们不得不妥协生活的初衷。那么面对爱情，勇往直前，不计结果，才能还原她的本质。&lt;/p&gt;
+
+&lt;p&gt;我不缺勇气，我感激给我勇气的那个人。&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;BGM: Your First Light My Eventide by The Echelon Effect&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><category term="story" /><summary type="html">Illustration by Qinjian on Dribbble</summary></entry><entry><title type="html">Google’s Inbox is Going Away</title><link href="http://localhost:3000/googles-inbox-going-away/" rel="alternate" type="text/html" title="Google's Inbox is Going Away" /><published>2018-11-15T00:00:00+08:00</published><updated>2018-11-15T00:00:00+08:00</updated><id>http://localhost:3000/googles-inbox-going-away</id><content type="html" xml:base="http://localhost:3000/googles-inbox-going-away/">&lt;style&gt;
+ul li {line-height: unset;}
+
+.wrapper-hero {
+  width: 112%;
+  margin-left: -6%;
+}
+
+&lt;/style&gt;
+
+&lt;div class=&quot;wrapper-hero&quot;&gt;
+
+&lt;img src=&quot;http://localhost:3000/assets/images/googles-inbox.jpg&quot; /&gt;
+
+&lt;a class=&quot;link-to-author&quot; style=&quot;
+          font-style: italic;
+          text-decoration: none;
+          color: lightgray;
+          font-size: 13px;
+          display: block;
+          margin-top: 10px;
+         &quot; href=&quot;https://images.google.com&quot;&gt;Image by Google Image&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;S&lt;/span&gt; o Google’s Inbox is going away. As usual, I went to Inbox to browse my emails this morning, shockingly saw a popup saying that Google will no longer support Inbox by the end of March 2019, and they encourage Inbox users to use Gmail instead. Although Google claims Gmail already has most Inbox features implemented and people adopted them very well, I still think Inbox is way more personal than Gmail when using on a daily basis.&lt;/p&gt;
+
+&lt;p&gt;Almost exactly four years ago, Google launched Inbox, a new way of emailing. Inbox was made by Gmail Team, from what I could tell, Inbox is more on a casual side and relatively Gmail is more business-ish. The goal of Inbox is offering a clean UI and a fresh UX that allows users to get rid of cluttered emails and keep inbox empty. Along with that, Google also introduced Bundle to the Inbox, which bundles user’s emails into different categories such as Updates, Purchases, Promos, and Trips. These brand new features were unfamiliar to users at first, so they took a hit. Some people stuck with Gmail, and others, who didn’t fear about the learning curve, enhanced their emailing experience, apparently, I was one of them.
+I liked Inbox right after it got launched. I liked the simplified design and vivid color scheme. I loved to see  “a sun floating in the middle of my screen”, on a concept level, to-dos completed.&lt;/p&gt;
+
+&lt;p&gt;So what happened? Why is Google taking away the Inbox? Well, that I don’t know, but subtle clues, along the way, hinted the decision today. First of all, Google never updated UI of Inbox since it was launched. Secondly, it took up to a year to patch the design issue on Inbox’s iOS app. Last but not least, the search functionality can’t even compare to Google’s search, it was not smart enough to find emails I was looking for, I always ended up finding emails by navigating.&lt;/p&gt;
+
+&lt;p&gt;Realistically, a product itself doesn’t represent a value, people who use it does.  In other words, if the cost of maintaining a product is too high, and the value is too low, then the product shouldn’t be maintained.&lt;/p&gt;
+
+&lt;p&gt;I shrugged my shoulder, thinking ‘maybe it was not as good as I thought it would be’. I then moved my mouse cursor to the Applications Folder, dragged an icon, that was strange yet familiar, to the Dock.&lt;/p&gt;
+
+&lt;p&gt;It was Mail.&lt;/p&gt;</content><author><name></name></author><category term="dev" /><summary type="html"></summary></entry><entry><title type="html">一座古城，一对新人，一言承诺，一生鉴定</title><link href="http://localhost:3000/chiang-mai/" rel="alternate" type="text/html" title="一座古城，一对新人，一言承诺，一生鉴定" /><published>2018-10-02T00:00:00+08:00</published><updated>2018-10-02T00:00:00+08:00</updated><id>http://localhost:3000/chiang-mai</id><content type="html" xml:base="http://localhost:3000/chiang-mai/">&lt;style&gt;
+ul li {line-height: unset;}
+.img-wrapper {
+  width: 112%;
+  margin-left: -6%;
+}
+&lt;/style&gt;
+
+&lt;div class=&quot;img-wrapper&quot;&gt;
+   &lt;div class=&quot;flexslider&quot;&gt;
+     &lt;ul class=&quot;slides&quot;&gt;
+       &lt;li&gt;
+         &lt;img src=&quot;/assets/images/sliders/chiangmai/1.jpg&quot; /&gt;
+       &lt;/li&gt;
+       &lt;li&gt;
+         &lt;img src=&quot;/assets/images/sliders/chiangmai/2.jpg&quot; /&gt;
+       &lt;/li&gt;
+       &lt;li&gt;
+         &lt;img src=&quot;/assets/images/sliders/chiangmai/3.jpg&quot; /&gt;
+       &lt;/li&gt;
+       &lt;li&gt;
+         &lt;img src=&quot;/assets/images/sliders/chiangmai/4.jpg&quot; /&gt;
+       &lt;/li&gt;
+       &lt;li&gt;
+         &lt;img src=&quot;/assets/images/sliders/chiangmai/5.jpg&quot; /&gt;
+       &lt;/li&gt;
+       &lt;li&gt;
+         &lt;img src=&quot;/assets/images/sliders/chiangmai/6.jpg&quot; /&gt;
+       &lt;/li&gt;
+       &lt;li&gt;
+         &lt;img src=&quot;/assets/images/sliders/chiangmai/7.jpg&quot; /&gt;
+       &lt;/li&gt;
+     &lt;/ul&gt;
+   &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;女&lt;/span&gt;友的好友结婚，我们送给新人的礼物是一次旅行，地点是清迈。在这个历史悠久的古城中，文化吸引着世界各地的游人，随处可见的寺庙，虔诚朝拜的僧人，各式各样的水果，无处不在的动物，玲琅满目的木制工艺，仿佛一切都能原始归真，生机无限。在这个会微笑的城市中，言语满载祝福，气氛不紧不慢，环境舒适自然，故事从新出发，旅途从心开始。&lt;/p&gt;
+
+&lt;h2 id=&quot;关键词微笑&quot;&gt;关键词：微笑&lt;/h2&gt;
+
+&lt;p&gt;当一个人对你微笑的时候，很简单。但如果每个人，无论职业，性别和年龄，都能对你微笑的时候，这便是习俗。一次计程车出行，坐在后排的我，仔细地打量着这个城市，当车子在一个交通灯前停下时，从后赶来一对骑电动车的父女，小姑娘看上去 10 来岁的样子，梳了个高高的马尾，正紧紧地抱着父亲。正当我为电动车的安全，陷入沉思的时候，小姑娘扭头看到了搭车的我，随之给了我一个暖人的微笑。我先是惊讶，便立马惭愧起来，我想，作为一个成年人的我，经历远多于一个的孩童，真诚上，却远输一个孩童。&lt;/p&gt;
+
+&lt;h2 id=&quot;关键词动物&quot;&gt;关键词：动物&lt;/h2&gt;
+
+&lt;p&gt;我喜欢动物，也曾打卡不少动物园。清迈的夜间动物园绝对是非一般的体验，大猫们不仅没有在睡觉，还摆好 Pose 给你看。鹿们，牛们和猪们都和商量好了一样直接到身边蹭吃蹭喝。物种也是多，除了企鹅，北极熊等极地气候的动物，其他都基本在这里了。 这里还有我最喜欢的猎豹，它们不仅身材苗条，线条优美，还能一拳 KO。&lt;/p&gt;
+
+&lt;h2 id=&quot;关键词夜市&quot;&gt;关键词：夜市&lt;/h2&gt;
+
+&lt;p&gt;夜市文化在清迈很重要，从每天的小夜市到周末包罗万象的大夜市，只有想不到，没有看不到。清迈夜市很繁忙，人挤人，但环境却出奇的好，整个夜市看不到清洁工和公共垃圾桶，地上却没有烟头和口水。如果我们自诩大国，以经济为傲的话，我希望有一天我们也可以以爱护环境为傲。&lt;/p&gt;
+
+&lt;p&gt;清迈，一座古城，相比于繁华的都市，她清新自然，她满载微笑。一句萨瓦迪卡，带来的不仅是问候礼节，更是都市生活中日渐稀少的人情味。&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;P.S&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;祝福新人，白头到老，吵吵更健康~&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><category term="travel" /><summary type="html"></summary></entry><entry><title type="html">第 100 天</title><link href="http://localhost:3000/100-days/" rel="alternate" type="text/html" title="第 100 天" /><published>2017-07-14T00:00:00+08:00</published><updated>2017-07-14T00:00:00+08:00</updated><id>http://localhost:3000/100-days</id><content type="html" xml:base="http://localhost:3000/100-days/">&lt;style&gt;
+.wrapper-hero {
+  width: 112%;
+  margin-left: -6%;
+}
+.fl {
+  float: left;
+  font-size: 50px;
+  line-height: 50px;
+  padding-top: 0;
+  padding-right: 8px;
+  padding-left: 3px;
+}
+&lt;/style&gt;
+
+&lt;div class=&quot;wrapper-hero&quot;&gt;
+&lt;img src=&quot;http://localhost:3000/assets/images/100days.svg&quot; style=&quot;width: display:block; margin: 0 auto;&quot; /&gt;
+
+&lt;a class=&quot;link-to-author&quot; style=&quot;
+          font-style: italic;
+          text-decoration: none;
+          color: lightgray;
+          font-size: 13px;
+         &quot; href=&quot;https://www.freepik.com&quot;&gt;Illustration Designed by Freepik&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;今&lt;/span&gt;年的早些时候，和朋友去了月老庙，祈求祝福。&lt;/p&gt;
+
+&lt;p&gt;次月，闺蜜便介绍她老公的哥们，一个水瓶男，给我认识。基于对水瓶本身的了解 ，再加之闺蜜介绍，近四年没有感情进展的我决定给自己一个机会，去认真得了解他。&lt;/p&gt;
+
+&lt;p&gt;他是一个典型的水瓶男，废话多，爱耍宝，满嘴跑火车。总是给自己挖坑，奋不顾身跳进去，再使尽解数爬出来。我笑他不喜欢天下太平，他却不以为然，乐此不疲。不管我说多少次，他总是在和我讲话的时候分心，自由不受拘束到不靠谱。不仅这样，他还有个所谓的热心肠，分不清轻重，无关紧要的忙，也要帮，通常折腾得自己很累，还把我搞得既生气又无奈。甚至在我们一起一个月的时候，还夸张到跑出去和别的女生吃饭。&lt;/p&gt;
+
+&lt;p&gt;水瓶男，说好听是天马行空，难听就是神经质，永远猜不到他下一步要干什么。&lt;/p&gt;
+
+&lt;p&gt;大概两周前的一天，他照常在下班时间叫我起床。可是还刚没有讲上两句话，他又开始分心和他的好基友聊天，我当时就感觉被冷落，要求他多陪我一会儿。还好，他态度好，道歉后就认真了一会儿。可没过多久，他又开始敷衍，问他干什么，他说在健身。我当下无语，怨他不专心，他就找各种借口… 最后通话还是以不开心收场。 我到了公司之后，就忙于各种会议，好不容易抽空坐下来，桌上还有一些资料要审核，想起早上的事情，总觉得他是习惯性三心二意，一点儿也不靠谱。这时，他发视讯过来，我以为他要道歉，便点开了视讯。奇怪的是，他拿着个自拍杆，坐在车子的后备箱上，戴个棒球帽对着镜头笑得若无其事。看来他大晚上跑出去了，我正准备念他在干什么，突然听见背景音乐在放《烟火的季节》，然后他就问我想不想看烟火， 我还没反应过来，他便从后备箱上跳下来，拿着长火机点燃了地上的烟火。在熟悉的歌曲中，烟花一束一束飞向夜空，绚烂地绽放，犹如满天星，五颜六色，色彩斑斓，照亮了我，更暖了心。&lt;/p&gt;
+
+&lt;p&gt;我想，这就是他吧，先搞点事情出来，再搞点浪漫出来。&lt;/p&gt;
+
+&lt;p&gt;上个月，我在东京新宿出差的时候和老板在工作上出现分歧。大晚上跑到星巴克买了杯摩卡，打了电话给水瓶男，他就在电话上一直搞笑，讲那些有的没的。我嘴上不笑，但心里很甜，明知这家伙又再跑火车，但也宁愿相信他。听着听着，心情确实好了不少。第二天一大早，酒店前台就通知我说有礼物，酒店怎么可能有礼物，我以为搞错了。我到前台后才发现是玫瑰花，有水瓶男的署名。原来，他根据我在新宿星巴克的位置判断出我入住的酒店，打电话在当地买了花送给我，希望我心情好起来。&lt;/p&gt;
+
+&lt;p&gt;其实，当我在月老庙的时候，幸福就在走进。而当听他满嘴跑火车的时候，幸福已在身边。&lt;/p&gt;</content><author><name></name></author><category term="story" /><summary type="html"></summary></entry></feed>
