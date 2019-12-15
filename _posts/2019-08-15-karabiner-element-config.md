@@ -191,4 +191,31 @@ Karabiner Element 有个 GUI 界面(如下图)，在 Complex Modifications 里�
 
 上面的 snippet 就是 A2 和 A3 的实现方式。import 之后，和预期一模一样，完美。
 
-现在来实现，B1, 行动ing.
+现在来实现，B1, 行动ing. 然而， B1 貌似不是很容易实现，需要再进一步的调研，所以果断决定暂时 postpone B。
+
+先来实现 C1，下面是我大概要实现的内容：
+
+```json
+{
+    "type": "basic",
+    "from": {
+        "key_code": "w",
+        "modifiers": {
+            "mandatory": [
+                "control"
+            ],
+            "optional": [
+                "caps_lock",
+                "option"
+            ]
+        }
+    },
+    "to": [
+        {
+            "key_code": "delete_or_backspace"
+        }
+    ]
+}
+```
+
+实现完成，完美。
