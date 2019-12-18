@@ -8,17 +8,17 @@
     } ,
   
     {
-      "title"    : "You asked for it, Babel under the hood",
-      "tags"     : "dev",
-      "url"      : "/js-2020-copy/",
-      "date"     : "17 Dec 2019"
-    } ,
-  
-    {
       "title"    : "Concurrency, Parallelism, Threads, Processes, Async and Sync",
       "tags"     : "dev",
       "url"      : "/concurrency-pallarism-threads-process-async-sync-copy/",
       "date"     : "08 Dec 2019"
+    } ,
+  
+    {
+      "title"    : "Babel under the hood",
+      "tags"     : "dev",
+      "url"      : "/babel-under-the-hood/",
+      "date"     : "13 Nov 2019"
     } ,
   
     {
@@ -31,7 +31,7 @@
     {
       "title"    : "Rethinking CI",
       "tags"     : "dev",
-      "url"      : "/seeking-balance-in-framework-design-copy/",
+      "url"      : "/rethinking-ci/",
       "date"     : "05 Jun 2019"
     } ,
   
