@@ -1,9 +1,16 @@
 [
   
     {
+      "title"    : "JS 2020",
+      "tags"     : "dev",
+      "url"      : "/js-2020/",
+      "date"     : "17 Dec 2019"
+    } ,
+  
+    {
       "title"    : "Concurrency, Parallelism, Threads, Processes, Async and Sync",
       "tags"     : "dev",
-      "url"      : "/concurrency-pallarism-threads-process-async-sync/",
+      "url"      : "/concurrency-pallarism-threads-process-async-sync-copy/",
       "date"     : "08 Dec 2019"
     } ,
   

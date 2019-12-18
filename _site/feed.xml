@@ -1,4 +1,100 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:3000/" rel="alternate" type="text/html" /><updated>2019-12-15T19:15:34+08:00</updated><id>http://localhost:3000/feed.xml</id><title type="html">Yifan Chen</title><entry><title type="html">Concurrency, Parallelism, Threads, Processes, Async and Sync</title><link href="http://localhost:3000/concurrency-pallarism-threads-process-async-sync/" rel="alternate" type="text/html" title="Concurrency, Parallelism, Threads, Processes, Async and Sync" /><published>2019-12-08T00:00:00+08:00</published><updated>2019-12-08T00:00:00+08:00</updated><id>http://localhost:3000/concurrency-pallarism-threads-process-async-sync</id><content type="html" xml:base="http://localhost:3000/concurrency-pallarism-threads-process-async-sync/">&lt;h2 id=&quot;concurrency-and-parallelism-并发和并行&quot;&gt;Concurrency and Parallelism 并发和并行&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:3000/" rel="alternate" type="text/html" /><updated>2019-12-18T11:51:53+08:00</updated><id>http://localhost:3000/feed.xml</id><title type="html">Yifan Chen</title><entry><title type="html">JS 2020</title><link href="http://localhost:3000/js-2020/" rel="alternate" type="text/html" title="JS 2020" /><published>2019-12-17T00:00:00+08:00</published><updated>2019-12-17T00:00:00+08:00</updated><id>http://localhost:3000/js-2020</id><content type="html" xml:base="http://localhost:3000/js-2020/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;J&lt;/span&gt;avascript 的新特性都来自&lt;a href=&quot;https://github.com/tc39/proposals/blob/master/finished-proposals.md&quot;&gt; TC39 finished-proposals &lt;/a&gt;，发行时间是 2020，但是其中很多特性已经被发布到 browsers 的 nodeJS 或者 typescript 里面，可以试试。&lt;/p&gt;
+
+&lt;h2 id=&quot;dynamic-imports&quot;&gt;Dynamic Imports&lt;/h2&gt;
+
+&lt;div class=&quot;message&quot;&gt;
+  A function allows you to lazily import a module at runtime. In another word, your import no longer needs to be static at the top of the file. You can load module asynchronously from anywhere in your code. This means you can delay the loading of non-essential dependencies in your application to improve performance.
+&lt;/div&gt;
+
+&lt;p&gt;现在可以通过这一新特性来优化依赖出现的时间。&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;// We are waiting the load of a module as a Promise&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;// when a user clicks a button&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;async&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;loadHugeLirary&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;lib&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;await&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;import&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;someHugeLibrary&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// Lazy load on button click&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;btn&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;onclick&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;loadHugeLibrary&lt;/span&gt;
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;optional-chainning&quot;&gt;Optional Chainning&lt;/h2&gt;
+
+&lt;div class=&quot;message&quot;&gt;
+  One of the most popular features maybe~ It's extremely useful when you working with an api or DB that returns a bunch of deeply nested objects, and you don't want your app break at runtime if intermediate properties on those objects are undefined.
+&lt;/div&gt;
+
+&lt;p&gt;语法一目了然，聪明且不会出错。&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;user&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{}&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// No erros even though these props don't exist&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;user&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;?.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;shopping&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;?.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;list&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;?.[&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;baba&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;nullish-coalescing-operator---&quot;&gt;Nullish Coalescing Operator ( ?? )&lt;/h2&gt;
+
+&lt;div class=&quot;message&quot;&gt;
+  In many cases, you might want to set a default value for a property when it's undefined you can already do that in javascript using a logical Or Operator but it can be problematic if the defined value is a zero or an empty string because javascript will coerce those values to false it's support annoying because then you have to do runtime type checking in your code, in 2020 no more the double question mark is false only if it's null or undefined so the end result is more predictable code when setting default values.
+&lt;/div&gt;
+
+&lt;p&gt;又一个语法糖，语言的进化本身就对写语言的我们来说是个好事情。&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;duration&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;
+
+&lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;animationTime&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;duration&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;||&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;400&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;//runtime type checking to avoid errors caused by javascript automatically coerce.&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;animationTime&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;typeof&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;duration&lt;/span&gt;  &lt;span class=&quot;o&quot;&gt;===&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;number&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;duration&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;||&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;400&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;// with ?? is only false when it's null or undefined.&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;animationTime&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;duration&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;??&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;400&lt;/span&gt;
+
+&lt;span class=&quot;nx&quot;&gt;cosole&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;animationTime&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;bigint&quot;&gt;BigInt&lt;/h2&gt;
+&lt;div class=&quot;message&quot;&gt;
+New primitive data type Big Int represent numbers beyond javascript max safe integer value, which is limited to 64 bit, you can create a big int by adding an end to a regular integer or you can use bigint constructor to make numbers that are completely massive, but to be honest, it probably won't be needed by most developer unless you're doing an extremely precise time stamps or geometric calculations. It is a javascript primitive, so you should definately know about it.
+&lt;/div&gt;
+
+&lt;p&gt;新增了一个 data type，再面试的时候可以说 8 个 type 了。&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;largestNum&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;BigInt&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;Number&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;Max_SAFE_INTEGER&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;largestNum&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;utterlyMassiveInt&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;largestNum&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;**&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;23&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;n&lt;/span&gt;
+
+&lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;utterlyMassiveInt&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;worker-threads&quot;&gt;Worker Threads&lt;/h2&gt;
+&lt;div class=&quot;message&quot;&gt;
+The most exciting new feature in NodeJs has to be Worker Threads. One of the biggest limitations of Javascript that people like to point out is that it's single threaded that means you can't have more than one single processes running at the same time in 2020 that's no longer an issue becuase we now have work threadd module and it opens door to use javascript in parallel.
+&lt;/div&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;// The worker_threads module enables the use of threads that excute javascript in parallel.&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;worker&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;require&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;woker_threads&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;ecmascipt-module&quot;&gt;ECMAScipt Module&lt;/h2&gt;
+
+&lt;div class=&quot;message&quot;&gt;
+In Node13, you can import and export statements instead of require statements.
+&lt;/div&gt;
+
+&lt;p&gt;终于可以用了。&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;// const moment = reuqire('moment')&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// Finally&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;moment&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;moment&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;em&gt;References&lt;/em&gt;&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;https://www.youtube.com/watch?v=f0DrPLKf6Ro
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing_operator
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><category term="dev" /><summary type="html">Javascript 的新特性都来自 TC39 finished-proposals ，发行时间是 2020，但是其中很多特性已经被发布到 browsers 的 nodeJS 或者 typescript 里面，可以试试。</summary></entry><entry><title type="html">Concurrency, Parallelism, Threads, Processes, Async and Sync</title><link href="http://localhost:3000/concurrency-pallarism-threads-process-async-sync-copy/" rel="alternate" type="text/html" title="Concurrency, Parallelism, Threads, Processes, Async and Sync" /><published>2019-12-08T00:00:00+08:00</published><updated>2019-12-08T00:00:00+08:00</updated><id>http://localhost:3000/concurrency-pallarism-threads-process-async-sync%20copy</id><content type="html" xml:base="http://localhost:3000/concurrency-pallarism-threads-process-async-sync-copy/">&lt;h2 id=&quot;concurrency-and-parallelism-并发和并行&quot;&gt;Concurrency and Parallelism 并发和并行&lt;/h2&gt;
 
 &lt;h3 id=&quot;concurrency-并发&quot;&gt;Concurrency 并发&lt;/h3&gt;
 
@@ -627,44 +723,4 @@ ul li {line-height: unset;}
 
 &lt;p&gt;&lt;em&gt;P.S&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;祝福新人，白头到老，吵吵更健康~&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><category term="travel" /><summary type="html"></summary></entry><entry><title type="html">第 100 天</title><link href="http://localhost:3000/100-days/" rel="alternate" type="text/html" title="第 100 天" /><published>2017-07-14T00:00:00+08:00</published><updated>2017-07-14T00:00:00+08:00</updated><id>http://localhost:3000/100-days</id><content type="html" xml:base="http://localhost:3000/100-days/">&lt;style&gt;
-.wrapper-hero {
-  width: 112%;
-  margin-left: -6%;
-}
-.fl {
-  float: left;
-  font-size: 50px;
-  line-height: 50px;
-  padding-top: 0;
-  padding-right: 8px;
-  padding-left: 3px;
-}
-&lt;/style&gt;
-
-&lt;div class=&quot;wrapper-hero&quot;&gt;
-&lt;img src=&quot;http://localhost:3000/assets/images/100days.svg&quot; style=&quot;width: display:block; margin: 0 auto;&quot; /&gt;
-
-&lt;a class=&quot;link-to-author&quot; style=&quot;
-          font-style: italic;
-          text-decoration: none;
-          color: lightgray;
-          font-size: 13px;
-         &quot; href=&quot;https://www.freepik.com&quot;&gt;Illustration Designed by Freepik&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;今&lt;/span&gt;年的早些时候，和朋友去了月老庙，祈求祝福。&lt;/p&gt;
-
-&lt;p&gt;次月，闺蜜便介绍她老公的哥们，一个水瓶男，给我认识。基于对水瓶本身的了解 ，再加之闺蜜介绍，近四年没有感情进展的我决定给自己一个机会，去认真得了解他。&lt;/p&gt;
-
-&lt;p&gt;他是一个典型的水瓶男，废话多，爱耍宝，满嘴跑火车。总是给自己挖坑，奋不顾身跳进去，再使尽解数爬出来。我笑他不喜欢天下太平，他却不以为然，乐此不疲。不管我说多少次，他总是在和我讲话的时候分心，自由不受拘束到不靠谱。不仅这样，他还有个所谓的热心肠，分不清轻重，无关紧要的忙，也要帮，通常折腾得自己很累，还把我搞得既生气又无奈。甚至在我们一起一个月的时候，还夸张到跑出去和别的女生吃饭。&lt;/p&gt;
-
-&lt;p&gt;水瓶男，说好听是天马行空，难听就是神经质，永远猜不到他下一步要干什么。&lt;/p&gt;
-
-&lt;p&gt;大概两周前的一天，他照常在下班时间叫我起床。可是还刚没有讲上两句话，他又开始分心和他的好基友聊天，我当时就感觉被冷落，要求他多陪我一会儿。还好，他态度好，道歉后就认真了一会儿。可没过多久，他又开始敷衍，问他干什么，他说在健身。我当下无语，怨他不专心，他就找各种借口… 最后通话还是以不开心收场。 我到了公司之后，就忙于各种会议，好不容易抽空坐下来，桌上还有一些资料要审核，想起早上的事情，总觉得他是习惯性三心二意，一点儿也不靠谱。这时，他发视讯过来，我以为他要道歉，便点开了视讯。奇怪的是，他拿着个自拍杆，坐在车子的后备箱上，戴个棒球帽对着镜头笑得若无其事。看来他大晚上跑出去了，我正准备念他在干什么，突然听见背景音乐在放《烟火的季节》，然后他就问我想不想看烟火， 我还没反应过来，他便从后备箱上跳下来，拿着长火机点燃了地上的烟火。在熟悉的歌曲中，烟花一束一束飞向夜空，绚烂地绽放，犹如满天星，五颜六色，色彩斑斓，照亮了我，更暖了心。&lt;/p&gt;
-
-&lt;p&gt;我想，这就是他吧，先搞点事情出来，再搞点浪漫出来。&lt;/p&gt;
-
-&lt;p&gt;上个月，我在东京新宿出差的时候和老板在工作上出现分歧。大晚上跑到星巴克买了杯摩卡，打了电话给水瓶男，他就在电话上一直搞笑，讲那些有的没的。我嘴上不笑，但心里很甜，明知这家伙又再跑火车，但也宁愿相信他。听着听着，心情确实好了不少。第二天一大早，酒店前台就通知我说有礼物，酒店怎么可能有礼物，我以为搞错了。我到前台后才发现是玫瑰花，有水瓶男的署名。原来，他根据我在新宿星巴克的位置判断出我入住的酒店，打电话在当地买了花送给我，希望我心情好起来。&lt;/p&gt;
-
-&lt;p&gt;其实，当我在月老庙的时候，幸福就在走进。而当听他满嘴跑火车的时候，幸福已在身边。&lt;/p&gt;</content><author><name></name></author><category term="story" /><summary type="html"></summary></entry></feed>
+&lt;p&gt;&lt;em&gt;祝福新人，白头到老，吵吵更健康~&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><category term="travel" /><summary type="html"></summary></entry></feed>
