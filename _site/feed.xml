@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:3000/" rel="alternate" type="text/html" /><updated>2019-12-18T11:51:53+08:00</updated><id>http://localhost:3000/feed.xml</id><title type="html">Yifan Chen</title><entry><title type="html">JS 2020</title><link href="http://localhost:3000/js-2020/" rel="alternate" type="text/html" title="JS 2020" /><published>2019-12-17T00:00:00+08:00</published><updated>2019-12-17T00:00:00+08:00</updated><id>http://localhost:3000/js-2020</id><content type="html" xml:base="http://localhost:3000/js-2020/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;J&lt;/span&gt;avascript 的新特性都来自&lt;a href=&quot;https://github.com/tc39/proposals/blob/master/finished-proposals.md&quot;&gt; TC39 finished-proposals &lt;/a&gt;，发行时间是 2020，但是其中很多特性已经被发布到 browsers 的 nodeJS 或者 typescript 里面，可以试试。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:3000/" rel="alternate" type="text/html" /><updated>2019-12-18T12:42:29+08:00</updated><id>http://localhost:3000/feed.xml</id><title type="html">Yifan Chen</title><entry><title type="html">JS 2020</title><link href="http://localhost:3000/js-2020/" rel="alternate" type="text/html" title="JS 2020" /><published>2019-12-17T00:00:00+08:00</published><updated>2019-12-17T00:00:00+08:00</updated><id>http://localhost:3000/js-2020</id><content type="html" xml:base="http://localhost:3000/js-2020/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;J&lt;/span&gt;avascript 的新特性都来自&lt;a href=&quot;https://github.com/tc39/proposals/blob/master/finished-proposals.md&quot;&gt; TC39 finished-proposals &lt;/a&gt;，发行时间是 2020，但是其中很多特性已经被发布到 browsers 的 nodeJS 或者 typescript 里面，可以试试。&lt;/p&gt;
 
 &lt;h2 id=&quot;dynamic-imports&quot;&gt;Dynamic Imports&lt;/h2&gt;
 
@@ -78,7 +78,103 @@ The most exciting new feature in NodeJs has to be Worker Threads. One of the big
 &lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;worker&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;require&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;woker_threads&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;h2 id=&quot;ecmascipt-module&quot;&gt;ECMAScipt Module&lt;/h2&gt;
+&lt;h2 id=&quot;ecmascript-module&quot;&gt;ECMAScript Module&lt;/h2&gt;
+
+&lt;div class=&quot;message&quot;&gt;
+In Node13, you can import and export statements instead of require statements.
+&lt;/div&gt;
+
+&lt;p&gt;终于可以用了。&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;// const moment = reuqire('moment')&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// Finally&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;moment&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;moment&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;em&gt;References&lt;/em&gt;&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;https://www.youtube.com/watch?v=f0DrPLKf6Ro
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing_operator
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><category term="dev" /><summary type="html">Javascript 的新特性都来自 TC39 finished-proposals ，发行时间是 2020，但是其中很多特性已经被发布到 browsers 的 nodeJS 或者 typescript 里面，可以试试。</summary></entry><entry><title type="html">You asked for it, Babel under the hood</title><link href="http://localhost:3000/js-2020-copy/" rel="alternate" type="text/html" title="You asked for it, Babel under the hood" /><published>2019-12-17T00:00:00+08:00</published><updated>2019-12-17T00:00:00+08:00</updated><id>http://localhost:3000/js-2020%20copy</id><content type="html" xml:base="http://localhost:3000/js-2020-copy/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;J&lt;/span&gt;avascript 的新特性都来自&lt;a href=&quot;https://github.com/tc39/proposals/blob/master/finished-proposals.md&quot;&gt; TC39 finished-proposals &lt;/a&gt;，发行时间是 2020，但是其中很多特性已经被发布到 browsers 的 nodeJS 或者 typescript 里面，可以试试。&lt;/p&gt;
+
+&lt;h2 id=&quot;dynamic-imports&quot;&gt;Dynamic Imports&lt;/h2&gt;
+
+&lt;div class=&quot;message&quot;&gt;
+  A function allows you to lazily import a module at runtime. In another word, your import no longer needs to be static at the top of the file. You can load module asynchronously from anywhere in your code. This means you can delay the loading of non-essential dependencies in your application to improve performance.
+&lt;/div&gt;
+
+&lt;p&gt;现在可以通过这一新特性来优化依赖出现的时间。&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;// We are waiting the load of a module as a Promise&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;// when a user clicks a button&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;async&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;loadHugeLirary&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;lib&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;await&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;import&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;someHugeLibrary&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// Lazy load on button click&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;btn&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;onclick&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;loadHugeLibrary&lt;/span&gt;
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;optional-chainning&quot;&gt;Optional Chainning&lt;/h2&gt;
+
+&lt;div class=&quot;message&quot;&gt;
+  One of the most popular features maybe~ It's extremely useful when you working with an api or DB that returns a bunch of deeply nested objects, and you don't want your app break at runtime if intermediate properties on those objects are undefined.
+&lt;/div&gt;
+
+&lt;p&gt;语法一目了然，聪明且不会出错。&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;user&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{}&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// No erros even though these props don't exist&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;user&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;?.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;shopping&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;?.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;list&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;?.[&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;baba&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;nullish-coalescing-operator---&quot;&gt;Nullish Coalescing Operator ( ?? )&lt;/h2&gt;
+
+&lt;div class=&quot;message&quot;&gt;
+  In many cases, you might want to set a default value for a property when it's undefined you can already do that in javascript using a logical Or Operator but it can be problematic if the defined value is a zero or an empty string because javascript will coerce those values to false it's support annoying because then you have to do runtime type checking in your code, in 2020 no more the double question mark is false only if it's null or undefined so the end result is more predictable code when setting default values.
+&lt;/div&gt;
+
+&lt;p&gt;又一个语法糖，语言的进化本身就对写语言的我们来说是个好事情。&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;duration&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;
+
+&lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;animationTime&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;duration&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;||&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;400&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;//runtime type checking to avoid errors caused by javascript automatically coerce.&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;animationTime&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;typeof&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;duration&lt;/span&gt;  &lt;span class=&quot;o&quot;&gt;===&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;number&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;duration&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;||&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;400&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;// with ?? is only false when it's null or undefined.&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;animationTime&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;duration&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;??&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;400&lt;/span&gt;
+
+&lt;span class=&quot;nx&quot;&gt;cosole&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;animationTime&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;bigint&quot;&gt;BigInt&lt;/h2&gt;
+&lt;div class=&quot;message&quot;&gt;
+New primitive data type Big Int represent numbers beyond javascript max safe integer value, which is limited to 64 bit, you can create a big int by adding an end to a regular integer or you can use bigint constructor to make numbers that are completely massive, but to be honest, it probably won't be needed by most developer unless you're doing an extremely precise time stamps or geometric calculations. It is a javascript primitive, so you should definately know about it.
+&lt;/div&gt;
+
+&lt;p&gt;新增了一个 data type，再面试的时候可以说 8 个 type 了。&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;largestNum&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;BigInt&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;Number&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;Max_SAFE_INTEGER&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;largestNum&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;utterlyMassiveInt&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;largestNum&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;**&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;23&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;n&lt;/span&gt;
+
+&lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;utterlyMassiveInt&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;worker-threads&quot;&gt;Worker Threads&lt;/h2&gt;
+&lt;div class=&quot;message&quot;&gt;
+The most exciting new feature in NodeJs has to be Worker Threads. One of the biggest limitations of Javascript that people like to point out is that it's single threaded that means you can't have more than one single processes running at the same time in 2020 that's no longer an issue becuase we now have work threadd module and it opens door to use javascript in parallel.
+&lt;/div&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;// The worker_threads module enables the use of threads that excute javascript in parallel.&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;worker&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;require&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;woker_threads&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;ecmascript-module&quot;&gt;ECMAScript Module&lt;/h2&gt;
 
 &lt;div class=&quot;message&quot;&gt;
 In Node13, you can import and export statements instead of require statements.
@@ -431,7 +527,13 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Null
 &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
 &lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;实现完成，完美。&lt;/p&gt;</content><author><name></name></author><category term="dev" /><summary type="html">之前，一直在用 Keyboard Maestro，好用强大，甚至可以直接 map copy 在 clipboard 上面，trigger 的话，只需要再 map 成不同的 key，而不用再开一个专门记录 copy 的工具，甚至可以 ignore applications，例如，某 keybinding 只在某个 app 里面使用时有效。还可以 input 一个 preference file，以便后续使用。此工具可以说是面面俱到，功能强大。然而，it comes with a price, annually, not a fan. ¯_(ツ)_/¯</summary></entry><entry><title type="html">Seeking the Balance in Framework Design</title><link href="http://localhost:3000/seeking-balance-in-framework-design/" rel="alternate" type="text/html" title="Seeking the Balance in Framework Design" /><published>2019-05-15T00:00:00+08:00</published><updated>2019-05-15T00:00:00+08:00</updated><id>http://localhost:3000/seeking-balance-in-framework-design</id><content type="html" xml:base="http://localhost:3000/seeking-balance-in-framework-design/">&lt;iframe width=&quot;1917&quot; height=&quot;716&quot; src=&quot;https://www.youtube.com/embed/ANtSWq-zI0s&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;实现完成，完美。&lt;/p&gt;</content><author><name></name></author><category term="dev" /><summary type="html">之前，一直在用 Keyboard Maestro，好用强大，甚至可以直接 map copy 在 clipboard 上面，trigger 的话，只需要再 map 成不同的 key，而不用再开一个专门记录 copy 的工具，甚至可以 ignore applications，例如，某 keybinding 只在某个 app 里面使用时有效。还可以 input 一个 preference file，以便后续使用。此工具可以说是面面俱到，功能强大。然而，it comes with a price, annually, not a fan. ¯_(ツ)_/¯</summary></entry><entry><title type="html">Rethinking CI</title><link href="http://localhost:3000/seeking-balance-in-framework-design-copy/" rel="alternate" type="text/html" title="Rethinking CI" /><published>2019-06-05T00:00:00+08:00</published><updated>2019-06-05T00:00:00+08:00</updated><id>http://localhost:3000/seeking-balance-in-framework-design%20copy</id><content type="html" xml:base="http://localhost:3000/seeking-balance-in-framework-design-copy/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;C&lt;/span&gt;I, Continuous Integration, is a term mostly used in software development, meaning a certain workflow is expected to achieve Continuous Integration, ideally resulting in a smooth, healthy and rapid software development workflow. CI, however, is not being used properly if you don’t understand it right, it could become procrastination.&lt;/p&gt;
+
+&lt;p&gt;I was in a team seeing that most developers got stuck while using CI, in this case, git workflow, and not be able to move on to the next action. The end result of a non-proper git workflow is inefficiency. So, I thought about sharing some of my experiences here.&lt;/p&gt;
+
+&lt;p&gt;I was working on a task the other day when I got ready to commit in my code and waiting for it to be pushed to production. The process that I had to go through was finding someone to review my code, so I slacked a  message in the general channel, and hopped someone could just open the link from my message and click the approve button, nothing more than that. I eagerly waited like 10 minutes, and no responses, then I stood up and thought about getting a cup of a coffee. “Maybe others are busy at this time, getting a cup of coffee should be able to do it” However, still no responses after another 10 minutes when I got back. “Man, do I have to @ someone every single time, I hate to interrupt others for such a small thing.” Well, for the process to go, it left me no choice. So I did, I @ a guy who sits by me, and impatiently explained the code change to him, I could tell that he couldn’t care less about the code quality and just wanted to get the process off of his hand. So he could jump back to what he was doing, he clicked approve, then the process carried on. You see, at this point, no one is doing the job right, on my part, I was quite eager. On his part, he just wanted to do what he was doing. We both rushed the process without even thinking. Which is opposite of the purpose of code review. And, this is a part we must go through every single day, it wastes time from both parties.&lt;/p&gt;
+
+&lt;p&gt;If a workflow becomes something like this, we need to change it. There’s no one size fits all solution. Google’s best practices of code review is a guide to follow, on the other hand, if you follow it blindly, it ends up wastes a lot of time.&lt;/p&gt;</content><author><name></name></author><category term="dev" /><summary type="html">CI, Continuous Integration, is a term mostly used in software development, meaning a certain workflow is expected to achieve Continuous Integration, ideally resulting in a smooth, healthy and rapid software development workflow. CI, however, is not being used properly if you don’t understand it right, it could become procrastination.</summary></entry><entry><title type="html">Seeking the Balance in Framework Design</title><link href="http://localhost:3000/seeking-balance-in-framework-design/" rel="alternate" type="text/html" title="Seeking the Balance in Framework Design" /><published>2019-05-15T00:00:00+08:00</published><updated>2019-05-15T00:00:00+08:00</updated><id>http://localhost:3000/seeking-balance-in-framework-design</id><content type="html" xml:base="http://localhost:3000/seeking-balance-in-framework-design/">&lt;iframe width=&quot;1917&quot; height=&quot;716&quot; src=&quot;https://www.youtube.com/embed/ANtSWq-zI0s&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;One of the best videos I’ve seen this year need to take notes of it.&lt;/p&gt;
 
@@ -634,93 +736,4 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Null
 
 &lt;p&gt;我不缺勇气，我感激给我勇气的那个人。&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;BGM: Your First Light My Eventide by The Echelon Effect&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><category term="story" /><summary type="html">Illustration by Qinjian on Dribbble</summary></entry><entry><title type="html">Google’s Inbox is Going Away</title><link href="http://localhost:3000/googles-inbox-going-away/" rel="alternate" type="text/html" title="Google's Inbox is Going Away" /><published>2018-11-15T00:00:00+08:00</published><updated>2018-11-15T00:00:00+08:00</updated><id>http://localhost:3000/googles-inbox-going-away</id><content type="html" xml:base="http://localhost:3000/googles-inbox-going-away/">&lt;style&gt;
-ul li {line-height: unset;}
-
-.wrapper-hero {
-  width: 112%;
-  margin-left: -6%;
-}
-
-&lt;/style&gt;
-
-&lt;div class=&quot;wrapper-hero&quot;&gt;
-
-&lt;img src=&quot;http://localhost:3000/assets/images/googles-inbox.jpg&quot; /&gt;
-
-&lt;a class=&quot;link-to-author&quot; style=&quot;
-          font-style: italic;
-          text-decoration: none;
-          color: lightgray;
-          font-size: 13px;
-          display: block;
-          margin-top: 10px;
-         &quot; href=&quot;https://images.google.com&quot;&gt;Image by Google Image&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;S&lt;/span&gt; o Google’s Inbox is going away. As usual, I went to Inbox to browse my emails this morning, shockingly saw a popup saying that Google will no longer support Inbox by the end of March 2019, and they encourage Inbox users to use Gmail instead. Although Google claims Gmail already has most Inbox features implemented and people adopted them very well, I still think Inbox is way more personal than Gmail when using on a daily basis.&lt;/p&gt;
-
-&lt;p&gt;Almost exactly four years ago, Google launched Inbox, a new way of emailing. Inbox was made by Gmail Team, from what I could tell, Inbox is more on a casual side and relatively Gmail is more business-ish. The goal of Inbox is offering a clean UI and a fresh UX that allows users to get rid of cluttered emails and keep inbox empty. Along with that, Google also introduced Bundle to the Inbox, which bundles user’s emails into different categories such as Updates, Purchases, Promos, and Trips. These brand new features were unfamiliar to users at first, so they took a hit. Some people stuck with Gmail, and others, who didn’t fear about the learning curve, enhanced their emailing experience, apparently, I was one of them.
-I liked Inbox right after it got launched. I liked the simplified design and vivid color scheme. I loved to see  “a sun floating in the middle of my screen”, on a concept level, to-dos completed.&lt;/p&gt;
-
-&lt;p&gt;So what happened? Why is Google taking away the Inbox? Well, that I don’t know, but subtle clues, along the way, hinted the decision today. First of all, Google never updated UI of Inbox since it was launched. Secondly, it took up to a year to patch the design issue on Inbox’s iOS app. Last but not least, the search functionality can’t even compare to Google’s search, it was not smart enough to find emails I was looking for, I always ended up finding emails by navigating.&lt;/p&gt;
-
-&lt;p&gt;Realistically, a product itself doesn’t represent a value, people who use it does.  In other words, if the cost of maintaining a product is too high, and the value is too low, then the product shouldn’t be maintained.&lt;/p&gt;
-
-&lt;p&gt;I shrugged my shoulder, thinking ‘maybe it was not as good as I thought it would be’. I then moved my mouse cursor to the Applications Folder, dragged an icon, that was strange yet familiar, to the Dock.&lt;/p&gt;
-
-&lt;p&gt;It was Mail.&lt;/p&gt;</content><author><name></name></author><category term="dev" /><summary type="html"></summary></entry><entry><title type="html">一座古城，一对新人，一言承诺，一生鉴定</title><link href="http://localhost:3000/chiang-mai/" rel="alternate" type="text/html" title="一座古城，一对新人，一言承诺，一生鉴定" /><published>2018-10-02T00:00:00+08:00</published><updated>2018-10-02T00:00:00+08:00</updated><id>http://localhost:3000/chiang-mai</id><content type="html" xml:base="http://localhost:3000/chiang-mai/">&lt;style&gt;
-ul li {line-height: unset;}
-.img-wrapper {
-  width: 112%;
-  margin-left: -6%;
-}
-&lt;/style&gt;
-
-&lt;div class=&quot;img-wrapper&quot;&gt;
-   &lt;div class=&quot;flexslider&quot;&gt;
-     &lt;ul class=&quot;slides&quot;&gt;
-       &lt;li&gt;
-         &lt;img src=&quot;/assets/images/sliders/chiangmai/1.jpg&quot; /&gt;
-       &lt;/li&gt;
-       &lt;li&gt;
-         &lt;img src=&quot;/assets/images/sliders/chiangmai/2.jpg&quot; /&gt;
-       &lt;/li&gt;
-       &lt;li&gt;
-         &lt;img src=&quot;/assets/images/sliders/chiangmai/3.jpg&quot; /&gt;
-       &lt;/li&gt;
-       &lt;li&gt;
-         &lt;img src=&quot;/assets/images/sliders/chiangmai/4.jpg&quot; /&gt;
-       &lt;/li&gt;
-       &lt;li&gt;
-         &lt;img src=&quot;/assets/images/sliders/chiangmai/5.jpg&quot; /&gt;
-       &lt;/li&gt;
-       &lt;li&gt;
-         &lt;img src=&quot;/assets/images/sliders/chiangmai/6.jpg&quot; /&gt;
-       &lt;/li&gt;
-       &lt;li&gt;
-         &lt;img src=&quot;/assets/images/sliders/chiangmai/7.jpg&quot; /&gt;
-       &lt;/li&gt;
-     &lt;/ul&gt;
-   &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;女&lt;/span&gt;友的好友结婚，我们送给新人的礼物是一次旅行，地点是清迈。在这个历史悠久的古城中，文化吸引着世界各地的游人，随处可见的寺庙，虔诚朝拜的僧人，各式各样的水果，无处不在的动物，玲琅满目的木制工艺，仿佛一切都能原始归真，生机无限。在这个会微笑的城市中，言语满载祝福，气氛不紧不慢，环境舒适自然，故事从新出发，旅途从心开始。&lt;/p&gt;
-
-&lt;h2 id=&quot;关键词微笑&quot;&gt;关键词：微笑&lt;/h2&gt;
-
-&lt;p&gt;当一个人对你微笑的时候，很简单。但如果每个人，无论职业，性别和年龄，都能对你微笑的时候，这便是习俗。一次计程车出行，坐在后排的我，仔细地打量着这个城市，当车子在一个交通灯前停下时，从后赶来一对骑电动车的父女，小姑娘看上去 10 来岁的样子，梳了个高高的马尾，正紧紧地抱着父亲。正当我为电动车的安全，陷入沉思的时候，小姑娘扭头看到了搭车的我，随之给了我一个暖人的微笑。我先是惊讶，便立马惭愧起来，我想，作为一个成年人的我，经历远多于一个的孩童，真诚上，却远输一个孩童。&lt;/p&gt;
-
-&lt;h2 id=&quot;关键词动物&quot;&gt;关键词：动物&lt;/h2&gt;
-
-&lt;p&gt;我喜欢动物，也曾打卡不少动物园。清迈的夜间动物园绝对是非一般的体验，大猫们不仅没有在睡觉，还摆好 Pose 给你看。鹿们，牛们和猪们都和商量好了一样直接到身边蹭吃蹭喝。物种也是多，除了企鹅，北极熊等极地气候的动物，其他都基本在这里了。 这里还有我最喜欢的猎豹，它们不仅身材苗条，线条优美，还能一拳 KO。&lt;/p&gt;
-
-&lt;h2 id=&quot;关键词夜市&quot;&gt;关键词：夜市&lt;/h2&gt;
-
-&lt;p&gt;夜市文化在清迈很重要，从每天的小夜市到周末包罗万象的大夜市，只有想不到，没有看不到。清迈夜市很繁忙，人挤人，但环境却出奇的好，整个夜市看不到清洁工和公共垃圾桶，地上却没有烟头和口水。如果我们自诩大国，以经济为傲的话，我希望有一天我们也可以以爱护环境为傲。&lt;/p&gt;
-
-&lt;p&gt;清迈，一座古城，相比于繁华的都市，她清新自然，她满载微笑。一句萨瓦迪卡，带来的不仅是问候礼节，更是都市生活中日渐稀少的人情味。&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;P.S&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;祝福新人，白头到老，吵吵更健康~&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><category term="travel" /><summary type="html"></summary></entry></feed>
+&lt;p&gt;&lt;em&gt;BGM: Your First Light My Eventide by The Echelon Effect&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><category term="story" /><summary type="html">Illustration by Qinjian on Dribbble</summary></entry></feed>
