@@ -1,7 +1,7 @@
 ---
 title: "一座古城，一对新人，一言承诺，一生鉴定"
 layout: post
-date: 2018-10-02
+date: 2020-10-02
 tag:
 - travel
 life: true

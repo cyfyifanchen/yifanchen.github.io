@@ -1,4 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:3000/" rel="alternate" type="text/html" /><updated>2019-12-18T15:13:47+08:00</updated><id>http://localhost:3000/feed.xml</id><title type="html">Yifan Chen</title><entry><title type="html">JS 2020</title><link href="http://localhost:3000/js-2020/" rel="alternate" type="text/html" title="JS 2020" /><published>2019-12-17T00:00:00+08:00</published><updated>2019-12-17T00:00:00+08:00</updated><id>http://localhost:3000/js-2020</id><content type="html" xml:base="http://localhost:3000/js-2020/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;J&lt;/span&gt;avascript 的新特性都来自&lt;a href=&quot;https://github.com/tc39/proposals/blob/master/finished-proposals.md&quot;&gt; TC39 finished-proposals &lt;/a&gt;，发行时间是 2020，但是其中很多特性已经被发布到 browsers 的 nodeJS 或者 typescript 里面，可以试试。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:3000/" rel="alternate" type="text/html" /><updated>2019-12-20T11:52:47+08:00</updated><id>http://localhost:3000/feed.xml</id><title type="html">Yifan Chen</title><entry><title type="html">Javascript Runtime Environment</title><link href="http://localhost:3000/javascript-runtime-enviroment/" rel="alternate" type="text/html" title="Javascript Runtime Environment" /><published>2019-12-18T00:00:00+08:00</published><updated>2019-12-18T00:00:00+08:00</updated><id>http://localhost:3000/javascript-runtime-enviroment</id><content type="html" xml:base="http://localhost:3000/javascript-runtime-enviroment/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;I&lt;/span&gt; knew it wouldn’t be this simple, but once you put it all together, still quite a surprise. It’s quite complicated, better take a good note of it now.&lt;/p&gt;
+
+&lt;h2 id=&quot;javascript-engine&quot;&gt;Javascript Engine&lt;/h2&gt;
+
+&lt;p&gt;As you may heard before, JavaScript is an interpreted (some say it’s a compiled language) programming language. It means that source code isn’t compiled into binary code prior to execution. A JavaScript engine is a program responsible for translating source code into machine code and executing the translation result on a computer’s central processing unit (CPU). The engine is a container in which you run your program.&lt;/p&gt;
+
+&lt;p&gt;计算机如何读我们写的 JS 代码？JS 引擎就翻译这件事，源码翻译成二进制语言，
+&lt;em&gt;Referece&lt;/em&gt;:&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;http://dolszewski.com/javascript/javascript-runtime-environment/
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><category term="dev" /><summary type="html">I knew it wouldn’t be this simple, but once you put it all together, still quite a surprise. It’s quite complicated, better take a good note of it now.</summary></entry><entry><title type="html">JS 2020</title><link href="http://localhost:3000/js-2020/" rel="alternate" type="text/html" title="JS 2020" /><published>2019-12-17T00:00:00+08:00</published><updated>2019-12-17T00:00:00+08:00</updated><id>http://localhost:3000/js-2020</id><content type="html" xml:base="http://localhost:3000/js-2020/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;J&lt;/span&gt;avascript 的新特性都来自&lt;a href=&quot;https://github.com/tc39/proposals/blob/master/finished-proposals.md&quot;&gt; TC39 finished-proposals &lt;/a&gt;，发行时间是 2020，但是其中很多特性已经被发布到 browsers 的 nodeJS 或者 typescript 里面，可以试试。&lt;/p&gt;
+
+&lt;h2 id=&quot;promiseallsettled&quot;&gt;Promise.allSettled&lt;/h2&gt;
 
 &lt;h2 id=&quot;dynamic-imports&quot;&gt;Dynamic Imports&lt;/h2&gt;
 
@@ -35,7 +46,7 @@
 &lt;h2 id=&quot;nullish-coalescing-operator---&quot;&gt;Nullish Coalescing Operator ( ?? )&lt;/h2&gt;
 
 &lt;div class=&quot;message&quot;&gt;
-  In many cases, you might want to set a default value for a property when it's undefined you can already do that in javascript using a logical Or Operator but it can be problematic if the defined value is a zero or an empty string because javascript will coerce those values to false it's support annoying because then you have to do runtime type checking in your code, in 2020 no more the double question mark is false only if it's null or undefined so the end result is more predictable code when setting default values.
+  In many cases, you might want to set a default value for a property when it's undefined. This can already done in javascript using a Logical OR Operator but it can be problematic if the defined value is a zero or an empty string because javascript will coerce those values to false. It's super annoying because then you have to do runtime type checking in your code, in JS 2020 no more this. The double question mark is false only if it's null or undefined so the end result is more predictable code when setting default values.
 &lt;/div&gt;
 
 &lt;p&gt;又一个语法糖，语言的进化本身就对写语言的我们来说是个好事情。&lt;/p&gt;
@@ -55,7 +66,7 @@
 
 &lt;h2 id=&quot;bigint&quot;&gt;BigInt&lt;/h2&gt;
 &lt;div class=&quot;message&quot;&gt;
-New primitive data type Big Int represent numbers beyond javascript max safe integer value, which is limited to 64 bit, you can create a big int by adding an end to a regular integer or you can use bigint constructor to make numbers that are completely massive, but to be honest, it probably won't be needed by most developer unless you're doing an extremely precise time stamps or geometric calculations. It is a javascript primitive, so you should definately know about it.
+New primitive data type BigInt represent numbers beyond javascript max safe integer value, which is limited to 64 bit, you can create a big int by adding an end to a regular integer or you can use bigint constructor to make numbers that are completely massive, but to be honest, it probably won't be needed by most developer unless you're doing an extremely precise time stamps or geometric calculations. It is a javascript primitive, so you should definately know about it.
 &lt;/div&gt;
 
 &lt;p&gt;新增了一个 data type，再面试的时候可以说 8 个 type 了。&lt;/p&gt;
@@ -71,7 +82,7 @@ New primitive data type Big Int represent numbers beyond javascript max safe int
 
 &lt;h2 id=&quot;worker-threads&quot;&gt;Worker Threads&lt;/h2&gt;
 &lt;div class=&quot;message&quot;&gt;
-The most exciting new feature in NodeJs has to be Worker Threads. One of the biggest limitations of Javascript that people like to point out is that it's single threaded that means you can't have more than one single processes running at the same time in 2020 that's no longer an issue becuase we now have work threadd module and it opens door to use javascript in parallel.
+The most exciting new feature in NodeJs has to be Worker Threads. One of the biggest limitations of Javascript that people like to point out is that it's single threaded that means you can't have more than one single processes running at the same time. But in 2020 that's no longer an issue becuase we now have worker threaded module and it opens door to use javascript in parallel.
 &lt;/div&gt;
 
 &lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;// The worker_threads module enables the use of threads that excute javascript in parallel.&lt;/span&gt;
@@ -215,7 +226,7 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Null
 
 &lt;div class=&quot;sec-img&quot;&gt;
 &lt;img src=&quot;./../assets/images/babel-under-the-hood.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;p class=&quot;caption&quot;&gt;Source Code(babylon) &amp;gt; AST &amp;gt; Modified AST (Plugin + babel-traverse)&amp;gt; Compiled Code(babel-generator)&lt;/p&gt;
+&lt;p class=&quot;caption&quot;&gt;Source Code(babylon) &amp;gt; AST &amp;gt; Modified AST (plugin + babel-traverse)&amp;gt; Compiled Code(babel-generator)&lt;/p&gt;
 &lt;/div&gt;
 &lt;h3 id=&quot;stage-1-parsing&quot;&gt;Stage 1: Parsing&lt;/h3&gt;
 &lt;p&gt;Babel takes the source code and convert it into AST(Abstract Syntax Tree) via Babel’s &lt;a href=&quot;https://babeljs.io/docs/en/babylon.html&quot;&gt; babylon &lt;/a&gt; parser.&lt;/p&gt;
@@ -724,11 +735,7 @@ This new AST represents browser supported code for arrow function:&lt;/p&gt;
     &lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
   &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
 &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><category term="dev" /><summary type="html">Ct to the chase, nobody wants to do code review unless your KPI is code review, which is quite impossible in reality. Code Review thus becomes a buzzword of completion. Without fitted criteria, Code Review usually means, I get my parts done, it’s your turn to review it, so I can chill out and watch YouTube. If there happen to be any problems, the routine goes again. You ended up interrupting others or wait for others to approve for your next action. In programming, we call it blocking-tread, which is not smart. Therefore, having a proper tool to automate it is ideal in the situation.</summary></entry><entry><title type="html">Next Chapter</title><link href="http://localhost:3000/next-chapter/" rel="alternate" type="text/html" title="Next Chapter" /><published>2019-04-05T00:00:00+08:00</published><updated>2019-04-05T00:00:00+08:00</updated><id>http://localhost:3000/next-chapter</id><content type="html" xml:base="http://localhost:3000/next-chapter/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;我&lt;/span&gt;们总会记得为他人做得一点，而忽略了他人为我们做得一片，我们从不会知道这一点一片改变了谁，或者谁又改变了我们。命运总是在不知不觉中安排着我们还不知道的事情，而这些以为在取舍之间的该改变变，在经过之后，才懂得，命运，自有它的道理，每一次的开始和每一遍的结束，都完整了我们必须行走的历程。&lt;/p&gt;
-
-&lt;p&gt;缘起缘落，并不会随着分合离散而消失，它化作无声的祝福，躲在你我身边，为我们的下段感情保驾护航。&lt;/p&gt;
-
-&lt;p&gt;感谢陪伴，祝你幸福。&lt;/p&gt;</content><author><name></name></author><category term="story" /><summary type="html">我们总会记得为他人做得一点，而忽略了他人为我们做得一片，我们从不会知道这一点一片改变了谁，或者谁又改变了我们。命运总是在不知不觉中安排着我们还不知道的事情，而这些以为在取舍之间的该改变变，在经过之后，才懂得，命运，自有它的道理，每一次的开始和每一遍的结束，都完整了我们必须行走的历程。</summary></entry><entry><title type="html">Oh my data</title><link href="http://localhost:3000/oh-my-data/" rel="alternate" type="text/html" title="Oh my data" /><published>2018-11-25T00:00:00+08:00</published><updated>2018-11-25T00:00:00+08:00</updated><id>http://localhost:3000/oh-my-data</id><content type="html" xml:base="http://localhost:3000/oh-my-data/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;前&lt;/span&gt;段时间，公司的运营反应说数据准确性不可靠，无法制定详细的运营战略，老板故安排我调研数据的可靠性，本以为调研类的工作不好进展，但是一段时间查下来，结果虽然不是很明显，但是答案还是有的。&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><category term="dev" /><summary type="html">Ct to the chase, nobody wants to do code review unless your KPI is code review, which is quite impossible in reality. Code Review thus becomes a buzzword of completion. Without fitted criteria, Code Review usually means, I get my parts done, it’s your turn to review it, so I can chill out and watch YouTube. If there happen to be any problems, the routine goes again. You ended up interrupting others or wait for others to approve for your next action. In programming, we call it blocking-tread, which is not smart. Therefore, having a proper tool to automate it is ideal in the situation.</summary></entry><entry><title type="html">Oh my data</title><link href="http://localhost:3000/oh-my-data/" rel="alternate" type="text/html" title="Oh my data" /><published>2018-11-25T00:00:00+08:00</published><updated>2018-11-25T00:00:00+08:00</updated><id>http://localhost:3000/oh-my-data</id><content type="html" xml:base="http://localhost:3000/oh-my-data/">&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;前&lt;/span&gt;段时间，公司的运营反应说数据准确性不可靠，无法制定详细的运营战略，老板故安排我调研数据的可靠性，本以为调研类的工作不好进展，但是一段时间查下来，结果虽然不是很明显，但是答案还是有的。&lt;/p&gt;
 
 &lt;p&gt;现在市面上的 data solutions 很多，除了我们大家熟知的 Google Analytics，其他还有五花八门的，比如专门针对 Facebook 平台的 Pixel，在自己平台用的 Snap Pixel，能查到具体个人和 business 的 Leadfeeder，有 detailed user behaviors 的 Kissmetrics，有擅长 Campaign 的 GoSquared 等。还有根据 data 衍生出来的其他行业，比如针对电商的 related products 和广告的 campaign source tracking 等等。对于初创公司而言，在不了解什么样的 data 对自己有价值的时候，与其选择付费用 data solutions，不如老老实实用  Google Analytics。Google Analytics 的功能非常非常丰富，以助于很多新手看到繁琐的界面，反而不知道从哪里入手，而成为其他 data solutions 嘴里的一个「缺点」。&lt;/p&gt;
 
@@ -738,23 +745,39 @@ This new AST represents browser supported code for arrow function:&lt;/p&gt;
 
 &lt;p&gt;但是，为什么数据会总是出现不匹配的情况呢？每家的数据都无法匹配上，让我如何运营？其实，这就是有趣的地方。第一，每个 analysts 的算法不一样。第二，每个 analysts 的对象不一样。所以，会出现不准确的情况，尤其是在 client side 的数据。&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;未完待续~&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><category term="dev" /><summary type="html">前段时间，公司的运营反应说数据准确性不可靠，无法制定详细的运营战略，老板故安排我调研数据的可靠性，本以为调研类的工作不好进展，但是一段时间查下来，结果虽然不是很明显，但是答案还是有的。</summary></entry><entry><title type="html">Greatest Couple</title><link href="http://localhost:3000/greatest-couple/" rel="alternate" type="text/html" title="Greatest Couple" /><published>2018-11-22T00:00:00+08:00</published><updated>2018-11-22T00:00:00+08:00</updated><id>http://localhost:3000/greatest-couple</id><content type="html" xml:base="http://localhost:3000/greatest-couple/">&lt;div class=&quot;wrapper-hero&quot;&gt;
-  &lt;img src=&quot;http://localhost:3000/assets/images/follow-heart.gif&quot; /&gt;
-  &lt;a class=&quot;link-to-author&quot; href=&quot;https://dribbble.com/UIcousin&quot;&gt;Illustration by Qinjian on Dribbble&lt;/a&gt;
+&lt;p&gt;&lt;em&gt;未完待续~&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><category term="dev" /><summary type="html">前段时间，公司的运营反应说数据准确性不可靠，无法制定详细的运营战略，老板故安排我调研数据的可靠性，本以为调研类的工作不好进展，但是一段时间查下来，结果虽然不是很明显，但是答案还是有的。</summary></entry><entry><title type="html">Google’s Inbox is Going Away</title><link href="http://localhost:3000/googles-inbox-going-away/" rel="alternate" type="text/html" title="Google's Inbox is Going Away" /><published>2018-11-15T00:00:00+08:00</published><updated>2018-11-15T00:00:00+08:00</updated><id>http://localhost:3000/googles-inbox-going-away</id><content type="html" xml:base="http://localhost:3000/googles-inbox-going-away/">&lt;style&gt;
+ul li {line-height: unset;}
+
+.wrapper-hero {
+  width: 112%;
+  margin-left: -6%;
+}
+
+&lt;/style&gt;
+
+&lt;div class=&quot;wrapper-hero&quot;&gt;
+
+&lt;img src=&quot;http://localhost:3000/assets/images/googles-inbox.jpg&quot; /&gt;
+
+&lt;a class=&quot;link-to-author&quot; style=&quot;
+          font-style: italic;
+          text-decoration: none;
+          color: lightgray;
+          font-size: 13px;
+          display: block;
+          margin-top: 10px;
+         &quot; href=&quot;https://images.google.com&quot;&gt;Image by Google Image&lt;/a&gt;
 &lt;/div&gt;
 
-&lt;audio style=&quot;display: block; margin: 30px auto; width: 90%;&quot; src=&quot;http://localhost:3000/assets/audio/follow-heart.mp3&quot; controls=&quot;controls&quot;&gt;&lt;/audio&gt;
+&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;S&lt;/span&gt; o Google’s Inbox is going away. As usual, I went to Inbox to browse my emails this morning, shockingly saw a popup saying that Google will no longer support Inbox by the end of March 2019, and they encourage Inbox users to use Gmail instead. Although Google claims Gmail already has most Inbox features implemented and people adopted them very well, I still think Inbox is way more personal than Gmail when using on a daily basis.&lt;/p&gt;
 
-&lt;p&gt;&lt;span class=&quot;fl&quot;&gt;在&lt;/span&gt;美国生活的时候，喜欢看「老友记」，经典的桥段，诙谐的对话，鲜明的性格，温馨的情感。欣赏剧中每个人的乐观精神，羡慕他们对生活的态度，嫉妒他们每次争执过后友谊的升华，最最喜欢 Monica 和 Chandler 这对 Couple，小吵小闹， 欢喜冤家，希望自己也能早日找到 「Moncia」，知心朋友，亲密爱人，当一回 Greatest Couple。&lt;/p&gt;
+&lt;p&gt;Almost exactly four years ago, Google launched Inbox, a new way of emailing. Inbox was made by Gmail Team, from what I could tell, Inbox is more on a casual side and relatively Gmail is more business-ish. The goal of Inbox is offering a clean UI and a fresh UX that allows users to get rid of cluttered emails and keep inbox empty. Along with that, Google also introduced Bundle to the Inbox, which bundles user’s emails into different categories such as Updates, Purchases, Promos, and Trips. These brand new features were unfamiliar to users at first, so they took a hit. Some people stuck with Gmail, and others, who didn’t fear about the learning curve, enhanced their emailing experience, apparently, I was one of them.
+I liked Inbox right after it got launched. I liked the simplified design and vivid color scheme. I loved to see  “a sun floating in the middle of my screen”, on a concept level, to-dos completed.&lt;/p&gt;
 
-&lt;p&gt;美国是个无聊的地方，如果说上学的时候还有学校这个社交圈的话，那么毕业工作后，上班党的社交圈就小得可怜了。似乎生活，除了公司就是家，因为无事可做，不得不去健身房撸铁，撸多伤身，哥们看不下去了，把自己老婆的闺蜜牵线给我，陌生的人，熟悉的心，爱情的种子不但发芽，并且蹭蹭蹭。我们都长期在国外生活，三观相符，兴趣相投，很快便成为知心朋友，亲密爱人。对于异国问题，一贯现实的自己，不知哪里来的勇气，果断决定，为了爱情，放弃美国的一切。&lt;/p&gt;
+&lt;p&gt;So what happened? Why is Google taking away the Inbox? Well, that I don’t know, but subtle clues, along the way, hinted the decision today. First of all, Google never updated UI of Inbox since it was launched. Secondly, it took up to a year to patch the design issue on Inbox’s iOS app. Last but not least, the search functionality can’t even compare to Google’s search, it was not smart enough to find emails I was looking for, I always ended up finding emails by navigating.&lt;/p&gt;
 
-&lt;p&gt;回国后，女友和我依然面对异地的挑战，还好相比于异国的 15 个小时，现在的 1.5 个小时已经令我们很知足。我们约好，我飞台北一次，她来上海一趟，不想飞的时候，就约定在另一个城市见面，顺便旅游。也不知道上辈子拯救了哪个村儿，和女友这样的旅游大咖出行，一个字，爽。住什么样的饭店，吃什么样的食物，赏什么样的风光都会被她打理得井井有条，而我只需要悉心陪伴，尽情享受。平时，我们每天视频，一起 Netflix，无所不聊，又或许我拯救的是整个世界，换来个女友陪我打游戏，一个可爱的小辅助，加攻加防，做视野，美滋滋。&lt;/p&gt;
+&lt;p&gt;Realistically, a product itself doesn’t represent a value, people who use it does.  In other words, if the cost of maintaining a product is too high, and the value is too low, then the product shouldn’t be maintained.&lt;/p&gt;
 
-&lt;p&gt;没回国之前，女友担心我不适应国内的生活，经受不住诱惑，会变坏，现在看来，她的担心是多余的，因为除了体重，其他还是原来的样子。Greatest Couple 一定会互相进步，带给彼此更好的自己。女友和我也不例外，从小家里做生意的她，人脉多，资源广，她不仅介绍机会给我，还会买书给我，鼓励我进步并支持我做自己。而我，乐观的性格带给她开心之余，监督她健康饮食，积极健身。&lt;/p&gt;
+&lt;p&gt;I shrugged my shoulder, thinking ‘maybe it was not as good as I thought it would be’. I then moved my mouse cursor to the Applications Folder, dragged an icon, that was strange yet familiar, to the Dock.&lt;/p&gt;
 
-&lt;p&gt;通常的的异地恋，在环境的左右下，很容易说散就散，讲好听点是成长，难听却是无责，疲惫的身心经不起距离给爱情拷上的枷锁，余温过后剩下的无奈在两地之间，略显苍白，却又无可奈何。异地，始于对单纯的渴望，伴随着对目标的想往，以及对结果的期待，过程易被忽略，却尤为珍贵，往往纯真的东西唯有在时间的印证下，方能见其真谛。也许，碍于现实，我们不得不妥协生活的初衷。那么面对爱情，勇往直前，不计结果，才能还原她的本质。&lt;/p&gt;
-
-&lt;p&gt;我不缺勇气，我感激给我勇气的那个人。&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;BGM: Your First Light My Eventide by The Echelon Effect&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><category term="story" /><summary type="html">Illustration by Qinjian on Dribbble</summary></entry></feed>
+&lt;p&gt;It was Mail.&lt;/p&gt;</content><author><name></name></author><category term="dev" /><summary type="html"></summary></entry></feed>
