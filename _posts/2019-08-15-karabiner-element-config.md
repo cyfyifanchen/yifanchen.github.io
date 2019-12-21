@@ -157,7 +157,7 @@ Karabiner Element 有个 GUI 界面(如下图)，在 Complex Modifications 里�
 ```
 
 上面的 Cope Snippet 理论上应工作， 然而， 不工作。:sweat:，好吧，大概是 `syntax` 的问题，得重新去翻翻看 [ doc ](https://pqrs.org/osx/karabiner/document.html#configuration-complex-modifications). Regarding the doc，A2 里面在左右两边都需要 Modifier Flags 的情况并没有被列出来，难道不兼容吗？ :thinking: 这就尴尬了，
-我果断决定换下思维模式，先去 Youtube 刷几个韩国女团看看。
+我果断决定换下思维模式。
 
 我感觉两边都需要 Modifiers Flags 的需求不应该小众到没有，所以，再去看看别人的配置吧，果然有所发现：
 
