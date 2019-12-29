@@ -41,6 +41,7 @@ const john = {
 }
 
 console.log(john.deduct(200))
+// undefined has a balance of NaN
 ```
 
 Now, if we run the code, what we got, assuming without any linters, from the console would be `undefined has a balance of NaN`. Note we changed the `function` keyword to `=>` syntax on line 4(I wish Markdown has line number feature :cry:), and it's not working as expected. What caused this? :thinking: Becuase when using `=>` function, it created a lexcial scope, thus, keyword `this` is only referring to the inner scope, and the values, which we needed, were only avilable in the outer scope.
@@ -63,6 +64,7 @@ const john = {
 }
 
 console.log(john.deduct(200))
+// John Doe has a balance of 1300
 ```
 
 Question 1 solved. Let's look at the second question.
@@ -96,11 +98,12 @@ const john = {
     setTimeout(() => {
       this.balance = this.balance - amount
       return `${this.name} has a balance of ${this.balance}`
-    })
+    }, 2000)
   }
 }
 
 console.log(john.deduct(200))
+// undefined
 ```
 
 Now, the console says `undefined`. I am now pretty sure this is what the interviewer wants to see. Why it's showing `undefined` then? :thinking: Becuase the `return` statement on line 7 is returning the value of the `setTimeout` function not the `deduct` function. By understanding this, we shall move the `return` statement outside of the `setTimeout` function.
@@ -121,7 +124,7 @@ const john = {
       setTimeout(() => {
         this.balance = this.balance - amount
         res(`${this.name} has a balance of ${this.balance}`)
-      })
+      }, 2000)
     })
   }
 }
@@ -129,7 +132,9 @@ const john = {
 john.deduct(200).then(message => console.log(message))
 ```
 
-Let's push the code a bit further, regardless the `sleep` function, the `john{}` itself is a lot more readable comparing the code above. And the `sleep` function just takes a `time` as an argument, and return a `Promise` which resloves on `setTimeout`. Addtionally, sleep function can be a misc function that seperated out from this file, that makes this code file even cleaner.
+Let's push the code a bit further, regardless of the `sleep` function, the `john{}` itself is a lot more readable comparing the code above. And the `sleep` function just takes a `time` as an argument, and return a `Promise` which resloves on `setTimeout`. Addtionally, sleep function can be a misc function that seperated out from this file, that makes this code file even cleaner.
+
+Most other programming languages have built-in `sleep` functions, JavaScript doesn't come with one, but we can make one can make one with `Promise`.
 
 ```javascript
 const sleep = time => new Promise(res => setTimeout(res, time))
@@ -145,6 +150,7 @@ const john = {
 }
 
 john.deduct(200).then(console.log)
+// John Doe has a balance of 1300
 ```
 
 ### Conclusion
