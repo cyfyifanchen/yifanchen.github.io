@@ -24,7 +24,9 @@ It is because some of the applications you are running depend on some denpendenc
   <p class="caption">On Catalina, you can't simple install the older version of Java</p>
 </div>
 
-I tried to follow [this link](https://www.harrisgeospatial.com/Support/Self-Help-Tools/Help-Articles/Help-Articles-Detail/ArtMID/10220/ArticleID/23780/Mac-OS-Catalina-1015-ENVIIDL-and-Legacy-Java-6-Dependencies) remove all the newer Java on my machine, so I could install the compatible one first, then come back to install the newer one, well didn't work as expected.
+I tried to follow [this link](https://www.harrisgeospatial.com/Support/Self-Help-Tools/Help-Articles/Help-Articles-Detail/ArtMID/10220/ArticleID/23780/Mac-OS-Catalina-1015-ENVIIDL-and-Legacy-Java-6-Dependencies) remove all the newer Java on my machine, so I could install the compatible one first, then come back to install the newer one, well it didn't work as expected, it still said the same thing.
+
+Then I saw [ this ](https://www.harrisgeospatial.com/Support/Self-Help-Tools/Help-Articles/Help-Articles-Detail/ArtMID/10220/ArticleID/23780/Mac-OS-Catalina-1015-ENVIIDL-and-Legacy-Java-6-Dependencies), followed the guide to add scripts into the script editor, after compiled it, then executed it. But for some reason, it didn't work either, the script didn't work.
 
 I finally found a working solution [here](https://discussions.apple.com/thread/250853223), follow the guide, you should be able to go.
 
